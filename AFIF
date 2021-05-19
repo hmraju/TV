@@ -5,6 +5,8 @@ ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="AKASH AATH" tvg-name="AKASH AATH" tvg-logo="http://icc.roarzone.info/files/akashaath.png" ,AKASH AATH
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="INDIAN BANGLA", Aamar Cinema
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194847
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Alpona TV" tvg-name="Alpona TV" ,,Alpona TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ANANDA TV HD" tvg-name="ANANDA TV HD" ,,ANANDA TV HD
