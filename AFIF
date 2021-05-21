@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
-ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
+https://github.com/hmraju/TV/blob/main/Afif%20IPTV.mp4
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="71 Bangla TV" tvg-name="71 Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfgHlTm1wM4-9Uq48zONw8OEo7Vt75dIxnNDk5Ra8a74FwpGLpLTUpTVCg3n9QN4NbAs&usqp=CAU" ,,71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Aamar Cinema" tvg-name="Aamar Cinema" tvg-logo="https://www.aamarcinema.com/wp-content/themes/aamar-cinema/assets/img/logo-lg.png" ,Aamar Cinema
@@ -997,3 +997,25 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="VIVO CLARO SPORTS" tvg-name="VIVO CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" ,VIVO CLARO SPORTS
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1q5LCsJ.png" group-title="Bangladeshi", Orange TV
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194845
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Indian", Star Plus SD
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194850
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Indian", Star Plus SD
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194850
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="Indian", SONY SAB HD
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194852
+#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Indian", SONY MAX HD
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194856
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IKBcCsC.png" group-title="Indian", B4U Movies
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194859
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="Movies", HBO
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194863
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="Kids", Nick HD
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194870
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yovC4Uv.jpg" group-title="Music", Dhoom Music
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194879
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c0n4Gz5.png" group-title="Music", B4U Music
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194880
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3tPwWsL.jpg" group-title="Bangladeshi", Zee Bangla
+https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194843
