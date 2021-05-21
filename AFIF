@@ -1019,3 +1019,17 @@ https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194879
 https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194880
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3tPwWsL.jpg" group-title="Bangladeshi", Zee Bangla
 https://m3u-editor.com/serve/07b91750-b826-11eb-b252-27b4fc760c51/297194843
+#EXTINF:0 group-title="Indian" tvg-id="Zee World" tvg-name="Zee World" ,Zee World
+https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="AXN" tvg-name="AXN" ,AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="Fox Action HD" tvg-name="Fox Action HD" ,Fox Action HD
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" ,Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="HBO" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="Jaya movies" ,Jaya movies
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="Colours tamil uk" ,Colours tamil uk
+http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
