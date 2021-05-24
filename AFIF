@@ -15,10 +15,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://103.56.7.130:1935/live/onuvhutitv/chunklist_w1322392243.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="ASIAN TV" tvg-name="ASIAN TV" tvg-logo="http://icc.roarzone.info/files/asiantv.png" ,ASIAN TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="ASIAN TV" tvg-name="ASIAN TV" tvg-logo="http://icc.roarzone.info/files/asiantv.png" ,ASIAN TV
+http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN Bangla" tvg-name="ATN Bangla" ,,ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN BANGLA UK" tvg-name="ATN BANGLA UK" ,,ATN BANGLA UK
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+https://www.webtvbd.com/download/bdix/atn_bangla_uk.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN BANGLA UK" tvg-name="ATN BANGLA UK" ,,ATN BANGLA UK
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8?
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN Islamic" tvg-name="ATN Islamic" ,,ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN Music" tvg-name="ATN Music" ,,ATN Music
@@ -44,7 +48,7 @@ https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BOISHAKHI TV PLUS" tvg-name="BOISHAKHI TV PLUS" ,BOISHAKHI TV PLUS
 https://tempcityon.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV" tvg-name="BTV" ,,BTV
-http://rv.imax.re:80/8VC24HrtPd/g2OBC7nzYW/83835
+http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV CTG" tvg-name="BTV CTG" ,,BTV CTG
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV World" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" ,,BTV World
@@ -109,12 +113,12 @@ http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="EKUSHEY TV HD" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" ,,EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Enter 10 Bangla HD" tvg-name="Enter 10 Bangla HD" ,Enter 10 Bangla HD
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902449
-#EXTINF:0 group-title="Bangladeshi" tvg-id="FALGUNI TV" tvg-name="FALGUNI TV" ,FALGUNI TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/live-orgin/falgunitv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangladeshi" tvg-id="FRIENDS TV" tvg-name="FRIENDS TV" ,FRIENDS TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/friendstv.stream/live-orgin/friendstv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="ZEE BANGLA" tvg-name="ZEE BANGLA" tvg-logo=https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bangla.jpg" ,ZEE BANGLA
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="T-SPORTS HD" tvg-name="T-SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T-SPORTS HD
+http://103.205.133.19/hls/tsports.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="EURO BANGLA" tvg-name="EURO BANGLA" ,EURO BANGLA
+https://enterasiaglobal-hls.telelivebd.com/enterasiaglobal/enterasiaglobal.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="FUN FEST" tvg-name="FUN FEST" tvg-logo="https://pcdn.jagobd.com/images/s-l78tmn1591514936798.jpg" ,FUN FEST
 https://tempcityon.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="G Bangla" tvg-name="G Bangla" tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" ,G Bangla
@@ -129,8 +133,8 @@ https://htv-hls.telelivebd.com/htv/htv.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" ,,Independent TV
 https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="JALSHA MOVIES HD" tvg-name="JALSHA MOVIES HD" ,JALSHA MOVIES HD
-https://m3u-editor.com/serve/6dbde6b0-a8ea-11eb-afbd-376f5d4a7244/282364605
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="JARA TV" tvg-name="JARA TV" tvg-logo="https://play-lh.googleusercontent.com/ANTVVKM_EAONdktsYDYx7QrZ1fxm8rtL9kaC4Lnx7q2HU-SXMBVt-Smx4Gt61zS0yfU",JARA TV
+https://jaratvbd-hls.telelivebd.com/jaratvbd/jaratvbd.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Jamuna TV" tvg-name="Jamuna TV" ,,Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="JAMUNA TV" tvg-name="JAMUNA TV" ,,JAMUNA TV
@@ -193,12 +197,14 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="Bangladeshi" tvg-id="Probashi Bangla" tvg-name="Probashi Bangla" ,Probashi Bangla
 https://probashi-hls.telelivebd.com/probashi/probashi.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="Progoti" tvg-name="Progoti" ,Progoti
+https://bdlivetv.xyz:2096/live/progoti/chunks.m3u8?nimblesessionid=74515
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="R TV" tvg-name="R TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" ,,R TV
 http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="R TV Music" tvg-name="R TV Music" tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" ,R TV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="RANG" tvg-name="RANG" ,,RANG
-https://tempcityon.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="Interasia" tvg-name="Interasia" ,,Interasia
+https://interasia-hls.telelivebd.com/interasia/interasia.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Roal TV" tvg-name="Roal TV" ,,Roal TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="RTV MUSIC" tvg-name="RTV MUSIC" tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" ,R TV MUSIC
@@ -725,8 +731,8 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" ,,Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="V2BEAT TV" tvg-name="V2BEAT TV" tvg-logo="https://pcdn.jagobd.com/images/s-38c8m1592812294946.jpg" ,V2BEAT TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/v2beattv.stream/live-orgin/v2beattv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="COLOSAL" tvg-name="COLOSAL" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" ,COLOSAL
+https://www.webtvbd.com/download/bdix/colosal_tv.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="VEVO 2k" tvg-name="VEVO 2k" tvg-logo="https://theme.zdassets.com/theme_assets/1422698/48bd6c71f6b8c2b6a29fe0f10a00ec4a789c1767.jpg" ,,VEVO 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Music" tvg-id="VEVO Country" tvg-name="VEVO Country" tvg-logo="https://theme.zdassets.com/theme_assets/1422698/48bd6c71f6b8c2b6a29fe0f10a00ec4a789c1767.jpg" ,,VEVO Country
