@@ -433,14 +433,10 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Sony Intertenment" tvg-name="Sony Intertenment" ,,Sony Intertenment
 http://103.205.133.21/hls/chs.m3u8?Live-TV™
-#EXTINF:-1 group-title="Indian" tvg-id="SONY PAL" tvg-name="SONY PAL" ,SONY PAL
-http://rv.imax.re:80/8VC24HrtPd/g2OBC7nzYW/83700
 #EXTINF:0 group-title="Indian" tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" ,SONY WAH
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:0 group-title="Indian" tvg-id="STAR PLUS" tvg-name="STAR PLUS" ,STAR PLUS
-http://103.205.133.20/hls/chsp.m3u8
-#EXTINF:-1 group-title="Indian" tvg-id="UTSAV GOLD" tvg-name="UTSAV GOLD" ,UTSAV GOLD
-http://securepoint.io:83/live/promo/promo/374128.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Indian" tvg-id="UTSAV Plus HD" tvg-name="UTSAV Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg",UTSAV Plus HD
+https://iptvcat.com/my_list/s/6651837c411a60ae35c483558f31274e.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="UTV ACTION" tvg-name="UTV ACTION" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg" ,UTV ACTION
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="WoW CINEMA" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" ,,WoW CINEMA
@@ -1021,4 +1017,11 @@ https://iol.short.gy/Sony_Sab_HD.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SUN Music" tvg-name="SUN Music" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_978/SunMusic-Small-card-864X640.jpg" ,SUN Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-
+#EXTINF:0 group-title="Others" tvg-id="ZEE TV Belize" tvg-name="ZEE TV Belize" tvg-logo="https://tvtvtv.ru/icons/zee_tv_russia.png" ,ZEE TV Belize
+https://iptvcat.com/my_list/s/19de72c51bf9243c17846361aeaa6ec6.m3u8
+#EXTINF:0 group-title="Others" tvg-id="STAR GOLD" tvg-name="STAR GOLD" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY_400x400.jpg" ,STAR GOLD
+https://iptvcat.com/my_list/s/ff51007169fe5d346b7cb0b51a0dc1e9.m3u8
+#EXTINF:0 group-title="Others" tvg-id="STAR GOLD" tvg-name="STAR GOLD" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY_400x400.jpg" ,STAR GOLD
+https://iptvcat.com/my_list/s/487123425030402ebc95eb78a1df9c31.m3u8
+#EXTINF:0 group-title="Others" tvg-id="Star_Bharat" tvg-name="Star_Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" ,Star_Bharat
+https://iptvcat.com/my_list/s/b6afa12e939981f82f55f1698d61ca7d.m3u8
