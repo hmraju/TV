@@ -1015,10 +1015,10 @@ https://iptvcat.com/my_list/s/b166966891277521f2420613feabaf57.m3u8
 http://87.117.234.107:1935/live/SonySab/playlist.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY SUB HD" tvg-name="SONY SUB HD" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002091s.jpeg" ,SONY SUB HD
 https://iol.short.gy/Sony_Sab_HD.m3u8
-
-
-
-
-
-
+#EXTINF:0 group-title="Indian" tvg-id="Zee TALKIES" tvg-name="Zee TALKIES" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png?o=production" ,Zee TALKIES
+ https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd//tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE Panjabi" tvg-name="ZEE Panjabi" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002091s.jpeg" ,ZEE Panjabi
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="SUN Music" tvg-name="SUN Music" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_978/SunMusic-Small-card-864X640.jpg" ,SUN Music
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
