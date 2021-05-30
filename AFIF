@@ -1017,3 +1017,7 @@ http://10.16.100.207:8082/sports/sportst.m3u8
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="US.FM - HALLMARK" tvg-name="US.FM - HALLMARK" tvg-logo="https://e7.pngegg.com/pngimages/571/1021/png-clipart-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-thumbnail.png" ,US.FM - HALLMARK
 https://iptvcat.com/my_list/s/bdafd5ea6c535ef6d1416589c0172ff1.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Hungama" tvg-name="Hungama" 
+http://103.153.39.34:8000/play/a04l/index.m3u8
+
+
