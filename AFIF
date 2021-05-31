@@ -1055,6 +1055,7 @@ http://103.223.12.154:8000/play/a004/index.m3u8
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="Romedy Now" tvg-name="Romedy Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,Romedy Now
 http://103.153.39.34:8000/play/a052/index.m3u8
-
+#EXTINF:0 group-title="Kids" tvg-id="HUNGAMA" tvg-name="HUNGAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" ,HUNGAMA
+http://103.153.39.34:8000/play/a04l/index.m3u8
 
 
