@@ -261,6 +261,8 @@ https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Documentary" tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" ,,ANIMAL PLANET HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Documentary" tvg-id="Animal Planned HD_IN" tvg-name="Animal Planned HD_IN" ,Animal Planned HD_IN
+http://115.42.65.142:4000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Asian Food Network" tvg-name="Asian Food Network" ,,Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentary" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" ,,BBC Earth
@@ -281,6 +283,12 @@ https://iptvcat.com/my_list/s/416917e25e82e9688a0124266a7e4563.m3u8
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10408
 #EXTINF:0 group-title="Documentary" tvg-id="Discovery Family" tvg-name="Discovery Family" ,Discovery Family
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10409
+#EXTINF:0 group-title="Documentary" tvg-id="Discovery HD Hindi" tvg-name="Discovery HD Hindi" ,Discovery HD Hindi
+http://115.42.65.142:4000/play/a04i/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-id="Discovery Science_IN" tvg-name="Discovery Science_IN" ,Discovery Science_IN
+http://115.42.65.142:4000/play/a06k/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" ,Discovery Turbo
+http://115.42.65.142:4000/play/a06l/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoverymax" tvg-name="Discoverymax" ,,Discoverymax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovry ASIA HD" tvg-name="Discovry ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" ,,Discovry ASIA HD
@@ -305,6 +313,8 @@ http://89.17.204.38/ch43/index.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="History Channel Poland English" tvg-name="History Channel Poland English" tvg-logo="https://cdn.worldvectorlogo.com/logos/history-logo.svg" ,History Channel Poland English
 http://89.17.204.38/ch42/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-id="History TV18_Hindi" tvg-name="History TV18_Hindi" ,History TV18_Hindi
+http://115.42.65.142:4000/play/a05k/index.m3u8
 #EXTINF:0 group-title="Documentary" tvg-id="HISTORY_SA" tvg-name="HISTORY_SA" ,HISTORY_SA
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10431
 #EXTINF:0 group-title="Documentary" tvg-id="IGNITION HD" tvg-name="IGNITION HD" ,IGNITION HD
@@ -323,6 +333,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
 #EXTINF:0 group-title="Documentary" tvg-id="Nat Geo Wild_SA" tvg-name="Nat Geo Wild_SA" ,Nat Geo Wild_SA
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10457
+#EXTINF:0 group-title="Documentary" tvg-id="National geographic" tvg-name="National geographic" ,National geographic
+http://115.42.65.142:4000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National Geographic Wild Asia" tvg-name="National Geographic Wild Asia" ,,National Geographic Wild Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 group-title="Documentary" tvg-id="National Geographic_SA" tvg-name="National Geographic_SA" ,National Geographic_SA
@@ -465,6 +477,10 @@ http://103.205.133.21/hls/chc.m3u8
 http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=rk
 #EXTINF:-1 group-title="Indian" tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="New Logo" ,,Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="COLORS HD" tvg-name="COLORS HD" ,COLORS HD
+http://115.42.65.142:4000/play/a056/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="Colors Infinity" tvg-name="Colors Infinity" ,Colors Infinity
+http://115.42.65.142:4000/play/a06g/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Colours tamil uk" ,Colours tamil uk
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Dabaang" tvg-name="Dabaang" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" ,,Dabaang
@@ -502,7 +518,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Pardesi TV" tvg-name="Pardesi TV" tvg-logo="http://cdn.teleon.tv/logo/pardesi-tv-in.png" ,,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Raj TV" tvg-name="Raj TV" ,,Raj TV
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+http://212.102.60.40:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" ,,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="SONY Entertainment TV" tvg-name="SONY Entertainment TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" ,SONY Entertainment TV
@@ -511,8 +527,12 @@ http://103.205.133.19/hls/chs.m3u8
 http://103.205.133.21/hls/chs.m3u8?Live-TV™
 #EXTINF:0 group-title="Indian" tvg-id="Sony max 2" tvg-name="Sony max 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png" ,Sony max 2
 http://212.102.60.40:2200/NL/sonymax2-in/index.m3u8?token=RK
+#EXTINF:0 group-title="Indian" tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" ,SONY MAX 2
+http://115.42.65.142:4000/play/a06r/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" ,SONY MAX HD
 http://212.224.98.209:2200/EX/sonymaxuk-in/index.m3u8?token=RK
+#EXTINF:0 group-title="Indian" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" ,SONY MAX HD
+http://115.42.65.142:4000/play/a046/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY SUB" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002091s.jpeg" ,SONY SUB
 http://87.117.234.107:1935/live/SonySab/playlist.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY SUB HD" tvg-name="SONY SUB HD" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002091s.jpeg" ,SONY SUB HD
@@ -521,6 +541,8 @@ http://87.117.234.107:1935/live/SonySab/playlist.m3u8
 https://iol.short.gy/Sony_Sab_HD.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY TV HD" tvg-name="SONY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" ,SONY TV HD
 http://103.223.12.154:8000/play/a006/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="SONY TV HD" tvg-name="SONY TV HD" ,SONY TV HD
+http://115.42.65.142:4000/play/a058/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" ,SONY WAH
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Star Bahart" tvg-name="Star Bahart" ,Star Bahart
@@ -544,7 +566,7 @@ http://212.224.98.212:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/index.m3u8?token=RK
 #EXTINF:0 group-title="Indian" tvg-id="Star plus hd" tvg-name="Star plus hd" ,Star plus hd
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 #EXTINF:0 group-title="Indian" tvg-id="Star Plus HD" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" ,Star Plus HD
-http://103.223.12.154:8000/play/a003/index.m3u8
+http://115.42.65.142:4000/play/a054/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Star sports 2" tvg-name="Star sports 2" ,Star sports 2
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1 group-title="Indian" tvg-id="Star Utsav" tvg-name="Star Utsav" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/10/star.jpg?itok=P8-H77a9" ,Star Utsav
@@ -559,6 +581,10 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=rk
 https://iptvcat.com/my_list/s/6651837c411a60ae35c483558f31274e.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="UTV ACTION" tvg-name="UTV ACTION" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg" ,UTV ACTION
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="UTV ACTION" tvg-name="UTV ACTION" ,UTV ACTION
+http://115.42.65.142:4000/play/a06o/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="UTV MOVIES" tvg-name="UTV MOVIES" ,UTV MOVIES
+http://115.42.65.142:4000/play/a06n/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="VIJAY SUPER TAMIL" tvg-name="VIJAY SUPER TAMIL" ,VIJAY SUPER TAMIL
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 #EXTINF:-1 group-title="Indian" tvg-id="WoW CINEMA" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" ,,WoW CINEMA
@@ -571,6 +597,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Zee Alwan" tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" ,Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE ANMOL" tvg-name="ZEE ANMOL" ,ZEE ANMOL
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Anmol Cinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2020/06/11/Zee.jpg?itok=8DHiHvmh" ,,Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Bioskop" tvg-name="Zee Bioskop" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" ,,Zee Bioskop
@@ -579,6 +607,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_566/PORTRAIT/gq8mpPvf.png" ,,Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE CIMEMALU SD" tvg-name="ZEE CIMEMALU SD" ,ZEE CIMEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" ,,ZEE CINEMA
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Cinema" tvg-name="Zee Cinema" ,,Zee Cinema
@@ -589,18 +619,30 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ZEE CINEMA USA" tvg-name="ZEE CINEMA USA" ,,ZEE CINEMA USA
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE KALAK" tvg-name="ZEE KALAK" ,ZEE KALAK
+http://cv.khushitv.xyz/channels.php?c=kalak&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Keralam HD" tvg-name="Zee Keralam HD" ,,Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v4a1/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE MAGIC" tvg-name="ZEE MAGIC" ,ZEE MAGIC
+http://cv.khushitv.xyz/channels.php?c=magic&e=.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE MP CG" tvg-name="ZEE MP CG" ,ZEE MP CG
+http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Zee Mundo" tvg-name="Zee Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" ,,Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="ZEE Panjabi" tvg-name="ZEE Panjabi" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002091s.jpeg" ,ZEE Panjabi
 https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE SMILE USA" tvg-name="ZEE SMILE USA" ,ZEE SMILE USA
+http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Zee TALKIES" tvg-name="Zee TALKIES" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png?o=production" ,Zee TALKIES
  https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd//tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Zee tamil" tvg-name="Zee tamil" ,Zee tamil
 http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
 #EXTINF:0 group-title="Indian" tvg-id="ZEE TELEGU" tvg-name="ZEE TELEGU" ,ZEE TELEGU
 http://212.224.98.196:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=rk
+#EXTINF:0 group-title="Indian" tvg-id="ZEE TV" tvg-name="ZEE TV" ,ZEE TV
+http://115.42.65.142:4000/play/a055/index.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE TV ASIA" tvg-name="ZEE TV ASIA" ,ZEE TV ASIA
+http://cv.khushitv.xyz/channels.php?c=apacsea&e=.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="ZEE TV HD" tvg-name="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" ,ZEE TV HD
 http://103.153.39.34:8000/play/a055/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Zee World" tvg-name="Zee World" ,Zee World
@@ -661,12 +703,18 @@ http://146.59.149.219:8081/south_africa/IfqArpalJo/10395
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="Discovery Kids" tvg-name="Discovery Kids" ,Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:0 group-title="Kids" tvg-id="Discovery kids" tvg-name="Discovery kids" ,Discovery kids
+http://115.42.65.142:4000/play/a04s/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="DISNEY" tvg-name="DISNEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTv47shgd-oKz97wwtOCbuWl9N_FEYnUZ8BQ&usqp=CAU" ,DISNEY
 http://103.153.39.34:8000/play/a04m/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="Disney Channel" tvg-name="Disney Channel" ,Disney Channel_SA
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10410
+#EXTINF:0 group-title="Kids" tvg-id="Disney channel_Hindi" tvg-name="Disney channel_Hindi" ,Disney channel_Hindi
+http://115.42.65.142:4000/play/a04m/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" ,DISNEY JR
 http://103.153.39.34:8000/play/a04o/index.m3u8
+#EXTINF:0 group-title="Kids" tvg-id="Disney Jr" tvg-name="Disney Jr" ,Disney Jr
+http://115.42.65.142:4000/play/a04o/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="Disney Junior_SA" tvg-name="Disney Junior_SA" ,Disney Junior_SA
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10411
 #EXTINF:-1 group-title="Kids" tvg-id="EBC Kids" tvg-name="EBC Kids" tvg-logo="https://i.imgur.com/MAuAuvB.png" ,,EBC Kids
@@ -696,15 +744,17 @@ http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Mondo Kids" tvg-name="Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" ,,Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="NICK" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" ,NICK
-http://103.153.39.34:8000/play/a068/index.m3u8
+http://115.42.65.142:4000/play/a068/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="NICK" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" ,NICK IN
 http://212.224.98.205:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RK
 #EXTINF:0 group-title="Kids" tvg-id="NICK HD+" tvg-name="NICK HD+" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif" ,NICK HD+
-http://103.153.39.34:8000/play/a06h/index.m3u8
+http://115.42.65.142:4000/play/a06h/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="NICK Jr" tvg-name="NICK Jr" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" ,,NICK Jr
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/6/6c/Nick_Jr._Channel.webp/revision/latest?cb=20210421194759" ,NICK JR
 http://103.153.39.34:8000/play/a04r/index.m3u8
+#EXTINF:0 group-title="Kids" tvg-id="Nick jr" tvg-name="Nick jr" ,Nick jr
+http://115.42.65.142:4000/play/a04r/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="Nick Jr_SA" tvg-name="Nick Jr_SA" ,Nick Jr_SA
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10462
 #EXTINF:0 group-title="Kids" tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" ,Nickelodeon HD
@@ -719,6 +769,8 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 http://103.153.39.34:8000/play/a04q/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="POGO" tvg-name="POGO" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" ,POGO
 http://212.224.98.211:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RK
+#EXTINF:0 group-title="Kids" tvg-id="POGO IN" tvg-name="POGO" ,POGO IN
+http://115.42.65.142:4000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Rongeen Bangla" tvg-name="Rongeen Bangla" ,Rongeen Bangla
 http://d2q5mdhp3fo8sk.cloudfront.net/RONGEEN_TV.m3u8?@asfaiptv
 #EXTINF:-1 group-title="Kids" tvg-id="Sony yay" tvg-name="Sony yay" ,Sony yay
@@ -851,10 +903,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 http://103.153.39.34:8000/play/a052/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" ,SONY PIX HD
 http://103.205.133.19/hls/sonypix.m3u8?@asfaiptv
+#EXTINF:0 group-title="Movies" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" ,SONY PIX HD
+http://115.42.65.142:4000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Spotlight Rakuten TV" tvg-name="Spotlight Rakuten TV" tvg-logo="https://prod3-kraken-cloudfront.rakuten.tv/images/social/logo.png" ,,Spotlight Rakuten TV
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" ,Star Movies Select HD
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RK
+#EXTINF:0 group-title="Movies" tvg-id="STAR MOVIES SELECT HD" tvg-name="STAR MOVIES SELECT HD" ,STAR MOVIES SELECT HD
+http://115.42.65.142:4000/play/a04g/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="Studio Universal" tvg-name="Studio Universal" ,Studio Universal
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10482
 #EXTINF:-1 group-title="Movies" tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" ,,Thrill
@@ -985,6 +1041,8 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?Live-TV�
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="WOW TV" tvg-name="WOW TV" ,,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 group-title="Music" tvg-id="ZOOM" tvg-name="ZOOM" ,ZOOM
+http://115.42.65.142:4000/play/a06c/index.m3u8
 #EXTINF:0 group-title="News" tvg-id="Aaj Tak" tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/AT-New-Logo-800x600.png" ,Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:0 group-title="News" tvg-id="ABP News" tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" ,ABP News
@@ -1065,6 +1123,8 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10513
 #EXTINF:-1 group-title="News" tvg-id="Voice of America" tvg-name="Voice of America" tvg-logo="https://i.imgur.com/53N0NTK.png" ,,Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?@amarnettv.live
+#EXTINF:0 group-title="News" tvg-id="WION" tvg-name="WION" ,WION
+http://cv.khushitv.xyz/channels.php?c=wion&e=.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Zee News" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_news.svg" ,,Zee News
 https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~exp=1607512766~acl=/*~hmac=b0891fd69bc6a0783203529934bc82a562c9b7a6d9215f3759bac7a30068e556
 #EXTINF:0 group-title="Others" tvg-id="1 Magic HD" tvg-name="1 Magic HD" ,1 Magic HD
@@ -1611,6 +1671,8 @@ http://146.59.149.219:8081/south_africa/IfqArpalJo/10420
 http://146.59.149.219:8081/south_africa/IfqArpalJo/10421
 #EXTINF:-1 group-title="Sports" tvg-id="espn.com" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" ,,ESPN
 https://gma2.blab.email/fs2.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="Eurosports india" tvg-name="Eurosports india" ,Eurosports india
+http://115.42.65.142:4000/play/a06f/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="FC Bayern TV" tvg-name="FC Bayern TV" tvg-logo="https://fcbayern.com/fcb/assets/favicon/mstile-310x310.png" ,FC Bayern TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:0 group-title="Sports" tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" ,Fight Sports
@@ -1632,19 +1694,19 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 group-title="Sports" tvg-id="SONY ESPN" tvg-name="SONY ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" ,,SONY ESPN
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SONY SIX" tvg-name="SONY SIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsD1Nyn0i31iV7o0gliAiiGubCoKCXwlBKw&usqp=CAU" ,SONY SIX
-http://103.205.133.19/hls/sonysix.m3u8?@asfaiptv
+http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" ,SONY SIX HD
 http://103.205.133.21/hls/sonysix.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 1" tvg-name="SONY TEN 1" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 1
-http://103.205.133.19/hls/ten1.m3u8?@asfaiptv
+#EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 1 HD
+http://212.224.98.211:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8?token=RED_LjR5mN_svMGdWL_4wfEOqQ%3D%3D%2C1622877877.9089346652
 #EXTINF:0 group-title="Sports" tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest?cb=20190322144000" ,SONY TEN 2 HD
-http://103.205.133.19/hls/ten2.m3u8?@asfaiptv
+http://212.224.98.211:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_LjR5mN_svMGdWL_4wfEOqQ%3D%3D%2C1622877877.9089346652
 #EXTINF:0 group-title="Sports" tvg-id="SONY TEN 3" tvg-name="SONY TEN 3" ,SONY TEN 3
 http://172.16.50.2:8081/live/ten3/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Sony TEN 3 HD" tvg-name="Sony TEN 3 HD" ,,Sony TEN 3 HD
 http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SONY TEN 3 HD" tvg-name="SONY TEN 3 HD" tvg-logo="https://www.likeetv.com/uploads/tv_image/sony-ten-3.jpg" ,SONY TEN 3 HD
-http://182.176.93.225:9000/play/a046/index.m3u8
+http://212.224.98.211:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=RED_LjR5mN_svMGdWL_4wfEOqQ%3D%3D%2C1622877877.9089346652
 #EXTINF:0 group-title="Sports" tvg-id="SPORT TV 1⚽️⚽️" tvg-name="SPORT TV 1⚽️⚽️" ,SPORT TV 1⚽️⚽️
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://2.bp.blogspot.com/-_4R7rbEapTQ/V-D7yzArCrI/AAAAAAAAB_c/WGRuf74zvjUyyA70BYMxe2KQgwb-oN_fwCLcB/s1600/sport.tv4.png" ,SPORT TV 2
