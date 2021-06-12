@@ -1694,7 +1694,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 group-title="Sports" tvg-id="SONY ESPN" tvg-name="SONY ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" ,,SONY ESPN
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SONY SIX" tvg-name="SONY SIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsD1Nyn0i31iV7o0gliAiiGubCoKCXwlBKw&usqp=CAU" ,SONY SIX
-http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" ,SONY SIX HD
 http://103.205.133.21/hls/sonysix.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 1 HD
@@ -1787,3 +1787,7 @@ http://212.224.98.208:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 1" tvg-name="SONY TEN 1" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 1
 http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 2" tvg-name="SONY TEN 2" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 2
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+
