@@ -888,7 +888,7 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 group-title="Movies" tvg-id="MBC MAX FHD" tvg-name="MBC MAX FHD" tvg-logo="https://i.imgur.com/smmZBzH.png" ,,MBC MAX FHD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:0 group-title="Movies" tvg-id="MOVIES NOW" tvg-name="MOVIES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" ,MOVIES NOW
-http://103.153.39.34:8000/play/a050/index.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="https://img.favpng.com/20/1/23/paramount-pictures-paramount-channel-television-channel-film-png-favpng-Hjd5DM0KhqzgueEZS1HTgAqDQ.jpg" ,,Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="RAKUTEN TV" tvg-name="RAKUTEN TV" tvg-logo="https://prod3-kraken-cloudfront.rakuten.tv/images/social/logo.png" ,,RAKUTEN TV
@@ -1789,5 +1789,47 @@ http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 2" tvg-name="SONY TEN 2" tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" ,SONY TEN 2
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Music" tvg-id="Zee Music Co" tvg-name="Zee Music Co" ,Zee Music Co
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
+#EXTINF:0 group-title="Music" tvg-id="Aysar M2" ,Aysar M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="PTV Sports" ,PTV Sports
+http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_AdPaA5Yke1Yd6bCs05sKDg%3D%3D%2C1623271424.5006600227
+#EXTINF:0 group-title="Sports" tvg-id="GEO SUPER 🏏🏏🏏" ,GEO SUPER 🏏🏏🏏
+http://212.224.98.208:2200/EX/geosuper-pa/tracks-v1a1/mono.m3u8?token=RED_AdPaA5Yke1Yd6bCs05sKDg%3D%3D%2C1623271424.5006600227
+#EXTINF:0 group-title="Sports" tvg-id="SKY SPORTS CRICKET🏏🏏" ,SKY SPORTS CRICKET🏏🏏
+http://185.180.15.17:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:0 group-title="Sports" tvg-id="SUPER SPORTS CRICKET🏏🏏" ,SUPER SPORTS CRICKET🏏🏏
+http://5.255.94.248:8080/Khuram-SUPERSPORT04/tracks-v1a1/mono.m3u8?token=lEJ_3KKZf2
+#EXTINF:0 group-title="Indian" tvg-id="Ramdhenu" ,Ramdhenu
+https://cutt.ly/tnOszXj
+#EXTINF:0 group-title="Indian" tvg-id="Rengoni" ,Rengoni
+https://cutt.ly/NnOsavC
+#EXTINF:0 group-title="Music" tvg-id="Bindas" ,Bindas
+https://cutt.ly/SnOaXAh
+#EXTINF:0 group-title="Kids" tvg-id="Cartoon network HD+ (Indian)" ,Cartoon network HD+ (Indian)
+https://cutt.ly/onOaG81
+#EXTINF:0 group-title="Indian" tvg-id="Evergreen classic active" ,Evergreen classic active
+https://cutt.ly/LnOaYdt
+#EXTINF:0 group-title="Indian" tvg-id="Cine active" ,Cine active
+https://cutt.ly/GnOaQEy
+#EXTINF:0 group-title="Indian" tvg-id="Movie Plus" ,Movie Plus
+https://cutt.ly/SnOaxBL
+#EXTINF:0 group-title="Indian" tvg-id="Cinema TV" tvg-name="Cinema TV" ,Cinema TV
+https://cutt.ly/2nOauMt
+#EXTINF:0 group-title="Kids" tvg-id="POGO (Indian)" ,POGO (Indian)
+https://cutt.ly/onOp4rJ
+#EXTINF:0 group-title="Indian" tvg-id="ETV HD" ,ETV HD
+https://cutt.ly/bnAB1XI
+#EXTINF:0 group-title="Indian" tvg-id="Gemini life" ,Gemini life
+https://cutt.ly/KnANaDC
+#EXTINF:0 group-title="Indian" tvg-id="ETV PLUS" ,ETV PLUS
+https://cutt.ly/fnANgfe
+#EXTINF:0 group-title="English" tvg-id="STAR WORLD HD" ,STAR WORLD HD
+https://cutt.ly/SnSkzIl
+#EXTINF:0 group-title="Movies" tvg-id="STAR MOVIES HD" ,STAR MOVIES HD
+https://cutt.ly/LnSkUBN
+#EXTINF:0 group-title="Movies" tvg-id="MN+HD" ,MN+HD
+http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 
 
