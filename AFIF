@@ -50,7 +50,7 @@ https://tempcityon.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoae
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV" tvg-name="BTV" ,,BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV CTG" tvg-name="BTV CTG" ,,BTV CTG
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?Live-TV™
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="BTV World" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" ,,BTV World
 http://cdn.ihub.live:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Calcutta News" tvg-name="Calcutta News" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" ,,Calcutta News
@@ -123,6 +123,8 @@ https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="GAZI TV" tvg-name="GAZI TV" ,GAZI TV
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="GAZI TV" tvg-name="GAZI TV" ,GAZI TV
+https://tv.telelivebd.com/globalbanglatv/gazitv/chunks.m3u8?nimblesessionid=8946
 #EXTINF:0 group-title="Bangladeshi" tvg-id="happiness tv" ,happiness tv
 https://htv-hls.telelivebd.com/htv/htv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="i TV" tvg-name="i TV" ,,i TV
