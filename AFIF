@@ -220,7 +220,7 @@ https://iptv6.raytahost.com/live/songbad/index.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="SONY AATH" tvg-name="SONY AATH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,SONY AATH
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="SRISTY TV" tvg-name="SRISTY TV" ,SRISTY TV
-https://tempcityon.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+https://srestytv.telelivebd.com/srestytv/srestytv.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="STAR JALSHA" tvg-name="STAR JALSHA" ,STAR JALSHA
 http://103.205.133.20/hls/chsj.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="SUN BANGLA" tvg-name="SUN BANGLA" ,SUN BANGLA
@@ -1749,3 +1749,7 @@ http://10.16.100.207:8082/sports/sportst.m3u8
 http://212.224.98.208:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="Ruposhi Bangla TV" tvg-name="Ruposhi Bangla TV" ,Ruposhi Bangla TV
+https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w322146066.mpd
+
+
