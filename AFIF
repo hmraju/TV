@@ -552,7 +552,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 #EXTINF:0 group-title="Indian" tvg-id="SURYA MOVIES" tvg-name="SURYA MOVIES" ,SURYA MOVIES
 http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=rk
 #EXTINF:-1 group-title="Indian" tvg-id="UTSAV Plus HD" tvg-name="UTSAV Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg" ,UTSAV Plus HD
-https://iptvcat.com/my_list/s/6651837c411a60ae35c483558f31274e.m3u8
+http://20.199.111.16:55111/live/lava123/lava123/48246
 #EXTINF:0 group-title="Indian" tvg-id="UTV ACTION" tvg-name="UTV ACTION" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg" ,UTV ACTION
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="UTV ACTION" tvg-name="UTV ACTION" ,UTV ACTION
