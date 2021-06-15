@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
-ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
+https://www.youtube.com/watch?v=F-HAr5MP-jY
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="71 Bangla TV" tvg-name="71 Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfgHlTm1wM4-9Uq48zONw8OEo7Vt75dIxnNDk5Ra8a74FwpGLpLTUpTVCg3n9QN4NbAs&usqp=CAU" ,,71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="Bangladeshi" tvg-id="AKASH AATH" tvg-name="AKASH AATH" tvg-logo="http://icc.roarzone.info/files/akashaath.png" ,AKASH AATH
