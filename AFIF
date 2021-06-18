@@ -33,6 +33,8 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel 24" tvg-name="Channel 24" ,,Channel 24
 http://103.205.133.21/hls/channel24.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel 24" tvg-name="Channel 24" ,,Channel 24
+http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel H IPTV [BD]" tvg-name="Channel H IPTV [BD]" tvg-logo="https://dl.dropbox.com/s/6lrf7qk61nl98zw/Channel-H.jpg" ,,Channel H IPTV [BD]
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/live-orgin/channelhtv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel I" tvg-name="Channel I" ,,Channel I
@@ -1597,4 +1599,24 @@ http://103.81.104.118/hls/stream16.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,SONY PIX (HINDI)" ,SONY PIX (HINDI)
+http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="STAR MOVIES" ,STAR MOVIES
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="9XM.in" tvg-name="9XM" ,,9XM
+http://103.81.104.118/hls/stream4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="STAR SPORTS SELECT 1 HD" tvg-name="STAR SPORTS SELECT 1 HD" ,,STAR SPORTS SELECT 1 HD
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" ,,STAR SPORTS 1 HD
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" ,,STAR SPORTS 2 HD
+http://103.81.104.118/hls/stream16.m3u8
+
+
+
+
+
+
+
+
 
