@@ -1263,8 +1263,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" ,,Sky 2 HD
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="SONY ESPN" tvg-name="SONY ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" ,,SONY ESPN
-https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SONY TEN 2 HD BANGLA" tvg-name="SONY TEN 2 HD BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" ,,SONY TEN 2 HD BANGLA
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Stadium Sports tv" tvg-name="Stadium Sports tv" ,,Stadium Sports tv
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="StarSports1.in" tvg-name="Star Sports 1" ,,Star Sports 1
