@@ -1433,3 +1433,393 @@ http://175.41.46.16:8081/hls/4.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="BBO" ,BBO
+http://ztvuk.com:8080/harris/harris123/12269
+#EXTINF:0 group-title="Indian" tvg-id="B4U Movies" ,B4U Movies
+http://ztvuk.com:8080/harris/harris123/12217
+#EXTINF:0 group-title="Indian" tvg-id="B4U Movies UK" ,B4U Movies UK
+http://ztvuk.com:8080/harris/harris123/12219
+#EXTINF:0 group-title="Indian" tvg-id="SONY MAX HD" ,SONY MAX HD
+http://ztvuk.com:8080/harris/harris123/94443
+#EXTINF:0 group-title="Music" tvg-id="B4U Music" ,B4U Music
+http://ztvuk.com:8080/harris/harris123/89349
+#EXTINF:0 group-title="Indian" tvg-id="Now Premier Cinema ᴴᴰ⁺" ,Now Premier Cinema ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13112
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Now Premier Cinema ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13112
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Now Cinema ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13111
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ And TV ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2110
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Willow Cricket ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/621
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sony TV ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/638
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Big Magic
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5538
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Dabangg Tv
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/707
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ DD India
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4336
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ DD National
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/746
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Dillagi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/708
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ LifeOK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/642
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Manoranjan TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/737
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Rishtey
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/741
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sanskar TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1769
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Plus
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/635
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV ᴴᴰ⁺ US
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/636
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ STAR UTSUV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2762
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Anmol
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/672
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Salaam
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/739
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Talkies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/699
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/748
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV APAC
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2801
+#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ & Flix
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/742
+#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ & Flix ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4582
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ ABZY Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6451
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Bflix Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5550
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Cinema TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5544
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema ME
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3879
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Enter10
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/701
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Firangi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4539
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Maha Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5545
+#EXTINF:-1 group-title="Indian" ,Punjabi*╰☆╮911™ Manoranjan Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/738
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Movie House
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5551
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Cineplex SD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/745
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sahara Filmi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4540
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sahara One
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4541
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ SetMax
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/673
+#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ Sony Pix ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/669
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Gold
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/658
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4584
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Utsav Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5547
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ UTV Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/650
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ WOW Cinema
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2096
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Action
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/648
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Bollywood
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/649
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cafe ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/733
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/645
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema (UK)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4830
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema CA
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/647
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ ZEE CINEMA ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2094
+#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema (US)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/734
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9X Jhakaas
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/661
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9XM
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/625
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9XM Jalwa
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/626
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ E24
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/692
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Mastii
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/706
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ MTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/629
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Music India
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/624
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zing US
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3875
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ MTV India
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6661
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Showbox
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/652
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ WOW Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1988
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zing TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/631
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zoom
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/630
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ Aajtak News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/657
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ ABP News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/656
+#EXTINF:-1 group-title="Documentary" ,India╰☆╮911™ Animal Planet
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/729
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Cartoon Network
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/676
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Discovery Hindi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/659
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Discovery Kids Eng
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5533
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Disney (Hindi)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5531
+#EXTINF:-1 group-title="English" ,India╰☆╮911™ Food Food
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/740
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Peppa Pig Hindi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6654
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ India Today
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1768
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ India TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/744
+#EXTINF:-1 group-title="English" ,India╰☆╮911™ Living Foodz
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2763
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ News24
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/691
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Nickelodeon
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/663
+#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Sony Yay
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2521
+#EXTINF:-1 group-title="Documentary" ,India╰☆╮911™ Travel XP ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/543
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ Zee Business
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/722
+#EXTINF:-1 group-title="News" ,India╰☆╮911™ ZeeNews
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/723
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ DD Sports
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/718
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ DSports ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5255
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Sony Six
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/668
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Star Sports 2
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/665
+#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Star Sports 3
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5133
+#EXTINF:-1 group-title="Music" ,India╰☆╮911™ B4U Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/743
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Din News ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2784
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ A Plus
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/586
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Apna TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/598
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Ary Musik
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/593
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ ATV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/585
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Awaz TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/695
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Masala TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/579
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Sitaray
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/578
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/577
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Jalwa
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/689
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ K2
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/599
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Peace TV Urdu
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3803
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PlayMax
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/587
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PTV Global
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2868
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PTV Home
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/595
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Stage Drama 2 (VOD)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2863
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ TV One Global
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/590
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Masala TV UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/675
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Aaj Entertainment
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/677
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Express Entertainment
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/584
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Entertainment
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/582
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Kahani
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/583
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum TV ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2859
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ See TV ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/614
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Urdu1
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/589
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Aaj News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/611
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ AbbTakk
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/609
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Ary News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/607
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ AVT KHYBER
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2112
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Bol ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/696
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ CHANNEL 5
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2787
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ City 44 UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2786
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Dawn News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/604
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Dunya TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/606
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2785
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ News One
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/613
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PASHTO1
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2111
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Samaa TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/605
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ SBI News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2861
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Waseb TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/694
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Discover Pakistan
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6911
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Express News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/608
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Tezz
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/603
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ GNN News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/610
+#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Public News ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2791
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab Gurbani
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3859
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3866
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3865
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 9xTashan
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/660
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Apna Punjab
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3873
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Boogle Bollywood
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/627
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Canada One
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/711
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Chardikla Time TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1764
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Cine Voice
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2777
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ DD Punjabi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/747
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Desi TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/703
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Jhanjar ᴴᴰ⁺
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3862
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Jhanjar Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3860
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ JUS PUNJABI
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1760
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Life Punjab
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/618
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PARDESI TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2774
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ MH1 Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1765
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Only Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3869
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PBN Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/704
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Pitaara
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5543
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Primetv Asia
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3867
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PTC News
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/736
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PTC Punjabi
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/654
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Sabrang
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3870
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Sanjha TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3864
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ P Tunes
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3874
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ SteelBird Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2773
+#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Y Channel
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3851
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Aamar Bangla
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1639
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ASIAN TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1621
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ATN BANGLA
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1615
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ATN NEWS
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1619
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Bangla tv UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1631
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Banglavision
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1640
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Bijoy
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1628
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ TV ONE UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1612
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Channel 9
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1618
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ DESH TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1626
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ EKUSHEY TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1613
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Gaan Bangla
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1635
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Independent TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1620
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ MOHONA TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1623
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Vision Bangla
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1636
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ MY TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1627
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ NTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1614
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ SA TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1617
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Sangeet Bangla
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1650
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Sony 8
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1644
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ JHANKAR TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1629
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla Cinema
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1646
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla TV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1647
+#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla Cinema
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1648
+#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ KTV ᴴᴰ⁺ (Tamil)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1259
+#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ StarVijay (Tamil)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1258
+#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ SunMusic (Tamil)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1260
+#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ SunTV (Tamil)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1261
