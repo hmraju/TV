@@ -91,22 +91,14 @@ http://103.205.133.19/hls/asiantv.m3u8
 http://103.81.104.118/hls/stream17.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN Bangla" tvg-name="ATN Bangla" ,ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN News
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="ATN News" tvg-name="ATN News" ,ATN News
-http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" ,Bangla tv
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg" ,Bangladesh Television World
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png" ,Banglavision
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Bangla Vision" tvg-name="Bangla Vision" ,Banglavision
-http://103.205.133.21/hls/banglavision.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Banglavision" tvg-name="Banglavision" ,Banglavision
-http://103.205.133.21/hls/banglavision.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" ,Bijoy tv
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,Boishakhi tv
@@ -126,8 +118,6 @@ http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" ,channel 24
 http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel 24" tvg-name="Channel 24" ,Channel 24
-http://103.205.133.21/hls/channel24.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel 24" tvg-name="Channel 24" ,Channel 24
 http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" ,Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
@@ -135,8 +125,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 http://103.81.104.118/hls/stream18.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel I" tvg-name="Channel I" ,Channel I
-http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="CHANNEL I HD" tvg-name="CHANNEL I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,CHANNEL I HD
 https://iptvbd.jagobd.com:444/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Channel S HD" tvg-name="Channel S HD" ,Channel S HD
@@ -151,12 +139,8 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV%E2%84%A2
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="DBC NEWS HD" tvg-name="DBC NEWS HD" ,DBC NEWS HD
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" ,Desh TV
-http://103.205.133.21/hls/deshtv.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Dipto TV" tvg-name="Dipto TV" ,Dipto TV
-http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="EKATTOR TV" tvg-name="EKATTOR TV" ,EKATTOR TV
-http://103.205.133.21/hls/ekatoortv.m3u8
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" ,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Ekushey TV" tvg-name="Ekushey TV" tvg-logo="https://en.wikipedia.org/wiki/Ekushey_Television#/media/File:ETV.jpg" ,Ekushey TV
@@ -169,6 +153,8 @@ http://113.212.111.246:8080/hls/col2.m3u8
 http://172.16.50.2:8081/live/gazi/chunks.m3u8?nimblesessionid=4762747
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" ,Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-id="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg" ,Jamuna Tv
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg" ,Jamuna Tv
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://103.81.104.118/img/maasranga.jpg" ,Maasranga Television
@@ -211,6 +197,14 @@ http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://103.81.104.118/img/channel24.jpg" ,Somoy TV
 http://103.81.104.118/hls/stream21.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="DIPTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DIPTO TV HD
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="DESH TV" tvg-logo="https://i.ytimg.com/vi/M-5kcevkzE0/maxresdefault.jpg" ,DESH TV
+http://10.16.100.205/hls/des_tv_local480.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="DIGI BANGLA" tvg-logo="https://digibangla.tech/wp-content/uploads/2019/04/Logo-digi-high-e1557029949321.png" ,DIGI BANGLA
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="NTV BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV BD
+http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="A+E Crime 360" tvg-name="A+E Crime 360" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,,A+E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Adventure TV" tvg-name="Adventure TV" tvg-logo="http://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" ,,Adventure TV
@@ -465,6 +459,12 @@ http://103.153.39.34:8000/play/a055/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ZING" tvg-name="ZING" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" ,ZING
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="ZEE TV" ,ZEE TV
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="STAR PLUS" ,STAR PLUS
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="& TV" ,& TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="Colors Bangla" tvg-name="Colors Bangla HD" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" ,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" ,Colors Bangla HD
@@ -491,6 +491,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:0 group-title="Indian Bangla" tvg-id="ZEE BANGLA TV" tvg-name="ZEE BANGLA TV" ,ZEE BANGLA TV
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-id="Asianet News Bangla" tvg-name="Asianet News Bangla" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/Asianet-News-Bangla.jpg" ,,Asianet News Bangla
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Indian Bangla" tvg-id="Calcutta News" tvg-name="Calcutta News" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" ,Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:0 group-title="Indian Bangla" tvg-id="Ekhon Kolkata" tvg-name="Ekhon Kolkata" tvg-logo="http://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" ,Ekhon Kolkata
+http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-id="News 18 Bangla" tvg-name="News 18 Bangla" ,News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:0 group-title="Indian Bangla" tvg-id="SONY AATH" ,SONY AATH
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+#EXTINF:0 group-title="Indian Bangla" tvg-id="TV9 BANGLA" ,TV9 BANGLA
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="Bahrain Quran" tvg-name="Bahrain Quran" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" ,,Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
 #EXTINF:-1 group-title="Islamic" tvg-id="IMAM HUSSEIN TV" tvg-name="IMAM HUSSEIN TV" tvg-logo="https://imamhussein.tv/img/TV%2001.png" ,,IMAM HUSSEIN TV
@@ -695,6 +707,8 @@ http://103.81.104.118/hls/stream3.m3u8
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="STAR MOVIES HD" ,STAR MOVIES HD
 https://cutt.ly/LnSkUBN
+#EXTINF:0 group-title="Movies" tvg-id="Celestial Movies" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" ,Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="1HD Music" tvg-name="1HD Music" tvg-logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others-thumbnail.png" ,,1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1 group-title="Music" tvg-id="30A Music" tvg-name="30A Music" tvg-logo="https://tv2club.com/wp-content/uploads/2021/02/1-2003111524240-L.jpg" ,,30A Music
@@ -809,12 +823,12 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1 group-title="Music" ,Zoom
 http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:0 group-title="Music" tvg-id="Channel [V]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" ,Channel [V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera FHD" tvg-name="Al Jazeera FHD" tvg-logo="https://i.imgur.com/fRivJD3.jpg" ,,Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="News" tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1280px-Arirang-TV-Logo.svg.png" ,,Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="News" tvg-id="Asianet News Bangla" tvg-name="Asianet News Bangla" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/Asianet-News-Bangla.jpg" ,,Asianet News Bangla
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" ,,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Bloomberg.us(m3u4u)" tvg-name="Bloomberg Asia" tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" ,,Bloomberg Asia
@@ -863,18 +877,12 @@ https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:0 group-title="News" tvg-id="ABP News" tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" ,ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Calcutta News" tvg-name="Calcutta News" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" ,Calcutta News
-https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:0 group-title="News" tvg-id="Dunya News" tvg-name="Dunya News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" ,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
-#EXTINF:0 group-title="News" tvg-id="Ekhon Kolkata" tvg-name="Ekhon Kolkata" tvg-logo="http://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" ,Ekhon Kolkata
-http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:0 group-title="News" tvg-id="India Today" tvg-name="India Today" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh5cz8o5VajalYlE6SAOp9lWpOyaZcKuI6Sun_sPw=s900-c-k-c0x00ffffff-no-rj" ,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 group-title="News" tvg-id="Mirror Now" tvg-name="Mirror Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" ,Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="News 18 Bangla" tvg-name="News 18 Bangla" ,News 18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0 group-title="News" tvg-id="Sky News Extra" tvg-name="Sky News Extra" tvg-logo="http://fltaradio.com/upload/2019/04/skynewsextra.jpg" ,Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Others" tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" ,,Abu Dhabi Drama
@@ -1383,8 +1391,8 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Arryadia" tvg-name="Arryadia" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farryadia-morocco.gif" ,Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="bein premium 1" tvg-name="bein premium 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" ,bein premium 1
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="BEiN SPORTS 2 ENGLISH" tvg-name="BEiN SPORTS 2 ENGLISH" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" ,BEiN SPORTS 2 ENGLISH
+https://list.iptvcat.com/my_list/s/635adfcdfe6d3378f209d9338cf94a4a.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="bein sports 2" tvg-name="bein sports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 2
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="bein sports 4" tvg-name="bein sports 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,bein sports 4
@@ -1433,393 +1441,5 @@ http://175.41.46.16:8081/hls/4.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
-#EXTINF:0 group-title="Indian" tvg-id="BBO" ,BBO
-http://ztvuk.com:8080/harris/harris123/12269
-#EXTINF:0 group-title="Indian" tvg-id="B4U Movies" ,B4U Movies
-http://ztvuk.com:8080/harris/harris123/12217
-#EXTINF:0 group-title="Indian" tvg-id="B4U Movies UK" ,B4U Movies UK
-http://ztvuk.com:8080/harris/harris123/12219
-#EXTINF:0 group-title="Indian" tvg-id="SONY MAX HD" ,SONY MAX HD
-http://ztvuk.com:8080/harris/harris123/94443
-#EXTINF:0 group-title="Music" tvg-id="B4U Music" ,B4U Music
-http://ztvuk.com:8080/harris/harris123/89349
-#EXTINF:0 group-title="Indian" tvg-id="Now Premier Cinema ᴴᴰ⁺" ,Now Premier Cinema ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13112
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Now Premier Cinema ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13112
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Now Cinema ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/13111
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ And TV ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2110
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Willow Cricket ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/621
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sony TV ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/638
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Big Magic
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5538
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Dabangg Tv
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/707
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ DD India
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4336
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ DD National
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/746
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Dillagi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/708
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ LifeOK
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/642
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Manoranjan TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/737
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Rishtey
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/741
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sanskar TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1769
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Plus
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/635
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV ᴴᴰ⁺ US
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/636
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ STAR UTSUV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2762
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Anmol
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/672
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Salaam
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/739
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Talkies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/699
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/748
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee TV APAC
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2801
-#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ & Flix
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/742
-#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ & Flix ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4582
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ ABZY Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6451
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Bflix Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5550
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Cinema TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5544
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema ME
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3879
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Enter10
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/701
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Firangi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4539
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Maha Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5545
-#EXTINF:-1 group-title="Indian" ,Punjabi*╰☆╮911™ Manoranjan Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/738
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Movie House
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5551
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Cineplex SD
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/745
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sahara Filmi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4540
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Sahara One
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4541
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ SetMax
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/673
-#EXTINF:-1 group-title="Movies" ,India╰☆╮911™ Sony Pix ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/669
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Gold
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/658
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4584
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Star Utsav Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5547
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ UTV Movies
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/650
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ WOW Cinema
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2096
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Action
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/648
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Bollywood
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/649
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cafe ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/733
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/645
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema (UK)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4830
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema CA
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/647
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ ZEE CINEMA ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2094
-#EXTINF:-1 group-title="Indian" ,India╰☆╮911™ Zee Cinema (US)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/734
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9X Jhakaas
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/661
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9XM
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/625
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ 9XM Jalwa
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/626
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ E24
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/692
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Mastii
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/706
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ MTV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/629
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Music India
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/624
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zing US
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3875
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ MTV India
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6661
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Showbox
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/652
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ WOW Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1988
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zing TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/631
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ Zoom
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/630
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ Aajtak News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/657
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ ABP News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/656
-#EXTINF:-1 group-title="Documentary" ,India╰☆╮911™ Animal Planet
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/729
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Cartoon Network
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/676
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Discovery Hindi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/659
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Discovery Kids Eng
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5533
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Disney (Hindi)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5531
-#EXTINF:-1 group-title="English" ,India╰☆╮911™ Food Food
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/740
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Peppa Pig Hindi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6654
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ India Today
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1768
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ India TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/744
-#EXTINF:-1 group-title="English" ,India╰☆╮911™ Living Foodz
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2763
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ News24
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/691
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Nickelodeon
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/663
-#EXTINF:-1 group-title="Kids" ,India╰☆╮911™ Sony Yay
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2521
-#EXTINF:-1 group-title="Documentary" ,India╰☆╮911™ Travel XP ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/543
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ Zee Business
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/722
-#EXTINF:-1 group-title="News" ,India╰☆╮911™ ZeeNews
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/723
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ DD Sports
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/718
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ DSports ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5255
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Sony Six
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/668
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Star Sports 2
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/665
-#EXTINF:-1 group-title="Sports" ,India╰☆╮911™ Star Sports 3
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5133
-#EXTINF:-1 group-title="Music" ,India╰☆╮911™ B4U Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/743
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Din News ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2784
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ A Plus
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/586
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Apna TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/598
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Ary Musik
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/593
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ ATV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/585
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Awaz TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/695
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Masala TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/579
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Sitaray
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/578
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/577
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Jalwa
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/689
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ K2
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/599
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Peace TV Urdu
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3803
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PlayMax
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/587
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PTV Global
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2868
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PTV Home
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/595
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Stage Drama 2 (VOD)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2863
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ TV One Global
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/590
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum Masala TV UK
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/675
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Aaj Entertainment
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/677
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Express Entertainment
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/584
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Entertainment
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/582
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Kahani
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/583
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum TV ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2859
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ See TV ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/614
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Urdu1
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/589
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Aaj News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/611
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ AbbTakk
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/609
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Ary News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/607
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ AVT KHYBER
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2112
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Bol ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/696
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ CHANNEL 5
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2787
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ City 44 UK
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2786
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Dawn News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/604
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Dunya TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/606
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Hum News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2785
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ News One
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/613
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ PASHTO1
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2111
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Samaa TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/605
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ SBI News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2861
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Waseb TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/694
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Discover Pakistan
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6911
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Express News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/608
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Geo Tezz
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/603
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ GNN News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/610
-#EXTINF:-1 group-title="Pakistani" ,Pakistani special╰☆╮911™ Public News ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2791
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab Gurbani
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3859
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3866
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 5aab TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3865
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ 9xTashan
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/660
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Apna Punjab
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3873
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Boogle Bollywood
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/627
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Canada One
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/711
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Chardikla Time TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1764
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Cine Voice
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2777
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ DD Punjabi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/747
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Desi TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/703
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Jhanjar ᴴᴰ⁺
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3862
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Jhanjar Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3860
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ JUS PUNJABI
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1760
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Life Punjab
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/618
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PARDESI TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2774
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ MH1 Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1765
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Only Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3869
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PBN Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/704
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Pitaara
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5543
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Primetv Asia
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3867
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PTC News
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/736
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ PTC Punjabi
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/654
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Sabrang
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3870
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Sanjha TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3864
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ P Tunes
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3874
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ SteelBird Music
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2773
-#EXTINF:-1 group-title="Panjabi" ,Punjabi*╰☆╮911™ Y Channel
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3851
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Aamar Bangla
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1639
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ASIAN TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1621
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ATN BANGLA
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1615
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ ATN NEWS
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1619
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Bangla tv UK
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1631
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Banglavision
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1640
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Bijoy
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1628
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ TV ONE UK
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1612
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Channel 9
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1618
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ DESH TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1626
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ EKUSHEY TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1613
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Gaan Bangla
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1635
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Independent TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1620
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ MOHONA TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1623
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Vision Bangla
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1636
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ MY TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1627
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ NTV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1614
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ SA TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1617
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Sangeet Bangla
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1650
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Sony 8
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1644
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ JHANKAR TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1629
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla Cinema
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1646
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla TV
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1647
-#EXTINF:-1 group-title="Bangladeshi" ,Bangladesh╰ ☆ ╮911™ Zee Bangla Cinema
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1648
-#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ KTV ᴴᴰ⁺ (Tamil)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1259
-#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ StarVijay (Tamil)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1258
-#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ SunMusic (Tamil)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1260
-#EXTINF:-1 group-title="Tamil" ,India╰☆╮911™ SunTV (Tamil)
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1261
+#EXTINF:0 group-title="Sports" tvg-id="STAR SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" ,STAR SPORTS
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
