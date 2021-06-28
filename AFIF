@@ -154,7 +154,7 @@ https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="EKUSHEY TV HD" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" ,EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="GAZI TV" tvg-name="GAZI TV" ,GAZI TV
-http://113.212.111.246:8080/hls/col2.m3u8
+http://jupiter.bdcabletv.com/Gazi_SP/video.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="GAZI TV" ,GAZI TV
 http://jupiter.bdcabletv.com/Gazi_SP/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" ,Independent
@@ -391,16 +391,18 @@ https://cdnlive.livecast.io/388656798579293628302251.m3u8?checkedby:iptvcat.com
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Indian" tvg-id="India TV USA" tvg-name="India TV USA" ,,India TV USA
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Indian" tvg-id="Kappa TV" tvg-name="Kappa TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" ,,Kappa TV
+#EXTINF:-1 group-title="Indian" tvg-id="Kappa TV" tvg-name="Kappa TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" ,Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Maha Movie" tvg-name="Maha Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" ,,Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 group-title="Indian" tvg-id="MANORANJAN MOVIES" tvg-name="MANORANJAN MOVIES" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" ,,MANORANJAN MOVIES
+#EXTINF:-1 group-title="Indian" tvg-id="MANORANJAN MOVIES" tvg-name="MANORANJAN MOVIES" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" ,MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Indian" tvg-id="Pardesi TV" tvg-name="Pardesi TV" tvg-logo="http://cdn.teleon.tv/logo/pardesi-tv-in.png" ,,Pardesi TV
+#EXTINF:-1 group-title="Indian" tvg-id="Pardesi TV" tvg-name="Pardesi TV" tvg-logo="http://cdn.teleon.tv/logo/pardesi-tv-in.png" ,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian" tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" ,,Rishtey Cineplex
+#EXTINF:-1 group-title="Indian" tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" ,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:-1 group-title="Indian" tvg-id="SONY PAL" tvg-name="SONY PAL" ,SONY PAL
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 group-title="Indian" tvg-id="Sony Intertenment" tvg-name="Sony Intertenment" ,,Sony Intertenment
 http://103.205.133.21/hls/chs.m3u8?Live-TV™
 #EXTINF:-1 group-title="Indian" tvg-id="WoW CINEMA" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" ,,WoW CINEMA
@@ -1444,11 +1446,35 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Arryadia" tvg-name="Arryadia" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farryadia-morocco.gif" ,Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="bein sports 2" tvg-name="bein sports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 2
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="BEiN SPORTS 2 ENGLISH" tvg-name="BEiN SPORTS 2 ENGLISH" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" ,BEiN SPORTS 2 ENGLISH
-https://list.iptvcat.com/my_list/s/635adfcdfe6d3378f209d9338cf94a4a.m3u8
+http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="bein sports 1" tvg-name="bein sports 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 1
+http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="bein sports 5" tvg-name="bein sports 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 5
+http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="bein sports 6" tvg-name="bein sports 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 6
+http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="bein sports 7" tvg-name="bein sports 7" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" ,bein sports 7
+http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="TVRI SPORTS" ,TVRI SPORTS
+http://3.0.20.58:8000/play/TVRIHD/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="BEIN 4 MAX" ,BEIN 4 MAX
+http://3.0.20.58:8000/play/BeinMax4/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="BEIN 3 MAX" ,BEIN 3 MAX
+http://3.0.20.58:8000/play/BeinMax3/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="BEIN 2 MAX" ,BEIN 2 MAX
+http://3.0.20.58:8000/play/BeinMax2/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="ASTRO ARENA" ,ASTRO ARENA
+http://3.0.20.58:8000/play/Arena/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="ASTRO SUPERSPORT 3" ,ASTRO SUPERSPORT 3
+http://3.0.20.58:8000/play/ASSP3/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="ASTRO SUPERSPORT 2" ,ASTRO SUPERSPORT 2
+http://3.0.20.58:8000/play/ASSP2/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="AU SPORTS HD" ,AU SPORTS HD
+http://78.129.253.14:8030/Can5/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="BEiN SPORTS 3" tvg-name="BEiN SPORTS 3" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" ,BEiN SPORTS 3
+http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="bein sports 4" tvg-name="bein sports 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,bein sports 4
-http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+http://3.0.20.58:8000/play/Bein-Sport-4/index.m3u8
 #EXTINF:0 group-title="Sports" ,EUROSPORT 1 GOLFTV
 http://89.17.204.38/ch57/index.m3u8
 #EXTINF:0 group-title="Sports" ,EUROSPORT-N
