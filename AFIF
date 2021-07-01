@@ -37,22 +37,20 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV%E2%84%A2
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8?
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="DESH NEWS" tvg-name="DESH NEWS" tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/03/Desh-news.png" ,DESH NEWS
 https://iptv9.raytahost.com/stream/desh/index.m3u8
+#EXTINF:0 group-title="Bangla IPTV" tvg-id="DESHI IPTV" ,DESHI IPTV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="i TV" tvg-name="i TV" ,i TV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA" ,i TV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="Interasia" tvg-name="Interasia" ,Interasia
 https://interasia-hls.telelivebd.com/interasia/interasia.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="iON TV UK" tvg-name="iON TV UK" ,iON TV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA" ,itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="Janmovumi" ,Janmovumi
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="JonmoBhumi TV" tvg-name="JonmoBhumi TV" ,JonmoBhumi TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="KB TV" tvg-name="KB TV" tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/kbtv.png" ,KB TV
 https://iptv10.raytahost.com/stream/kbangla/index.m3u8
-#EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif" ,Ktv
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="KTV Bangla" tvg-name="KTV Bangla" ,KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="Matir Maya TV" tvg-name="Matir Maya TV" ,Matir Maya TV
@@ -65,14 +63,16 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8?
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="NANDAN IPTV [BD]" tvg-name="NANDAN IPTV [BD]" tvg-logo="https://i.imgur.com/7HplreU.jpg" ,NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:0 group-title="Bangla IPTV" tvg-id="NOBODIP TV" ,NOBODIP TV
+https://probashi-hls.telelivebd.com/probashi/probashi.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="NTV UK" tvg-name="NTV UK" ,NTV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla IPTV" tvg-id="Probashi Bangla" tvg-name="Probashi Bangla" ,Probashi Bangla
-https://probashi-hls.telelivebd.com/probashi/probashi.m3u8
+#EXTINF:0 group-title="Bangla IPTV" tvg-id="Probashi Bangla" ,Probashi Bangla
+https://probashibangla-tv.telelivebd.com/globalbanglatv/probashibangla/chunks.m3u8?nimblesessionid=174915
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="R TV Music" tvg-name="R TV Music" tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" ,R TV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="roal.tv" tvg-logo="https://roal.tv/wp-content/uploads/2018/01/ROAL4.gif" ,ROAL TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/live-orgin/royaltv.stream/chunks.m3u8?nimblesessionid=79797761
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/live-orgin/royaltv.stream/chunks.m3u8?nimblesessionid=79852174
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="RuposhiBangla.in" tvg-name="Ruposhi Bangla" ,Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8?Live-TV™
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="Ruposhi Bangla TV" tvg-name="Ruposhi Bangla TV" ,Ruposhi Bangla TV
@@ -81,10 +81,14 @@ https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w322146066.mpd
 https://iptv9.raytahost.com/live/shwapno/index.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="Songbad TV" tvg-name="Songbad TV" tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/01/songbadtv.png" ,Songbad TV
 https://iptv6.raytahost.com/live/songbad/index.m3u8
+#EXTINF:0 group-title="Bangla IPTV" tvg-id="Sristy TV" ,Sristy TV
+https://srestytv.telelivebd.com/srestytv/srestytv.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="TBN 24 USA IPTV" tvg-name="TBN 24 USA IPTV" ,TBN 24 USA IPTV
 http://fingerme.dg21bd.com/TBN24/index.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="Time TV" tvg-name="Time TV" ,Time TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" tvg-id="YES TV" ,YES TV
+https://yestv-hls.telelivebd.com/yestv/yestv.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
 ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Ananda tv
@@ -153,6 +157,8 @@ https://rhridoy136.shortcm.li/ekusheytv.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="GAAN BANGLA" ,GAAN BANGLA
 https://iptvbd.jagobd.com:444/iptv/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" tvg-id="GAAN BANGLA TV" ,GAAN BANGLA TV
+https://global-hls.telelivebd.com/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="GAZI TV" tvg-name="GAZI TV" ,GAZI TV
 http://jupiter.bdcabletv.com/Gazi_SP/video.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="GAZI TV" ,GAZI TV
@@ -191,6 +197,8 @@ http://103.205.133.21/hls/news24.m3u8
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="NTV" ,NTV
 https://streamer-1.toffeelive.com/mobile_hls/ntv_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 group-title="Bangladeshi" tvg-id="NTV" ,NTV
+https://tv.telelivebd.com/live/ntv/chunks.m3u8?nimblesessionid=175058
 #EXTINF:0 group-title="Bangladeshi" tvg-id="NTV BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV BD
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="R TV" tvg-name="R TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" ,R TV
@@ -409,6 +417,8 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" ,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:0 group-title="Indian" tvg-id="SONY Ent. HD" ,SONY Ent. HD
+http://172.16.50.2:8081/live/sonytv/chunks.m3u8?nimblesessionid=1195716
 #EXTINF:-1 group-title="Indian" tvg-id="SONY Entertainment TV" tvg-name="SONY Entertainment TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" ,SONY Entertainment TV
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:0 group-title="Indian" ,Sony SAB HD
@@ -1429,6 +1439,8 @@ http://172.16.50.2:8081/live/gazi/chunks.m3u8
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" ,Sony Ten 2 HD
 http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="SONY TEN 3" ,SONY TEN 3
+http://172.16.50.2:8081/live/ten3/chunks.m3u8?nimblesessionid=1195665
 #EXTINF:0 group-title="Sports" tvg-id="SPORT TV 1????" tvg-name="SPORT TV 1????" ,SPORT TV 1????
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://2.bp.blogspot.com/-_4R7rbEapTQ/V-D7yzArCrI/AAAAAAAAB_c/WGRuf74zvjUyyA70BYMxe2KQgwb-oN_fwCLcB/s1600/sport.tv4.png" ,SPORT TV 2
