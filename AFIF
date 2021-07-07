@@ -1613,3 +1613,83 @@ https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/ind
 https://185-107-80-245.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:0 group-title="English" ,A+E | Lively Place
+http://aenetworks-ae-1.roku.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Others" ,AF | Ariana TV US
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
+#EXTINF:0 group-title="Others" ,AF | Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
+#EXTINF:0 group-title="Others" ,AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 group-title="Others" ,Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_5.m3u8
+#EXTINF:0 group-title="Others" ,Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
+#EXTINF:0 group-title="News" ,Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b1048304.m3u8
+#EXTINF:0 group-title="English" ,Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w1441530266.m3u8?time=1463063123262
+#EXTINF:0 group-title="Islamic" ,Al-Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8
+#EXTINF:0 group-title="Others" ,All Weddings
+https://amc-allweddings-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Islamic" ,Al Quran Al Kareem (Mecca)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8
+#EXTINF:0 group-title="Others" ,Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+#EXTINF:0 group-title="English" ,AMC | Absolute Reality by We TV
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/4300.m3u8
+#EXTINF:0 group-title="Movies" ,AMC | IFC Film Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
+#EXTINF:0 group-title="Others" ,Angel Australia
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/b3faeb4a/b3faeb4a_1_552000/chunklist.m3u8
+#EXTINF:0 group-title="English" ,Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:0 group-title="Indian" ,Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w118713351_b1030000.m3u8
+#EXTINF:0 group-title="Others" ,ARAGON TV
+https://streamer90.server.aranova.cloud/cls/live/aragontv_canal1_1000/index.m3u8?vv=BD&h=8jPc6TyXuiTDSCv2a6tYxg&e=31363235373732323233&r=4570
+#EXTINF:0 group-title="News" ,Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:0 group-title="Movies" ,AXN [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,Azam Sports 1 HD
+https://1446000130.rsc.cdn77.org/1446000130/tracks-v3a1/mono.m3u8
+#EXTINF:0 group-title="Indian" ,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="Kids" ,Baby Shark TV
+https://newidco-babysharktv-1.roku.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Others" ,Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w408269398.m3u8
+#EXTINF:0 group-title="News" ,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="Others" ,Bounty Plus
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Others" ,Channel 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:0 group-title="Movies" ,Cinepride
+https://content-aapm1.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77/c.m3u8?pbs=52d340e714e94ba080cb8c15dbb8315f
+#EXTINF:0 group-title="Movies" ,CineVault Westerns
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/bf539714-2346-4f1f-affc-aba184bb43ac/0.m3u8
+#EXTINF:0 group-title="Kids" ,CONtv Anime
+https://contvanime-localnow.cinedigm.com/masterR432p.m3u8
+#EXTINF:0 group-title="English" ,Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist404-p.m3u8
+#EXTINF:0 group-title="English" ,Danger TV
+https://dangertv.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Indian" ,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="Sports" ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="Documentary" ,Destination TV
+https://makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Documentary" ,DMAX
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_804_av-p.m3u8?sd=10&rebase=on&id=AgBnVCbNFzSrfYkK5mA3jgVrQOHePig77IuRDIxsO5aY3fYjY+s3FwHYgQsKZr+D44iI8iU4WiXWKA%3d%3d
+#EXTINF:0 group-title="Sports" ,ELEVEN SPORTS 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sports" ,ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Sports" ,Eleven Sports (UK)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/956b0f1b889503cd5af8614d3350840f.m3u8
+#EXTINF:0 group-title="Others" ,Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=546445913
