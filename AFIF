@@ -1693,3 +1693,61 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/956b0f1b889503cd5af8614d3350840f.m3u8
 #EXTINF:0 group-title="Others" ,Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=546445913
+#EXTINF:0 group-title="Others" ,Divine Vision
+http://divineplayout-us2.tulix.tv/live/Stream1/chunklist_w225711584.m3u8
+#EXTINF:0 group-title="English" ,DM TV
+https://dmtv-viziosc.amagi.tv/playlist480p.m3u8
+#EXTINF:0 group-title="Documentary" ,Doc TV
+https://wownow-doctv-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Documentary" ,DocuBay TV
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/video_480p_1000004370.m3u8
+#EXTINF:0 group-title="English" ,Dubai One (English)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0 group-title="Sports" ,Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:0 group-title="Kids" ,Duck Tv (Denmark)
+https://mmm-ducktv-4-dk.samsung.wurl.com/manifest/74fc40681d2c935818eedc0337572912.m3u8
+#EXTINF:0 group-title="Pakistani" ,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:0 group-title="Others" ,FACTORY HD
+https://videohd.live:19360/8072/8072.m3u8
+#EXTINF:0 group-title="English" ,Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/cupertino137_360p_1000000/chunklist.m3u8
+#EXTINF:0 group-title="Movies" ,Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Movies" ,Family Movies 2
+https://rakuten-family-2-es.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Movies" ,Family Movies 3
+https://rakuten-family-6-it.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 group-title="Documentary" ,FashionBox
+https://fashionbox-localnow.cinedigm.com/playlistR432p.m3u8
+#EXTINF:0 group-title="Documentary" ,FashionTV Czech
+http://lb.streaming.sk/fashiontv/stream/chunklist_w493989176.m3u8
+#EXTINF:0 group-title="Documentary" ,Fashion TV (England)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
+#EXTINF:0 group-title="Documentary" ,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="English" ,Fear This! Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_640x360.m3u8
+#EXTINF:0 group-title="Movies" ,FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/640x360_700000/chunklist.m3u8
+#EXTINF:0 group-title="English" ,Fuel TV (India)
+https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
+#EXTINF:0 group-title="Pakistani" ,Geo News Pakistan
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
+#EXTINF:0 group-title="Movies" ,Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/768x432_1200000/index.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
