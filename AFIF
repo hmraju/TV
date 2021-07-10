@@ -478,7 +478,7 @@ http://103.157.237.18:8000/play/339
 #EXTINF:0 group-title="Indian" ,SONY MAX HD
 http://103.157.237.18:8000/play/338
 #EXTINF:0 group-title="Indian" ,Sony SAB HD
-http://51.79.84.156:8082/SabIn/index.m3u8
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="Sony set entertainment" ,Sony set entertainment
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
 #EXTINF:0 group-title="Indian" ,SONY SUB
