@@ -80,7 +80,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="YES TV" ,YES TV
 https://yestv-hls.telelivebd.com/yestv/yestv.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
-ftp://103.84.38.205/volume(sda1)/Raju%20TV%20beta/Afif%20IPTV/Afif%20IPTV.m3u8
+https://raw.githubusercontent.com/hmraju/hmraju/main/Afif%20IPTV.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Ananda tv
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="ANANDA TV HD" tvg-name="ANANDA TV HD" ,ANANDA TV HD
