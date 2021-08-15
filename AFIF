@@ -105,6 +105,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8?ITCNBD_IPTV=
 https://iptvbd.jagobd.com:444/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="ASIAN TV" tvg-name="ASIAN TV" tvg-logo="http://icc.roarzone.info/files/asiantv.png" ,ASIAN TV
 http://103.205.133.19/hls/asiantv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,asian TV
+http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ATN BANGLA
@@ -861,9 +863,9 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 https://gravitas-movies.plex.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Groovy" tvg-name="Groovy" tvg-logo="https://i.imgur.com/0iklNh2.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:0 group-title="Movies" ,Hallmark Movies & More
+#EXTINF:0 group-title="Movies" ,Hallmark Movies and More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="Hallmark Movies & More" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" ,Hallmark Movies & More
+#EXTINF:-1 group-title="Movies" tvg-id="Hallmark Movies & More" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" ,Hallmark Movies and More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="HBO" tvg-name="HBO" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
@@ -893,6 +895,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:0 group-title="Movies" ,MBC MAX HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+#EXTINF:0 group-title="Movies" ,MOVIES NOW
+http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 group-title="Movies" ,MOVIES NOW HD
 http://stream.dhakaflix.com:8081/live/moviesnow/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="RAKUTEN TV" tvg-name="RAKUTEN TV" tvg-logo="https://prod3-kraken-cloudfront.rakuten.tv/images/social/logo.png" ,RAKUTEN TV
@@ -905,6 +909,8 @@ https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8?checke
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/euauPCp.png" ,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="Movies" ,Romedy now
+http://103.153.39.34:8000/play/a052/index.m3u8
 #EXTINF:0 group-title="Movies" ,SONY PIX HD
 http://stream.dhakaflix.com:8081/&priveHD/tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="Movies" ,SONY PIX HD (2)
