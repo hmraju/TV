@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="AFIF IPTV" tvg-id="AFIF IPTV" tvg-name="AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,AFIF IPTV
-https://github.com/hmraju/hmraju/blob/main/Afif%20IPTV0.ts
+https://github.com/hmraju/hmraju/blob/main/Afif%20IPTV.ts?raw=true
 #EXTINF:0 group-title="Bangla IPTV" ,71 BANGLA TV
-http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8?ITCNBD_IPTV=103.158.211.155ZXCVBAHS=IT_CONNECTION=
+corrupt/empty
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" ,71bangla hd
 http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg" ,AB TV
@@ -109,6 +109,56 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="Bangla IPTV" ,Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" ,Asian TV
+https://rhridoy136.shortcm.li/asiantv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" ,ATN Islamic
+https://rhridoy136.shortcm.li/atnislamic.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" ,ATN Music
+https://rhridoy136.shortcm.li/atnmusic.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" ,ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" ,Bangla TV
+https://rhridoy136.shortcm.li/banglatv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" ,Banglavision
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" ,Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" ,Boishakhi
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" ,BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" ,CHANNEL 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" ,Channel 9
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" ,Channel I
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" ,DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="https://en.wikipedia.org/wiki/Deepto_TV#/media/File:Deepto_TV_logo.png" ,Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="https://en.wikipedia.org/wiki/Ekushey_Television#/media/File:ETV.jpg" ,Ekushey TV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" ,Gaan Bangla
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" ,Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" ,Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" ,MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" ,MY TV
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" ,News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" ,RTV Music
+https://rhridoy136.shortcm.li/rtvmusic.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" ,Sangsad TV
+https://rhridoy136.shortcm.li/sangsadtv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" ,SATV
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" ,Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Ananda tv
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ANANDA TV
@@ -733,12 +783,16 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="IMAM HUSSEIN TV" tvg-name="IMAM HUSSEIN TV" tvg-logo="https://imamhussein.tv/img/TV%2001.png" ,IMAM HUSSEIN TV
 http://live.imamhossaintv.com/live/ih103/index.m3u8
+#EXTINF:0 group-title="Islamic" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" ,Iqra Bangla TV
+https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="Iqra Bangla TV" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" ,Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:0 group-title="Islamic" tvg-id="Iqraa" tvg-name="Iqraa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Iqraa_logo.gif/200px-Iqraa_logo.gif" ,Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="(no tvg-id)" tvg-name="Madani Tv Bangla" tvg-logo="https://www.clipartmax.com/png/middle/263-2636352_keep-watching-madani-channel-madani-channel-logo-png.png" ,Madani Tv Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:0 group-title="Islamic" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" ,Makkah Live
+https://rhridoy136.shortcm.li/makkahlive.m3u8
 #EXTINF:0 group-title="Islamic" ,RODJA TV
 http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 #EXTINF:0 group-title="Islamic" tvg-id="Saudi Quran" tvg-name="Saudi Quran" tvg-logo="https://e7.pngegg.com/pngimages/902/411/png-clipart-saudi-arabia-quran-television-channel-on-e-saudi-team-television-text.png" ,Saudi Quran
