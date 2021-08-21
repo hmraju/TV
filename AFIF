@@ -25,6 +25,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/bangla21tv000889956-sg.stream/chunks.m3u
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" ,Boishakhi tv plus
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,Bongo TV
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?Live-TVâ„¢
 #EXTINF:0 group-title="Bangla IPTV" ,CAN BANGLA
 http://iptvbd.jagobd.com:1931/boishakhi/canbanglatv.stream/chunks.m3u8?ITCNBD_IPTV=103.158.211.155ZXCVBAHS=IT_CONNECTION=
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="CAN BANGLA" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg?x21017" ,CAN BANGLA
@@ -34,7 +36,7 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="Channel 69" tvg-name="Channel 69" ,Channel 69
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="Channel H IPTV [BD]" tvg-name="Channel H IPTV [BD]" tvg-logo="https://dl.dropbox.com/s/6lrf7qk61nl98zw/Channel-H.jpg" ,Channel H IPTV [BD]
-http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/live-orgin/channelhtv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,CHANNEL S HD
 http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8?ITCNBD_IPTV=103.158.211.155ZXCVBAHS=IT_CONNECTION=
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="Channel S UK" tvg-name="Channel S UK" tvg-logo="https://pcdn.jagobd.com/images/s-sq0z7p1591520747856.jpg" ,Channel S UK
@@ -57,6 +59,8 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="Bangla IPTV" tvg-id="iON TV UK" tvg-name="iON TV UK" ,iON TV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,Jagoron TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,JARA TV
 http://iptvbd.jagobd.com:1931/boishakhi/jaratv.stream/chunks.m3u8?ITCNBD_IPTV=103.158.211.155ZXCVBAHS=IT_CONNECTION=
 #EXTINF:-1 group-title="Bangla IPTV" tvg-id="JonmoBhumi TV" tvg-name="JonmoBhumi TV" ,JonmoBhumi TV
@@ -109,6 +113,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="Bangla IPTV" ,Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,VOICE TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" ,Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" ,ATN Islamic
@@ -151,6 +157,10 @@ https://rhridoy136.shortcm.li/mohonatv.m3u8
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" ,News 24
 https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:0 group-title="Bangladesh" ,RTV HD
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladesh" ,RTV HD BD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" ,RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" ,Sangsad TV
@@ -159,6 +169,8 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:0 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" ,Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:0 group-title="Bangladesh" ,T-Sports HD
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Ananda tv
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ANANDA TV
@@ -299,6 +311,8 @@ http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/playlist.m3u8
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/playlist.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,GAZI TV HD
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,GAZI TV HD
+http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" ,Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="INDEPENDENT NEWS" ,INDEPENDENT NEWS
@@ -358,7 +372,7 @@ http://stream.dhakaflix.com:8081/hls/news24.m3u8/playlist.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,NTV (BD)
 http://103.205.133.48/hls/ntv.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,NTV (BD)
-http://stream.dhakaflix.com:8081/hls/ntv.m3u8/playlist.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="NTV BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV BD
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,RTV HD
@@ -735,6 +749,8 @@ https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="Colors Bangla" tvg-name="Colors Bangla HD" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" ,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:0 group-title="Indian Bangla" tvg-id="Ekhon Kolkata" tvg-name="Ekhon Kolkata" tvg-logo="http://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" ,Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:0 group-title="Indian Bangla" tvg-id="Enter 10 Bangla" tvg-name="Enter 10 Bangla" ,Enter 10 Bangla
@@ -821,6 +837,10 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="Akaram Kidz" tvg-name="Akaram Kidz" tvg-logo="https://1.bp.blogspot.com/-h4IZFJSM02U/X5wT7polVpI/AAAAAAAABmg/PnBL_XKnfJYAThkrsvzgV82dKe6Scm0dQCLcBGAsYHQ/w800/images.jpeg" ,Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0 group-title="Kids" ,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TVâ„¢
+#EXTINF:0 group-title="Kids" ,ANIMAX (2)
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506915616_aniplus-artcard.jpg" ,ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Baby First" tvg-name="Baby First" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" ,Baby First
