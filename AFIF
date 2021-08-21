@@ -491,6 +491,8 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8?checkedby:hlscat.com
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Documentary" ,NET GEO
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:0 group-title="Documentary" ,NET GEO WILD
+http://103.153.39.34:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="NET GEO WILD ASIA" tvg-name="NET GEO WILD ASIA" ,NET GEO WILD ASIA
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Outdoor Channel HD" tvg-name="Outdoor Channel HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" ,Outdoor Channel HD
@@ -645,6 +647,8 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:0 group-title="Indian" ,SONY MAX 2
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian" ,SONY MAX HD
+http://103.153.39.34:8000/play/a046/index.m3u8
 #EXTINF:0 group-title="Indian" ,Sony SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Indian" ,SONY SUB
@@ -1511,16 +1515,24 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Sports" ,SONY SIX HD
 http://stream.dhakaflix.com:8081/live/sonysix.m3u8/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Sony Six HD
+http://103.153.39.34:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6a7pWRE.png" ,Sony Six HD (3)
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:0 group-title="Sports" ,SONY TEN 1
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:0 group-title="Sports" ,SONY TEN 1 HD
 http://stream.dhakaflix.com:8081/live/sonyten1/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Sony Ten 1 HD
+http://103.153.39.34:8000/play/a042/index.m3u8
 #EXTINF:0 group-title="Sports" ,SONY TEN 2
 http://stream.dhakaflix.com:8081/live/sonyten2/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,SONY TEN 3
 http://stream.dhakaflix.com:8081/live/sonyten3/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,SONY TEN 3 HD
+http://103.153.39.34:8000/play/a049/index.m3u8
+#EXTINF:0 group-title="Sports" ,Sony Ten 3 HD
+http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:0 group-title="Sports" ,Sport 7 TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
 #EXTINF: group-title="Sports" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" ,SPORT TV 1
@@ -1547,8 +1559,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/768x432_142560
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="StarSports1.in" tvg-name="Star Sports 1" ,Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:0 group-title="Sports" ,Star Sports 1 HD
+http://103.153.39.34:8000/play/a040/index.m3u8
+#EXTINF:0 group-title="Sports" ,Star Sports 1 Hindi
+http://103.153.39.34:8000/play/a044/index.m3u8
 #EXTINF:0 group-title="Sports" ,STAR SPORTS 2 HD
 http://stream.dhakaflix.com:8081/play/604/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Star Sports 2 HD
+http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UEvEaOK.png" ,Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qE3DDKX.png" ,Super Sports 2
