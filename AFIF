@@ -547,6 +547,10 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="English" tvg-id="ZEE Living" tvg-name="ZEE Living" ,ZEE Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Indian" ,7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:0 group-title="Indian" ,Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ACV Utsav" tvg-name="ACV Utsav" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" ,ACV Utsav
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ACV Utsav Plus" tvg-name="ACV Utsav Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" ,ACV Utsav Plus
@@ -591,18 +595,30 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(02)/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="DD ODIA" tvg-name="DD ODIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest/scale-to-width-down/250?cb=20190725133053" ,DD ODIA
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:0 group-title="Indian" ,Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Indian" ,Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="India TV USA" tvg-name="India TV USA" ,India TV USA
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 group-title="Indian" ,Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Kappa TV" tvg-name="Kappa TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" ,Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:0 group-title="Indian" ,Kasthuri TV
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Maha Movie" tvg-name="Maha Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" ,Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0 group-title="Indian" ,Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="MANORANJAN MOVIES" tvg-name="MANORANJAN MOVIES" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" ,MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:hlscat.com
 #EXTINF:0 group-title="Indian" ,MANURANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0 group-title="Indian" ,MH1 Prim
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="MK Six" tvg-name="MK Six" ,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:0 group-title="Indian" tvg-id="MK TV" tvg-name="MK TV" ,MK TV
@@ -779,6 +795,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="(no tvg-id)" tvg-name="ATN Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,ATN Islamic
 http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
+#EXTINF:0 group-title="Islamic" ,Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:0 group-title="Islamic" tvg-id="IIPC TV" tvg-name="IIPC TV" tvg-logo="https://lh3.googleusercontent.com/c35PJHBKVUdEy5By-K-aqAHOPtXvnGxcUcUTxePQHRCZ1PY9SA0NowKUjz3ff4vKjDk=w300" ,IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="IMAM HUSSEIN TV" tvg-name="IMAM HUSSEIN TV" tvg-logo="https://imamhussein.tv/img/TV%2001.png" ,IMAM HUSSEIN TV
@@ -1127,6 +1145,8 @@ http://stream.dhakaflix.com:8081/SangeetBangla/tracks-v1a1/playlist.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Music" ,sangeet bangla 2
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Music" ,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0 group-title="Music" ,V CHANNEL
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="VEVO 2k" tvg-name="VEVO 2k" tvg-logo="https://theme.zdassets.com/theme_assets/1422698/48bd6c71f6b8c2b6a29fe0f10a00ec4a789c1767.jpg" ,VEVO 2k
@@ -1193,18 +1213,36 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:0 group-title="News" ,Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b1048304.m3u8
+#EXTINF:0 group-title="News" ,CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0 group-title="News" ,CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:0 group-title="News" ,CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:0 group-title="News" tvg-id="Dunya News" tvg-name="Dunya News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" ,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="News" tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" ,DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:hlscat.com
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:0 group-title="News" ,ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:0 group-title="News" ,Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-id="GS TV" tvg-name="GS TV" tvg-logo="Logo N/A" ,GS TV
 https://cdnlive.livecast.io/388656798579293628302251.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News" ,India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:0 group-title="News" tvg-id="India Today" tvg-name="India Today" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh5cz8o5VajalYlE6SAOp9lWpOyaZcKuI6Sun_sPw=s900-c-k-c0x00ffffff-no-rj" ,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="India TV" tvg-name="India TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/IndiaTV_500x500.png" ,India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="News" ,Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:0 group-title="News" tvg-id="Mirror Now" tvg-name="Mirror Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" ,Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:0 group-title="News" ,Nandighosha Tv
+https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0 group-title="News" ,Naxtra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:0 group-title="News" tvg-id="Sky News Extra" tvg-name="Sky News Extra" tvg-logo="http://fltaradio.com/upload/2019/04/skynewsextra.jpg" ,Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Others" tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/oExmYqk.jpg" ,,Abu Dhabi TV
@@ -1275,6 +1313,8 @@ http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 http://divineplayout-us2.tulix.tv/live/Stream1/chunklist_w225711584.m3u8
 #EXTINF:0 group-title="Others" ,FACTORY HD
 https://videohd.live:19360/8072/8072.m3u8
+#EXTINF:0 group-title="Others" ,Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0 group-title="Others" tvg-id="Health TV" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/healthtv.png" ,Health TV
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/chunklist_w746422449.m3u8
 #EXTINF:0 group-title="Others" tvg-id="IL: Kan 23" tvg-name="IL: Kan 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/IL12b_Crystal_Structure.rsh.png" ,IL: Kan 23
@@ -1305,10 +1345,16 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:0 group-title="Pakistani" tvg-id="AVT KHYBER" tvg-name="AVT KHYBER" ,AVT KHYBER
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Pakistani" ,Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0 group-title="Pakistani" ,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:0 group-title="Pakistani" ,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:0 group-title="Pakistani" ,Geo News Pakistan
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
+#EXTINF:0 group-title="Pakistani" ,Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pakistani" tvg-id="PTV HOME" tvg-name="PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" ,PTV HOME
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Pakistani" tvg-id="PTV WORLD" tvg-name="PTV WORLD" ,PTV WORLD
@@ -1405,6 +1451,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,GEO SUPPER
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks.m3u8
+#EXTINF:0 group-title="Sports" ,GEO Supper
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v2.m3u8
 #EXTINF:0 group-title="Sports" ,LOOK SPORTS
@@ -1537,5 +1585,3 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
-#EXTINF:0 group-title="Others" tvg-id="Alghad Almushreq" tvg-name="Alghad Almushreq" ,Alghad Almushreq
-http://82.212.74.3:8000/live/7512.m3u8
