@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:0 group-title="Bangladeshi" ,SOMOY NEWS
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,NEWS24 HD
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,ATN BANGLA
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,DBC NEWS
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,EKUSHE TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,CHANNEL24 HD
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,DBC NEWS HD
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream_480p/chunks.m3u8
+#EXTINF:0 group-title="Islamic" ,ATN ISLAMIC
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,BANGLA VISION TV
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream_480p/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,BOISHAKHI TV
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,MY TV HD
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,MOHONA TV HD
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,PROBASHI BANGLA
+https://tv.bdtv.xyz:2096/SB/probashi/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,BANGLA 21.TV
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,ANUVOTI TV
+http://103.68.4.50:1935/live/onuvuti/chunklist_w871566995.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,CHANNEL S UK
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,G BANGLA TV
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,Channel 23 IPTV
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,KTV Bangla HD
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,NANDAN IPTV
+http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:0 group-title="Bangla IPTV" ,ATN Islamic
+https://rhridoy136.shortcm.li/atnislamic.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Bangla TV
+https://rhridoy136.shortcm.li/banglatv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Boishakhi TV
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Channel 9 HD
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,CHANNEL 24 HD
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Channel I HD
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Gaan Bangla
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:0 group-title="Bangla IPTV" ,Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,MY TV
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,RTV HD
+https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Sangsad TV
+https://rhridoy136.shortcm.li/sangsadtv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,SATV
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:0 group-title="Documentary" ,HEALTH TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/chunklist_w1559964239.m3u8
+#EXTINF:0 group-title="Documentary" ,My Planet (Russia)
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="English" ,NHK WORLD (JAPAN)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,NEWS 18 BANGLA
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_2_av-p.m3u8
+#EXTINF:0 group-title="Others" ,VKT (Russia)
+http://stream.studio360.tv/nw/nw_576p/chunks.m3u8
+#EXTINF:0 group-title="Others" ,REN TV (Russia)
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Bangladeshi" tvg-id="T SPORTS HD" ,GAZI TV
