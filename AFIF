@@ -606,7 +606,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="CARTOON NETWORK (EAST)" tvg-name="CARTOON NETWORK (EAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" ,CARTOON NETWORK (EAST)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dYLwOJA.png" ,Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="TOY ZONE" tvg-name="TOY ZONE" tvg-logo="Logo N/A" ,TOY ZONE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" ,Gospel Cartoon
