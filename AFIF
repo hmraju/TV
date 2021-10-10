@@ -1711,4 +1711,96 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Ziggo Select" tvg-name="Ziggo Select" ,Ziggo Select
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:0 group-title="English" ,Hi Dost!
+https://tvstream.space/jtv/livetvv.php?c=Hi_Dost&=800&e=.m3u8
+#EXTINF:0 group-title="English" ,Local Now
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 group-title="English" ,Local Now Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 group-title="English" ,Local Now Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 group-title="English" ,Sony Pix
+https://tvstream.space/jtv/livetvv.php?c=Sony_Pix_SD&=800&e=.m3u8
+#EXTINF:0 group-title="English" ,Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:0 group-title="Indian" ,ABZY Movies
+https://tvstream.space/jtv/yxz.php?c=ABZY_Movies&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,And Pictures
+https://tvstream.space/jtv/livetvv.php?c=And_Pictures_HD&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,And Pictures HD
+https://tvstream.space/jtv/livetvv.php?c=And_Pictures_HD&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist_144p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Astro Box Office Bollyone HD
+https://mhdtvworld.xyz/delta/flix/max.php?id=56256588584&e=.m3u8
+#EXTINF:0 group-title="Indian" ,B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:0 group-title="Indian" ,B4U Movies
+https://tvstream.space/jtv/livetvv.php?c=B4U_Movies&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,B4U Music
+https://tvstream.space/jtv/livetvv.php?c=B4U_Music&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Bflix Movies
+https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
+#EXTINF:0 group-title="Indian" ,Bollywood TV
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Box Cinema
+https://tvstream.space/jtv/yxz.php?c=Box_Cinema&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,COLORS (HINDI)
+https://tvstream.space/jtv/livetvv.php?c=Colors_SD&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Colors Cineplex
+https://tvstream.space/jtv/livetvv.php?c=Colors_Cineplex&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Colors Cineplex Bollywood
+https://tvstream.space/jtv/yxz.php?c=Colors_Cineplex_Bollywood&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/1.m3u8
+#EXTINF:0 group-title="Indian" ,Colors Cineplex HD 2
+https://tvstream.space/jtv/livetvv.php?c=Colors_Cineplex_HD&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Dangal
+https://idvd.multitvsolution.com/idvo/dangal_540p/index.m3u8
+#EXTINF:0 group-title="Indian" ,DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Indian" ,Insync
+https://streaming37.worldbbtv.com/hls/insync.m3u8
+#EXTINF:0 group-title="Indian" ,Manoranjan Grand
+https://tvstream.space/jtv/yxz.php?c=Manoranjan_Grand&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Manoranjan TV
+https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Mastiiii
+https://tvstream.space/jtv/livetvv.php?c=Mastiii&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Raj Pariwar
+https://tvstream.space/jtv/yxz.php?c=Raj_Pariwar&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Shemaroo TV
+https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8?hdnts=st%3D1633888342%7Eexp%3D1633899142%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6d2ab981b6bc48acd6b3b8cb6f21fc79416bc96edae07606c65c3df4c319bf89
+#EXTINF:0 group-title="Indian" ,Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+#EXTINF:0 group-title="Indian" ,Sony Max 2
+https://tvstream.space/jtv/livetvv.php?c=Sony_MAX2&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Sony Pal
+https://tvstream.space/jtv/livetvv.php?c=Sony_Pal&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Sony SAB
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+#EXTINF:0 group-title="Indian" ,Sony SAB HD
+https://tvstream.space/jtv/livetvv.php?c=Sony_SAB_HD&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,SONY TV HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
+#EXTINF:0 group-title="Indian" ,Sony Wah
+https://tvstream.space/jtv/livetvv.php?c=Sony_Wah&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Utsav Gold HD
+https://mhdtvworld.xyz/delta/cloud/max.php?id=40603jh9665&e=.m3u8
+#EXTINF:0 group-title="Indian" ,UTV MOVIES
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:0 group-title="Indian" ,WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:0 group-title="Kids" ,TV Asia Comedy
+https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
+#EXTINF:0 group-title="Music" ,9x Jalwa
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Music" ,MTV (Hindi)
+https://tvstream.space/jtv/yxz.php?c=MTV&=800&e=.m3u8
+#EXTINF:0 group-title="News" ,BBC News Hindi
+https://tvstream.space/jtv/yxz.php?c=BBC_Hindi&=800&e=.m3u8
+#EXTINF:0 group-title="News" ,Republic Bharat
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/republicbharat-audio_208482_und=208000-video=877600.m3u8
 
