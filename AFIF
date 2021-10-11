@@ -1601,3 +1601,9 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 #EXTINF:0 group-title="Sports" ,TyC SPORT PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,Orange Bangla
+https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:0 group-title="Movies" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
