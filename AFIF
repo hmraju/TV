@@ -41,6 +41,8 @@ https://tv.bdtv.xyz:2096/SB/probashi/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,ANANDA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ATN BANGLA
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ATN News
@@ -107,10 +109,14 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,MY TV HD
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,NAGORIK TV
+http://103.205.133.40/hls/nagorik.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,News 24
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,NEWS24 HD
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,NTV
+http://103.205.133.40/hls/ntv.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,RTV HD
 https://rhridoy136.shortcm.li/rtv.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,RTV HD BD
@@ -125,6 +131,8 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,SOMOY NEWS HD
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:0 group-title="Bangladeshi" ,T-SPORTS HD
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Documentary" ,ANIMAL PLANET [Hindi]
 http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
 #EXTINF:0 group-title="Documentary" ,Animal Planet HD Hindi
@@ -539,6 +547,8 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:0 group-title="Indian" ,STAR PLUS HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
+#EXTINF:0 group-title="Indian" ,STAR PLUS SHKODER HD
+https://list.iptvcat.com/my_list/s/5362f0a59d6d3d44405e9af6308fd7a3.m3u8
 #EXTINF:0 group-title="Indian" ,STAR PROBAH HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/198
 #EXTINF:0 group-title="Indian" ,Star Vijay 4K
@@ -640,7 +650,7 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Indian" ,Zee TV Middle East
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="Indian" ,Zee TV Russia
-https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v4a1/mono.m3u8
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8200?checkedby:iptvcat.com
 #EXTINF:0 group-title="Indian" ,Zee TV USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="Indian" ,Zee5 Originals
@@ -674,7 +684,7 @@ https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/TNk56Ai.png" ,Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,SONY AATH
-https://tvstream.space/jtv/livtvvvz.php?c=Sony_aath&=800&e=.m3u8
+http://103.205.133.40/hls/sony8.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,STAR JALSHA
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:0 group-title="Indian Bangla" tvg-id="TV9 BANGLA" ,TV9 BANGLA
@@ -831,6 +841,8 @@ https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:0 group-title="Movies" ,Bazme Asheghan
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
+#EXTINF:0 group-title="Movies" ,C MORE STARS HD
+https://list.iptvcat.com/my_list/s/c24d1587364f137fa02231fad32518d5.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="Celestial Movies" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" ,Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CINE LIFE HD" tvg-name="CINE LIFE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7DkCQZsumvoJKijtcJ9XD5iMP_NMxuzOnA&usqp=CAU" ,CINE LIFE HD
@@ -889,10 +901,18 @@ https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/131
 #EXTINF:0 group-title="Movies" ,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0 group-title="Movies" ,MBC 2 HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80261?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Movies" tvg-id="MBC 4 HD" tvg-name="MBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MBC_4_TV_Channel_Logo.png" ,MBC 4 HD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 group-title="Movies" ,MBC ACTION
+https://list.iptvcat.com/my_list/s/08b91800dee888d8fe24cbdc0ccebcad.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="|MBC| Bollywood FHD" tvg-name="|MBC| Bollywood FHD" ,MBC Bollywood FHD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:0 group-title="Movies" ,MBC MAX
+https://list.iptvcat.com/my_list/s/a71f4e08f2075908efd4b74e41cea769.m3u8
+#EXTINF:0 group-title="Movies" ,MBC MAX FHD
+https://list.iptvcat.com/my_list/s/1ce7d0d4943aa914fd69a960f237c52f.m3u8
 #EXTINF:0 group-title="Movies" ,MOVIES NOW
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 group-title="Movies" ,MOVIES NOW HD
@@ -923,6 +943,16 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/107
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/108
 #EXTINF:0 group-title="Movies" ,SONY AXN
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/115
+#EXTINF:0 group-title="Movies" ,STAR CHANNEL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31048?checkedby:iptvcat.com
+#EXTINF:0 group-title="Movies" ,STAR HITS 1 HD
+https://list.iptvcat.com/my_list/s/a3b1cbe8d09d71a4b866b6c21925f47b.m3u8
+#EXTINF:0 group-title="Movies" ,STAR HITS 2 HD
+https://list.iptvcat.com/my_list/s/3fba07fb0cce9b44bdc3478b6ac6ceb5.m3u8
+#EXTINF:0 group-title="Movies" ,STAR LIFE HD
+https://list.iptvcat.com/my_list/s/d84dfcdd811dc396bc5cd612a30c6952.m3u8
+#EXTINF:0 group-title="Movies" ,STAR MOVIEMI HD
+https://list.iptvcat.com/my_list/s/b737173bae17633d8b56d5a01531b338.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="StarMoviesHD.in" ,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="StarWorldHD.in" ,Star World HD
@@ -1531,6 +1561,8 @@ http://103.153.39.34:8000/play/a049/index.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:0 group-title="Sports" ,SPORT 1 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/213
+#EXTINF:0 group-title="Sports" ,SPORT 5 Stars HD
+https://list.iptvcat.com/my_list/s/21a0603475d4523fe970e05a2415cf87.m3u8
 #EXTINF:0 group-title="Sports" ,Sport 7 TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
 #EXTINF:0 group-title="Sports" ,Sports
@@ -1543,12 +1575,22 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/768x432_1425600/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Stadium Sports tv" tvg-name="Stadium Sports tv" ,Stadium Sports tv
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0 group-title="Sports" ,STAR SPORTS 1 HD
+https://list.iptvcat.com/my_list/s/50d55710e9896c2ce57c50281dfe3359.m3u8
+#EXTINF:0 group-title="Sports" ,STAR SPORTS 1 HD
+https://list.iptvcat.com/my_list/s/66491995b4694e6c0b42fa85875e8ea7.m3u8
 #EXTINF:0 group-title="Sports" ,STAR SPORTS 1 HINDI HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:0 group-title="Sports" tvg-id="StarSportsHD2.in" ,STAR SPORTS 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+#EXTINF:0 group-title="Sports" ,STAR SPORTS 2 HD
+https://list.iptvcat.com/my_list/s/07cf11ba55e596b93853f6d452441dcd.m3u8
+#EXTINF:0 group-title="Sports" ,STAR SPORTS FIRST
+https://list.iptvcat.com/my_list/s/0259335b17b5abebe60ec05ecd078cac.m3u8
 #EXTINF:0 group-title="Sports" ,Star Sports Select 1 HD
 http://172.22.22.76/live/feed1003/index.m3u8
+#EXTINF:0 group-title="Sports" ,STAR SPORTS SELECT 1 HD
+https://list.iptvcat.com/my_list/s/9f4ed55df1234976b013003e6bf844ea.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/rCa9a5j.png" ,Star Sports Select 2 HD
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UEvEaOK.png" ,Super Sports 1
