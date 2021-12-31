@@ -3,8 +3,6 @@
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,ATN Islamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla IPTV" ,ATN Music
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,Bangla 21.TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,Bangla TV Cinema
@@ -47,8 +45,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,ROAL TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla IPTV" ,RTV Music
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,Sristy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,Times 24
@@ -59,12 +55,26 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla IPTV" ,VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla Music" ,ATN Music
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla Music" ,RTV Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla Music" ,Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Bangla Music" ,Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Bangla News" ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
+#EXTINF:0 group-title="Bangla News" ,Asianet News Bangla
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Bangla News" ,Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:0 group-title="Bangla News" ,NEWS 18 BANGLA
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_2_av-p.m3u8
 #EXTINF:0 group-title="Bangla News" ,R BANGLA
 https://ottrbng2.republicworld.com/live/rbanglatv/chunklist_2.m3u8
+#EXTINF:0 group-title="Bangla News" ,TV9 BANGLA
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,ANANDA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,Asian TV
@@ -161,6 +171,8 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Bangladeshi" ,T-SPORTS HD
 http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:0 group-title="Documentary" ,Animal Planet HD
+https://tvstream.space/jtv/ddx.php?c=Animal_Planet_HD&=800&e=.m3u8
 #EXTINF:0 group-title="Documentary" ,BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="Documentary" ,CCTN DOCUMENTARY
@@ -191,8 +203,6 @@ https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x5
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:0 group-title="Documentary" ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 group-title="Documentary" ,Love Nature 4K
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Documentary" ,NASA MEDIA TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:0 group-title="Documentary" ,NAT GEO HD [ABU DHABI]
@@ -201,6 +211,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Documentary" ,SONY BBC EARTH HD
 https://tvstream.space/jtv/ddx.php?c=Sony_BBC_Earth_HD_English&=800&e=.m3u8
+#EXTINF:0 group-title="Documentary" ,TLC
+https://tvstream.space/jtv/ddx.php?c=TLC_English&=800&e=.m3u8
 #EXTINF:0 group-title="Documentary" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="English" ,Absolute Reality by We TV
@@ -211,12 +223,8 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w1441530266.m3u8?
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
 #EXTINF:0 group-title="English" ,C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:0 group-title="English" ,Channel 44
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:0 group-title="English" ,Dubai One (English)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:0 group-title="English" ,Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="English" ,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="English" ,INTROUBLE TV
@@ -227,8 +235,6 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="English" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:0 group-title="English Movies" ,24 HOURSMOVIES
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:0 group-title="English Movies" ,AVA Family
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:0 group-title="English Movies" ,AVA Series
@@ -257,8 +263,6 @@ https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/640x360_700000/chunklist.m3u8
 #EXTINF:0 group-title="English Movies" ,Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:0 group-title="English Movies" ,Gravitus Movies
-https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/f89143e1-1236-4a2c-b438-b15dc0b0b69b/1.m3u8
 #EXTINF:0 group-title="English Movies" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 group-title="English Movies" ,Hallmark Movies And More
@@ -269,8 +273,6 @@ http://183.178.58.115:8032/0.m3u8
 http://183.178.58.115:8031/0.m3u8
 #EXTINF:0 group-title="English Movies" ,Hi-Ya
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:0 group-title="English Movies" ,HORROR MOVIES
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/111
 #EXTINF:0 group-title="English Movies" ,iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="English Movies" ,Local Now Adrenaline Rush
@@ -295,26 +297,14 @@ http://45.126.83.51/dr9445/h/h16/02.m3u8
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_4.m3u8
 #EXTINF:0 group-title="English Movies" ,SIXX HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/132
-#EXTINF:0 group-title="English Movies" ,SKY CINEMA
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/109
-#EXTINF:0 group-title="English Movies" ,Sky Cinema
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/111
-#EXTINF:0 group-title="English Movies" ,SKY Movies
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/108
 #EXTINF:0 group-title="English Movies" ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="English Movies" ,SONY AXN
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/115
+#EXTINF:0 group-title="English Movies" ,SONY PIX HD
+https://tvstream.space/jtv/ddx.php?c=Sony_Pix_HD&=800&e=.m3u8
 #EXTINF:0 group-title="English Movies" ,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:0 group-title="English Movies" ,SUPPER AKSION HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/242
-#EXTINF:0 group-title="English Movies" ,SUPPER AUTOR
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/241
-#EXTINF:0 group-title="English Movies" ,SUPPER GOLD HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/236
-#EXTINF:0 group-title="English Movies" ,SUPPER MAX HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/239
 #EXTINF:0 group-title="English Movies" ,SY FY
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/116
 #EXTINF:0 group-title="English Movies" ,The Film Detective
@@ -375,6 +365,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://208.86.19.21:80/703.stream/index.m3u8
 #EXTINF:0 group-title="hindi Entertainment" ,Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Hindi Entertainment" ,Colors Rishtey
+https://tvstream.space/jtv/ddx.php?c=Rishtey&=800&e=.m3u8
+#EXTINF:0 group-title="Hindi Entertainment" ,Colors Super
+https://tvstream.space/jtv/ddx.php?c=Colors_Super&=800&e=.m3u8
 #EXTINF:0 group-title="hindi Entertainment" ,Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 group-title="hindi Entertainment" ,Dangal
@@ -409,8 +403,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:0 group-title="Hindi Movies" ,COLORS CINEPLAX HD
 http://208.86.19.21:80/735.stream/index.m3u8
-#EXTINF:0 group-title="Hindi Movies" ,Colours Cineplex
-http://208.86.19.21:80/735.stream/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Colors Cineplex Bollywood
+https://tvstream.space/jtv/ddx.php?c=Colors_Cineplex_Bollywood&=800&e=.m3u8
 #EXTINF:0 group-title="Hindi Movies" ,Dhinchaak 2
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0 group-title="Hindi Movies" ,Dhinchak
@@ -495,14 +489,22 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:0 group-title="Hindi Music" ,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com=&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Hindi Music" ,MTV BEETS
+https://tvstream.space/jtv/ddx.php?c=MTV_Beats_HD&=800&e=.m3u8
 #EXTINF:0 group-title="Hindi Music" ,MTV HD Plus
 http://jo123.biz/jweb/m3u8.php?c=MTV_HD_Plus&
+#EXTINF:0 group-title="Hindi Music" ,MTV HD PLUS
+https://tvstream.space/jtv/ddx.php?c=MTV_HD_Plus&=800&e=.m3u8
 #EXTINF:0 group-title="Hindi Music" ,MUSIC INDIA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Hindi Music" ,Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:0 group-title="Hindi Music" ,Pop Pataakha
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Raj Music Kannada
+https://tvstream.space/jtv/ddx.php?c=Raj_Music_Kannada&=800&e=.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Raj Musix
+https://tvstream.space/jtv/ddx.php?c=Raj_Musix&=800&e=.m3u8
 #EXTINF:0 group-title="Hindi Music" ,SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:0 group-title="Hindi Music" ,Wow Music
@@ -569,10 +571,16 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:0 group-title="Indian" ,PTC Punjabi Gold
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+#EXTINF:0 group-title="Indian" ,Raj Digital Plus
+https://tvstream.space/jtv/ddx.php?c=Raj_Digital_Plus&=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Raj TV
+https://tvstream.space/jtv/ddx.php?c=Raj_TV&=800&e=.m3u8
 #EXTINF:0 group-title="Indian" ,Relax TV
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 #EXTINF:0 group-title="Indian" ,Rishtey Cineplex
 http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF:0 group-title="Indian" ,Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
 #EXTINF:0 group-title="Indian" ,Sansad TV
 https://playhls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:0 group-title="Indian" ,Show Box
@@ -641,10 +649,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
 #EXTINF:0 group-title="Indian" ,ZEE TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Indian" ,Zee TV HD
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Indian" ,ZEE TV HD-1
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,AKASH AATH
@@ -653,10 +657,6 @@ http://jo123.biz/jweb/m3u8.php?c=Aakaash_bangla&
 https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Amar Cinema
 http://jo123.biz/jweb/m3u8.php?c=Amaar_Cinema&
-#EXTINF:0 group-title="Indian Bangla" ,Asianet News Bangla
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Indian Bangla" ,Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Bangla TALKIES
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Colours Bangla HD
@@ -669,12 +669,8 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
-#EXTINF:0 group-title="Indian Bangla" ,NEWS 18 BANGLA
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_2_av-p.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Orange Bangla
 https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
-#EXTINF:0 group-title="Indian Bangla" ,Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,SONY AATH
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=800&e=junk.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,SONY AATH
@@ -685,8 +681,6 @@ http://208.86.19.21:80/908.stream/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:0 group-title="Indian Bangla" ,Star Jalsha HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2857
-#EXTINF:0 group-title="Indian Bangla" ,TV9 BANGLA
-https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Zee Bangla Cinema
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,ZEE BANGLA HD
@@ -743,6 +737,8 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 group-title="Kids" ,Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:0 group-title="Kids" ,NICK Jr
+https://tvstream.space/jtv/ddx.php?c=Nick_Junior&=800&e=.m3u8
 #EXTINF:0 group-title="Kids" ,NICK Jr. DORA TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:0 group-title="Kids" ,NICK PLUTO TV
