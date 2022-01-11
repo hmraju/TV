@@ -1001,3 +1001,166 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/221
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:0 group-title="Sports" ,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Toffee Server-Dipu", BTV Sangshodh
+https://streamer-1.toffeelive.com/live/btv_sangshodh_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Toffee Server-Dipu", Channel I
+https://streamer-1.toffeelive.com/live/channel_i_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Toffee Server-Dipu", Ekattor TV HD
+https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Toffee Server-Dipu", Independent News
+https://streamer-1.toffeelive.com/live/independent_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Toffee Server-Dipu", News 24
+https://streamer-1.toffeelive.com/live/news24hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Toffee Server-Dipu", Somoy Tv
+https://streamer-1.toffeelive.com/live/somoy_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Toffee Server-Dipu", Bijay Tv
+https://streamer-1.toffeelive.com/live/bijoy_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="Toffee Server-Dipu", NTV
+https://streamer-1.toffeelive.com/live/ntv_b_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Toffee Server-Dipu", Ananda Tv
+https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Toffee Server-Dipu", Channel 24
+https://streamer-1.toffeelive.com/live/channel_24_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Toffee Server-Dipu", Dbc News
+https://streamer-1.toffeelive.com/live/dbc_news_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Toffee Server-Dipu", Desh Tv
+https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Toffee Server-Dipu", Boishakhi Tv
+https://streamer-1.toffeelive.com/live/boishakhi_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png group-title=" group-title="Toffee Server-Dipu", My Tv
+https://streamer-1.toffeelive.com/live/my_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Toffee Server-Dipu", Bangla Tv Hd
+https://streamer-1.toffeelive.com/live/bangla_tv_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Toffee Server-Dipu", SONY TEN 1 HD
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Toffee Server-Dipu", SONY TEN 2 HD
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Toffee Server-Dipu", SONY TEN 3 HD
+https://streamer-1.toffeelive.com/live/sony_ten3_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee Server-Dipu", SONY SIX HD
+https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee Server-Dipu", Sony Six SD
+https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Toffee Server-Dipu", Sony Aath
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Toffee Server-Dipu", Sony Enterteiment
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Toffee Server-Dipu", Sony Max HD
+https://streamer-1.toffeelive.com/live/sony_max_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Toffee Server-Dipu", Sony Max
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png" group-title="Toffee Server-Dipu", Sony Max 2
+https://streamer-1.toffeelive.com/live/sony_max_2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Toffee Server-Dipu", Sony Sab HD
+https://streamer-1.toffeelive.com/live/sony_sab_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Toffee Server-Dipu", Sony Sab
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Toffee Server-Dipu", Sony Yay
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755457s.png" group-title="Toffee Server-Dipu", Sony PAL
+https://streamer-1.toffeelive.com/live/sony_pal_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Toffee Server-Dipu", Sony Pix HD
+https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Toffee Server-Dipu", Sony Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Toffee Server-Dipu", Sony Wah
+https://streamer-1.toffeelive.com/live/sony_wah_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Toffee Server-Dipu", Zee Bangla (SD)
+https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Toffee Server-Dipu", Colors Bangla
+https://streamer-1.toffeelive.com/live/colors_b_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Toffee Server-Dipu", Zee TV HD
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Toffee Server-Dipu", Zee Cinema HD
+https://streamer-1.toffeelive.com/live/zee_cinema_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Toffee Server-Dipu", Zee Action
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Toffee Server-Dipu", Zing
+https://streamer-1.toffeelive.com/live/zing_sd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Toffee Server-Dipu", Nick
+https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Toffee Server-Dipu", Sony BBC earth HD
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Toffee Server-Dipu", Sony BBC earth SD
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Toffee Server-Dipu", Tech Storm
+https://streamer-1.toffeelive.com/live/tech_storm_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Toffee Server-Dipu", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Toffee Server-Dipu", MTV India
+https://streamer-1.toffeelive.com/live/mtv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="Toffee Server-Dipu", DW
+https://streamer-1.toffeelive.com/live/dw_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Toffee Server-Dipu", CGTN
+https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJ4HZSEOLozatNYI8UZlpyXdtmvd7GNF9bDwe7wA=s900-c-k-c0x00ffffff-no-rj" group-title="Toffee Server-Dipu", Arirang
+https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="Toffee Server-Dipu", Al Jazeera
+https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Toffee Server-Dipu", Euro news
+https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="Toffee Server-Dipu", Tv5 Monde
+https://streamer-1.toffeelive.com/live/tv5_monde_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Toffee Server-Dipu", Zee Business
+https://streamer-1.toffeelive.com/live/zee_business_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Toffee Server-Dipu", Russia Today
+https://streamer-1.toffeelive.com/live/russia_today_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Toffee Server-Dipu", Russia Today
+https://streamer-1.toffeelive.com/live/nhk_world_720/index.m3u8
+
+
