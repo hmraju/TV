@@ -311,9 +311,9 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:0,BBO
 #EXTGRP:Hindi Movies
 https://catchup.yuppcdn.net/amazonv2/20/preview/bbo/master/master.m3u8
-#EXTINF:0,And Pictures HD
+#EXTINF:0,AXN
 #EXTGRP:Hindi Movies
-http://103.153.39.36:8000/play/a017
+https://list.iptvcat.com/my_list/s/92481bed439db3b18bf3fceaed95cd26.m3u8
 #EXTINF:0,ZEE CASSIC
 #EXTGRP:Hindi Movies
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
