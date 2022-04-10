@@ -117,9 +117,9 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0,UTV ACTION
 #EXTGRP:FLIX MOVIES
 http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:0,SONY MAX HD
+#EXTINF:0,HBO2
 #EXTGRP:FLIX MOVIES
-http://live.flixhub.net/hls/sonymax.m3u8
+https://list.iptvcat.com/my_list/s/668ee4287d11a217a62573e64c645c85.m3u8
 #EXTINF:0,AND PICTURES DH
 #EXTGRP:FLIX MOVIES
 http://live.flixhub.net/hls/andpictures.m3u8
