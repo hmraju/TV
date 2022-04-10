@@ -76,7 +76,7 @@ http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
 #EXTINF:0,Channel 9
 #EXTGRP:Bangladeshi
-http://103.149.130.122:8089/4/index.m3u8
+https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:0,GAAN BANGLA
 #EXTGRP:Bangladeshi
 http://103.149.130.122:8089/58/index.m3u8
@@ -91,6 +91,7 @@ https://tv.banglaplex.site/My-TV.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Bangladeshi
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 #EXTINF:0,NTV BD
 #EXTGRP:Bangladeshi
@@ -1325,9 +1326,9 @@ http://51.210.199.16/hls/stream.m3u8
 #EXTINF:0,DocuBay TV
 #EXTGRP:Documentary
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/video_480p_1000004370.m3u8
-#EXTINF:0,Discovery HD
+#EXTINF:0,Discovery Science
 #EXTGRP:Documentary
-http://103.153.39.36:8000/play/a00y
+https://list.iptvcat.com/my_list/s/ee95edaa23a264809987cd87636e12d3.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Documentary
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
