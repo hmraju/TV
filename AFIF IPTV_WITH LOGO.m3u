@@ -121,6 +121,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Travel XP Bangla
+http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Afroland TV
 https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Arre
@@ -209,7 +211,13 @@ http://14.199.164.20:4001/play/a0m2/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,Rishtey Cineplex
 https://tvstream.fun/jtv/m3u8x.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,SONY MAX 2
+http://103.153.39.36:8000/play/a01s
 #EXTINF:0 group-title="HINDI MOVIES" ,Star Gold HD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,Star Gold Select HD
+http://103.153.39.36:8000/play/a014
+#EXTINF:0 group-title="HINDI MOVIES" ,Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
@@ -303,10 +311,14 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
 https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,COLORS BANGLA CINEMA
+http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" ,COLORS BANGLA HD
 http://str24.l9574.com:80/616.stream/index.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://ajkerproduct.com/wp-content/uploads/2021/01/Enter10-bangla-all-serial.jpg" ,Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Jonack_logo.png" ,Jonack TV
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg" ,Khushboo Bangla
@@ -323,10 +335,18 @@ https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,SONY AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,SONY ৮
+http://103.55.144.46/hls/Sony_Aath.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,SUN BANGLA
+http://103.55.144.46/hls/sunbangla.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/11/24/tv9_0.jpg?itok=JyOhnCkI" ,TV9 BANGLA
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bangla_hd.jpg" ,ZEE BANGLA HD
 http://str24.l9574.com:80/615.stream/index.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,ZeeBangla Cinema
+http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 group-title="ISLAMIC" ,Ashrafi Channel
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:0 group-title="ISLAMIC" ,ATN ISLAMIC
@@ -369,6 +389,8 @@ http://51.210.199.12/hls/stream.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:0 group-title="KIDS" ,POGO
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MOVIES" ,AND PRIVE HD
+http://103.153.39.36:8000/play/a01d
 #EXTINF:0 group-title="MOVIES" ,AVA Series
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:0 group-title="MOVIES" ,AXN HD
@@ -409,6 +431,10 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x7
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:0 group-title="MOVIES" ,LS 2
 http://51.210.199.2/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES" ,LS1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES" ,LS2
+http://51.210.199.2/hls/stream.m3u8
 #EXTINF:0 group-title="MOVIES" ,MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist360p.m3u8
 #EXTINF:0 group-title="MOVIES" ,MOVIE SPHERE 2
@@ -429,6 +455,10 @@ https://ammoruntime-plex.amagi.tv/playlist.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MOVIES" ,Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 group-title="MOVIES" ,VOX1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES" ,VOX2
+http://51.210.199.9/hls/stream.m3u8
 #EXTINF:0 group-title="MOVIES" ,Warner WB
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" ,BOX HITTS
@@ -579,8 +609,6 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Oman Sport ARB
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Redbull TV
