@@ -709,3 +709,13 @@ http://208.86.19.13:81/514.stream/index.m3u8
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1,P tv
 http://208.86.19.13:81/603.stream/index.m3u8
+#EXTINF:-1,CBS
+http://208.86.19.13:81/101.stream/index.m3u8
+#EXTINF:-,CNBC SPORTS
+http://208.86.19.13:81/102.stream/index.m3u8
+#EXTINF:-,iON MYSTERY
+http://208.86.19.13:81/111.stream/index.m3u8
+#EXTINF:-,Tbs
+http://208.86.19.13:81/201.stream/index.m3u8
+
+
