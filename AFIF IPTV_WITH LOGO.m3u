@@ -721,7 +721,18 @@ http://208.86.19.13:81/201.stream/index.m3u8
 http://208.86.19.13:81/505.stream/index.m3u8
 #EXTINF:-,9XM
 http://208.86.19.13:81/522.stream/index.m3u8
-
+#EXTINF:-,Astro Cricket
+http://208.86.19.13:81/707.stream/index.m3u8
+#EXTINF:-,ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-,SONY SUB HD
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-,&TV HD
+http://208.86.19.13:81/703.stream/index.m3u8
+#EXTINF:-,&PICTURES HD
+http://208.86.19.13:81/705.stream/index.m3u8
+#EXTINF:-,SONY MAX
+http://208.86.19.13:81/706.stream/index.m3u8
 
 
 
