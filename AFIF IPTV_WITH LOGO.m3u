@@ -1146,3 +1146,5 @@ http://208.86.19.13:81/902.stream/index.m3u8
 http://89.187.162.109/ZING/mono.m3u8
 #EXTINF:-1 ,T SPORTS
 http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:- ,GAZI TV HD
+http://103.124.110.34:8082/gtv/index.m3u8
