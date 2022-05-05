@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0 group-title="BANGLA IPTV" ,Jonmobhumi TV
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,T SPORTS HD
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w799193377.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Millennium TV Bangla
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Jhankar TV
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Bangla21 TV
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,BTV WORLD
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,TIMES24 TV
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Movie Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8?nimblesessionid=864059886
+#EXTINF:0 group-title="SPORTS" ,Sony Ten 2 HD
+http://103.136.200.246:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Ten 1 HD
+http://103.136.200.246:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MOVIES" ,Celestial Movies
 http://axcestv.vip:8080/live/freeview/axcestv/680.ts
 #EXTINF:0 group-title="MOVIES" ,Star Chinese Movies
