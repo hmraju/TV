@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" ,BIJOY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" ,EKATTOR TV HD
+http://208.86.19.13:80/604.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png" ,ANANDA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" ,ASIAN TV
@@ -13,6 +15,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 http://208.86.19.13:81/806.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" ,BANGLA TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla" ,BANGLA TV (1)
+http://stream.accessnetbd.com/hls/sky10.m3u8
 #EXTINF:0 group-title="Bangla" ,BANGLAVISION
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,BOISHAKHI TV
@@ -45,8 +49,10 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://208.86.19.13:80/686.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" ,EKUSHE TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 group-title="Bangla" ,GAAN BANGLA 1
+http://stream.accessnetbd.com/hls/sky11.m3u8
 #EXTINF:0 group-title="Bangla" ,GAAN BANGLA
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GAZI TV (LOCAL)
 http://172.22.22.76/live/feed1001/index.m3u8
 #EXTINF:0 group-title="Bangla" ,GAZI TV HD
@@ -75,6 +81,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" ,SA TV
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:0 group-title="Bangla" ,SA TV (2)
+http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" ,Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,SOMOY NEWS
@@ -357,12 +365,24 @@ http://axcestv.vip:8080/live/freeview/axcestv/777.ts
 http://axcestv.vip:8080/live/freeview/axcestv/776.ts
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,Colors HD
 http://axcestv.vip:8080/live/freeview/axcestv/778.ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,COLORS HD
+http://208.86.19.13:80/605.stream/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,ZEE TV HD
+http://208.86.19.13:80/606.stream/index.m3u8
 #EXTINF:0 group-title="INDIAN" ,SUN TV
 http://axcestv.vip:8080/live/freeview/axcestv/781.ts
 #EXTINF:0 group-title="INDIAN" ,ZEE Bioskop
 http://axcestv.vip:8080/live/freeview/axcestv/783.ts
-#EXTINF:0 group-title="SPORTS" ,Arena
-http://axcestv.vip:8080/live/freeview/axcestv/785.ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,STAR PLUS HD
+http://208.86.19.13:80/607.stream/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 1 HD
+http://103.55.144.46:80/hls/sonyten1.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 2 HD
+http://103.55.144.46:80/hls/sonyten2.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 3
+http://103.55.144.46:80/hls/sonyten3.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SIX HD
+http://103.55.144.46:80/hls/sonysix.m3u8
 #EXTINF:0 group-title="SPORTS" ,Arena 2
 http://axcestv.vip:8080/live/freeview/axcestv/786.ts
 #EXTINF:0 group-title="SPORTS" ,ASSP-A
@@ -536,8 +556,6 @@ http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Local Now Discover
 https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8
-#EXTINF:0 group-title="ENGLISH" ,Local Now Stargaze
-https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist_640x360.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" ,WOW TV
