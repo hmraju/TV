@@ -233,8 +233,8 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 http://str24.l9574.com:80/615.stream/index.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,ZeeBangla Cinema
 http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
-#EXTINF:0 group-title="MOVIES" ,Celestial Movies
-http://axcestv.vip:8080/live/freeview/axcestv/680.ts
+#EXTINF:0 group-title="MOVIES" ,5 Movies
+http://streamstat.net/play.cgi?sid=407030601&ext=.m3u8
 #EXTINF:0 group-title="MOVIES" ,Star Chinese Movies
 http://axcestv.vip:8080/live/freeview/axcestv/683.ts
 #EXTINF:0 group-title="ENGLISH MOVIES" ,HITS Movies
