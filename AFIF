@@ -237,8 +237,8 @@ http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 http://streamstat.net/play.cgi?sid=407030601&ext=.m3u8
 #EXTINF:0 group-title="MOVIES" ,Star Chinese Movies
 http://axcestv.vip:8080/live/freeview/axcestv/683.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HITS Movies
-http://axcestv.vip:8080/live/freeview/axcestv/711.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HITS
+http://streamstat.net/play.cgi?sid=263814510&ext=.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Cinemax
 http://axcestv.vip:8080/live/freeview/axcestv/708.ts
 #EXTINF:0 group-title="ENGLISH MOVIES" ,SHOWCASE MOVIES
