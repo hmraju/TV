@@ -267,20 +267,20 @@ http://221.120.204.4:8080/GEO-ENT-LOCKLE/index.m3u8
 http://221.120.204.4:8080/LAHORE-RANG-LOCKLE/index.m3u8
 #EXTINF:0 group-title="PAKISTANI" ,URDU 1
 http://221.120.204.4:8080/URDU-1-LOCKLE/index.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,Star Movie Select
-http://axcestv.vip:8080/live/freeview/axcestv/705.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,SONY Pix
-http://axcestv.vip:8080/live/freeview/axcestv/706.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,MyCinema
-http://axcestv.vip:8080/live/freeview/axcestv/699.ts
-#EXTINF:0 group-title="MOVIES" ,MyCinema Asia
-http://axcestv.vip:8080/live/freeview/axcestv/700.ts
-#EXTINF:0 group-title="MOVIES" ,MyFamily Cinema
-http://axcestv.vip:8080/live/freeview/axcestv/701.ts
-#EXTINF:0 group-title="MOVIES" ,Galaxy
-http://axcestv.vip:8080/live/freeview/axcestv/709.ts
-#EXTINF:0 group-title="MOVIES" ,Galaxy Premium
-http://axcestv.vip:8080/live/freeview/axcestv/710.ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY SUB HD
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SIX HD
+http://103.136.200.246:8082/SonySix/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 1
+http://103.136.200.246:8082/Ten1/index.m3u8 
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 2
+http://103.136.200.246:8082/Ten2/index.m3u8 
+#EXTINF:0 group-title="SPORTS" ,SONY TEN 3
+http://103.136.200.246:8082/Ten3/index.m3u8 
+#EXTINF:0 group-title="MOVIES" ,SONY PIX HD
+http://103.136.200.246:8082/SonyPix/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,COLORS HD
+http://103.136.200.246:8082/colorsindia/index.m3u8
 #EXTINF:0 group-title="MOVIES" ,CinemaWorld
 http://axcestv.vip:8080/live/freeview/axcestv/712.ts
 #EXTINF:0 group-title="MOVIES" ,Thrill
