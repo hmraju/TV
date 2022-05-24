@@ -247,22 +247,20 @@ http://172.22.22.76/live/feed1003/index.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,NANDAN TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,SHOWCASE MOVIES
-http://axcestv.vip:8080/live/freeview/axcestv/698.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO FHD
-http://axcestv.vip:8080/live/freeview/axcestv/692.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO
-http://axcestv.vip:8080/live/freeview/axcestv/693.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO Hits
-http://axcestv.vip:8080/live/freeview/axcestv/695.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO Family
-http://axcestv.vip:8080/live/freeview/axcestv/696.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO Signature
-http://axcestv.vip:8080/live/freeview/axcestv/697.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,MN+ HD
-http://axcestv.vip:8080/live/freeview/axcestv/982.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,&Flix HD
-http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR MOVIES HD
+http://221.120.204.4:8080/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR WORLD HD
+http://221.120.204.4:8080/star-world-LOCKLE/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,SONY MAX HD
+http://221.120.204.4:8080/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY HD
+http://221.120.204.4:8080/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,ZEE TV HD
+http://221.120.204.4:8080/zee-tv-LOCKLE/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,ZEE CINEMA HD
+http://221.120.204.4:8080/zee-cinema-LOCKLE/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,GEO 
+http://221.120.204.4:8080/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,&Prive HD
 http://axcestv.vip:8080/live/freeview/axcestv/703.ts
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Star Movies
