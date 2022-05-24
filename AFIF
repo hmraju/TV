@@ -10,7 +10,7 @@ http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN BANGLA UK
 http://208.86.19.13:80/664.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN BANGLA 1
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN NEWS
 http://208.86.19.13:81/806.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" ,BANGLA TV
@@ -26,7 +26,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png" ,BTV
 http://208.86.19.13:81/627.stream/index.m3u8 
 #EXTINF:0 group-title="Bangla" ,CHANNEL 24 HD
-https://rhridoy136.shortcm.li/channel24.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" ,NTV BD
 http://208.86.19.13:80/652.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" ,DESH TV
@@ -47,10 +47,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" ,MASRANGA TV
 http://208.86.19.13:80/686.stream/index.m3u8
+#EXTINF:0 group-title="Bangla" ,DEEPTO TV2
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" ,EKUSHE TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 group-title="Bangla" ,GAAN BANGLA 1
 http://stream.accessnetbd.com/hls/sky11.m3u8
+#EXTINF:0 group-title="Bangla" ,GAAN BANGLA 2
+https://tv.banglaplex.site/Gaan-Bangla.m3u8
 #EXTINF:0 group-title="Bangla" ,GAAN BANGLA
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GAZI TV (LOCAL)
@@ -163,6 +167,8 @@ https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,CNN BANGLA
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Akash Aath
@@ -235,12 +241,12 @@ http://str24.l9574.com:80/615.stream/index.m3u8
 http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 group-title="MOVIES" ,5 Movies
 http://streamstat.net/play.cgi?sid=407030601&ext=.m3u8
-#EXTINF:0 group-title="MOVIES" ,Star Chinese Movies
-http://axcestv.vip:8080/live/freeview/axcestv/683.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,HITS
-http://streamstat.net/play.cgi?sid=263814510&ext=.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,Cinemax
-http://axcestv.vip:8080/live/freeview/axcestv/708.ts
+#EXTINF:0 group-title="SPORTS" ,Star Sports 1 HD
+http://172.22.22.76/live/feed1003/index.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,iTV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,SHOWCASE MOVIES
 http://axcestv.vip:8080/live/freeview/axcestv/698.ts
 #EXTINF:0 group-title="ENGLISH MOVIES" ,HBO FHD
