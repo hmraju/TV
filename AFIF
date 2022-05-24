@@ -29,6 +29,8 @@ http://208.86.19.13:81/627.stream/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" ,NTV BD
 http://208.86.19.13:80/652.stream/index.m3u8
+#EXTINF:0 group-title="Bangla" ,BTV WORLD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla" ,DESH TV
 http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:0 group-title="Bangla" ,Channel 9
@@ -259,12 +261,12 @@ http://221.120.204.4:8080/SONY-HD-LOCKLE/index.m3u8
 http://221.120.204.4:8080/zee-tv-LOCKLE/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,ZEE CINEMA HD
 http://221.120.204.4:8080/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,GEO 
+#EXTINF:0 group-title="PAKISTANI" ,GEO 
 http://221.120.204.4:8080/GEO-ENT-LOCKLE/index.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,&Prive HD
-http://axcestv.vip:8080/live/freeview/axcestv/703.ts
-#EXTINF:0 group-title="ENGLISH MOVIES" ,Star Movies
-http://axcestv.vip:8080/live/freeview/axcestv/704.ts
+#EXTINF:0 group-title="PAKISTANI" ,LAHORE RANG
+http://221.120.204.4:8080/LAHORE-RANG-LOCKLE/index.m3u8
+#EXTINF:0 group-title="PAKISTANI" ,URDU 1
+http://221.120.204.4:8080/URDU-1-LOCKLE/index.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Star Movie Select
 http://axcestv.vip:8080/live/freeview/axcestv/705.ts
 #EXTINF:0 group-title="ENGLISH MOVIES" ,SONY Pix
