@@ -520,7 +520,7 @@ https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chun
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8?token=feb813877da5852a8b881d41dc4709d0ce791bd5-a77afc77cf3952dff8ab641c97d65693-1653857037-1653846237
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla Cinema
 http://208.86.19.13:81/708.stream/index.m3u8
-#EXTINF:-1 group-title="iNDIAN BANGLA" ,Zee Bangla HD
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla HD
 http://208.86.19.13:81/906.stream/index.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bangla_hd.jpg" ,ZEE BANGLA HD
 http://str24.l9574.com:80/615.stream/index.m3u8
@@ -582,8 +582,8 @@ http://185.79.153.10:6500/play/a07v
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:0 group-title="KIDS" ,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,NICK HINDI
-http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8?token=8d8385e6018a72c25c36d89739e4dc00adc17e4f-2e72715fb3f304ea16b3c0d72b2b1803-1653856418-1653845618
+#EXTINF:0 group-title="MOVIES" ,STAR CHANNEL 1
+http://streamstat.net/videoplayer.cgi?sid=446272040&ext=.m3u8
 #EXTINF:-1 group-title="KIDS" ,Nick Jr.
 http://185.79.153.10:6500/play/a036
 #EXTINF:0 group-title="KIDS" ,NICK Jr. DORA TV
@@ -688,8 +688,8 @@ http://185.79.153.10:6500/play/a07k
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 group-title="MUSIC" ,MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="MUSIC" ,MTV Portugal
-http://185.79.153.10:6500/play/a04g
+#EXTINF:-1 group-title="MOVIES" ,STAR CHANNEL 2
+http://streamstat.net/videoplayer.cgi?sid=446271775&ext=.m3u8
 #EXTINF:0 group-title="MUSIC" ,MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:0 group-title="MUSIC" ,MTV YO!
@@ -750,8 +750,8 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0 group-title="OTHERS" ,AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 group-title="OTHERS" ,ATG1
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="MOVIES" ,STAR CHANNEL 3
+http://streamstat.net/videoplayer.cgi?sid=446271949&ext=.m3u8
 #EXTINF:-1 group-title="OTHERS" ,ATV VIVO 🇵🇪
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0 group-title="OTHERS" ,CCTV 4
@@ -802,8 +802,8 @@ http://208.86.19.13:81/603.stream/index.m3u8
 http://221.120.204.4:8080/URDU-1-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,11 INTERNACIONAL PORTUGAL 🇵🇹
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,4 SPORT
-http://80.24.75.92:5555/udp/239.111.2.8:1234
+#EXTINF:-1 group-title="SPORTS ,UTSHOB PLUS
+http://streamstat.net/videoplayer.cgi?sid=434939815&ext=.m3u8
 #EXTINF:-1 group-title="SPORTS" ,A SPOR HD 🇹🇷
 http://46.29.169.27:8000/play/a01o
 #EXTINF:0 group-title="SPORTS" ,A Sports HD
