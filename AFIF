@@ -1058,18 +1058,18 @@ http://103.60.172.106:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=6561058
 http://103.153.39.36:8000/play/a019
 #EXTINF:0 group-title="SPORTS" ,STAR SPORTS SELECT 2 HD
 http://103.60.172.106:8080/StarSportsSelect2/index.m3u8?token=591c2c1f1c9f457cac52d1e9d0b49e01f88ad15d-7ab703c822be1fbacbabaf865f01860f-1653857016-1653846216
-#EXTINF:0 group-title="SPORTS" ,Star Sports Select 2HD
-http://172.22.22.76/live/feed1003/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,TVS SPORTS 
+http://streamstat.net/videoplayer.cgi?sid=434937336&ext=.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SWISS SPORT TV 🇨🇭
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 #EXTINF:0 group-title="SPORTS" ,Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="SPORTS" ,Tennis Channel HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS 
+http://streamstat.net/videoplayer.cgi?sid=446271635&ext=.m3u8
 #EXTINF:0 group-title="SPORTS" ,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0 group-title="SPORTS" ,TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 group-title="SPORTS" ,MBC SPORTS
+http://streamstat.net/videoplayer.cgi?sid=446271953&ext=.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TURKMENISTAN SPORTS 🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TVRI SPORT 🇹🇷
