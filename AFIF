@@ -564,8 +564,8 @@ http://185.79.153.10:6500/play/a06a
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 #EXTINF:0 group-title="KIDS" ,Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:0 group-title="KIDS" ,Discovery Kids
-http://103.153.39.36:8000/play/a024
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 4
+http://streamstat.net/videoplayer.cgi?sid=419952014&ext=.m3u8
 #EXTINF:0 group-title="KIDS" ,Disnep Channel
 http://103.153.39.36:8000/play/a01y
 #EXTINF:0 group-title="KIDS" ,DiSNEP Junior
