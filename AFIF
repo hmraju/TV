@@ -77,6 +77,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Bangla" ,T SPORTS HD
 http://172.22.22.76/live/feed1003/index.m3u8
+#EXTINF:0 group-title="Bangla" ,T SPORTS HD2
+http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.doyeltv.com/wp-content/uploads/2021/12/Doyel-TV-Logo.png" ,ABtv
 http://208.86.19.13:81/501.stream/index.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.alpona.tv/wp-content/uploads/2019/10/alpona_footer_logo.png" ,Alpona TV
