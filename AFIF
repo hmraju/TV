@@ -367,6 +367,8 @@ https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58Y5x3.jpg" ,TV ONE UK
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,VOICE
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,মিম টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Amazing Discoveries TV
@@ -555,6 +557,8 @@ http://103.127.92.38:81/play/a00l
 http://103.127.92.38:81/play/andflix
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/tW4xfS7.png" ,AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AVA Family
+http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,AVA Series
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,AXN HD-d
@@ -711,13 +715,9 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SAHARA ONE
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SAHARA ONE
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,Sony
 http://190.83.119.67:8000/play/a0s5/index.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" ,Sony HD
-http://103.55.144.46/hls/sonyen.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonytv.jpg" ,Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://imgur.com/x2qwIpL.png" ,Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
@@ -761,10 +761,6 @@ http://103.55.144.46:80/hls/zeetv.m3u8
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" ,Zee TV UK(BD3)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,#http://103.167.190.250/hls/colore-bangla-cinema.m3u8
-http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,#http://103.167.190.250/hls/utvaction.m3u8
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/andpictureshd.jpg" ,And Pictures
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/VcVtzDM.png" ,B4U Kadak
@@ -789,6 +785,8 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,MANORANJAN GRAND
 http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,PUBLIC MOVIES
+http://14.199.164.20:4001/play/a0ll/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/8HTCcDe.png" ,Sony Max
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" ,Sony Max HD
@@ -817,12 +815,16 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg" ,UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,UTV MOVIES
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-movies.png" ,UTV MOVIES
 http://103.55.144.46:80/hls/utv.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,UTV Movies-D
 http://103.127.92.38:81/play/utvmovies
+#EXTINF:0 group-title="HINDI MOVIES" ,WOW CINEMA ONE
+http://14.199.164.20:4001/play/a0n3/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/FvHpAvR.png" ,Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/FvHpAvR.png" ,Zee Action
@@ -849,6 +851,8 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,ZEE CLASSIC
 http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,9X JALWA
+http://14.199.164.20:4001/play/a0nc/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 group-title="HINDI MUSIC" ,9XM
 http://208.86.19.13:81/522.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9XM
@@ -865,12 +869,16 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,E24
 http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,I Love
+http://14.199.164.20:4001/play/a0p3/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 group-title="HINDI MUSIC" ,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
 #EXTINF:-1 group-title="HINDI MUSIC" ,Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,MK Tune
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,Mtunes+
+http://14.199.164.20:4001/play/a0p2/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="HINDI MUSIC" ,MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,MUSIC INDIA
@@ -893,6 +901,12 @@ http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:0 group-title="INDIAN" ,Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:0 group-title="INDIAN" ,Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="INDIAN" ,Atrangii
+http://14.199.164.20:4001/play/a0su/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="INDIAN" ,B4U Bhojpuri
+http://14.199.164.20:4001/play/a0nq/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="INDIAN" ,Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Canada One
@@ -913,6 +927,8 @@ https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" ,Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:0 group-title="INDIAN" ,Food Food TV
+http://14.199.164.20:4001/play/a0qx/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="INDIAN" ,Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" ,Kairali TV
@@ -937,6 +953,8 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="INDIAN" ,Relax TV
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:0 group-title="INDIAN" ,Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 group-title="INDIAN" ,THANTHI TV
 http://14.199.164.20:4001/play/a0j9/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ETVpGyf.png" ,The Q India
@@ -955,6 +973,8 @@ https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,Asianet News Bangla
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="INDIAN BANGLA" ,COLORS BANGLA CINEMA
+http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://imgur.com/HYcWvd9.png" ,Colors Bangla Cinema
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" ,Colors Bangla HD
@@ -1931,6 +1951,8 @@ http://103.127.92.38:81/play/a006
 http://46.29.169.15:4001/play/a00e/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
+https://s99.123zcast.me:8902/hd/hls/zkyspWXs3oxZBjiSv69pDw/1659802383/skyscric.m3u8
 #EXTINF:0 group-title="SPORTS" ,SONY SIX HD
 http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony Six-D
