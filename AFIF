@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="ASIA CUP 2022" ,A-SPORTS FHD
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,ASTRO CRICKET
+http://www.luckonline.eu:80/live/786786/786786/516.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,CricLife 1 FHD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Fox Sports 501
+http://lilitv.xyz:80/user1/1user/35727
+#EXTINF:-1 group-title="ASIA CUP 2022" ,PTV SPORTS HD
+http://www.luckonline.eu:80/live/786786/786786/498.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,SKY SPORTS HUNDRED
+http://www.luckonline.eu:80/live/786786/786786/505.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1 HD
+http://103.179.246.243:8000/play/a00c
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1HD
+http://watchindia.net:8880/live/73352/40942/808.ts
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_1HD
+http://stariptv.org:8080/hamza2022/123456/93634
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_2HD
+http://103.147.162.240:81/play/a02c
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_SELECT_1HD
+http://103.147.162.240:81/play/a021
+#EXTINF:0 group-title="ASIA CUP 2022" ,SUPER ACTION
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
+#EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,T-SPORTS HD(BDIX)
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 group-title="ASIA CUP 2022" ,WILLOW SPORTS HD(ALL LINK)
+http://www.luckonline.eu:80/live/786786/786786/517.m3u8
 #EXTINF:0 group-title="BANGLA" ,ASIAN TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/yGgvoxY.png" ,ASIAN TV HD2
@@ -283,6 +313,8 @@ http://str24.l9574.com/518.stream/index.m3u8
 http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58Y5x3.jpg" ,TV ONE UK
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Varendra TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 group-title="BANGLA IPTV" ,VOICE
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Amazing Discoveries TV
@@ -295,6 +327,8 @@ http://190.83.119.67:8000/play/a0q4/index.m3u8
 http://xcui.vitvabc.xyz:8880/287994020417/287994020417/16693
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/animalplanet.png" ,Animal Planet HD World
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,ANIMAL_PLANET_HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd
 #EXTINF:-1 group-title="DOCUMENTARY" ,BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" ,CGTN
@@ -403,6 +437,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/768x432_230000
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://imgur.com/hY5S6K4.png" ,HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Hollywood HD
+http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/s6mC4VE.png" ,Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Action Movies UK
@@ -811,6 +847,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" ,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="NEWS" ,AL-JAZIRA
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 group-title="NEWS" ,Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS" ,AUS BIZ
@@ -1023,6 +1061,12 @@ http://xcui.vitvabc.xyz:8880/287994020417/287994020417/16758
 http://xcui.vitvabc.xyz:8880/287994020417/287994020417/16760
 #EXTINF:0 group-title="OTHERS LANGUAGE MOVIES" ,TNT Sies HD+
 http://xcui.vitvabc.xyz:8880/287994020417/287994020417/16761
+#EXTINF:0 group-title="OTHERS LANGUAGE MOVIES" ,TRASH
+https://livetv.mylifeisgood.ml/channels/trash
+#EXTINF:0 group-title="OTHERS LANGUAGE MOVIES" ,TV XXI
+http://85.112.117.239/streaming/tv21/16/tvrecw/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:0 group-title="OTHERS LANGUAGE MOVIES" ,Мир Сериала
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5102
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/wY41F5k.png" ,Express TV
 http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/sZqDIem.png" ,Eye 95 America (US)
@@ -1145,6 +1189,10 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://46.29.169.15:4001/play/a00e/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Austria HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412605
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Bundesliga HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356343
 #EXTINF:0 group-title="SPORTS" ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Stadium Sports tv
@@ -1167,37 +1215,5 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" ,Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,T-SPORTS HD(BDIX)
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1 HD
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1HD
-http://watchindia.net:8880/live/73352/40942/808.ts
-#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_1HD
-http://stariptv.org:8080/hamza2022/123456/93634
-#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_2HD
-http://103.147.162.240:81/play/a02c
-#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_SELECT_1HD
-http://103.147.162.240:81/play/a021
-#EXTINF:-1 group-title="ASIA CUP 2022" ,WILLOW SPORTS HD(ALL LINK)
-http://www.luckonline.eu:80/live/786786/786786/517.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,PTV SPORTS HD
-http://www.luckonline.eu:80/live/786786/786786/498.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,SKY SPORTS HUNDRED
-http://www.luckonline.eu:80/live/786786/786786/505.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,ASTRO CRICKET
-http://www.luckonline.eu:80/live/786786/786786/516.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,Fox Sports 501
-http://lilitv.xyz:80/user1/1user/35727
-#EXTINF:-1 group-title="ASIA CUP 2022" ,CricLife 1 FHD
-http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,A-SPORTS FHD
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0 group-title="BANGLA IPTV" ,Varendra TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8?Live-TV%E2%84%A2
-#EXTINF:0 group-title="ASIA CUP 2022" ,SUPER ACTION
-http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
-#EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET
-http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
-#EXTINF:0 group-title="NEWS" ,AL-JAZIRA
-http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+#EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
