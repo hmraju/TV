@@ -33,6 +33,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Utsav_Gold_HD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ANANDA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,JAGO NEWS 24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" ,ASIAN TV
