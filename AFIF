@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
+https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,A-SPORTS FHD
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,CricLife 1 FHD
