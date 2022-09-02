@@ -9,8 +9,26 @@ http://lilitv.xyz:80/user1/1user/35727
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
 #EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,T-SPORTS HD(BDIX)
+#EXTINF:-1 group-title="ASIA CUP 2022" ,GAZI TV HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,SUN BANGLA
+http://208.86.19.13:81/903.stream/index.
+#EXTINF:-1 group-title="HINDI MOVIES" ,UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,STAR WORLD HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Warner TV
+http://190.83.119.67:8000/play/a0s6/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Warner TV HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,STAR MOVIES HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,GHOST
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,Utsav_Gold_HD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,JAGO NEWS 24
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" ,ASIAN TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/yGgvoxY.png" ,ASIAN TV HD2
@@ -147,6 +165,8 @@ https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/iuRzcdO.png" ,MEGHNA TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" ,MOHONA TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" ,MOHONA TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/wD575BA.png" ,MOVIE BANGLA
@@ -173,6 +193,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/kA2ZJQB.png" ,Nexus TV
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/l76jXPz.png" ,NEXUS TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/l76jXPz.png" ,NEXUS TV
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,NEXUS TV HD
@@ -295,6 +317,10 @@ http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,WFC
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,TRUELIFE
+http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Discovery Channel (Guatemala)
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,DISCOVERY CHANNEL HD 1
@@ -405,6 +431,8 @@ http://190.83.119.67:8000/play/a0qc/index.m3u8
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,SHOW TIME
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 group-title="FASHION" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" ,Fashion TV
@@ -421,6 +449,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnation
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="HINDI ENTERTAINMENT" ,Ishara TV
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://i.imgur.com/izPPP72.jpg" ,MANORANJAN
 http://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
 #EXTINF:0 group-title="HINDI ENTERTAINMENT" ,PTC Punjabi
@@ -1119,6 +1149,7 @@ http://221.120.204.4:8080/SONY-MAX-LOCKLE/index.m3u8
 http://221.120.204.4:8080/SONY-HD-LOCKLE/index.m3u8
 #EXTINF:-1 ,ZEE TV HD
 http://221.120.204.4:8080/zee-tv-LOCKLE/index.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4:8080/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 ,A SPORTS
