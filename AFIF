@@ -287,6 +287,8 @@ https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/2Lv6raR.png" ,NRB IPTV [BD]
 https://bd.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,AB TV
+http://208.86.19.13:81/501.stream/index.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/cnbc-tv18.png" ,ROAL TV
