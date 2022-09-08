@@ -7,8 +7,8 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,Fox Sports 501
 http://lilitv.xyz:80/user1/1user/35727
-#EXTINF:0 group-title="ASIA CUP 2022" ,SUPER ACTION
-http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3
 #EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,GAZI TV HD
