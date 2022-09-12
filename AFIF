@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,A-SPORTS FHD
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title="ASIA CUP 2022" ,CricLife 1 FHD
-http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTENMENT" ,AAPKA COLORS
+http://208.86.19.13:81/204.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTENMENT" ,STAR VARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 group-title="ASIA CUP 2022" ,Fox Sports 501
 http://lilitv.xyz:80/user1/1user/35727
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
