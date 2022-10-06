@@ -1289,3 +1289,23 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 1
+http://xtv.ooo:8080/123455/123455/270488
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 2
+http://xtv.ooo:8080/123455/123455/270489
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 3
+http://xtv.ooo:8080/123455/123455/270491
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 4
+http://xtv.ooo:8080/123455/123455/270493
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 5
+http://xtv.ooo:8080/123455/123455/270495
+#EXTINF:0 group-title="HINDI MUSIC" ,BOLLYWOOD 5
+
+
+
+
+
+
+
+
+
