@@ -147,6 +147,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" ,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLA" ,Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/AMk8mRZ.png" ,INDEPENDENT TV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://www.jugantor.com/assets/news_photos/2021/09/14/image-465085-1631634713.jpg" ,JAMUNA TV
@@ -589,6 +591,8 @@ https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HL
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/5OzuEyR.png" ,History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,HISTORY TV 18HD
+http://45.125.220.129:81/play/a051
 #EXTINF:-1 group-title="DOCUMENTARY" ,IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Love Nature
@@ -597,8 +601,12 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,National Geographic WILD
 http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,NET GEO WILD
+http://45.125.220.129:81/play/a046
 #EXTINF:-1 group-title="DOCUMENTARY" ,Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,SONY BBC EARTH HD
+http://45.125.220.129:81/play/a053
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,TRUELIFE
@@ -781,6 +789,12 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://iptv.ndasat.com:88/229682723529953/229682723529953/16331
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,SONY PIX HD
+http://45.125.220.129:81/play/a055
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR WORLD HD
+http://45.125.220.129:81/play/a047
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR WORLD PREMERE HD
+http://45.125.220.129:81/play/a040
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,WOW TV
@@ -825,10 +839,16 @@ http://208.86.19.13:81/702.stream/index.m3u8
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,STAR VARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,THE Q
+http://45.125.220.129:81/play/a065
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" ,Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,ZEE ANMOL
 http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,ABZY COOL
+http://45.125.220.129:81/play/a063
+#EXTINF:0 group-title="HINDI MOVIES" ,AND PICTURES HD
+http://45.125.220.129:81/play/a056
 #EXTINF:0 group-title="HINDI MOVIES" ,AV:Netflix Bollywood
 http://iptv.ndasat.com:88/229682723529953/229682723529953/2114
 #EXTINF:0 group-title="HINDI MOVIES" ,AV:Netflix Bollywood2
@@ -839,8 +859,16 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://46.19.100.174:4450/play/a00h/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,COLOR CINEPLEX BOLLYWOODS
+http://45.125.220.129:81/play/a066
+#EXTINF:0 group-title="HINDI MOVIES" ,COLOR CINEPLEX SUPPERHITS
+http://45.125.220.129:81/play/a068
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="ext" ,Family Movies
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,GOLDMINES
+http://45.125.220.129:81/play/a064
+#EXTINF:0 group-title="HINDI MOVIES" ,GOLDMINES BOLLYWOOD
+http://45.125.220.129:81/play/a067
 #EXTINF:0 group-title="HINDI MOVIES" ,IN:B4U Movies
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1906
 #EXTINF:0 group-title="HINDI MOVIES" ,IN:Colores Cineplex
@@ -861,10 +889,20 @@ http://iptv.ndasat.com:88/229682723529953/229682723529953/1917
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1931
 #EXTINF:0 group-title="HINDI MOVIES" ,IN:Zee Cinema UK
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1916
+#EXTINF:0 group-title="HINDI MOVIES" ,MANORANJAN MOVIES
+http://45.125.220.129:81/play/a069
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/cvWkhfb.png" ,Max-2 [6]
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,MBC _Bollywood_HQ
 http://iptv.ndasat.com:88/229682723529953/229682723529953/230
+#EXTINF:0 group-title="HINDI MOVIES" ,SHEMOROO TV
+http://45.125.220.129:81/play/a060
+#EXTINF:0 group-title="HINDI MOVIES" ,SONY MAX HD
+http://45.125.220.129:81/play/a045
+#EXTINF:0 group-title="HINDI MOVIES" ,STAR GOLD HD
+http://45.125.220.129:81/play/a050
+#EXTINF:0 group-title="HINDI MOVIES" ,STAR GOLD SELECT HD
+http://45.125.220.129:81/play/a052
 #EXTINF:-1 group-title="HINDI MOVIES" ,Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Utsav_Gold_HD
@@ -921,6 +959,8 @@ http://watchindia.net:8880/live/vvv/vvv/298.m3u8
 http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
 #EXTINF:0 group-title="INDIAN" ,Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="INDIAN" ,BHOJPURI CINEMA
+http://45.125.220.129:81/play/a061
 #EXTINF:-1 group-title="INDIAN" ,Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Canada One
@@ -1033,6 +1073,8 @@ http://208.86.19.13:81/708.stream/index.m3u8
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" ,Zee Bangla Cinema [IN]
 http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA HD
+http://45.125.220.129:81/play/a054
 #EXTINF:0 group-title="ISLAMIC" ,Al Arabiya Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
 #EXTINF:0 group-title="ISLAMIC" ,Al Istiqama TV
@@ -1055,6 +1097,8 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" ,Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:0 group-title="KIDS" ,HANGAMA SUPPER
+http://45.125.220.129:81/play/a049
 #EXTINF:-1 group-title="KIDS" ,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/WKEwYF3.png" ,Nick
@@ -1397,6 +1441,8 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/cSLi73Y.png" ,Prime Canada TV (CA)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="PAKISTAN" ,UDYA HD
+http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/w82VmmO.png" ,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/RtHeRwp.png" ,Zindagi TV
@@ -1533,8 +1579,6 @@ http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/296
 http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/382
 #EXTINF:-1 group-title="StarzPlay SPORTS" tvg-name="AD StarzPlay SPORT 3 FHD" ,AD StarzPlay SPORT 3 FHD
 http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/297
-#EXTINF:-1 group-title="SUN NEXT" ,UDYA HD
-http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
 #EXTINF:0 group-title="WORLD CUP 2022" ,IN:Sony Six
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1907
 #EXTINF:0 group-title="WORLD CUP 2022" ,IN:Sony Ten1
@@ -1545,3 +1589,35 @@ http://iptv.ndasat.com:88/229682723529953/229682723529953/1901
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1877
 #EXTINF:0 group-title="WORLD CUP 2022" ,IN:Star Sports 2
 http://iptv.ndasat.com:88/229682723529953/229682723529953/1878
+#EXTINF:0 group-title="WORLD CUP 2022" ,LIVE SPORTS 1
+http://103.158.2.10:1935/live/ch-1/index.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,LIVE SPORTS 2
+https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,LIVE SPORTS 3
+https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,SONY SPORTS 1 HD
+http://45.125.220.129:81/play/a043
+#EXTINF:0 group-title="WORLD CUP 2022" ,SONY SPORTS 2HD
+http://45.125.220.129:81/play/a059
+#EXTINF:0 group-title="WORLD CUP 2022" ,SONY SPORTS 3HD
+http://45.125.220.129:81/play/a048
+#EXTINF:0 group-title="WORLD CUP 2022" ,SONY SPORTS 5 HD
+http://45.125.220.129:81/play/a044
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 1 HD
+http://45.125.220.129:81/play/a041
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 1 HD (LOCAL)
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 2 HD
+http://45.125.220.129:81/play/a042
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS SELECT 1 HD
+http://45.125.220.129:81/play/a057
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS SELECT 2 HD
+http://45.125.220.129:81/play/a058
+#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS HD 2
+http://103.158.2.10:1935/live/ch-1/playlist.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS HD 3
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,TEN SPORTS HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
