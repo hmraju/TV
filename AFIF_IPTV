@@ -371,12 +371,22 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/768x432_230000
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,MBC 2
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/404
+#EXTINF:0 group-title="ENGLISH MOVIES" ,MBC Action HD
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/97165
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/s6mC4VE.png" ,Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIES NOW
+http://tv2.efiberbd.net:8080/live/mkaua/stream/34.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/1200.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR MOVIES HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/14174
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Star World HD
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/97199
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,WOW TV
@@ -405,6 +415,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://46.19.100.174:4450/play/a00h/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,MBC Bollywood
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/411
 #EXTINF:0 group-title="HINDI MUSIC" ,7S Musix(Tamil)
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,9XM
@@ -789,6 +801,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,EDGE
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,FOX SPORTS NORTH HD
+http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1183694362003333121/QFOu58UE_400x400.jpg" ,Geo Super
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 #EXTINF:-1 group-title="SPORTS" ,MAQ TV CRICKET
@@ -809,29 +823,37 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS
-http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS HD
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,Al Kass Sports 1
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/915
+#EXTINF:0 group-title="WORLD CUP 2022" ,beIN Sports 1
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/
+#EXTINF:0 group-title="WORLD CUP 2022" ,beIN Sports 2 fr
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/34018
+#EXTINF:0 group-title="WORLD CUP 2022" ,BEIN SPORTS French HD1
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/34017
+#EXTINF:0 group-title="WORLD CUP 2022" ,FOX SPORTS 1
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,FOX SPORTS DETROIT HD
+http://89.187.175.143:80/3115/index.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,GAZI TV HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:0 group-title="WORLD CUP 2022" ,LUTAS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/33.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIES NOW
-http://tv2.efiberbd.net:8080/live/mkaua/stream/34.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,GAZI TV HD
+#EXTINF:0 group-title="WORLD CUP 2022" ,SONY TEN 5HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 1HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 2 HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS SELECT 2 HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/39.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,SONY TEN 5HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 #EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS SELECT 2HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/38.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,STAR SPORTS 1HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,FOX SPORTS 1
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:0 group-title="WORLD CUP 2022" ,FOX SPORTS DETROIT HD
-http://89.187.175.143:80/3115/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,FOX SPORTS NORTH HD
-http://89.187.175.143:80/3113/index.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS
+http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,T SPORTS HD
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="WORLD CUP 2022" ,TSN 5
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/13976
