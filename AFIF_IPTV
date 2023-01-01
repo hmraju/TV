@@ -1,110 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="BANGLA IPTV" ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="ISLAMIC" ,Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Show Time HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,Voice TV
+http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
-#EXTINF:-1 ,BTV Chattogram
-http://humiptv.live:8080/live/RkAdhikari/Raju5555/3818.ts
-#EXTINF:-1 ,AB TV USA
-http://208.86.19.13:81/501.stream/index.m3u8
-#EXTINF:-1 ,ASIAN TV
+#EXTINF:-1 group-title="BANGLA" ,ASIAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla UK
-http://87.212.248.44:60230/play/a05g/index.m3u8
-#EXTINF:-1 ,ATN Bangla UK
-http://208.86.19.13:81/664.stream/index.m3u8
-#EXTINF:-1 ,Banglavision HD
+#EXTINF:-1 group-title="BANGLA" ,Banglavision HD
 http://208.86.19.13:81/659.stream/index.m3u8
-#EXTINF:-1 ,Channel 9
-http://humiptv.live:8080/live/RkAdhikari/Raju5555/434.ts
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 group-title="BANGLA" ,BTV Chattogram
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/3818.ts
+#EXTINF:-1 group-title="BANGLA" ,Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 ,CNN Bangla
-http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-#EXTINF:-1 ,Duronto TV
+#EXTINF:-1 group-title="BANGLA" ,Channel 9
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/434.ts
+#EXTINF:-1 group-title="BANGLA" ,Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 ,Ekattor TV
+#EXTINF:-1 group-title="BANGLA" ,Ekattor TV
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/428.ts
-#EXTINF:-1 ,Ekushey TV
+#EXTINF:-1 group-title="BANGLA" ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Gazi TV HD
+#EXTINF:-1 group-title="BANGLA" ,Gazi TV HD
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/767.ts
-#EXTINF:-1 ,IBTV USA
-http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 ,itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 ,Jamuna TV
-http://208.86.19.13:81/662.stream/index.m3u8
-#EXTINF:-1 ,Magic Bangla TV
-https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
-#EXTINF:-1 ,Mathri Bhumi TV
-http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
-#EXTINF:-1 ,MEEM TV USA
-http://208.86.19.13:81/502.stream/index.m3u8
-#EXTINF:-1 ,Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,NAN TV
-http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 ,NRB TV
-http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 ,NRB TV
-http://humiptv.live:8080/live/RkAdhikari/Raju5555/1000.ts
-#EXTINF:-1 ,SATV
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 ,Time TV
-http://208.86.19.13:81/506.stream/index.m3u8
-#EXTINF:-1 ,Times 24 TV
-http://iptvbd.jagobd.com:1931/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:-1 ,Voice TV
-http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
-#EXTINF:-1 ,Akash Aath
-https://tv.freeseries.eu.org/live.php?c=Aakaash_bangla&q=800&e=.m3u8
-#EXTINF:-1 ,Akash Aath
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2295.ts
-#EXTINF:-1 ,Amar bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-https://tv.freeseries.eu.org/live.php?c=Colors_Bengali_HD&q=800&e=.m3u8
-#EXTINF:-1 ,Enterr10 Bangla
-http://humiptv.live:8080/live/RkAdhikari/Raju5555/3801.ts
-#EXTINF:-1 ,Khushboo Bangla
-https://tv.freeseries.eu.org/live.php?c=Khusboo_TV&q=800&e=.m3u8
-#EXTINF:-1 ,Khushboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 ,Kolkata TV
-https://tv.freeseries.eu.org/live.php?c=Kolkata_TV&q=800&e=.m3u8
-#EXTINF:-1 ,R Plus Gold
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-#EXTINF:-1 ,Sananda TV
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
-#EXTINF:-1 ,Sananda TV
-http://livetvbd.ddns.net/tmp_hls/sananda/index.m3u8
-#EXTINF:-1 ,Sony Aath
-https://tv.freeseries.eu.org/live.php?c=Sony_aath&q=800&e=.m3u8
-#EXTINF:-1 ,Star Jalsha
-http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
-#EXTINF:-1 ,ZEE Bangla
-https://tv.freeseries.eu.org/live.php?c=Zee_Bangla&q=800&e=.m3u8
-#EXTINF:-1 ,ZEE Bangla HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.ts
-#EXTINF:-1 ,Zee Bangla Cinema
-https://tv.freeseries.eu.org/live.php?c=Zee_Bangla_Cinema&q=800&e=.m3u8
-#EXTINF:-1 ,BANGLA TALKIES
-http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 ,Zee Bangla HD
-https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
-#EXTINF:-1 ,I  [BD]
-http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1 ,SATV(Jagobd)
-http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 ,ENTER10 MOVIES
-https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Maasranga
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Show Time HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,GaziTV
+#EXTINF:-1 group-title="BANGLA" ,GaziTV
 http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,Peace TV ENG
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="BANGLA" ,Jamuna TV
+http://208.86.19.13:81/662.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,Maasranga
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="BANGLA" ,SATV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" ,SATV(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ANANDA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="http://127.0.0.1/" ,Anando TV
@@ -169,13 +101,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" ,Channel 24(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/cvWkhfb.png" ,DBC [6]
-http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/XA5u4gk.png" ,DBC News
 http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/qCP0QpZ/DBCNews.jpg" ,DBC News
-http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" ,DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/dbcnews.png" ,DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -237,8 +165,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/3usnOla.png" ,NTV [BD]
 http://208.86.19.13:81/652.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/duronto-tv.png" ,Rongeen
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/rtv.png" ,RTV
@@ -262,9 +188,39 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/somoytv.png" ,Somoy News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg" ,SOMOY TV [BD]
-http://208.86.19.13:81/693.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg" ,SOMOY TV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg" ,SOMOY TV [BD]
+http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,AB TV USA
+http://208.86.19.13:81/501.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,ATN Bangla UK
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,ATN Bangla UK
+http://208.86.19.13:81/664.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,CNN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,I  [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,IBTV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,Magic Bangla TV
+https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,Mathri Bhumi TV
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,MEEM TV USA
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,NAN TV
+http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,NRB TV
+http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,NRB TV
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/1000.ts
+#EXTINF:-1 group-title="BANGLA IPTV" ,Time TV
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" ,Times 24 TV
+http://iptvbd.jagobd.com:1931/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.alpona.tv/wp-content/uploads/2019/10/alpona_footer_logo.png" ,Alpona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/ESWXan9.png" ,ATN ISLAMIC
@@ -289,8 +245,6 @@ https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58JURC.jpg" ,CHANNEL S [UK]
 https://cdn.appv.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:0 group-title="BANGLA IPTV" ,DESH BIDESH
-http://208.86.19.13:81/505.stream/index.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" ,DESHE BIDESHE
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58JKfM.jpg" ,DESHI BiDESHI [BD]
@@ -503,6 +457,44 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8?che
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Akash Aath
+https://tv.freeseries.eu.org/live.php?c=Aakaash_bangla&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Akash Aath
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2295.ts
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Amar bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,BANGLA TALKIES
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Colors Bangla HD
+https://tv.freeseries.eu.org/live.php?c=Colors_Bengali_HD&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,ENTER10 MOVIES
+https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Enterr10 Bangla
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/3801.ts
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Khushboo Bangla
+https://tv.freeseries.eu.org/live.php?c=Khusboo_TV&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Kolkata TV
+https://tv.freeseries.eu.org/live.php?c=Kolkata_TV&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Sananda TV
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Sananda TV
+http://livetvbd.ddns.net/tmp_hls/sananda/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Sony Aath
+https://tv.freeseries.eu.org/live.php?c=Sony_aath&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Star Jalsha
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
+#EXTINF:-1 group-title="INDIAN BANGLA" ,ZEE Bangla
+https://tv.freeseries.eu.org/live.php?c=Zee_Bangla&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla Cinema
+https://tv.freeseries.eu.org/live.php?c=Zee_Bangla_Cinema&q=800&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" ,ZEE Bangla HD
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.ts
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla HD
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/Aamar-Bangla-Logo.jpg" ,AMAR BANGLA
