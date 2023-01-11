@@ -242,8 +242,8 @@ http://humiptv.live:8080/live/RkAdhikari/Raju5555/767.ts
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Jamuna TV
 http://208.86.19.13:81/662.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,Maasranga
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="INDIAN BANGLA" ,Ekhon Kolkata
+http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:-1 group-title="BANGLA" ,SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,SATV(Jagobd)
@@ -374,8 +374,8 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/ZS5nzZc/NTV.jpg" ,NTV
 http://208.86.19.13:81/652.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/3usnOla.png" ,NTV [BD]
-http://208.86.19.13:81/652.stream/index.m3u8
+#EXTINF:-1 group-title="IPTV BANGLA" tvg-logo="https://i.imgur.com/3usnOla.png" ,KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/rtv.png" ,RTV
@@ -1066,3 +1066,11 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0 group-title="ISLAMIC" ,Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:0 group-title="NEWS" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0 group-title="INDIAN" ,ZEE BIOSKOP
+http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
+
+
