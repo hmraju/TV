@@ -1072,5 +1072,54 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 group-title="INDIAN" ,ZEE BIOSKOP
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
+#EXTINF:0 group-title="INDIAN" ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0 group-title="INDIAN" ,Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,GAZI TV (LOCAL)
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:0 group-title="IPTV BANGLA" ,Panvision TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:0 group-title="IPTV BANGLA" ,Roal TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+#EXTINF:0 group-title="IPTV BANGLA" ,VOICE
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIE" ,ROCK ENTERTENMENT
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="ENGLISH MOVIE" ,Hi-Ya
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
+#EXTINF:0 group-title="SPORTS" ,MOJI HD
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:0 group-title="ENGLISH" ,TBN ASIA
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+#EXTINF:0 group-title="NEWS" ,RTP
+http://45.126.83.51/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 group-title="MOVIES" ,CCM
+http://45.126.83.51/qwr9ew/s/s31/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
