@@ -1195,3 +1195,25 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Discovery Turbo
+http://180.178.188.152:8000/play/a01l
+#EXTINF:0 group-title="DOCUMENTARY" ,Discovery Scince
+http://180.178.188.152:8000/play/a01k
+#EXTINF:0 group-title="HINDI MOVIES" ,UTV MOVIES
+http://180.178.188.152:8000/play/a01o
+#EXTINF:0 group-title="HINDI MOVIES" ,UTV ACTION
+http://180.178.188.152:8000/play/a01p
+#EXTINF:0 group-title="HINDI MOVIES" ,STAR GOLD 2
+http://180.178.188.152:8000/play/a01q
+#EXTINF:0 group-title="HINDI MOVIES" ,ZEE BOLLYWOOD
+http://180.178.188.152:8000/play/a01r
+#EXTINF:0 group-title="HINDI MOVIES" ,SONY MAX2
+http://180.178.188.152:8000/play/a01s
+
+
+
+
+
+
+
+
