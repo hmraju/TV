@@ -1,4 +1,76 @@
 #EXTM3U
+
+#EXTINF:0 group-title="BANGLA" ,NAGORIK- GAZI TV
+http://tv.dugdugilive.com:8080/1Sky22/GaziTV/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T SPORTS HD
+http://tv.dugdugilive.com:8080/TSports-Live/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,PTV SPORTS HD
+http://tv.dugdugilive.com:8080/1Sky22/LiveSP/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 5
+http://tv.dugdugilive.com:8080/1Sky22/sonysix/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 1
+http://tv.dugdugilive.com:8080/1Sky22/sonyten1/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 2
+http://tv.dugdugilive.com:8080/1Sky22/sonyten2/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 3
+http://tv.dugdugilive.com:8080/1Sky22/sonyten3/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 1HD
+http://tv.dugdugilive.com:8080/1Sky22/StarSports22/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,PTV SPORTS HD
+http://tv.dugdugilive.com:8080/1Sky22/PTV/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,ATN NEWS
+http://tv.dugdugilive.com:8080/1Sky22/ATN-News/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,EKATTOR TV
+http://tv.dugdugilive.com:8080/1Sky22/Ekattor/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,NTV BD
+http://tv.dugdugilive.com:8080/1Sky22/NTV/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,CHANNEL 9HD
+http://tv.dugdugilive.com:8080/1Sky22/Channel9/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,MASSRANGA
+http://tv.dugdugilive.com:8080/1Sky22/Massranga/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,NAGORIK
+http://tv.dugdugilive.com:8080/1Sky22/Nagorik/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,GAAN BANGLA
+http://tv.dugdugilive.com:8080/1Sky22/GaanBangla/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,DESH TV
+http://tv.dugdugilive.com:8080/1Sky22/DeshTV/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,ZEE BANGLA
+http://tv.dugdugilive.com:8080/1Sky22/ZeeBangla/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,COLORS BANGLA
+http://tv.dugdugilive.com:8080/1Sky22/colors-bangla/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,ZEE BANGLA CINEMA
+http://tv.dugdugilive.com:8080/1Sky22/ZeeBnCinema/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,SONY AATH
+http://tv.dugdugilive.com:8080/1Sky22/Dhoom/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,B4U MUSIC
+http://tv.dugdugilive.com:8080/1Sky22/B4U/index.m3u8
+#EXTINF:0 group-title="MUSIC" ,ZOOM
+http://tv.dugdugilive.com:8080/1Sky22/Zoom/index.m3u8
+#EXTINF:0 group-title="MUSIC" ,MTV HINDI
+http://tv.dugdugilive.com:8080/1Sky22/MTVin/index.m3u8
+#EXTINF:0 group-title="HINDI" ,ZEE CINEMA HD
+http://tv.dugdugilive.com:8080/1Sky22/ZeeCinema/index.m3u8
+#EXTINF:0 group-title="HINDI" ,AND PICTURES HD
+http://tv.dugdugilive.com:8080/1Sky22/AndPictures/index.m3u8
+#EXTINF:0 group-title="HINDI" ,SONY MAX HD
+http://tv.dugdugilive.com:8080/1Sky22/SonyMax/index.m3u8
+#EXTINF:0 group-title="HINDI" ,STAR GOLD HD
+http://tv.dugdugilive.com:8080/1Sky22/StarGold/index.m3u8
+#EXTINF:0 group-title="HINDI" ,COLOR CINEPLEX
+http://tv.dugdugilive.com:8080/1Sky22/CinePlex/index.m3u8
+#EXTINF:0 group-title="HINDI" ,B4U MOVIES
+http://tv.dugdugilive.com:8080/1Sky22/B4Umovies/index.m3u8
+#EXTINF:0 group-title="HINDI" ,JALWA
+http://tv.dugdugilive.com:8080/1Sky22/9xjalwa/index.m3u8
+#EXTINF:0 group-title="HINDI" ,SONY PIX HD
+http://tv.dugdugilive.com:8080/1Sky22/SonyPix/index.m3u8
+#EXTINF:0 group-title="HINDI" ,NICK
+http://tv.dugdugilive.com:8080/1Sky22/NickBN/index.m3u8
+#EXTINF:0 group-title="HINDI" ,DISCOVERY
+http://tv.dugdugilive.com:8080/1Sky22/Discovery/index.m3u8
+#EXTINF:0 group-title="HINDI" ,HBO
+http://tv.dugdugilive.com:8080/1Sky22/HBO/index.m3u8
+
 #EXTINF:-1 ,& Prive
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/49557
 #EXTINF:-1 ,& Xplor
