@@ -1,5 +1,581 @@
 #EXTM3U
 
+#EXTINF:-1 ,SuperSport•LaLiga
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37620
+#EXTINF:-1 ,SuperSport•PSL
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37621
+#EXTINF:-1 ,SuperSport•Variety 2
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37624
+#EXTINF:-1 ,SuperSport•Action
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37625
+#EXTINF:-1 ,SuperSport•Variety 1
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37626
+#EXTINF:-1 ,SuperSport•Variety 4
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37628
+#EXTINF:-1 ,SuperSport•Variety 3
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37629
+#EXTINF:-1 ,SuperSport•Rugby
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37630
+#EXTINF:-1 ,SuperSport•Cricket
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37631
+#EXTINF:-1 ,SuperSport•Blitz
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37632
+#EXTINF:-1 ,SuperSport•Golf
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
+#EXTINF:-1 ,SkySport 1 FHD
+http://starshare.live:8080/live/775577/775577/23997.ts
+#EXTINF:-1 ,SkySport 2 FHD
+http://starshare.live:8080/live/775577/775577/23998.ts
+#EXTINF:-1 ,SkySport 3 FHD
+http://starshare.live:8080/live/775577/775577/23999.ts
+#EXTINF:-1 ,SkySport 4 FHD
+http://starshare.live:8080/live/775577/775577/24000.ts
+#EXTINF:-1 ,SkySport 5 FHD
+http://starshare.live:8080/live/775577/775577/24001.ts
+#EXTINF:-1 ,SkySport 6 FHD
+http://starshare.live:8080/live/775577/775577/24002.ts
+#EXTINF:-1 ,SkySport 7 FHD
+http://starshare.live:8080/live/775577/775577/24003.ts
+#EXTINF:-1 ,SkySport 8 FHD
+http://starshare.live:8080/live/775577/775577/24004.ts
+#EXTINF:-1 ,SkySport 9 FHD
+http://starshare.live:8080/live/775577/775577/24005.ts
+#EXTINF:-1 ,FLOW SPORTS
+http://starshare.live:8080/live/775577/775577/34489.ts
+#EXTINF:-1 ,SSC 1 HD
+http://starshare.live:8080/live/775577/775577/36251.ts
+#EXTINF:-1 ,SSC 2 HD
+http://starshare.live:8080/live/775577/775577/36252.ts
+#EXTINF:-1 ,SSC 3 HD
+http://starshare.live:8080/live/775577/775577/36253.ts
+#EXTINF:-1 ,SSC 4 HD
+http://starshare.live:8080/live/775577/775577/36254.ts
+#EXTINF:-1 ,SSC 5 HD
+http://starshare.live:8080/live/775577/775577/36255.ts
+#EXTINF:-1 ,SSC 6 HD
+http://starshare.live:8080/live/775577/775577/36256.ts
+#EXTINF:-1 ,SSC 7 HD
+http://starshare.live:8080/live/775577/775577/36257.ts
+#EXTINF:-1 ,SKYSport SELECT
+http://starshare.live:8080/live/775577/775577/34152.ts
+#EXTINF:-1 ,DigiSport 1
+http://starshare.live:8080/live/775577/775577/39803.ts
+#EXTINF:-1 ,DigiSport 2
+http://starshare.live:8080/live/775577/775577/39804.ts
+#EXTINF:-1 ,DigiSport 3
+http://starshare.live:8080/live/775577/775577/39805.ts
+#EXTINF:-1 ,SUPERSPORTS LALIGA HD
+http://starshare.live:8080/live/775577/775577/515.ts
+#EXTINF:-1 ,SuperSport Cricket HD
+http://starshare.live:8080/live/775577/775577/516.ts
+#EXTINF:-1 ,SUPERSPORTS PSL HD
+http://starshare.live:8080/live/775577/775577/517.ts
+#EXTINF:-1 ,SUPERSPORTS PREMIER LEAGUE HD
+http://starshare.live:8080/live/775577/775577/518.ts
+#EXTINF:-1 ,SuperSport Grandstand HD
+http://starshare.live:8080/live/775577/775577/519.ts
+#EXTINF:-1 ,SuperSport Action HD
+http://starshare.live:8080/live/775577/775577/521.ts
+#EXTINF:-1 ,SUPERSPORTS VARIETY 1 HD
+http://starshare.live:8080/live/775577/775577/522.ts
+#EXTINF:-1 ,SUPERSPORTS FOOTBALL HD
+http://starshare.live:8080/live/775577/775577/523.ts
+#EXTINF:-1 ,SuperSport Rugby HD
+http://starshare.live:8080/live/775577/775577/524.ts
+#EXTINF:-1 ,SuperSport Golf HD
+http://starshare.live:8080/live/775577/775577/525.ts
+#EXTINF:-1 ,PTV•SPORTS
+http://starshare.live:8080/live/775577/775577/89.ts
+#EXTINF:-1 ,T•SPORTS.
+http://starshare.live:8080/live/775577/775577/130714.ts
+#EXTINF:-1 ,GEO•SUPER
+http://starshare.live:8080/live/775577/775577/101.ts
+#EXTINF:-1 ,TEN•SPORTS
+http://starshare.live:8080/live/775577/775577/98.ts
+#EXTINF:-1 ,WILLOW•CRICKET
+http://starshare.live:8080/live/775577/775577/215.ts
+#EXTINF:-1 ,WILLOW•CRICKET XTRA
+http://starshare.live:8080/live/775577/775577/5040.ts
+#EXTINF:-1 ,STARSPORT•1 HD
+http://starshare.live:8080/live/775577/775577/148.ts
+#EXTINF:-1 ,STARSPORTS•2 HD
+http://starshare.live:8080/live/775577/775577/239.ts
+#EXTINF:-1 ,STARSPORTS•3
+http://starshare.live:8080/live/775577/775577/1080.ts
+#EXTINF:-1 ,STARSPORTS•HINDI HD
+http://starshare.live:8080/live/775577/775577/211.ts
+#EXTINF:-1 ,STARSPORTS•SELECT 1 HD
+http://starshare.live:8080/live/775577/775577/238.ts
+#EXTINF:-1 ,STARSPORTS•SELECT 2 HD
+http://starshare.live:8080/live/775577/775577/200.ts
+#EXTINF:-1 ,STARSPORTS•TAMIL 1
+http://starshare.live:8080/live/775577/775577/9722.ts
+#EXTINF:-1 ,SONY•TEN 1 HD
+http://starshare.live:8080/live/775577/775577/154.ts
+#EXTINF:-1 ,SONY•Ten 2 HD
+http://starshare.live:8080/live/775577/775577/192.ts
+#EXTINF:-1 ,SONY•TEN 3 HD
+http://starshare.live:8080/live/775577/775577/146.ts
+#EXTINF:-1 ,Six•HD
+http://starshare.live:8080/live/775577/775577/176.ts
+#EXTINF:-1 ,SONY•ESPN HD
+http://starshare.live:8080/live/775577/775577/155.ts
+#EXTINF:-1 ,RTA•Sports
+http://starshare.live:8080/live/775577/775577/1039.ts
+#EXTINF:-1 ,BT•SPORT 1
+http://starshare.live:8080/live/775577/775577/23564.ts
+#EXTINF:-1 ,BT•SPORT 2.
+http://starshare.live:8080/live/775577/775577/23565.ts
+#EXTINF:-1 ,EUROSPORTS
+http://starshare.live:8080/live/775577/775577/216.ts
+#EXTINF:-1 ,T.Sports•indie
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,STARZPLAY•SPORTS•HD
+http://103.145.13.31/5/index.m3u8
+#EXTINF:-1 ,LFCTV•HD
+http://103.145.13.31/6/index.m3u8
+#EXTINF:-1 ,STARZPLAY•SPORTS•2•HD
+http://103.145.13.31/7/index.m3u8
+#EXTINF:-1 ,SSC* HD
+http://103.145.13.31/12/index.m3u8
+#EXTINF:-1 ,starzplay.Sport
+http://103.145.13.31/13/index.m3u8
+#EXTINF:-1 ,starzplay.Sport.2
+http://103.145.13.31/14/index.m3u8
+#EXTINF:-1 ,SUPERSPORT•ACTION
+http://987161222318333690.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333690.ts
+#EXTINF:-1 ,SUPERSPORT•BLITZ
+http://987161222318333691.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333691.ts
+#EXTINF:-1 ,SUPERSPORT•CRICKET
+http://987161222318333692.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333692.ts
+#EXTINF:-1 ,SUPERSPORT•FOOTBALL
+http://987161222318333693.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333693.ts
+#EXTINF:-1 ,SUPERSPORT•GRANDSTAND HD
+http://987161222318333694.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333694.ts
+#EXTINF:-1 ,SUPERSPORT•LALIGA
+http://987161222318333695.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333695.ts
+#EXTINF:-1 ,ZA√SUPERSPORT•MAXIMO 1
+http://987161222318333696.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333696.ts
+#EXTINF:-1 ,SUPERSPORT•MOTORSPORT FHD
+http://987161222318333697.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333697.ts
+#EXTINF:-1 ,SUPERSPORT•PREMIER•LEAGUE HD
+http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333698.ts
+#EXTINF:-1 ,SUPERSPORT•PSL
+http://987161222318333699.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333699.ts
+#EXTINF:-1 ,SUPERSPORT•RUGBY
+http://987161222318333700.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333700.ts
+#EXTINF:-1 ,SUPERSPORT•TENNIS
+http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
+#EXTINF:-1 ,SUPERSPORT•VARIETY 1 HD
+http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333702.ts
+#EXTINF:-1 ,SUPERSPORT•VARIETY 2 HD
+http://987161222318333703.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333703.ts
+#EXTINF:-1 ,SUPERSPORT•VARIETY 3 HD
+http://987161222318333704.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333704.ts
+#EXTINF:-1 ,Sky Sports Premier League
+http://212.224.84.217:2200/EX/Sky_Sports_Premier_League_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==
+#EXTINF:-1 ,Sky Sports Football
+http://212.224.84.217:2200/EX/Sky_Sports_Football_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==
+#EXTINF:-1 ,MZ SPORTS 1
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 ,TEN SPORTS
+http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXFofXZmeg==
+#EXTINF:-1 ,PTV SPORTS
+http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+#EXTINF:-1 ,Willow cricket HD
+http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
+#EXTINF:-1 ,Astro cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/2494.m3u8
+#EXTINF:-1 ,DD sports HD
+http://starshare.org:8080/live/gxc733/sxk877/4044.m3u8
+#EXTINF:-1 ,PTV sports HD
+http://starshare.org:8080/live/gxc733/sxk877/89.m3u8
+#EXTINF:-1 ,Sky Sport Arena
+http://204.12.247.162:8080/premium36/mono.m3u8
+#EXTINF:-1 ,Dazn 1 Sport
+http://204.12.247.162:8080/premium426/mono.m3u8
+#EXTINF:-1 ,Dazn 2 Sport
+http://204.12.247.162:8080/premium427/mono.m3u8
+#EXTINF:-1 ,Arena 1 Sport
+http://204.12.247.162:8080/premium429/mono.m3u8
+#EXTINF:-1 ,Arena 2 Sport
+http://204.12.247.162:8080/premium582/mono.m3u8
+#EXTINF:-1 ,Arena 3 Sport
+http://204.12.247.162:8080/premium431/mono.m3u8
+#EXTINF:-1 ,Arena 4 Sport
+http://204.12.247.162:8080/premium581/mono.m3u8
+#EXTINF:-1 ,Diema Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:-1 ,Diema Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:-1 ,Diema Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
+#EXTINF:-1 ,Diema Sport Xtra
+http://204.12.247.162:8080/premium468/mono.m3u8
+#EXTINF:-1 ,ESPN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
+#EXTINF:-1 ,ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+#EXTINF:-1 ,FOX Sports 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93039.ts
+#EXTINF:-1 ,FOX Sports 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
+#EXTINF:-1 ,Fight Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
+#EXTINF:-1 ,Bein Sport 1 English
+http://213.7.193.54:4000/play/a002
+#EXTINF:-1 ,Citavision Spots 2HD
+http://213.7.193.54:4000/play/a005
+#EXTINF:-1 ,Persiana Sports
+http://51.210.199.32/hls/stream.m3u8
+#EXTINF:-1 ,Match!_Country HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat_Sport_HD+
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,True vision 2
+http://4digital.ddns.net:11224/ts/0
+#EXTINF:-1 ,MAT4_1
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
+#EXTINF:-1 ,TVRI_SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 ,RTV SPORT 🇸🇲
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1 ,J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+#EXTINF:-1 ,J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 ,ON FOOTBALL
+https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,SCTV17 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,SCTV22 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,BTV5 -SPORTS
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,SCTV15 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,SOCCER•CHANNEL
+http://103.167.167.5:8111/play/a00i/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD
+http://190.5.200.52:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://191.102.90.97:8000/play/a0jd/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://170.83.242.8:5350/play/a02u
+#EXTINF:-1 ,ESPN 2
+http://200.110.169.237:8202/play/a031
+#EXTINF:-1 ,GOLTV
+http://51.158.36.81:18000/GOL/hls/playlist.m3u8
+#EXTINF:-1 ,Champion Sports 1 HD
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 ,Champion Sports 2 HD
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 ,Willow cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/23943.m3u8
+#EXTINF:-1 ,Star sports 3 HD
+http://starshare.org:8080/live/gxc733/sxk877/1080.m3u8
+#EXTINF:-1 ,SUPERSPORTS_2
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
+#EXTINF:-1 ,Star sports select 1 HD
+http://208.86.19.13:81/7366.stream/index.m3u8
+#EXTINF:-1 ,WinSports_p
+http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 ,FoxSports2_p
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 ,FoxSports3_p
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 ,Star sports select 2 HD
+http://starshare.org:8080/live/gxc733/sxk877/200.m3u8
+#EXTINF:-1 ,Star sports 1 HD
+http://starshare.org:8080/live/gxc733/sxk877/124281.m3u8
+#EXTINF:-1 ,Eurosports HD
+http://starshare.org:8080/live/gxc733/sxk877/216.m3u8
+#EXTINF:-1 ,Ten sports HD
+http://starshare.org:8080/live/gxc733/sxk877/98.m3u8
+#EXTINF:-1 ,BEINsports•extra
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 ,Saudi•1
+http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,Saudi•2
+http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,SPOTV®2
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1 ,SPOTV®1
+http://103.167.167.5:8111/play/a020/index.m3u8
+#EXTINF:-1 ,SuperSport Tennis HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52297.ts
+#EXTINF:-1 ,SuperSport La Liga HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52294.ts
+#EXTINF:-1 ,Digi Sport 1
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46984.ts
+#EXTINF:-1 ,Digi Sport 2
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46983.ts
+#EXTINF:-1 ,Digi Sport 3
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46982.ts
+#EXTINF:-1 ,SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/280.ts
+#EXTINF:-1 ,SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/281.ts
+#EXTINF:-1 ,FR_BeIN_SPORTS_1_HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3682.ts
+#EXTINF:-1 ,FR_BeIN_SPORTS_2_HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/47302.ts
+#EXTINF:-1 ,FR_BeIN_SPORTS_3_HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3680.ts
+#EXTINF:-1 ,UK_Eir_Sports_2
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3608.ts
+#EXTINF:-1 ,UK_BT_Sport_2_HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52240.ts
+#EXTINF:-1 ,UK_BT_Sport_1_HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52241.ts
+#EXTINF:-1 ,beIN Sport 3 HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1549.ts
+#EXTINF:-1 ,beIN Sport 4 HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49946.ts
+#EXTINF:-1 ,SONY SPORT 1
+http://208.86.19.13:81/7266.stream/index.m3u8
+#EXTINF:-1 ,Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:-1 ,TSports
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1 ,Freecatv Euro.Sports 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1 ,Freecatv Euro.Sports 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1 ,beIN Sports 2 English HD 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 ,Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 ,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 ,Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 ,Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,Sports 4
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1 ,Sports 5
+http://103.102.27.173/live/tvfeed1006/index.m3u8
+#EXTINF:-1 ,Ten cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/9886.m3u8
+#EXTINF:-1 ,EDGE
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Sky sports cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/23566.m3u8
+#EXTINF:-1 ,Bein SPORTS PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,Star sports 1 HD
+http://starshare.org:8080/live/gxc733/sxk877/98864.m3u8
+#EXTINF:-1 ,Fox Sports 2 MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+#EXTINF:-1 ,Fox Sports Premium MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+#EXTINF:-1 ,SKY CRICKET
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=623906&extension=ts
+#EXTINF:-1 ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,Euro Sports
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 ,BeIN Sports 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+#EXTINF:-1 ,BeIN Sports 3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1 ,Toffee Sports
+https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,BEIN SPORT 3 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 ,ILT20 Toffee
+https://mprod-cdn.toffeelive.com/ilt20/channel-1/index.m3u8
+#EXTINF:-1 ,Toffee Live
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 ,Astro_Arena
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
+#EXTINF:-1 ,ASSP.1
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
+#EXTINF:-1 ,ASSP.4
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 ,TUDN 🇲🇽
+http://45.182.21.251:33334/play/a07y/index.m3u8
+#EXTINF:-1 ,TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+#EXTINF:-1 ,Max Sport 1 🇧🇬
+http://94.156.59.247:8899/udp/224.2.1.49:1234
+#EXTINF:-1 ,Diema Sport 2 🇧🇬
+http://94.156.59.247:8899/udp/224.156.69.138:5000
+#EXTINF:-1 ,Diema Sport 3 🇧🇬
+http://94.156.59.247:8899/udp/224.156.69.137:5000
+#EXTINF:-1 ,SCTV VIDIO 🇯🇵
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 ,SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,TELEVIVO 🇺🇾
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+#EXTINF:-1 ,BEIN 🇩🇴
+http://216.122.181.34:4066/udp/225.2.2.18:4000
+#EXTINF:-1 ,Espn Deportes 🇩🇴
+http://216.122.181.34:4066/udp/225.2.2.114:4000
+#EXTINF:-1 ,Fox Sports 🇩🇴
+http://216.122.181.34:4066/udp/225.2.2.160:4000
+#EXTINF:-1 ,SKY SPORTS F1 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
+#EXTINF:-1 ,SKY SPORTS F1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
+#EXTINF:-1 ,PREMIER SPORTS 2 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586812.m3u8
+#EXTINF:-1 ,FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 ,MAQ TV CRICKET
+http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:-1 ,MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 ,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 ,X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 ,BeIN Sports Premium 1 4K
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,BeIN Sports Premium 2 4K
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,BeIN Sports 3 Premium 4K
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,A SportsHD 🇮🇳
+http://180.178.188.152:8000/play/a0ad
+#EXTINF:-1 ,Eleven 1 HD 🇵🇹
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
+#EXTINF:-1 ,ESPN 🇦🇷
+http://181.189.246.86:58003/play/a02h/index.m3u8
+#EXTINF:-1 ,ESPN 🇦🇷
+http://191.102.90.97:8000/play/a08b/index.m3u8
+#EXTINF:-1 ,Super cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/2496.m3u8
+#EXTINF:-1 ,Willow cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/215.m3u8
+#EXTINF:-1 ,Star sports Hindi 1 HD
+http://starshare.org:8080/live/gxc733/sxk877/124287.m3u8
+#EXTINF:-1 ,Super cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/24115.m3u8
+#EXTINF:-1 ,Geo super cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/101.m3u8
+#EXTINF:-1 ,ESPN 🇦🇷
+http://170.83.242.8:5350/play/a00u
+#EXTINF:-1 ,ESPN 2 🇦🇷
+http://181.189.246.86:58003/play/a02j/index.m3u8
+#EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
+http://170.83.242.8:5350/play/a00t
+#EXTINF:-1 ,ESPN 3 🇦🇷
+http://181.189.246.86:58003/play/a02i/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 3 🇦🇷
+http://170.83.242.155:5350/play/a014
+#EXTINF:-1 ,TELEMUNDO 🇲🇽
+http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1 ,CANAL + 2 SPORT 🇨🇵
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iI0JqKzFndso/index.m3u8
+#EXTINF:-1 ,CANAL + 3 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CANAL + 4 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
+#EXTINF:-1 ,CANAL + 5 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,T sports BD HD
+http://starshare.org:8080/live/gxc733/sxk877/130714.m3u8
+#EXTINF:-1 ,Arena 1 HD 🇷🇸
+http://94.250.2.6:7374/play/a02m/index.m3u8
+#EXTINF:-1 ,Eurosports HD
+http://starshare.org:8080/live/gxc733/sxk877/23308.m3u8
+#EXTINF:-1 ,Star sports 2 HD
+http://starshare.org:8080/live/gxc733/sxk877/124284.m3u8
+#EXTINF:-1 ,Arena Sport 4 🇧🇦
+http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
+http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
+#EXTINF:-1 ,MATH 🇷🇺
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 ,3 Sport HD 🇱🇹
+http://myott.top/stream/D3VTJRDNKLY/416.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,SETANTA_2™
+http://31.146.176.94:80/setanta2/index.m3u8
+#EXTINF:-1 ,BeinSports•1•Premium
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
+#EXTINF:-1 ,BeinPremium_1_arb
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 ,V-Play
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1 ,Sony Six FHD
+http://212.224.84.217:2200/R-EX/FHD_SONY_SIXX_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports 2 FHD
+http://212.224.84.217:2200/R-EX/FHD_STAR_SPORTS_2_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Sports Sony Six HD
+http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Hindi Star Sports 1 FHD
+http://212.224.84.217:2200/R-EX/FHD_HINDI_STAR_SPORTS_1_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports 1 FHD
+http://212.224.84.217:2200/R-EX/FHD_STAR_SPORTS_1_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Ten 3 HD
+http://212.224.84.217:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports First
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports 3
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports Select 1 HD
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports 1 English HD
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports 2 HD
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,T Sports HD
+http://212.224.84.217:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1,Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1,Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1,Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF: -1,Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1,Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1,Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1,Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1,Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF: -1,Sony TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1,Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:0 group-title="BANGLA" ,NAGORIK- GAZI TV
 http://tv.dugdugilive.com:8080/1Sky22/GaziTV/index.m3u8
 #EXTINF:0 group-title="BANGLA" ,T SPORTS HD
