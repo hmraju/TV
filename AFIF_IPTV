@@ -1194,3 +1194,400 @@ http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
+SPORS
+
+
+
+
+#EXTINF:-1,TRUE-VISIONS-1
+http://freecatv-manik.xyz/TRUE-VISIONS-1.m3u8
+#EXTINF:-1,TRUE-TENNI
+http://freecatv-manik.xyz/TRUE-TENNI.m3u8
+#EXTINF:-1,BT-Sports-2HD
+http://freecatv-manik.xyz/BT-Sports-2HD.m3u8
+#EXTINF:-1,bEIN-Sports
+http://freecatv-manik.xyz/bEIN-Sports-EN.m3u8
+#EXTINF:-1,PTV-Sports
+http://freecatv-manik.xyz/PTV-Sports.m3u8
+#EXTINF:-1,DIGI Sport 1
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+#EXTINF:-1,DIGI Sport 2
+http://84.17.61.203:8086/udp/229.35.15.105:1234
+#EXTINF:-1,DIGI Sport 3
+http://84.17.61.203:8086/udp/229.35.15.108:1234
+#EXTINF:-1,DIGI Sport 4 HD
+http://84.17.61.203:8086/udp/229.35.15.151:1234
+#EXTINF:-1,Orange Sport 3 HD
+http://84.17.61.203:8086/udp/229.35.15.182:1234
+#EXTINF:-1,TUDN 🇲🇽
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1, SPORTS 18 🇮🇳
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,K+SPORT1 s1
+http://103.82.24.168:5544/play/sport1tn/index.m3u8
+#EXTINF:-1 ,K+SPORT1 s2
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+#EXTINF:-1 ,K+SPORT2
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
+#EXTINF:-1 ,K+LIFE
+http://103.82.24.168:5544/play/life/index.m3u8
+#EXTINF:-1 ,Astro-Cricket-HD
+http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
+#EXTINF:-1 ,Cricket~Live
+http://freecatv-manik.xyz/Cricket~Live.ts
+#EXTINF:-1 ,SKYSPORTS~CRICKET
+http://freecatv-manik.xyz/SKYSPORTS~CRICKET.ts
+#EXTINF:-1 ,WILLOW-CRICKET
+http://freecatv-manik.xyz/WILLOW-CRICKET.ts
+#EXTINF:-1 ,Astro-Cricket
+http://freecatv-manik.xyz/Astro-Cricket.ts
+#EXTINF:-1 ,Sky-Sports-Cricket-FHD
+http://freecatv-manik.xyz/Sky-Sports-Cricket-FHD.ts
+#EXTINF:-1 ,Super-Sports-Cricket
+http://freecatv-manik.xyz/Super-Sports-Cricket.ts
+#EXTINF:-1 ,DSTV-variety-4
+http://freecatv-manik.xyz/DSTV-Variety-4.ts
+#EXTINF:-1 ,DSTV-variety-3
+http://freecatv-manik.xyz/DSTV-variety-3.ts
+#EXTINF:-1 ,DSTV-PSL
+http://freecatv-manik.xyz/DSTV-PSL.ts
+#EXTINF:-1 ,DSTV-premierLiga
+http://freecatv-manik.xyz/DSTV-premierLiga.ts
+#EXTINF:-1 ,DSTV maximo-1
+http://freecatv-manik.xyz/Dstv-maximo-1.ts
+#EXTINF:-1 ,DSTV motorsport
+http://freecatv-manik.xyz/DSTVmotorsport.ts
+#EXTINF:-1 ,Ss.cricket DSTV
+http://freecatv-manik.xyz/Ss.cricket.ts
+#EXTINF:-1 ,Ss.ruby DSTV
+http://freecatv-manik.xyz/Ss.ruby.ts
+#EXTINF:-1 ,Super-Sports-Action
+http://freecatv-manik.xyz/Super-Sports-Action.ts
+#EXTINF:-1 ,BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/131
+#EXTINF:-1 ,BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/137
+#EXTINF:-1 ,BEIN SPORTS 4 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/138
+#EXTINF:-1 ,BEIN SPORTS 5 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/139
+#EXTINF:-1 ,BEIN SPORTS 6 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/140
+#EXTINF:-1 ,BEIN SPORTS 7 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/141
+#EXTINF:-1 ,BEIN SPORTS 8 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/142
+#EXTINF:-1 ,BEIN SPORTS 10 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/144
+#EXTINF:-1 ,BEIN SPORTS 11 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/145
+#EXTINF:-1 ,BEIN SPORTS 4 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1875
+#EXTINF:-1 ,BEIN SPORTS 5 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1876
+#EXTINF:-1 ,BEIN SPORTS 6 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1877
+#EXTINF:-1 ,BEIN SPORTS 7 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1878
+#EXTINF:-1 ,BEIN SPORTS 8 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1879
+#EXTINF:-1 ,BEIN SPORT 9 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1880
+#EXTINF:-1 ,BEIN SPORTS 10 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1881
+#EXTINF:-1 ,BEIN MOVIES 1 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2683
+#EXTINF:-1 ,BEIN MOVIES 2 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2684
+#EXTINF:-1 ,Sky Sports Cricket FHD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593741
+#EXTINF:-1 ,Sky Sports Cricket HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593742
+#EXTINF:-1 ,Sky Sports Cricket SD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593743
+#EXTINF:-1 ,K SPORT 1 🇦🇱
+http://tbs-tv.com:8080/dark/kittylinetv/13572
+#EXTINF:-1 ,ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
+#EXTINF:-1 ,ASTRO_SUPERSPORT 1
+http://hostengine.live/live/wrecks82/habsiptv82/197514.m3u8
+#EXTINF:-1 ,ASTRO_SUPERSPORT 2
+http://hostengine.live/live/wrecks82/habsiptv82/197515.m3u8
+#EXTINF:-1 ,ASTRO_SUPERSPORT 3
+http://hostengine.live/live/wrecks82/habsiptv82/197516.m3u8
+#EXTINF:-1 ,ASTRO_SUPERSPORT 4
+http://hostengine.live/live/wrecks82/habsiptv82/197517.m3u8
+#EXTINF:-1 ,ASTRO_SUPERSPORT 5
+http://hostengine.live/live/wrecks82/habsiptv82/197518.m3u8
+#EXTINF:-1 ,BEINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
+#EXTINF:-1 ,BEINSPORTS 2
+http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
+#EXTINF:-1 ,BEINSPORTS 3
+http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
+#EXTINF:-1 ,FOXSPORTS 501
+http://hostengine.live/live/wrecks82/habsiptv82/57493.m3u8
+#EXTINF:-1 ,FOXSPORTS 502
+http://hostengine.live/live/wrecks82/habsiptv82/57494.m3u8
+#EXTINF:-1 ,FOXSPORTS 503
+http://hostengine.live/live/wrecks82/habsiptv82/57495.m3u8
+#EXTINF:-1 ,FOXSPORTS 504
+http://hostengine.live/live/wrecks82/habsiptv82/57496.m3u8
+#EXTINF:-1 ,FOXSPORTS 505
+http://hostengine.live/live/wrecks82/habsiptv82/57497.m3u8
+#EXTINF:-1 ,FOXSPORTS 506
+http://hostengine.live/live/wrecks82/habsiptv82/57498.m3u8
+#EXTINF:-1 ,BEINSPORTS ENGLISH 01
+http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
+#EXTINF:-1 ,BEINSPORTS ENGLISH 02
+http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
+#EXTINF:-1 ,BEINSPORTS ENGLISH 03
+http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
+#EXTINF:-1 ,BEINSPORTS LALIGA
+http://hostengine.live/live/wrecks82/habsiptv82/56352.m3u8
+#EXTINF:-1 ,BEINSPORTS PREMIUM 01
+http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
+#EXTINF:-1 ,BEINSPORTS PREMIUM 02
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
+#EXTINF:-1 ,BEINSPORTS PREMIUM 03
+http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
+#EXTINF:-1 ,BEINSPORTS USA
+http://hostengine.live/live/wrecks82/habsiptv82/56353.m3u8
+#EXTINF:-1 ,BEINSPORTS XTRA
+http://hostengine.live/live/wrecks82/habsiptv82/58290.m3u8
+#EXTINF:-1 ,WINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/160057.m3u8
+#EXTINF:-1 ,ASTRO_CRICKET
+http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
+#EXTINF:-1 ,GEO_SUPER
+http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
+#EXTINF:-1 ,PTV_SPORTS
+http://hostengine.live/live/wrecks82/habsiptv82/69284.m3u8
+#EXTINF:-1 ,ONE_SPORT
+http://hostengine.live/live/wrecks82/habsiptv82/179393.m3u8
+#EXTINF:-1 ,BEINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
+#EXTINF:-1 ,BEINSPORTS 2
+http://hostengine.live/live/wrecks82/habsiptv82/57392.m3u8
+#EXTINF:-1 ,SPORTS HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93721
+#EXTINF:-1 ,STARSPORTS•1 HD ENGLISH
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93724
+#EXTINF:-1 ,STARSPORTS•1 HD HINDI
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93725
+#EXTINF:-1 ,STARSPORTS•2 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93726
+#EXTINF:-1 ,STARSPORTS•3
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93727
+#EXTINF:-1 ,STARSPORTS•FIRST
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93728
+#EXTINF:-1 ,STARSPORTS•SELECT•1 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93729
+#EXTINF:-1 ,STARSPORTS•SELECT•2 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93730
+#EXTINF:-1 ,STARSPORTS•TAMIL
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93731
+#EXTINF:-1 ,TEN•1 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93732
+#EXTINF:-1 ,TEN•3 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93734
+#EXTINF:-1 ,STARSPORTS 1 HD
+http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
+#EXTINF:-1 ,BT-SPORTS 01
+http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8
+#EXTINF:-1 ,BT-SPORTS 02
+http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
+#EXTINF:-1 ,BT-SPORTS 03
+http://hostengine.live/live/wrecks82/habsiptv82/53852.m3u8
+#EXTINF:-1 ,BT-SPORTS 04
+http://hostengine.live/live/wrecks82/habsiptv82/53853.m3u8
+#EXTINF:-1 ,BT-SPORTS 05
+http://hostengine.live/live/wrecks82/habsiptv82/53854.m3u8
+#EXTINF:-1 ,BT_SPORTS 07
+http://hostengine.live/live/wrecks82/habsiptv82/53856.m3u8
+#EXTINF:-1 ,BT-SPORTS 08
+http://hostengine.live/live/wrecks82/habsiptv82/53857.m3u8
+#EXTINF:-1 ,BT-SPORTS 09
+http://hostengine.live/live/wrecks82/habsiptv82/53858.m3u8
+#EXTINF:-1 ,BT-SPORTS 10
+http://hostengine.live/live/wrecks82/habsiptv82/53859.m3u8
+#EXTINF:-1 ,Sky Sport Premier League FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284459
+#EXTINF:-1 ,Sky Sport Golf FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284461
+#EXTINF:-1 ,Sky Sport Top Event FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284465
+#EXTINF:-1 ,Sky Sport Tennis FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284467
+#EXTINF:-1 ,DAZN 1 Bar
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
+#EXTINF:-1 ,DAZN 1 Bar FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96686
+#EXTINF:-1 ,DAZN 2
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96687
+#EXTINF:-1 ,DAZN 2 Bar FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
+#EXTINF:-1 ,DAZN 1 HD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
+#EXTINF:-1 ,DAZN 2 HD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+#EXTINF:-1 ,Sportdigital FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238119
+#EXTINF:-1 ,ARENA SPORT 7 🇭🇷
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
+#EXTINF:-1 ,LIGA CAMPEONES 🇪🇸
+http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+#EXTINF:-1 ,MAX SPORT 3 🇧🇬
+http://212.5.59.2:9882/play/a019/index.m3u8?
+#EXTINF:-1 ,Gazi Tv
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,t sports
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:-1 ,Eurosports live
+http://51.15.9.155/EUROSPORT_2/index.m3u8
+#EXTINF:-1 ,Eurosports(BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
+#EXTINF:-1 ,Sony Liv
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 ,Q Sport International
+http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
+#EXTINF:-1 ,Viasat Sport
+http://176.222.190.76/btv/SWM/viasatsport/viasatsport.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,TV3 SPORT 🇱🇹
+http://myott.top/stream/25SMQ9HCKV/416.m3u8
+#EXTINF:-1 ,Red-Bull-TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Star Sports 2
+http://b403da4c.cbilant.com/iptv/7LSGLHX6AZUKEY/2507/index.m3u8
+#EXTINF:-1 ,DAZN LALIGA 🇪🇸
+http://168.228.194.32:58001/play/z002/index.m3u8
+#EXTINF:-1 ,MOVISTAR LALIGA 🇪🇸
+http://45.5.118.226:8000/play/a051/index.m3u8
+#EXTINF:-1 ,Arena Sport 4 🇧🇦
+http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTINF:-1 ,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+http://ky-iptv.com:80/chris7676/chris7676/1846756.ts
+#EXTINF:-1 ,EuroSport 1 HD
+http://ky-iptv.com:80/chris7676/chris7676/391450.ts
+#EXTINF:-1 ,Eurosport 2 HD
+http://ky-iptv.com:80/chris7676/chris7676/1847082.ts
+#EXTINF:-1 ,BT Sports 1
+http://ky-iptv.com:80/chris7676/chris7676/1846762.ts
+#EXTINF:-1 ,BT Sports 2
+http://ky-iptv.com:80/chris7676/chris7676/1846763.ts
+#EXTINF:-1 ,BT Sports 3
+http://ky-iptv.com:80/chris7676/chris7676/1846764.ts
+#EXTINF:-1 ,Sky Sports Action
+http://ky-iptv.com:80/chris7676/chris7676/1846771.ts
+#EXTINF:-1 ,Sky Sports Arena
+http://ky-iptv.com:80/chris7676/chris7676/1846772.ts
+#EXTINF:-1 ,Sky Sports F1
+http://ky-iptv.com:80/chris7676/chris7676/1846774.ts
+#EXTINF:-1 ,Sky Sports Main Events
+http://ky-iptv.com:80/chris7676/chris7676/1847084.ts
+#EXTINF:-1 ,Sky Sports MIX
+http://ky-iptv.com:80/chris7676/chris7676/1847433.ts
+#EXTINF:-1 ,SKY SPORTS GOLF HD
+http://ky-iptv.com:80/chris7676/chris7676/391434.ts
+#EXTINF:-1 ,Tsports
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18l3IzRXGVnCOlgiqlsEwkPM
+#EXTINF:-1 ,Star Sports 2
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18nUO20q2BjnP5exvq7icXeg
+#EXTINF:-1 ,Star Sports Select 1
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rTvQMr0SMZ7U0KvTTW-dq8
+#EXTINF:-1 ,Viaplay
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,BEIN SPORTS 1 HD (English)
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u9n7nnlf41obrgmBsUuNqk
+#EXTINF:-1 ,BEIN SPORTS 2 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18gQuy_eQ-QU2CSQXPezvEuc
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 1 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18uuZqbq5M0uv0hLtfAzDw48
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 3 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pVBF2PGSZpcPw5fE-FZsMI
+#EXTINF:-1 ,Cricket
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157565
+#EXTINF:-1 ,WILLOWnCRICKET HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93735
+#EXTINF:-1 ,SKYSPORTS~CRICKET FHD
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303880
+#EXTINF:-1 ,SuperSport Cricket
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
+#EXTINF:-1 ,DSTV Cricket
+http://89.47.232.72:8080/live/Chris/Chris/531516.ts
+#EXTINF:-1 ,Skysports Cricket HD
+http://89.47.232.72:8080/live/Chris/Chris/5538.ts
+#EXTINF:-1 ,WILLOWXTRA CRICKET
+http://ky-iptv.com:80/live/chris7676/chris7676/1116408.ts
+#EXTINF:-1 ,STAR SPORTS 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98864.ts
+#EXTINF:-1 ,STAR SPORTS 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98865.ts
+#EXTINF:-1 ,STAR SPORTS 1 HINDI (4K).
+http://humiptv.live:8080/live/242425/242425/98866.ts
+#EXTINF:-1 ,STAR SPORTS SELECT 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98867.ts
+#EXTINF:-1 ,START SPORTS SELECT 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98868.ts
+#EXTINF:-1 ,TEN 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98861.ts
+#EXTINF:-1 ,TEN 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98862.ts
+#EXTINF:-1 ,TEN 3 (4K).
+http://humiptv.live:8080/live/242425/242425/98863.ts
+#EXTINF:-1 ,SONY SIX (4K).
+http://humiptv.live:8080/live/242425/242425/98870.ts
+#EXTINF:-1 ,SKY SPORTS CRICKET
+http://humiptv.live:8080/live/242425/242425/12.ts
+#EXTINF:-1 ,SKY SPORTS CRICKET (4K)
+http://humiptv.live:8080/live/242425/242425/23566.ts
+#EXTINF:-1 ,ASTRO CRICKET HD
+http://humiptv.live:8080/live/242425/242425/2494.ts
+#EXTINF:-1 ,FOX CRICKET 501
+http://humiptv.live:8080/live/242425/242425/1856.ts
+#EXTINF:-1 ,PTV SPORTS
+http://humiptv.live:8080/live/242425/242425/89.ts
+#EXTINF:-1 ,T SPORTS.
+http://humiptv.live:8080/live/242425/242425/130714.ts
+#EXTINF:-1 ,GEO SUPER
+http://humiptv.live:8080/live/242425/242425/101.ts
+#EXTINF:-1 ,TEN SPORTS
+http://humiptv.live:8080/live/242425/242425/98.ts
+#EXTINF:-1 ,WILLOW CRICKET
+http://humiptv.live:8080/live/242425/242425/215.ts
+#EXTINF:-1 ,WILLOW CRICKET XTRA
+http://humiptv.live:8080/live/242425/242425/5040.ts
+#EXTINF:-1 ,TEN CRICKET
+http://humiptv.live:8080/live/242425/242425/9886.ts
+#EXTINF:-1 ,BEIN CRICKET HD
+http://humiptv.live:8080/live/242425/242425/9115.ts
+#EXTINF:-1 ,Sky Sports F1 (4K)
+http://humiptv.live:8080/live/242425/242425/122181.ts
+#EXTINF:-1 ,Sky Sports News (4K)
+http://humiptv.live:8080/live/242425/242425/122408.ts
+#EXTINF:-1 ,Sky Sports Main Event (4k)
+http://humiptv.live:8080/live/242425/242425/122409.ts
+#EXTINF:-1 ,Sky Sports Premier League (4K)
+http://humiptv.live:8080/live/242425/242425/122410.ts
+#EXTINF:-1 ,Sky Sports Football (4K)
+http://humiptv.live:8080/live/242425/242425/122411.ts
+#EXTINF:-1 ,Sky Sports Cricket (4K)
+http://humiptv.live:8080/live/242425/242425/122412.ts
+#EXTINF:-1 ,Sky Sports Action/NFL (4K)
+http://humiptv.live:8080/live/242425/242425/122413.ts
+#EXTINF:-1 ,Sky Sports Arena (4K)
+http://humiptv.live:8080/live/242425/242425/122414.ts
+#EXTINF:-1 ,Sky Sports Racing (4K)
+http://humiptv.live:8080/live/242425/242425/122415.ts
+#EXTINF:-1 ,Sky Sports Mix (4K)
+http://humiptv.live:8080/live/242425/242425/122416.ts
+#EXTINF:-1 ,Sky Sports Golf (4K)
+http://humiptv.live:8080/live/242425/242425/122417.ts
