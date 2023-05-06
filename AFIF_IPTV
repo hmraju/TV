@@ -493,6 +493,18 @@ http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,COLORS CINEPLEX BOLLYWOOD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold 2
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18viQFP1mKPfIsxUwK7ppLSA
+#EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold Select
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,COLORS SUPER
+http://103.175.73.14:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,DD NATIONAL
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold
@@ -517,6 +529,16 @@ http://208.86.19.13:81/522.stream/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
 #EXTINF:32 group-title="HINDI MUSIC" ,9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:32 group-title="HINDI MUSIC" ,I LOVE YOU
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,OSCAR MOVIES
+https://livetv-channels.b-cdn.net/8038/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,ABZY DHAKAD
+https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,ABZY COOL
+https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,ABZY MOVIES
+https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,balleballetv
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,Brit Asia TV
