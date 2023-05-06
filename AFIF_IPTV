@@ -1,58 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Dugdugi Server" ,T SPORTS HD
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Gazi TV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 5
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 1 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 2 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 3 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Star Sports 1 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,PTV Sports HD
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Channel I HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,NTV BD
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Nagorik TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Channel 9 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sangit Bangla
-http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Zee Bangla Cinema
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,And Pictures
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Star Plus HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Zee TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,And TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Max HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony KAL
-http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,8XM
-http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Discovery
-http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,HBO
-http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Ekattor TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIE" ,CINEMAX 2
-http://84.54.131.97:13004
-#EXTINF:0 group-title="SPORTS" ,DAZN 2 SPORTS
-http://204.12.247.162:8080/premium427/mono.m3u8
-#EXTINF:0 group-title="SPORTS" ,ARENA SPORT 1
-http://204.12.247.162:8080/premium429/mono.m3u8
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
 #EXTINF:0 group-title="BANGLA" ,52 Channel
@@ -163,8 +109,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,JAGO_RTV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" ,JAGO_SA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,JAGO_SOMOY TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/ds3aThu.jpg" ,Jamuna TV
@@ -197,14 +141,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/yi5p51T.png" ,RTV HD
 https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/06/satv-resized.png" ,SA TV
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/satv.png" ,SA TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" ,SATV
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" ,SATV(Jagobd)
-http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/somoytv.png" ,Somoy News
@@ -217,8 +153,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,AB TV USA
 http://208.86.19.13:81/501.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV" ,ATN Bangla UK
-http://87.212.248.44:60230/play/a05g/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/atnislamic.png" ,ATN Islamic
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,ATN Islamic (BDIX0)
@@ -347,12 +281,78 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,travel xp HD
-http://opplex.tv:8080/live/55667788/88776655/206280.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Weatherspy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,8XM
+http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,And Pictures
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,And TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,BTV WORLD
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Channel 9 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Channel I HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,DHOOM
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Discovery
+http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Ekattor TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Gazi TV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,HBO
+http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,JALSHA MOVIES HD
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Nagorik TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,NTV BD
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,PTV Sports HD
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Rishtey Cinelex
+http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sangit Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,SONY BBC EARTH
+http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony KAL
+http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Max HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 1 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 2 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 3 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 5
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,STAR BHARAT
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Star Gold HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,STAR JALSHA HD
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Star Plus HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Star Sports 1 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,T SPORTS HD
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZEE BANGLA
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Zee Bangla Cinema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZEE CINEMA HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Zee TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,Arre
@@ -363,10 +363,6 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:0 group-title="ENGLISH" ,ENGLISH CLUB HD
 http://iptv.prosto.tv:7000/ch163/video.m3u8
-#EXTINF:-1 group-title="ENGLISH" ,Fuel TV
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH" ,Fuel TV (India)
-https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Go USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,Horse and Country
@@ -381,8 +377,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" ,Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH" ,USA
-http://208.86.19.13:81/11.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE" ,24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE" ,Action Hollywood Movies
@@ -400,6 +394,8 @@ http://myott.top/stream/DEKA6YA5JRN/351.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE" ,CinemaWorld
 http://210.210.155.35/dr9445/h/h04/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE" ,CINEMAX
+http://84.54.131.97:13004
+#EXTINF:0 group-title="ENGLISH MOVIE" ,CINEMAX 2
 http://84.54.131.97:13004
 #EXTINF:-1 group-title="ENGLISH MOVIE" ,Cinevault 80s
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
@@ -469,8 +465,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="FASHION" ,Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="FASHION" tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" ,Global Fashon
-http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,COLORS HD (IN)
@@ -535,12 +529,8 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 group-title="HINDI MUSIC" ,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
-#EXTINF:-1 group-title="HINDI MUSIC" ,MK Tune
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,MTV HD
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 group-title="HINDI MUSIC" ,Music India (576p) [Not 24/7]
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,Pop Pataka (480p) [Not 24/7]
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,SHOW BOX
@@ -561,8 +551,6 @@ https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Canada Star TV
 https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:0 group-title="INDIAN" ,Captain TV (576p) [Not 24/7]
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="http://www.dy365.in/images/dy365.jpg" ,DY365
@@ -593,10 +581,6 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:0 group-title="INDIAN" ,Kalaignar (576p)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:0 group-title="INDIAN" ,Kalaignar Murasu (576p) [Not 24/7]
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:0 group-title="INDIAN" ,Kalaignar Seithikal (576p) [Not 24/7]
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 #EXTINF:0 group-title="INDIAN" ,Kalaignar Sirippoli (576p)
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:0 group-title="INDIAN" ,Kalinga TV (864p) [Not 24/7]
@@ -607,14 +591,6 @@ https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:0 group-title="INDIAN" ,Khabrain Abhi Tak (480p) [Not 24/7]
 https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN" ,MK SIX
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:0 group-title="INDIAN" ,MK Six (576p) [Not 24/7]
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:0 group-title="INDIAN" ,MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 group-title="INDIAN" ,MOON TV
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 group-title="INDIAN" ,NK TV
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Nour TV
@@ -631,8 +607,6 @@ https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
-#EXTINF:0 group-title="INDIAN" ,Real TV (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
 #EXTINF:0 group-title="INDIAN" ,Sana TV (576p) [Not 24/7]
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" ,Zee Aflam
@@ -649,8 +623,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Jonack_logo.png" ,Jonack TV
@@ -669,16 +641,10 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Star Jalsha HD
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 #EXTINF:-1 group-title="INDIAN BANGLA" ,TARA BANGLA (R Plus Gold)
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,tv24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla
-https://JTV.lalitjoshi06.repl.co/getm3u8/625/master.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla Cinema (2)
-https://JTV.lalitjoshi06.repl.co/getm3u8/685/master.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla IN
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6636/index.m3u8
 #EXTINF:0 group-title="ISLAMIC" ,Al Istiqama TV
@@ -801,8 +767,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 group-title="MUSIC" ,MUSIC 4EVER
 http://iptv.prosto.tv:7000/ch132/video.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/DJhTTmR.png" ,Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 group-title="MUSIC" ,MUSIC PARSIANA
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC" ,Persiana Music
@@ -885,8 +849,6 @@ http://live.cgtn.com/500/prog_index.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8
 #EXTINF:0 group-title="OTHERS" ,FAST AND FUN BOX
 http://iptv.prosto.tv:7000/ch120/video.m3u8
-#EXTINF:0 group-title="OTHERS" ,IL: Kan 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Israel Pars TV
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Kanal9
@@ -907,14 +869,10 @@ http://51.210.199.18/hls/stream.m3u8
 http://51.210.199.22/hls/stream.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 group-title="OTHERS" ,RUSSIAN
-http://myott.top/stream/DEKA6YA5JRN/152.m3u8
 #EXTINF:-1 group-title="OTHERS" ,RUSSIAN AFG
 http://myott.top/stream/DEKA6YA5JRN/128.m3u8
 #EXTINF:-1 group-title="OTHERS" ,SUPER HD
 http://142.132.136.139:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="OTHERS" ,SUPER TV Media
-https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Tele 1 (1080p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Tele ZURI (720p)
@@ -979,66 +937,176 @@ https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/low/c.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:0 group-title="SPORTS" ,ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Arena 1 HD 🇷🇸
-http://94.250.2.6:7374/play/a02m/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Arena 1 Sport
-http://204.12.247.162:8080/premium429/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Arena 2 Sport
-http://204.12.247.162:8080/premium582/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Arena 3 Sport
-http://204.12.247.162:8080/premium431/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Arena 4 Sport
-http://204.12.247.162:8080/premium581/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 4 🇧🇦
+http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ARENA SPORT 7 🇭🇷
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
+#EXTINF:-1 group-title="SPORTS" ,ASTRO CRICKET HD
+http://humiptv.live:8080/live/242425/242425/2494.ts
+#EXTINF:-1 group-title="SPORTS" ,Astro-Cricket
+http://freecatv-manik.xyz/Astro-Cricket.ts
+#EXTINF:-1 group-title="SPORTS" ,Astro-Cricket-HD
+http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_CRICKET
+http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_SUPERSPORT 1
+http://hostengine.live/live/wrecks82/habsiptv82/197514.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_SUPERSPORT 2
+http://hostengine.live/live/wrecks82/habsiptv82/197515.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_SUPERSPORT 3
+http://hostengine.live/live/wrecks82/habsiptv82/197516.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_SUPERSPORT 4
+http://hostengine.live/live/wrecks82/habsiptv82/197517.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ASTRO_SUPERSPORT 5
+http://hostengine.live/live/wrecks82/habsiptv82/197518.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEIN CRICKET HD
+http://humiptv.live:8080/live/242425/242425/9115.ts
+#EXTINF:-1 group-title="SPORTS" ,BEIN MOVIES 1 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2683
+#EXTINF:-1 group-title="SPORTS" ,BEIN MOVIES 2 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2684
 #EXTINF:-1 group-title="SPORTS" ,BEIN SPORT 3 🇬🇧
 http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,BeIN Sports 1
-http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,beIN Sports 2 English HD 🇬🇧
-http://175.107.244.52:4457/play/a06z/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,BeIN Sports 3
-http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORT 9 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1880
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/131
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 1 HD (English)
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u9n7nnlf41obrgmBsUuNqk
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 10 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1881
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 10 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/144
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 11 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/145
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 2 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18gQuy_eQ-QU2CSQXPezvEuc
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/137
 #EXTINF:-1 group-title="SPORTS" ,BeIN Sports 3 Premium 4K
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 4 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1875
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 4 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/138
 #EXTINF:-1 group-title="SPORTS" ,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 5 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1876
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 5 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/139
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 6 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1877
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 6 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/140
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 7 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1878
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 7 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/141
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 8 FHD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1879
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS 8 HD
+http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/142
 #EXTINF:-1 group-title="SPORTS" ,Bein SPORTS PREMIUM
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS" ,BeIN Sports Premium 1 4K
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS PREMIUM 1 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18uuZqbq5M0uv0hLtfAzDw48
 #EXTINF:-1 group-title="SPORTS" ,BeIN Sports Premium 2 4K
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" ,BEIN SPORTS PREMIUM 3 HD
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pVBF2PGSZpcPw5fE-FZsMI
 #EXTINF:-1 group-title="SPORTS" ,Bein Sports 🇶🇦
 http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,bEIN-Sports
+http://freecatv-manik.xyz/bEIN-Sports-EN.m3u8
 #EXTINF:-1 group-title="SPORTS" ,BeinPremium_1_arb
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS 2
+http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS 2
+http://hostengine.live/live/wrecks82/habsiptv82/57392.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS 3
+http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS ENGLISH 01
+http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS ENGLISH 02
+http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS ENGLISH 03
+http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS LALIGA
+http://hostengine.live/live/wrecks82/habsiptv82/56352.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS PREMIUM 01
+http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS PREMIUM 02
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS PREMIUM 03
+http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS USA
+http://hostengine.live/live/wrecks82/habsiptv82/56353.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BEINSPORTS XTRA
+http://hostengine.live/live/wrecks82/habsiptv82/58290.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT Sports 1
+http://ky-iptv.com:80/chris7676/chris7676/1846762.ts
+#EXTINF:-1 group-title="SPORTS" ,BT Sports 2
+http://ky-iptv.com:80/chris7676/chris7676/1846763.ts
+#EXTINF:-1 group-title="SPORTS" ,BT Sports 3
+http://ky-iptv.com:80/chris7676/chris7676/1846764.ts
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 01
+http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 02
+http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 03
+http://hostengine.live/live/wrecks82/habsiptv82/53852.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 04
+http://hostengine.live/live/wrecks82/habsiptv82/53853.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 05
+http://hostengine.live/live/wrecks82/habsiptv82/53854.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 08
+http://hostengine.live/live/wrecks82/habsiptv82/53857.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 09
+http://hostengine.live/live/wrecks82/habsiptv82/53858.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT-SPORTS 10
+http://hostengine.live/live/wrecks82/habsiptv82/53859.m3u8
+#EXTINF:-1 group-title="SPORTS" ,BT_SPORTS 07
+http://hostengine.live/live/wrecks82/habsiptv82/53856.m3u8
 #EXTINF:-1 group-title="SPORTS" ,BTV5 -SPORTS
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 group-title="SPORTS" ,Champion Sports 1 HD
-http://103.167.167.5:8111/play/a01p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Champion Sports 2 HD
-http://103.167.167.5:8111/play/a01q/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Dazn 1 Sport
-http://204.12.247.162:8080/premium426/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Dazn 2 Sport
-http://204.12.247.162:8080/premium427/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Diema Sport
-http://204.12.247.162:8080/premium465/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Diema Sport 2
-http://204.12.247.162:8080/premium466/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Diema Sport 3
-http://204.12.247.162:8080/premium467/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Diema Sport Xtra
-http://204.12.247.162:8080/premium468/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/eytrf0Y.png" ,Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,DUBAI SPORTS
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 group-title="SPORTS" ,Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Dubai Sports 1 HD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Cricket
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157565
+#EXTINF:-1 group-title="SPORTS" ,Cricket~Live
+http://freecatv-manik.xyz/Cricket~Live.ts
+#EXTINF:-1 group-title="SPORTS" ,DAZN 1 Bar
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
+#EXTINF:-1 group-title="SPORTS" ,DAZN 1 Bar FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96686
+#EXTINF:-1 group-title="SPORTS" ,DAZN 1 HD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
+#EXTINF:-1 group-title="SPORTS" ,DAZN 2
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96687
+#EXTINF:-1 group-title="SPORTS" ,DAZN 2 Bar FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
+#EXTINF:-1 group-title="SPORTS" ,DAZN 2 HD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+#EXTINF:-1 group-title="SPORTS" ,DIGI Sport 1
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+#EXTINF:-1 group-title="SPORTS" ,DIGI Sport 2
+http://84.17.61.203:8086/udp/229.35.15.105:1234
+#EXTINF:-1 group-title="SPORTS" ,DIGI Sport 3
+http://84.17.61.203:8086/udp/229.35.15.108:1234
+#EXTINF:-1 group-title="SPORTS" ,DIGI Sport 4 HD
+http://84.17.61.203:8086/udp/229.35.15.151:1234
+#EXTINF:-1 group-title="SPORTS" ,DSTV Cricket
+http://89.47.232.72:8080/live/Chris/Chris/531516.ts
 #EXTINF:-1 group-title="SPORTS" ,Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" ,Dubai Sports 2
@@ -1047,28 +1115,66 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,EDGE
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Eleven 1 HD 🇵🇹
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
+#EXTINF:-1 group-title="SPORTS" ,ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Euro Sports
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Eurosport 1
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Eurosport 1 HD
+http://ky-iptv.com:80/chris7676/chris7676/1846756.ts
+#EXTINF:-1 group-title="SPORTS" ,EuroSport 1 HD
+http://ky-iptv.com:80/chris7676/chris7676/391450.ts
+#EXTINF:-1 group-title="SPORTS" ,Eurosport 2
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Eurosport 2 HD
+http://ky-iptv.com:80/chris7676/chris7676/1847082.ts
+#EXTINF:-1 group-title="SPORTS" ,Eurosports live
+http://51.15.9.155/EUROSPORT_2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Eurosports(BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 #EXTINF:0 group-title="SPORTS" ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Fox Sports Premium MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-#EXTINF:-1 group-title="SPORTS" ,FoxSports2_p
-http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,FoxSports3_p
-http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 501
+http://hostengine.live/live/wrecks82/habsiptv82/57493.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 502
+http://hostengine.live/live/wrecks82/habsiptv82/57494.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 503
+http://hostengine.live/live/wrecks82/habsiptv82/57495.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 504
+http://hostengine.live/live/wrecks82/habsiptv82/57496.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 505
+http://hostengine.live/live/wrecks82/habsiptv82/57497.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FOXSPORTS 506
+http://hostengine.live/live/wrecks82/habsiptv82/57498.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Freecatv Euro.Sports 1
 http://175.107.244.52:4457/play/a06v/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Freecatv Euro.Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Gazi Tv
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,GEO SUPER
+http://humiptv.live:8080/live/242425/242425/101.ts
+#EXTINF:-1 group-title="SPORTS" ,GEO_SUPER
+http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
 #EXTINF:-1 group-title="SPORTS" ,J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,K SPORT 1 🇦🇱
+http://tbs-tv.com:8080/dark/kittylinetv/13572
+#EXTINF:-1 group-title="SPORTS" ,K+LIFE
+http://103.82.24.168:5544/play/life/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,K+SPORT1 s1
+http://103.82.24.168:5544/play/sport1tn/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,K+SPORT1 s2
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,K+SPORT2
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,LIGA CAMPEONES 🇪🇸
+http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MAQ TV CRICKET
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MAT4_1
@@ -1079,6 +1185,8 @@ https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:0 group-title="SPORTS" ,Mav TV
 http://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,MAX SPORT 3 🇧🇬
+http://212.5.59.2:9882/play/a019/index.m3u8?
 #EXTINF:-1 group-title="SPORTS" ,MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MZ SPORTS 1
@@ -1087,10 +1195,24 @@ https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:0 group-title="SPORTS" ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,ONE_SPORT
+http://hostengine.live/live/wrecks82/habsiptv82/179393.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Orange Sport 3 HD
+http://84.17.61.203:8086/udp/229.35.15.182:1234
 #EXTINF:-1 group-title="SPORTS" ,Persiana Sports
 http://51.210.199.32/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS" ,PREMIER SPORTS 2 [HD]
 http://tvpanel.one:80/live/den9179/611carc/586812.m3u8
+#EXTINF:-1 group-title="SPORTS" ,PTV SPORTS
+http://humiptv.live:8080/live/242425/242425/89.ts
+#EXTINF:-1 group-title="SPORTS" ,PTV-Sports
+http://freecatv-manik.xyz/PTV-Sports.m3u8
+#EXTINF:-1 group-title="SPORTS" ,PTV_SPORTS
+http://hostengine.live/live/wrecks82/habsiptv82/69284.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Q Sport International
+http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Red-Bull-TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" ,RTV SPORT 🇸🇲
@@ -1121,20 +1243,70 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 group-title="SPORTS" ,SETANTA_2™
 http://31.146.176.94:80/setanta2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Sky Sport Arena
-http://204.12.247.162:8080/premium36/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SKY SPORTS F1 [HD]
-http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SOCCER•CHANNEL
-http://103.167.167.5:8111/play/a00i/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SONY SPORT 1
-http://208.86.19.13:81/7266.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Sky Sport Golf FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284461
+#EXTINF:-1 group-title="SPORTS" ,Sky Sport Premier League FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284459
+#EXTINF:-1 group-title="SPORTS" ,Sky Sport Tennis FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284467
+#EXTINF:-1 group-title="SPORTS" ,Sky Sport Top Event FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284465
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Action
+http://ky-iptv.com:80/chris7676/chris7676/1846771.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Action/NFL (4K)
+http://humiptv.live:8080/live/242425/242425/122413.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Arena
+http://ky-iptv.com:80/chris7676/chris7676/1846772.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Arena (4K)
+http://humiptv.live:8080/live/242425/242425/122414.ts
+#EXTINF:-1 group-title="SPORTS" ,SKY SPORTS CRICKET
+http://humiptv.live:8080/live/242425/242425/12.ts
+#EXTINF:-1 group-title="SPORTS" ,SKY SPORTS CRICKET (4K)
+http://humiptv.live:8080/live/242425/242425/23566.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Cricket (4K)
+http://humiptv.live:8080/live/242425/242425/122412.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports F1
+http://ky-iptv.com:80/chris7676/chris7676/1846774.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports F1 (4K)
+http://humiptv.live:8080/live/242425/242425/122181.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Football (4K)
+http://humiptv.live:8080/live/242425/242425/122411.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Golf (4K)
+http://humiptv.live:8080/live/242425/242425/122417.ts
+#EXTINF:-1 group-title="SPORTS" ,SKY SPORTS GOLF HD
+http://ky-iptv.com:80/chris7676/chris7676/391434.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Main Event (4k)
+http://humiptv.live:8080/live/242425/242425/122409.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Main Events
+http://ky-iptv.com:80/chris7676/chris7676/1847084.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports MIX
+http://ky-iptv.com:80/chris7676/chris7676/1847433.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Mix (4K)
+http://humiptv.live:8080/live/242425/242425/122416.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports News (4K)
+http://humiptv.live:8080/live/242425/242425/122408.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Premier League (4K)
+http://humiptv.live:8080/live/242425/242425/122410.ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Racing (4K)
+http://humiptv.live:8080/live/242425/242425/122415.ts
+#EXTINF:-1 group-title="SPORTS" ,Skysports Cricket HD
+http://89.47.232.72:8080/live/Chris/Chris/5538.ts
+#EXTINF:-1 group-title="SPORTS" ,SKYSPORTS~CRICKET
+http://freecatv-manik.xyz/SKYSPORTS~CRICKET.ts
+#EXTINF:-1 group-title="SPORTS" ,SKYSPORTS~CRICKET FHD
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303880
+#EXTINF:-1 group-title="SPORTS" ,Sony Liv
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,SONY SIX (4K).
+http://humiptv.live:8080/live/242425/242425/98870.ts
 #EXTINF:-1 group-title="SPORTS" ,Sony TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony TEN 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony Ten 2 HD
 http://175.107.244.52:4455/play/a00v/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony TEN 3
@@ -1149,445 +1321,121 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Sportdigital FHD
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238119
+#EXTINF:-1 group-title="SPORTS" ,SPORTS 18 🇮🇳
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sports 4
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sports 5
 http://103.102.27.173/live/tvfeed1006/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,SPORTS HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93721
 #EXTINF:-1 group-title="SPORTS" ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:0 group-title="SPORTS" ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SPOTV®1
-http://103.167.167.5:8111/play/a020/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SPOTV®2
-http://103.167.167.5:8111/play/a010/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Star sports select 1 HD
-http://208.86.19.13:81/7366.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Ss.cricket DSTV
+http://freecatv-manik.xyz/Ss.cricket.ts
+#EXTINF:-1 group-title="SPORTS" ,Ss.ruby DSTV
+http://freecatv-manik.xyz/Ss.ruby.ts
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98864.ts
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 1 HINDI (4K).
+http://humiptv.live:8080/live/242425/242425/98866.ts
+#EXTINF:-1 group-title="SPORTS" ,Star Sports 2
+http://b403da4c.cbilant.com/iptv/7LSGLHX6AZUKEY/2507/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Star Sports 2
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18nUO20q2BjnP5exvq7icXeg
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98865.ts
+#EXTINF:-1 group-title="SPORTS" ,Star Sports Select 1
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rTvQMr0SMZ7U0KvTTW-dq8
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS SELECT 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98867.ts
 #EXTINF:-1 group-title="SPORTS" ,STAR SPORTS SELECT 2 HD
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS 1 HD
+http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•1 HD ENGLISH
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93724
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•1 HD HINDI
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93725
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•2 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93726
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•3
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93727
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•FIRST
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93728
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•SELECT•1 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93729
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•SELECT•2 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93730
+#EXTINF:-1 group-title="SPORTS" ,STARSPORTS•TAMIL
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93731
+#EXTINF:-1 group-title="SPORTS" ,START SPORTS SELECT 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98868.ts
+#EXTINF:-1 group-title="SPORTS" ,Super-Sports-Cricket
+http://freecatv-manik.xyz/Super-Sports-Cricket.ts
+#EXTINF:-1 group-title="SPORTS" ,SuperSport Cricket
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
+#EXTINF:-1 group-title="SPORTS" ,t sports
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,T SPORTS.
+http://humiptv.live:8080/live/242425/242425/130714.ts
+#EXTINF:-1 group-title="SPORTS" ,TEN 1 (4K).
+http://humiptv.live:8080/live/242425/242425/98861.ts
+#EXTINF:-1 group-title="SPORTS" ,TEN 2 (4K).
+http://humiptv.live:8080/live/242425/242425/98862.ts
+#EXTINF:-1 group-title="SPORTS" ,TEN 3 (4K).
+http://humiptv.live:8080/live/242425/242425/98863.ts
+#EXTINF:-1 group-title="SPORTS" ,TEN CRICKET
+http://humiptv.live:8080/live/242425/242425/9886.ts
+#EXTINF:-1 group-title="SPORTS" ,TEN SPORTS
+http://humiptv.live:8080/live/242425/242425/98.ts
 #EXTINF:-1 group-title="SPORTS" ,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,TEN•1 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93732
+#EXTINF:-1 group-title="SPORTS" ,TEN•3 HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93734
 #EXTINF:0 group-title="SPORTS" ,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" ,TRUE-VISIONS-1
+http://freecatv-manik.xyz/TRUE-VISIONS-1.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TUDN 🇲🇽
-http://45.182.21.251:33334/play/a07y/index.m3u8
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,TV3 SPORT 🇱🇹
+http://myott.top/stream/25SMQ9HCKV/416.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,V-Play
 https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Viaplay
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,Viasat Sport
+http://176.222.190.76/btv/SWM/viasatsport/viasatsport.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Willow cricket HD
-http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
-#EXTINF:-1 group-title="SPORTS" ,WinSports_p
-http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,WILLOW CRICKET
+http://humiptv.live:8080/live/242425/242425/215.ts
+#EXTINF:-1 group-title="SPORTS" ,WILLOW CRICKET XTRA
+http://humiptv.live:8080/live/242425/242425/5040.ts
+#EXTINF:-1 group-title="SPORTS" ,WILLOWnCRICKET HD
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93735
+#EXTINF:-1 group-title="SPORTS" ,WILLOWXTRA CRICKET
+http://ky-iptv.com:80/live/chris7676/chris7676/1116408.ts
+#EXTINF:-1 group-title="SPORTS" ,WINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/160057.m3u8
 #EXTINF:-1 group-title="SPORTS" ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-SPORS
-
-
-
-
-#EXTINF:-1,TRUE-VISIONS-1
-http://freecatv-manik.xyz/TRUE-VISIONS-1.m3u8
-#EXTINF:-1,TRUE-TENNI
-http://freecatv-manik.xyz/TRUE-TENNI.m3u8
-#EXTINF:-1,BT-Sports-2HD
-http://freecatv-manik.xyz/BT-Sports-2HD.m3u8
-#EXTINF:-1,bEIN-Sports
-http://freecatv-manik.xyz/bEIN-Sports-EN.m3u8
-#EXTINF:-1,PTV-Sports
-http://freecatv-manik.xyz/PTV-Sports.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-#EXTINF:-1,DIGI Sport 2
-http://84.17.61.203:8086/udp/229.35.15.105:1234
-#EXTINF:-1,DIGI Sport 3
-http://84.17.61.203:8086/udp/229.35.15.108:1234
-#EXTINF:-1,DIGI Sport 4 HD
-http://84.17.61.203:8086/udp/229.35.15.151:1234
-#EXTINF:-1,Orange Sport 3 HD
-http://84.17.61.203:8086/udp/229.35.15.182:1234
-#EXTINF:-1,TUDN 🇲🇽
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-#EXTINF:-1, SPORTS 18 🇮🇳
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 ,K+SPORT1 s1
-http://103.82.24.168:5544/play/sport1tn/index.m3u8
-#EXTINF:-1 ,K+SPORT1 s2
-http://103.82.24.168:5544/play/sdsport1/index.m3u8
-#EXTINF:-1 ,K+SPORT2
-http://103.82.24.168:5544/play/sdsport2/index.m3u8
-#EXTINF:-1 ,K+LIFE
-http://103.82.24.168:5544/play/life/index.m3u8
-#EXTINF:-1 ,Astro-Cricket-HD
-http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
-#EXTINF:-1 ,Cricket~Live
-http://freecatv-manik.xyz/Cricket~Live.ts
-#EXTINF:-1 ,SKYSPORTS~CRICKET
-http://freecatv-manik.xyz/SKYSPORTS~CRICKET.ts
-#EXTINF:-1 ,WILLOW-CRICKET
-http://freecatv-manik.xyz/WILLOW-CRICKET.ts
-#EXTINF:-1 ,Astro-Cricket
-http://freecatv-manik.xyz/Astro-Cricket.ts
-#EXTINF:-1 ,Sky-Sports-Cricket-FHD
-http://freecatv-manik.xyz/Sky-Sports-Cricket-FHD.ts
-#EXTINF:-1 ,Super-Sports-Cricket
-http://freecatv-manik.xyz/Super-Sports-Cricket.ts
-#EXTINF:-1 ,DSTV-variety-4
-http://freecatv-manik.xyz/DSTV-Variety-4.ts
-#EXTINF:-1 ,DSTV-variety-3
-http://freecatv-manik.xyz/DSTV-variety-3.ts
-#EXTINF:-1 ,DSTV-PSL
-http://freecatv-manik.xyz/DSTV-PSL.ts
-#EXTINF:-1 ,DSTV-premierLiga
-http://freecatv-manik.xyz/DSTV-premierLiga.ts
-#EXTINF:-1 ,DSTV maximo-1
-http://freecatv-manik.xyz/Dstv-maximo-1.ts
-#EXTINF:-1 ,DSTV motorsport
-http://freecatv-manik.xyz/DSTVmotorsport.ts
-#EXTINF:-1 ,Ss.cricket DSTV
-http://freecatv-manik.xyz/Ss.cricket.ts
-#EXTINF:-1 ,Ss.ruby DSTV
-http://freecatv-manik.xyz/Ss.ruby.ts
-#EXTINF:-1 ,Super-Sports-Action
-http://freecatv-manik.xyz/Super-Sports-Action.ts
-#EXTINF:-1 ,BEIN SPORTS 1 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/131
-#EXTINF:-1 ,BEIN SPORTS 3 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/137
-#EXTINF:-1 ,BEIN SPORTS 4 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/138
-#EXTINF:-1 ,BEIN SPORTS 5 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/139
-#EXTINF:-1 ,BEIN SPORTS 6 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/140
-#EXTINF:-1 ,BEIN SPORTS 7 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/141
-#EXTINF:-1 ,BEIN SPORTS 8 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/142
-#EXTINF:-1 ,BEIN SPORTS 10 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/144
-#EXTINF:-1 ,BEIN SPORTS 11 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/145
-#EXTINF:-1 ,BEIN SPORTS 4 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1875
-#EXTINF:-1 ,BEIN SPORTS 5 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1876
-#EXTINF:-1 ,BEIN SPORTS 6 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1877
-#EXTINF:-1 ,BEIN SPORTS 7 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1878
-#EXTINF:-1 ,BEIN SPORTS 8 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1879
-#EXTINF:-1 ,BEIN SPORT 9 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1880
-#EXTINF:-1 ,BEIN SPORTS 10 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1881
-#EXTINF:-1 ,BEIN MOVIES 1 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2683
-#EXTINF:-1 ,BEIN MOVIES 2 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/2684
-#EXTINF:-1 ,Sky Sports Cricket FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593741
-#EXTINF:-1 ,Sky Sports Cricket HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593742
-#EXTINF:-1 ,Sky Sports Cricket SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593743
-#EXTINF:-1 ,K SPORT 1 🇦🇱
-http://tbs-tv.com:8080/dark/kittylinetv/13572
-#EXTINF:-1 ,ESPN 2 🇦🇷
-http://45.190.13.50:8002/play/a01k/index.m3u8
-#EXTINF:-1 ,ASTRO_SUPERSPORT 1
-http://hostengine.live/live/wrecks82/habsiptv82/197514.m3u8
-#EXTINF:-1 ,ASTRO_SUPERSPORT 2
-http://hostengine.live/live/wrecks82/habsiptv82/197515.m3u8
-#EXTINF:-1 ,ASTRO_SUPERSPORT 3
-http://hostengine.live/live/wrecks82/habsiptv82/197516.m3u8
-#EXTINF:-1 ,ASTRO_SUPERSPORT 4
-http://hostengine.live/live/wrecks82/habsiptv82/197517.m3u8
-#EXTINF:-1 ,ASTRO_SUPERSPORT 5
-http://hostengine.live/live/wrecks82/habsiptv82/197518.m3u8
-#EXTINF:-1 ,BEINSPORTS 1
-http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
-#EXTINF:-1 ,BEINSPORTS 2
-http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
-#EXTINF:-1 ,BEINSPORTS 3
-http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
-#EXTINF:-1 ,FOXSPORTS 501
-http://hostengine.live/live/wrecks82/habsiptv82/57493.m3u8
-#EXTINF:-1 ,FOXSPORTS 502
-http://hostengine.live/live/wrecks82/habsiptv82/57494.m3u8
-#EXTINF:-1 ,FOXSPORTS 503
-http://hostengine.live/live/wrecks82/habsiptv82/57495.m3u8
-#EXTINF:-1 ,FOXSPORTS 504
-http://hostengine.live/live/wrecks82/habsiptv82/57496.m3u8
-#EXTINF:-1 ,FOXSPORTS 505
-http://hostengine.live/live/wrecks82/habsiptv82/57497.m3u8
-#EXTINF:-1 ,FOXSPORTS 506
-http://hostengine.live/live/wrecks82/habsiptv82/57498.m3u8
-#EXTINF:-1 ,BEINSPORTS ENGLISH 01
-http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
-#EXTINF:-1 ,BEINSPORTS ENGLISH 02
-http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
-#EXTINF:-1 ,BEINSPORTS ENGLISH 03
-http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
-#EXTINF:-1 ,BEINSPORTS LALIGA
-http://hostengine.live/live/wrecks82/habsiptv82/56352.m3u8
-#EXTINF:-1 ,BEINSPORTS PREMIUM 01
-http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
-#EXTINF:-1 ,BEINSPORTS PREMIUM 02
-http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
-#EXTINF:-1 ,BEINSPORTS PREMIUM 03
-http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
-#EXTINF:-1 ,BEINSPORTS USA
-http://hostengine.live/live/wrecks82/habsiptv82/56353.m3u8
-#EXTINF:-1 ,BEINSPORTS XTRA
-http://hostengine.live/live/wrecks82/habsiptv82/58290.m3u8
-#EXTINF:-1 ,WINSPORTS 1
-http://hostengine.live/live/wrecks82/habsiptv82/160057.m3u8
-#EXTINF:-1 ,ASTRO_CRICKET
-http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
-#EXTINF:-1 ,GEO_SUPER
-http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
-#EXTINF:-1 ,PTV_SPORTS
-http://hostengine.live/live/wrecks82/habsiptv82/69284.m3u8
-#EXTINF:-1 ,ONE_SPORT
-http://hostengine.live/live/wrecks82/habsiptv82/179393.m3u8
-#EXTINF:-1 ,BEINSPORTS 1
-http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
-#EXTINF:-1 ,BEINSPORTS 2
-http://hostengine.live/live/wrecks82/habsiptv82/57392.m3u8
-#EXTINF:-1 ,SPORTS HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93721
-#EXTINF:-1 ,STARSPORTS•1 HD ENGLISH
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93724
-#EXTINF:-1 ,STARSPORTS•1 HD HINDI
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93725
-#EXTINF:-1 ,STARSPORTS•2 HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93726
-#EXTINF:-1 ,STARSPORTS•3
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93727
-#EXTINF:-1 ,STARSPORTS•FIRST
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93728
-#EXTINF:-1 ,STARSPORTS•SELECT•1 HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93729
-#EXTINF:-1 ,STARSPORTS•SELECT•2 HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93730
-#EXTINF:-1 ,STARSPORTS•TAMIL
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93731
-#EXTINF:-1 ,TEN•1 HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93732
-#EXTINF:-1 ,TEN•3 HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93734
-#EXTINF:-1 ,STARSPORTS 1 HD
-http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
-#EXTINF:-1 ,BT-SPORTS 01
-http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8
-#EXTINF:-1 ,BT-SPORTS 02
-http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
-#EXTINF:-1 ,BT-SPORTS 03
-http://hostengine.live/live/wrecks82/habsiptv82/53852.m3u8
-#EXTINF:-1 ,BT-SPORTS 04
-http://hostengine.live/live/wrecks82/habsiptv82/53853.m3u8
-#EXTINF:-1 ,BT-SPORTS 05
-http://hostengine.live/live/wrecks82/habsiptv82/53854.m3u8
-#EXTINF:-1 ,BT_SPORTS 07
-http://hostengine.live/live/wrecks82/habsiptv82/53856.m3u8
-#EXTINF:-1 ,BT-SPORTS 08
-http://hostengine.live/live/wrecks82/habsiptv82/53857.m3u8
-#EXTINF:-1 ,BT-SPORTS 09
-http://hostengine.live/live/wrecks82/habsiptv82/53858.m3u8
-#EXTINF:-1 ,BT-SPORTS 10
-http://hostengine.live/live/wrecks82/habsiptv82/53859.m3u8
-#EXTINF:-1 ,Sky Sport Premier League FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284459
-#EXTINF:-1 ,Sky Sport Golf FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284461
-#EXTINF:-1 ,Sky Sport Top Event FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284465
-#EXTINF:-1 ,Sky Sport Tennis FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284467
-#EXTINF:-1 ,DAZN 1 Bar
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
-#EXTINF:-1 ,DAZN 1 Bar FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96686
-#EXTINF:-1 ,DAZN 2
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96687
-#EXTINF:-1 ,DAZN 2 Bar FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
-#EXTINF:-1 ,DAZN 1 HD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
-#EXTINF:-1 ,DAZN 2 HD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
-#EXTINF:-1 ,Sportdigital FHD
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238119
-#EXTINF:-1 ,ARENA SPORT 7 🇭🇷
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
-#EXTINF:-1 ,LIGA CAMPEONES 🇪🇸
-http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
-#EXTINF:-1 ,MAX SPORT 3 🇧🇬
-http://212.5.59.2:9882/play/a019/index.m3u8?
-#EXTINF:-1 ,Gazi Tv
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,t sports
-http://103.102.27.173/live/tvfeed1004/index.m3u8
-#EXTINF:-1 ,Eurosports live
-http://51.15.9.155/EUROSPORT_2/index.m3u8
-#EXTINF:-1 ,Eurosports(BD)
-https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
-#EXTINF:-1 ,Sony Liv
-https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
-#EXTINF:-1 ,Q Sport International
-http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
-#EXTINF:-1 ,Viasat Sport
-http://176.222.190.76/btv/SWM/viasatsport/viasatsport.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD
-http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1 ,TV3 SPORT 🇱🇹
-http://myott.top/stream/25SMQ9HCKV/416.m3u8
-#EXTINF:-1 ,Red-Bull-TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Star Sports 2
-http://b403da4c.cbilant.com/iptv/7LSGLHX6AZUKEY/2507/index.m3u8
-#EXTINF:-1 ,DAZN LALIGA 🇪🇸
-http://168.228.194.32:58001/play/z002/index.m3u8
-#EXTINF:-1 ,MOVISTAR LALIGA 🇪🇸
-http://45.5.118.226:8000/play/a051/index.m3u8
-#EXTINF:-1 ,Arena Sport 4 🇧🇦
-http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1 ,Bein Sports 🇶🇦
-http://175.107.244.52:4457/play/a070/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://ky-iptv.com:80/chris7676/chris7676/1846756.ts
-#EXTINF:-1 ,EuroSport 1 HD
-http://ky-iptv.com:80/chris7676/chris7676/391450.ts
-#EXTINF:-1 ,Eurosport 2 HD
-http://ky-iptv.com:80/chris7676/chris7676/1847082.ts
-#EXTINF:-1 ,BT Sports 1
-http://ky-iptv.com:80/chris7676/chris7676/1846762.ts
-#EXTINF:-1 ,BT Sports 2
-http://ky-iptv.com:80/chris7676/chris7676/1846763.ts
-#EXTINF:-1 ,BT Sports 3
-http://ky-iptv.com:80/chris7676/chris7676/1846764.ts
-#EXTINF:-1 ,Sky Sports Action
-http://ky-iptv.com:80/chris7676/chris7676/1846771.ts
-#EXTINF:-1 ,Sky Sports Arena
-http://ky-iptv.com:80/chris7676/chris7676/1846772.ts
-#EXTINF:-1 ,Sky Sports F1
-http://ky-iptv.com:80/chris7676/chris7676/1846774.ts
-#EXTINF:-1 ,Sky Sports Main Events
-http://ky-iptv.com:80/chris7676/chris7676/1847084.ts
-#EXTINF:-1 ,Sky Sports MIX
-http://ky-iptv.com:80/chris7676/chris7676/1847433.ts
-#EXTINF:-1 ,SKY SPORTS GOLF HD
-http://ky-iptv.com:80/chris7676/chris7676/391434.ts
-#EXTINF:-1 ,Tsports
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18l3IzRXGVnCOlgiqlsEwkPM
-#EXTINF:-1 ,Star Sports 2
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18nUO20q2BjnP5exvq7icXeg
-#EXTINF:-1 ,Star Sports Select 1
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rTvQMr0SMZ7U0KvTTW-dq8
-#EXTINF:-1 ,Viaplay
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1 HD (English)
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u9n7nnlf41obrgmBsUuNqk
-#EXTINF:-1 ,BEIN SPORTS 2 HD
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18gQuy_eQ-QU2CSQXPezvEuc
-#EXTINF:-1 ,BEIN SPORTS PREMIUM 1 HD
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18uuZqbq5M0uv0hLtfAzDw48
-#EXTINF:-1 ,BEIN SPORTS PREMIUM 3 HD
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pVBF2PGSZpcPw5fE-FZsMI
-#EXTINF:-1 ,Cricket
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157565
-#EXTINF:-1 ,WILLOWnCRICKET HD
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93735
-#EXTINF:-1 ,SKYSPORTS~CRICKET FHD
-http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303880
-#EXTINF:-1 ,SuperSport Cricket
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
-#EXTINF:-1 ,DSTV Cricket
-http://89.47.232.72:8080/live/Chris/Chris/531516.ts
-#EXTINF:-1 ,Skysports Cricket HD
-http://89.47.232.72:8080/live/Chris/Chris/5538.ts
-#EXTINF:-1 ,WILLOWXTRA CRICKET
-http://ky-iptv.com:80/live/chris7676/chris7676/1116408.ts
-#EXTINF:-1 ,STAR SPORTS 1 (4K).
-http://humiptv.live:8080/live/242425/242425/98864.ts
-#EXTINF:-1 ,STAR SPORTS 2 (4K).
-http://humiptv.live:8080/live/242425/242425/98865.ts
-#EXTINF:-1 ,STAR SPORTS 1 HINDI (4K).
-http://humiptv.live:8080/live/242425/242425/98866.ts
-#EXTINF:-1 ,STAR SPORTS SELECT 1 (4K).
-http://humiptv.live:8080/live/242425/242425/98867.ts
-#EXTINF:-1 ,START SPORTS SELECT 2 (4K).
-http://humiptv.live:8080/live/242425/242425/98868.ts
-#EXTINF:-1 ,TEN 1 (4K).
-http://humiptv.live:8080/live/242425/242425/98861.ts
-#EXTINF:-1 ,TEN 2 (4K).
-http://humiptv.live:8080/live/242425/242425/98862.ts
-#EXTINF:-1 ,TEN 3 (4K).
-http://humiptv.live:8080/live/242425/242425/98863.ts
-#EXTINF:-1 ,SONY SIX (4K).
-http://humiptv.live:8080/live/242425/242425/98870.ts
-#EXTINF:-1 ,SKY SPORTS CRICKET
-http://humiptv.live:8080/live/242425/242425/12.ts
-#EXTINF:-1 ,SKY SPORTS CRICKET (4K)
-http://humiptv.live:8080/live/242425/242425/23566.ts
-#EXTINF:-1 ,ASTRO CRICKET HD
-http://humiptv.live:8080/live/242425/242425/2494.ts
-#EXTINF:-1 ,FOX CRICKET 501
-http://humiptv.live:8080/live/242425/242425/1856.ts
-#EXTINF:-1 ,PTV SPORTS
-http://humiptv.live:8080/live/242425/242425/89.ts
-#EXTINF:-1 ,T SPORTS.
-http://humiptv.live:8080/live/242425/242425/130714.ts
-#EXTINF:-1 ,GEO SUPER
-http://humiptv.live:8080/live/242425/242425/101.ts
-#EXTINF:-1 ,TEN SPORTS
-http://humiptv.live:8080/live/242425/242425/98.ts
-#EXTINF:-1 ,WILLOW CRICKET
-http://humiptv.live:8080/live/242425/242425/215.ts
-#EXTINF:-1 ,WILLOW CRICKET XTRA
-http://humiptv.live:8080/live/242425/242425/5040.ts
-#EXTINF:-1 ,TEN CRICKET
-http://humiptv.live:8080/live/242425/242425/9886.ts
-#EXTINF:-1 ,BEIN CRICKET HD
-http://humiptv.live:8080/live/242425/242425/9115.ts
-#EXTINF:-1 ,Sky Sports F1 (4K)
-http://humiptv.live:8080/live/242425/242425/122181.ts
-#EXTINF:-1 ,Sky Sports News (4K)
-http://humiptv.live:8080/live/242425/242425/122408.ts
-#EXTINF:-1 ,Sky Sports Main Event (4k)
-http://humiptv.live:8080/live/242425/242425/122409.ts
-#EXTINF:-1 ,Sky Sports Premier League (4K)
-http://humiptv.live:8080/live/242425/242425/122410.ts
-#EXTINF:-1 ,Sky Sports Football (4K)
-http://humiptv.live:8080/live/242425/242425/122411.ts
-#EXTINF:-1 ,Sky Sports Cricket (4K)
-http://humiptv.live:8080/live/242425/242425/122412.ts
-#EXTINF:-1 ,Sky Sports Action/NFL (4K)
-http://humiptv.live:8080/live/242425/242425/122413.ts
-#EXTINF:-1 ,Sky Sports Arena (4K)
-http://humiptv.live:8080/live/242425/242425/122414.ts
-#EXTINF:-1 ,Sky Sports Racing (4K)
-http://humiptv.live:8080/live/242425/242425/122415.ts
-#EXTINF:-1 ,Sky Sports Mix (4K)
-http://humiptv.live:8080/live/242425/242425/122416.ts
-#EXTINF:-1 ,Sky Sports Golf (4K)
-http://humiptv.live:8080/live/242425/242425/122417.ts
