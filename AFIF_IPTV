@@ -515,6 +515,14 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="HINDI MOVIES" ,ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,MAHA MOVIES
+https://livetv-channels.b-cdn.net/8025/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI BANGLA MOVIES" ,RUOSHI BANGLA
+https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI BANGLA MOVIES" ,DHOOM
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,Manoranjan Movies
+https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,ZEE ANMOL CINEMA
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="HINDI MOVIES" ,Zee Cinema HD
