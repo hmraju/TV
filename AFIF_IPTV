@@ -1469,3 +1469,17 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,МАТЧ! HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,Celestial Classic
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Kanal 10 Asia
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:0 group-title="NEWS" ,RTP Internacional Asia
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+
+
+
+
+
+
+
+
