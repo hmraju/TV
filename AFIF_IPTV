@@ -759,10 +759,10 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" ,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:18 group-title="MUSIC" ,7S Music (576p) [Not 24/7]
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="MUSIC" ,7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:18 group-title="ENGLISH MOVIE" ,mbc 2 HD
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/462
+#EXTINF:-1 group-title="SPORTS" ,Libya Sport 2 HD
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/583
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fD7wLka.jpg" ,9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="MUSIC" ,CMT MUSIC
@@ -779,12 +779,12 @@ http://iptv.prosto.tv:7000/ch123/video.m3u8
 http://iptv.prosto.tv:7000/ch137/video.m3u8
 #EXTINF:0 group-title="MUSIC" ,MTV
 http://iptv.prosto.tv:7000/ch124/video.m3u8
-#EXTINF:0 group-title="MUSIC" ,MTV 00s
-http://iptv.prosto.tv:7000/ch129/video.m3u8
-#EXTINF:0 group-title="MUSIC" ,MTV 80s
-http://iptv.prosto.tv:7000/ch130/video.m3u8
-#EXTINF:0 group-title="MUSIC" ,MTV 90s
-http://iptv.prosto.tv:7000/ch127/video.m3u8
+#EXTINF:0 group-title="MOVIES" ,mbc Action
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/1859
+#EXTINF:0 group-title="MOVIES" ,mbc MAX
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/1864
+#EXTINF:0 group-title="MOVIES" ,MIX
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/1886
 #EXTINF:-1 group-title="MUSIC" ,MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="MUSIC" ,MTV Block Party
@@ -857,8 +857,8 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 http://iptv.prosto.tv:7000/ch121/video.m3u8
 #EXTINF:-1 group-title="OTHERS" ,21HD
 http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 group-title="OTHERS" ,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="OTHERS" ,MIX ONE
+http://local.iptvsy.net:8080/LOCAL-ARABEC/eyvYKODdPf/1887
 #EXTINF:-1 group-title="OTHERS" ,A12 TV
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTINF:0 group-title="OTHERS" ,Abu Dhabi TV
