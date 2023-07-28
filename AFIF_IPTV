@@ -597,3 +597,300 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MATH 🇷🇺,
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8,
+
+#EXTINF:36 group-title="BANGLA" ,Live Sports
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T Sports(BD)
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:0 group-title="BANGLA" ,Gazi TV(BD)
+http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:0 group-title="BANGLA" ,Gazi TV(BD)
+http://dpny5.1234.uno:6061/gazitv/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T-Sports 240
+https://live.tsports.com/live/tsports_live_240/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T-Sports 1080
+http://g4b.alwaysdata.net/tsports1080p.m3u8
+#EXTINF:0 group-title="BANGLA" ,T-Sports 720p
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T-Sports 480
+https://live.tsports.com/live/tsports_live_480/index.m3u8
+#EXTINF:0 group-title="BANGLA" ,T-Sports 360
+https://live.tsports.com/live/tsports_live_360/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,ESPN EXTRA USA
+http://181.189.243.254:8000/play/a0py/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Star Sports Select 2
+http://humiptv.live:8080/ankit123/ankit123/148801
+#EXTINF:0 group-title="SPORTS" ,Sports HD TV
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TSN 1
+http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TSN 2
+http://51.79.87.60:49214/TSN2/hls/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TSN 3
+http://51.79.87.60:49214/TSN3/hls/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TSN 4
+http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TSN 5
+http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0 group-title="SPORTS" ,Freecatv Euro.Sports 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Freecatv Euro.Sports 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Red-Bull-TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="SPORTS" ,SkySports MainEvent HD
+http://45.12.1.14:80/MDKraker/GwWZ9I296/5600
+#EXTINF:0 group-title="SPORTS" ,SkySports Cricket
+http://45.12.1.14:80/MDKraker/GwWZ9I296/14750
+#EXTINF:0 group-title="SPORTS" ,SkySports Football HD
+http://45.12.1.14:80/MDKraker/GwWZ9I296/20024
+#EXTINF:0 group-title="SPORTS" ,SkySports Golf HD
+http://45.12.1.14:80/MDKraker/GwWZ9I296/3600
+#EXTINF:0 group-title="SPORTS" ,SkySports PremierLeague HD
+http://45.12.1.14:80/MDKraker/GwWZ9I296/4458
+#EXTINF:0 group-title="SPORTS" ,SkySports Mix
+http://45.12.1.14:80/MDKraker/GwWZ9I296/14926
+#EXTINF:0 group-title="SPORTS" ,Eurosport 1 FHD UK
+http://45.12.1.14:80/MDKraker/GwWZ9I296/13091
+#EXTINF:0 group-title="SPORTS" ,Eurosport 2
+http://45.12.1.14:80/MDKraker/GwWZ9I296/3591
+#EXTINF:0 group-title="SPORTS" ,Ginx eSports TV UK
+http://45.12.1.14:80/MDKraker/GwWZ9I296/17165
+#EXTINF:0 group-title="SPORTS" ,PremierSports 2 HD
+http://45.12.1.14:80/MDKraker/GwWZ9I296/118268
+#EXTINF:0 group-title="SPORTS" ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:0 group-title="SPORTS" ,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Viasat_Sport_HD+
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Premier League FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14655
+#EXTINF:0 group-title="SPORTS" ,Sky Sports F1 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14656
+#EXTINF:0 group-title="SPORTS" ,SuperSport PSL HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28894
+#EXTINF:0 group-title="SPORTS" ,Star Sports 2
+http://humiptv.live:8080/ankit123/ankit123/98865
+#EXTINF:0 group-title="SPORTS" ,Star Sports 3
+http://humiptv.live:8080/ankit123/ankit123/1080
+#EXTINF:0 group-title="SPORTS" ,SuperSport Variety 2 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28898
+#EXTINF:0 group-title="SPORTS" ,SuperSport Variety 1 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28899
+#EXTINF:0 group-title="SPORTS" ,SuperSport Action HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900
+#EXTINF:0 group-title="SPORTS" ,SuperSport Football HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
+#EXTINF:0 group-title="SPORTS" ,SuperSport Variety 4 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28902
+#EXTINF:0 group-title="SPORTS" ,SuperSport Cricket HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905
+#EXTINF:0 group-title="SPORTS" ,SuperSport Maximo 1 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907
+#EXTINF:0 group-title="SPORTS" ,Aio Sport 1 (480p)
+https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 1 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2353/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 2 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2352/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 3 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 4 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2389/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 5 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 5 GOLD HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12254/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,SPORT 5 PLUS HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,LFC TV
+http://195.181.164.130:80/live.ts?channelId=96&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,MUTV
+http://195.181.164.134:80/live.ts?channelId=97&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,RACING TV
+http://195.181.164.137:80/live.ts?channelId=98&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,PREMIER SPORTS 1
+http://195.181.164.130:80/live.ts?channelId=99&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,PREMIER SPORTS 2
+http://195.181.164.134:80/live.ts?channelId=100&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,EUROSPORT 1
+http://195.181.164.137:80/live.ts?channelId=101&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,EUROSPORT 2
+http://195.181.164.130:80/live.ts?channelId=102&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,LaLiga TV
+http://195.181.164.134:80/live.ts?channelId=103&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,ViaPlay 1 UK
+http://195.181.164.134:80/live.ts?channelId=104&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,ViaPlay 2 UK
+http://195.181.164.137:80/live.ts?channelId=105&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,ViaPlay XTRA
+http://195.181.164.130:80/live.ts?channelId=106&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SPORTY STUFF
+http://195.181.164.137:80/live.ts?channelId=108&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS F1
+http://195.181.164.134:80/live.ts?channelId=131&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Arena.
+http://195.181.164.137:80/live.ts?channelId=132&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS ARENA
+http://195.181.164.130:80/live.ts?channelId=133&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Main Event.
+http://195.181.164.134:80/live.ts?channelId=134&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS MAIN EVENT
+http://195.181.164.137:80/live.ts?channelId=135&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Premier League.
+http://195.181.164.130:80/live.ts?channelId=136&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS PREMIER LEAGUE
+http://195.181.164.134:80/live.ts?channelId=137&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Action./NFL
+http://195.181.164.137:80/live.ts?channelId=138&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS ACTION / NFL
+http://195.181.164.130:80/live.ts?channelId=139&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Mix.
+http://195.181.164.134:80/live.ts?channelId=140&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS MIX
+http://195.181.164.137:80/live.ts?channelId=141&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket.
+http://195.181.164.130:80/live.ts?channelId=142&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS CRICKET
+http://195.181.164.134:80/live.ts?channelId=143&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Football.
+http://195.181.164.137:80/live.ts?channelId=144&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS FOOTBALL
+http://195.181.164.130:80/live.ts?channelId=145&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS GOLF
+http://195.181.164.137:80/live.ts?channelId=147&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Racing.
+http://195.181.164.130:80/live.ts?channelId=148&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS RACING
+http://195.181.164.134:80/live.ts?channelId=149&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Sky Sports News.
+http://195.181.164.137:80/live.ts?channelId=150&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS NEWS
+http://195.181.164.130:80/live.ts?channelId=151&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,TNT Sport 1
+http://195.181.164.134:80/live.ts?channelId=152&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,TNT SPORTS 1
+http://195.181.164.137:80/live.ts?channelId=153&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,TNT Sport 2
+http://195.181.164.130:80/live.ts?channelId=154&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,TNT SPORTS 2
+http://195.181.164.134:80/hls/155.m3u8?channelId=155&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,BT Sport 3
+http://195.181.164.137:80/live.ts?channelId=156&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,BT SPORTS 3
+http://195.181.164.130:80/hls/157.m3u8?channelId=157&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,BT Sport 4
+http://195.181.164.134:80/live.ts?channelId=158&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,BT SPORTS 4
+http://195.181.164.137:80/hls/159.m3u8?channelId=159&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 group-title="SPORTS" ,Eurosport 1 HD
+http://181.233.124.38:80/christiano/christiano/1846756.ts
+#EXTINF:0 group-title="SPORTS" ,SSC-Sports-4
+http://freecatv-manik.xyz/sscsports4.ts
+#EXTINF:0 group-title="SPORTS" ,SSC-Sports-2
+http://freecatv-manik.xyz/ssc-sports-2.ts
+#EXTINF:0 group-title="SPORTS" ,TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,VIAPLAY EXTRA
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:0 group-title="SPORTS" ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Red Bull TV Sports
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0 group-title="SPORTS" ,B4TV
+http://b4tv.live/b4tv/b4tv/5.m3u8
+#EXTINF:0 group-title="SPORTS" ,B4TV1
+http://b4tv.live/b4tv/b4tv/1.m3u8
+#EXTINF:0 group-title="SPORTS" ,B4TV2
+http://b4tv.live/b4tv/b4tv/2.m3u8
+#EXTINF:0 group-title="SPORTS" ,B4TV3
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:0 group-title="SPORTS" ,B4TV4
+http://b4tv.live/b4tv/b4tv/4.m3u8
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 1 English HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15000
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 3 English HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/21517
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS Premium 1 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS Premium 2 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS Premium 3 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 1 HD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14977
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 2 HD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15637
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 3 HD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14979
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 4 FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18218
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 5 FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18219
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 6 FHD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18220
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 7 FHD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18221
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 8 FHD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18222
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS MAX 9 FHD FR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/18223
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 2 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15943
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 3 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/6414
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 1 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14980
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 2 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14982
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 3 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14984
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 4 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14986
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 5 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14988
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 6 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14990
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 2
+http://humiptv.live:8080/ankit123/ankit123/192
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 3
+http://humiptv.live:8080/ankit123/ankit123/146
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 7 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14992
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS 3 HD MY
+http://45.12.1.14:80/7JvIck488/meAqNw5218/27937
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS HD MY
+http://45.12.1.14:80/7JvIck488/meAqNw5218/27938
+#EXTINF:0 group-title="SPORTS" ,beINSPORTS HD US
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15002
+#EXTINF:0 group-title="SPORTS" ,Astro Cricket HD
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341544
+#EXTINF:0 group-title="SPORTS" ,Eurosport
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341555
+#EXTINF:0 group-title="SPORTS" ,MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 4
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWxRu4zKtgP7t_LtZD6m0PE/ts
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 5
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/ts
+#EXTINF:0 group-title="SPORTS" ,Eurosports_p
+http://149.100.19.131:8080/Eurosport/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
