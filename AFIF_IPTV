@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
+https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
 #EXTINF:-1 group-title="BANGLA" ,T-Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Anando TV
