@@ -894,3 +894,95 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/ts
 http://149.100.19.131:8080/Eurosport/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
 http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,B4U HITZ
+http://183.89.246.119:8881/play/a08l/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,B4U MOVIES
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,B4U MUSIC
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,DD BHARATI
+https://ythls.onrender.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
+#EXTINF:0 group-title="MOVIES" ,Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,ZING
+http://183.89.246.119:8881/play/a09a/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,ESPORTS MAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:0 group-title="MOVIES " ,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="MOVIES " ,Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,KSA SPORTS 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:0 group-title="SPORTS" ,KSA SPORTS 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:0 group-title="SPORTS" ,KSA SPORTS 3
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:0 group-title="SPORTS" ,KSA SPORTS 4
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:0 group-title="OTHERS" ,SAUDI TV
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:0 group-title="OTHERS" ,SAUDI TV LIVE
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:0 group-title="OTHERS" ,SAUDI TV LIVE 2
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:0 group-title="MOVIES " ,My Cinema Europe
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,ATN Bangla UK
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,4MUSIC
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:0 group-title="ISLAMIC" ,Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,NTV EUROPE
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Pluto TV BBC Food 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Action Movies UK
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Family UK
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Shows UK
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Top Free UK
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,The Box UK 
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:0 group-title="MOVIES" ,Cine Sony 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,Cine Sureño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,ION Mystery 
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,ION Plus 
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,Millennium TV USA
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,NASA TV UHD
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Outside TV Plus
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Pluto TV MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+
+
+
+
