@@ -1004,5 +1004,53 @@ http://195.24.89.82/MTV_SD/index.m3u8
 http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:0 group-title="KIDS" ,Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,beIN SPORTS (English)
+http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/305.m3u8
+#EXTINF:0 group-title="SPORTS" ,vlaplay
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/352.m3u8
+#EXTINF:0 group-title="SPORTS" ,astro SUPERSPORT
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/365.m3u8
+#EXTINF:0 group-title="SPORTS" ,beIN SPORTS 1 (English)
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/370.m3u8
+#EXTINF:0 group-title="SPORTS" ,SUPER SPORTS
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/383.m3u8
+#EXTINF:0 group-title="SPORTS" ,Arena Sport 1
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/386.m3u8
+#EXTINF:0 group-title="SPORTS" ,Willow
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/387.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Horror Channel
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/378.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,FOX MOVES
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/381.m3u8
+#EXTINF:0 group-title="SPORTS" ,astro CRICKET
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/443.m3u8
+#EXTINF:0 group-title="SPORTS" ,SKY SPORTS CRICKET
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/474.m3u8
+#EXTINF:0 group-title="MOVIES" ,HBO+
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/319.m3u8
+#EXTINF:0 group-title="MOVIES" ,HBO
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/318.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,bollywood
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/347.m3u8
+#EXTINF:0 group-title="MOVIES" ,CINEMAX
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/371.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/388.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA CINEMA
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/389.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,COLORS BANGLA HD
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/395.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,mbc MAX
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/398.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,beIN MOVIES 2 ACTION
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/400.m3u8
+#EXTINF:0 group-title="MOVIES" ,AXN
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/450.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,LOVE NATURE
+http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/445.m3u8
+
+
+
+
 
 
