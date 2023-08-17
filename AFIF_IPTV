@@ -1,72 +1,126 @@
 #EXTM3U
-#EXTINF:0 group-title="Dugdugi Server" ,T SPORTS HD
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Gazi TV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 5
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 1 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 2 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 3 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Star Sports 1 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,PTV Sports HD
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Channel I HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,NTV BD
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,A SPORTS HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Channel 9 HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sangit Bangla
-http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Zee Bangla Cinema
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,And Pictures
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,And TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony Max HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Sony KAL
-http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,8XM
-http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Discovery
-http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,HBO
-http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,Ekattor TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,PTV SPORTS
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,JALSHA MOVIES HD
-http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,ZOOM
-http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,ZEE CINEMA HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,STAR PLUS HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,COLORS HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,SONY SET HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,ZEE TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,STAR BHARAT
-http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,ZEE BOLLYWOOD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,STAR GOLD HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Dugdugi Server" ,DISCOVERY
-http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,5 Plus
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/9
+#EXTINF:0 ,Ad Sport Premium 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/27
+#EXTINF:0 ,Arena Sport Premium 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/34
+#EXTINF:0 ,Arena Sport Premium 3
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/35
+#EXTINF:0 ,Astro Super Sport 4
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/82
+#EXTINF:0 ,Bein Sport 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/3
+#EXTINF:0 ,Bein Sport 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/4
+#EXTINF:0 ,Bein Sport Premium 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/72
+#EXTINF:0 ,Canal+ Sport 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/95
+#EXTINF:0 ,Canal+ Sport 4
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/97
+#EXTINF:0 ,Channel 9
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/11
+#EXTINF:0 ,Diema Sport 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/26
+#EXTINF:0 ,Eleven Sport 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/31
+#EXTINF:0 ,Eleven Sport 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/32
+#EXTINF:0 ,HR: Arena Sport 3 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/113
+#EXTINF:0 ,HR: Arena Sport 5 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/115
+#EXTINF:0 ,IN: Colors HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/43
+#EXTINF:0 ,IN: DD Bangla HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/46
+#EXTINF:0 ,IN: SONY HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/47
+#EXTINF:0 ,IN: SONY MAX HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/49
+#EXTINF:0 ,IN: SONY SD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/54
+#EXTINF:0 ,IN: SONY SIX SD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/56
+#EXTINF:0 ,IN: SONY TEN 2 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/57
+#EXTINF:0 ,IN: SONY WAH HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/60
+#EXTINF:0 ,IN: STAR GOLD 2 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/64
+#EXTINF:0 ,IN: STAR GoldHD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/66
+#EXTINF:0 ,IN: STAR Movies FHD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/68
+#EXTINF:0 ,IN: STAR Movies HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/70
+#EXTINF:0 ,IN: STAR Movies Select HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/71
+#EXTINF:0 ,IND: SUN TV Tamil
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/39
+#EXTINF:0 ,M Enterainment
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/14
+#EXTINF:0 ,Mahar
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/16
+#EXTINF:0 ,Match Football 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/18
+#EXTINF:0 ,MUTV
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/130
+#EXTINF:0 ,PPTV 36
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/8
+#EXTINF:0 ,PT: Eleven Sports 3 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/119
+#EXTINF:0 ,PT: Eleven Sports 5 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/121
+#EXTINF:0 ,PT: Sport TV 3 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/116
+#EXTINF:0 ,PT: Sport TV 5 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/118
+#EXTINF:0 ,Sport TV 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/29
+#EXTINF:0 ,SSC Extra 2 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/102
+#EXTINF:0 ,SSC Sport 2 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/105
+#EXTINF:0 ,SSC Sport 4 HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/107
+#EXTINF:0 ,Super Sport Football
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/20
+#EXTINF:0 ,Super Sport LaLiga
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/21
+#EXTINF:0 ,Super Sport Maxiom
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/22
+#EXTINF:0 ,Super Sport Premier Leageue
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/23
+#EXTINF:0 ,Super Sport Premier League (2)
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/132
+#EXTINF:0 ,True Premier Football 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/1
+#EXTINF:0 ,True Premier Football 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/2
+#EXTINF:0 ,True Premier Football 3
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/127
+#EXTINF:0 ,True Premier Football 4
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/128
+#EXTINF:0 ,True Premier Football 5
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/129
+#EXTINF:0 ,True Sport 1
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/5
+#EXTINF:0 ,True Sport 2
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/6
+#EXTINF:0 ,True Sport 3
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/7
+#EXTINF:0 ,Ziggo Docu
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/83
+#EXTINF:0 ,Ziggo Racing
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/85
+#EXTINF:0 ,ZIggo Sport Select HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/38
+#EXTINF:0 ,ZIggo Sport Voetbal HD
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/37
+#EXTINF:0 ,Ziggo Voetbal
+http://montvlive.xyz:80/montvnetwork30/montvnetwork30/88
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Anando TV
@@ -289,8 +343,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,INTROUBLE TV,
 https://introuble-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" ,LOVE NATURE
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/445.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,NASA TV Public
@@ -321,8 +373,74 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,World Of Science
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTkncYPacgmMmiB2p5Wdj7U/ts
-#EXTINF:0 group-title="DOCUMENTERY" ,DISCOVERY HD
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/571
+#EXTINF:0 group-title="Dugdugi Server" ,8XM
+http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,A SPORTS HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,And Pictures
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,And TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Channel 9 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Channel I HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,COLORS HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Discovery
+http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,DISCOVERY
+http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Ekattor TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Gazi TV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,HBO
+http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,JALSHA MOVIES HD
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,NTV BD
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,PTV SPORTS
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,PTV Sports HD
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sangit Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony KAL
+http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Max HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,SONY SET HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 1 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 2 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 3 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Sony Sports 5
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,STAR BHARAT
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,STAR GOLD HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,STAR PLUS HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Star Sports 1 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,T SPORTS HD
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,Zee Bangla Cinema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZEE BOLLYWOOD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZEE CINEMA HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZEE TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,ZOOM
+http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGISH" ,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:0 group-title="ENGISH" ,C31 Melbourne
@@ -341,10 +459,6 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x7
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQIMJ_KI9Mo4VBAni_jE5uc/ts
 #EXTINF:0 group-title="ENGISH" ,Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:0 group-title="ENGISH" ,Sofy TV
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENGISH" ,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="ENGISH" ,Tbs
 http://208.86.19.13:81/201.stream/index.m3u8
 #EXTINF:-1 group-title="ENGISH" ,TNT
@@ -357,8 +471,6 @@ https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Pluto TV MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-#EXTINF:0 group-title="ENGLISH MOVIES" ,beIN MOVIES 2 ACTION
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/400.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,C MOVOIES
@@ -367,8 +479,6 @@ http://208.86.19.13:81/22.stream/index.m3u8
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Filmeraa,
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,FOX MOVES
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/381.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Galaxy Movie,
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSwq538-vUvvAYNvb4BhYKg/ts,,
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Galaxy Premium Movie,
@@ -383,8 +493,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJV6tjQslBleP2_RbWnPU1HU/ts,,
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWK1qeXPBX_VBBUZ6DM39bE/ts,,
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Hollywood HD,
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,Horror Channel
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/378.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,ION Plus
@@ -393,8 +501,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Lotus Movie
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTT6CwAfwTRuq1euk8BmYP4/ts,,
-#EXTINF:0 group-title="ENGLISH MOVIES" ,mbc MAX
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/398.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE
@@ -443,8 +549,6 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJejtvGngl_gW-CDwHPSZ4Fw/ts,,
 #EXTINF:0 group-title="HINDI MOVIES" ,B4U MOVIES
 http://183.89.246.119:8881/play/a08n/index.m3u8
-#EXTINF:0 group-title="HINDI MOVIES" ,bollywood
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/347.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,ENTERR 10
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,FILAMCHI
@@ -485,8 +589,6 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:0 group-title="INDIAN BANGLA" ,COLORS BANGLA HD
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/395.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,DD Bangla
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff,,
 #EXTINF:0 group-title="INDIAN BANGLA" ,Jonack TV
@@ -507,14 +609,8 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQuvFC2t4u7TYj8PDiKhIoM/ts,,
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,tv24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
-#EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/388.m3u8
-#EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA CINEMA
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/389.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,Anjan (720p) [Not 24/7],
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:0 group-title="INDIAN OTHERS" ,Arre,
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,Canada One
@@ -595,36 +691,18 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="MOVIES" ,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="MOVIES" ,AXN
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/450.m3u8
-#EXTINF:0 group-title="MOVIES" ,BEIN MOVIES 2 ACTION
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/50
 #EXTINF:0 group-title="MOVIES" ,CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
-#EXTINF:0 group-title="MOVIES" ,Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:0 group-title="MOVIES" ,Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:0 group-title="MOVIES" ,CINEMAX
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/371.m3u8
 #EXTINF:0 group-title="MOVIES" ,Film Box
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 group-title="MOVIES" ,Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="MOVIES" ,HBO
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/318.m3u8
-#EXTINF:0 group-title="MOVIES" ,HBO+
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/319.m3u8
 #EXTINF:0 group-title="MOVIES" ,MOVIE BOX
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox-avc1_3000000=1.m3u8
 #EXTINF:0 group-title="MOVIES" ,MyTime movie network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
-#EXTINF:0 group-title="MOVIES" ,NETFLIX BOX OFFICE 1
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32084
-#EXTINF:0 group-title="MOVIES" ,NETFLIX BOX OFFICE 2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34005
-#EXTINF:0 group-title="MOVIES" ,NETFLIX BOX OFFICE 3
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34021
 #EXTINF:0 group-title="MOVIES" ,Rakuten TV Films Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/1200.m3u8
 #EXTINF:0 group-title="MOVIES" ,Rotana Cinema
@@ -633,8 +711,6 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 #EXTINF:0 group-title="MOVIES" ,TV 21
 http://85.112.117.239/streaming/tv21/16/tvrecw/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:0 group-title="MUSIC" ,4MUSIC
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:0 group-title="MUSIC" ,Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" ,Express
@@ -645,8 +721,6 @@ https://juicex.nz/hls/mystream.m3u8
 http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:0 group-title="MUSIC" ,MTV Europe
 http://195.24.89.82/MTV_SD/index.m3u8
-#EXTINF:0 group-title="MUSIC" ,The Box UK
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:0 group-title="MUSIC" ,Vevo Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" ,VH+1
@@ -673,8 +747,6 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" ,DW(Jagobd),
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEWS" ,EET TV (1080p) [Not 24/7],
-https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0 group-title="NEWS" ,ERT World,
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8
 #EXTINF:-1 group-title="NEWS" ,ETNow,
@@ -701,8 +773,6 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:0 group-title="OTHERS" ,ALAOULA HD
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/176
 #EXTINF:-1 group-title="OTHERS" ,ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="OTHERS" ,Azstar TV
@@ -713,16 +783,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJe2UQYnRvp9BLrrR7S4FMHk/ts,,
 #EXTINF:0 group-title="OTHERS" ,IL: Kan 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:0 group-title="OTHERS" ,LIBYA ALWASAT
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/81148
 #EXTINF:0 group-title="OTHERS" ,MBC 5 HD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
 #EXTINF:0 group-title="OTHERS" ,MBC Persia HD
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
 #EXTINF:-1 group-title="OTHERS" ,MOVIES RUSSIAN
 http://myott.top/stream/DEKA6YA5JRN/107.m3u8
-#EXTINF:0 group-title="OTHERS" ,MTV LEBANON FHD
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/240
 #EXTINF:-1 group-title="OTHERS" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="OTHERS" ,NPL TV
@@ -761,18 +827,10 @@ https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/low/c.m3u8
 https://af.ayas.ir/hls2/aiosport.m3u8
 #EXTINF:0 group-title="SPORTS" ,ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Arena Sport 1
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/386.m3u8
 #EXTINF:-1 group-title="SPORTS" ,ASTRAK RUS HD 🇷🇺,
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,astro CRICKET
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/443.m3u8
-#EXTINF:0 group-title="SPORTS" ,Astro Cricket HD
-http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341544
 #EXTINF:-1 group-title="SPORTS" ,ASTRO CRICKET,
 http://208.86.19.13:81/720.stream/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,astro SUPERSPORT
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/365.m3u8
 #EXTINF:-1 group-title="SPORTS" ,ATG1,
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 group-title="SPORTS" ,ATN AFGANISTAN
@@ -787,10 +845,6 @@ http://b4tv.live/b4tv/b4tv/2.m3u8
 http://b4tv.live/b4tv/b4tv/3.m3u8
 #EXTINF:0 group-title="SPORTS" ,B4TV4
 http://b4tv.live/b4tv/b4tv/4.m3u8
-#EXTINF:0 group-title="SPORTS" ,beIN SPORTS (English)
-http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/305.m3u8
-#EXTINF:0 group-title="SPORTS" ,beIN SPORTS 1 (English)
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/370.m3u8
 #EXTINF:0 group-title="SPORTS" ,beINSPORTS 1 English HD
 http://45.12.1.14:80/7JvIck488/meAqNw5218/15000
 #EXTINF:0 group-title="SPORTS" ,beINSPORTS 1 HD
@@ -823,12 +877,6 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
 #EXTINF:0 group-title="SPORTS" ,beINSPORTS Premium 3 HD
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
-#EXTINF:0 group-title="SPORTS" ,BT Sport 3
-http://195.181.164.137:80/live.ts?channelId=156&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,BT Sport 4
-http://195.181.164.134:80/live.ts?channelId=158&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,BT SPORTS 4
-http://195.181.164.137:80/hls/159.m3u8?channelId=159&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:-1 group-title="SPORTS" ,CNBC SPORTS
 http://208.86.19.13:81/102.stream/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,DD Sports
@@ -851,14 +899,10 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Eurosport
 http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341555
-#EXTINF:0 group-title="SPORTS" ,EUROSPORT 1
-http://195.181.164.137:80/live.ts?channelId=101&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,Eurosport 1 FHD UK
 http://45.12.1.14:80/MDKraker/GwWZ9I296/13091
 #EXTINF:0 group-title="SPORTS" ,Eurosport 2
 http://45.12.1.14:80/MDKraker/GwWZ9I296/3591
-#EXTINF:0 group-title="SPORTS" ,EUROSPORT 2
-http://195.181.164.130:80/live.ts?channelId=102&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,EUROSPORT 2 HD,
 http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" ,EUROSPORT 2 🇬🇧,
@@ -885,8 +929,6 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:0 group-title="SPORTS" ,KSA SPORTS 4
 https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:0 group-title="SPORTS" ,LFC TV
-http://195.181.164.130:80/live.ts?channelId=96&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,MAQ TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MATH CTPAHA 🇷🇺,
@@ -897,18 +939,10 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8,
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:0 group-title="SPORTS" ,MUTV
-http://195.181.164.134:80/live.ts?channelId=97&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,PREMIER SPORTS 1
-http://195.181.164.130:80/live.ts?channelId=99&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,PREMIER SPORTS 2
-http://195.181.164.134:80/live.ts?channelId=100&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,PremierSports 2 HD
 http://45.12.1.14:80/MDKraker/GwWZ9I296/118268
-#EXTINF:0 group-title="SPORTS" ,RACING TV
-http://195.181.164.137:80/live.ts?channelId=98&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:-1 group-title="SPORTS" ,Realitatea Sportiva 🇷🇴
 https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Red Bull TV Sports
@@ -927,54 +961,12 @@ http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 #EXTINF:0 group-title="SPORTS" ,Sharjah Sports HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS ACTION / NFL
-http://195.181.164.130:80/live.ts?channelId=139&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Action./NFL
-http://195.181.164.137:80/live.ts?channelId=138&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS ARENA
-http://195.181.164.130:80/live.ts?channelId=133&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Arena.
-http://195.181.164.137:80/live.ts?channelId=132&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS CRICKET
-http://195.181.164.134:80/live.ts?channelId=143&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
 http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS CRICKET
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/474.m3u8
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket.
-http://195.181.164.130:80/live.ts?channelId=142&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS F1
-http://195.181.164.134:80/live.ts?channelId=131&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,Sky Sports F1 FHD UK
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14656
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS FOOTBALL
-http://195.181.164.130:80/live.ts?channelId=145&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Football.
-http://195.181.164.137:80/live.ts?channelId=144&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS GOLF
-http://195.181.164.137:80/live.ts?channelId=147&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS MAIN EVENT
-http://195.181.164.137:80/live.ts?channelId=135&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Main Event.
-http://195.181.164.134:80/live.ts?channelId=134&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS MIX
-http://195.181.164.137:80/live.ts?channelId=141&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Mix.
-http://195.181.164.134:80/live.ts?channelId=140&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS NEWS
-http://195.181.164.130:80/live.ts?channelId=151&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports News.
-http://195.181.164.137:80/live.ts?channelId=150&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS PREMIER LEAGUE
-http://195.181.164.134:80/live.ts?channelId=137&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Premier League FHD UK
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14655
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Premier League.
-http://195.181.164.130:80/live.ts?channelId=136&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,SKY SPORTS RACING
-http://195.181.164.134:80/live.ts?channelId=149&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,Sky Sports Racing.
-http://195.181.164.130:80/live.ts?channelId=148&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,SkySports Cricket
 http://45.12.1.14:80/MDKraker/GwWZ9I296/14750
 #EXTINF:0 group-title="SPORTS" ,SkySports Football HD
@@ -1011,24 +1003,18 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:0 group-title="SPORTS" ,SPORTY STUFF
-http://195.181.164.137:80/live.ts?channelId=108&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,SSC-Sports-2
 http://freecatv-manik.xyz/ssc-sports-2.ts
 #EXTINF:0 group-title="SPORTS" ,SSC-Sports-4
 http://freecatv-manik.xyz/sscsports4.ts
 #EXTINF:0 group-title="SPORTS" ,Stadium Sports tv
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 group-title="SPORTS" ,SUPER SPORTS
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/383.m3u8
 #EXTINF:0 group-title="SPORTS" ,SuperSport Action HD ZA
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900
 #EXTINF:0 group-title="SPORTS" ,SuperSport Maximo 1 HD ZA
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907
 #EXTINF:0 group-title="SPORTS" ,SuperSport Variety 1 HD ZA
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28899
-#EXTINF:-1 group-title="SPORTS" ,SWISS SPORT TV 🇨🇭
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TELEDEPORTE 🇪🇸
@@ -1043,222 +1029,19 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,TNS SPORTS 1
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="SPORTS" ,TNT Sport 1
-http://195.181.164.134:80/live.ts?channelId=152&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,TNT Sport 2
-http://195.181.164.130:80/live.ts?channelId=154&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0 group-title="SPORTS" ,TNT SPORTS 1
-http://195.181.164.137:80/live.ts?channelId=153&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,TNT SPORTS 2
-http://195.181.164.134:80/hls/155.m3u8?channelId=155&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TURKMENISTAN SPORTS 🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,TVRI SPORT 🇹🇷
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,ViaPlay 1 UK
-http://195.181.164.134:80/live.ts?channelId=104&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 group-title="SPORTS" ,ViaPlay 2 UK
-http://195.181.164.137:80/live.ts?channelId=105&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 group-title="SPORTS" ,VIAPLAY EXTRA
 http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:0 group-title="SPORTS" ,ViaPlay XTRA
-http://195.181.164.130:80/live.ts?channelId=106&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:-1 group-title="SPORTS" ,VIASAT SPORT 🇸🇪
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8,
 #EXTINF:0 group-title="SPORTS" ,Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,vlaplay
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/352.m3u8
-#EXTINF:0 group-title="SPORTS" ,Willow
-http://fr.globalflix.net/call-me-in-bd/whatsapp-01971466614/387.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX ACTION" tvg-logo="http://iptv-tn.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX ACTION
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32080
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX AFLAM 2" tvg-logo="http://iptv-tn.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX AFLAM 2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34029
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX ARABIC 1" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX ARABIC 1
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32086
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX ARABIC 2" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX ARABIC 2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34039
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX DISNEY  2" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX DISNEY  2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34027
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX DISNEY 1" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX DISNEY 1
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34034
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX HORROR" tvg-logo="http://iptv-tn.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX HORROR
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34020
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX HORROR 2" tvg-logo="http://iptv-tn.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX HORROR 2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32076
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX HORROR 3" tvg-logo="http://iptv-tn.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX HORROR 3
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32088
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX INDIAN" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX INDIAN
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32079
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX INDIAN  2" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX INDIAN  2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/32087
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX TURCKISH" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX TURCKISH
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34010
-#EXTINF:-1 group-title="|AR| ARABE NETFLIX" tvg-name="AR: NETFLIX TURCKISH 2" tvg-logo="http://starsat123.com:8080/images/21c603dbf852f78063f98674640ab339.png" ,AR: NETFLIX TURCKISH 2
-http://iptv-tn.com:8080/@fation_ola_telgram/albnia_50/34012
-#EXTINF:0 ,True Premier Football 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/1
-#EXTINF:0 ,True Premier Football 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/2
-#EXTINF:0 ,Bein Sport 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/3
-#EXTINF:0 ,Bein Sport 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/4
-#EXTINF:0 ,True Sport 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/5
-#EXTINF:0 ,True Sport 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/6
-#EXTINF:0 ,True Sport 3
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/7
-#EXTINF:0 ,PPTV 36
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/8
-#EXTINF:0 ,5 Plus
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/9
-#EXTINF:0 ,Channel 9
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/11
-#EXTINF:0 ,M Enterainment
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/14
-#EXTINF:0 ,Mahar
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/16
-#EXTINF:0 ,Match Football 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/18
-#EXTINF:0 ,Super Sport Football
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/20
-#EXTINF:0 ,Super Sport LaLiga
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/21
-#EXTINF:0 ,Super Sport Maxiom
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/22
-#EXTINF:0 ,Super Sport Premier Leageue
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/23
-#EXTINF:0 ,Diema Sport 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/26
-#EXTINF:0 ,Ad Sport Premium 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/27
-#EXTINF:0 ,Sport TV 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/29
-#EXTINF:0 ,Eleven Sport 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/31
-#EXTINF:0 ,Eleven Sport 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/32
-#EXTINF:0 ,Arena Sport Premium 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/34
-#EXTINF:0 ,Arena Sport Premium 3
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/35
-#EXTINF:0 ,Ziggo Extra
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/36
-#EXTINF:0 ,ZIggo Sport Voetbal HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/37
-#EXTINF:0 ,ZIggo Sport Select HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/38
-#EXTINF:0 ,IND: SUN TV Tamil
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/39
-#EXTINF:0 ,IN: Colors Cineplex HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/42
-#EXTINF:0 ,IN: Colors HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/43
-#EXTINF:0 ,IN: DD Bangla HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/46
-#EXTINF:0 ,IN: SONY HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/47
-#EXTINF:0 ,IN: SONY MAX HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/49
-#EXTINF:0 ,IN: SONY PAL HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/51
-#EXTINF:0 ,IN: SONY SD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/54
-#EXTINF:0 ,IN: SONY SIX SD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/56
-#EXTINF:0 ,IN: SONY TEN 2 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/57
-#EXTINF:0 ,IN: SONY TEN HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/59
-#EXTINF:0 ,IN: SONY WAH HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/60
-#EXTINF:0 ,IN: SONY YAY HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/61
-#EXTINF:0 ,IN: STAR GOLD 2 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/64
-#EXTINF:0 ,IN: STAR GoldHD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/66
-#EXTINF:0 ,IN: STAR Movies FHD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/67
-#EXTINF:0 ,IN: STAR Movies FHD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/68
-#EXTINF:0 ,IN: STAR Movies HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/70
-#EXTINF:0 ,IN: STAR Movies Select HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/71
-#EXTINF:0 ,Bein Sport Premium 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/72
-#EXTINF:0 ,Bein Sport Premium 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/73
-#EXTINF:0 ,Bein Sport English 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/75
-#EXTINF:0 ,Bein Sport English 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/76
-#EXTINF:0 ,Star Sport Select 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/77
-#EXTINF:0 ,Star Sport Select 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/78
-#EXTINF:0 ,Astro Super Sport 4
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/82
-#EXTINF:0 ,Ziggo Docu
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/83
-#EXTINF:0 ,Ziggo Racing
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/85
-#EXTINF:0 ,Ziggo Voetbal
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/88
-#EXTINF:0 ,Canal+ Sport 1
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/94
-#EXTINF:0 ,Canal+ Sport 2
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/95
-#EXTINF:0 ,Canal+ Sport 3
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/96
-#EXTINF:0 ,Canal+ Sport 4
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/97
-#EXTINF:0 ,Canal+ Sport 5
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/98
-#EXTINF:0 ,SSC Extra 2 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/102
-#EXTINF:0 ,SSC Sport 1 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/104
-#EXTINF:0 ,SSC Sport 2 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/105
-#EXTINF:0 ,SSC Sport 4 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/107
-#EXTINF:0 ,HR: Arena Sport 2 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/112
-#EXTINF:0 ,HR: Arena Sport 3 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/113
-#EXTINF:0 ,HR: Arena Sport 4 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/114
-#EXTINF:0 ,HR: Arena Sport 5 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/115
-#EXTINF:0 ,PT: Sport TV 3 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/116
-#EXTINF:0 ,PT: Sport TV 5 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/118
-#EXTINF:0 ,PT: Eleven Sports 3 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/119
-#EXTINF:0 ,PT: Eleven Sports 5 HD
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/121
-#EXTINF:0 ,True Premier Football 3
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/127
-#EXTINF:0 ,True Premier Football 4
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/128
-#EXTINF:0 ,True Premier Football 5
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/129
-#EXTINF:0 ,MUTV
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/130
-#EXTINF:0 ,Super Sport Premier League (2)
-http://montvlive.xyz:80/montvnetwork30/montvnetwork30/132
-
