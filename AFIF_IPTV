@@ -11,10 +11,18 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ATN News,
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" ,ATN News,
+#EXTINF:-1 group-title="BANGLA" ,ATN News
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTANI🇵🇰" ,Geo Kahani
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Bangla TV,
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="PAKISTANI🇵🇰" ,iPLUS
+https://live.we2live.in/iplustv/iplustv/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MUSIC🇮🇳" ,ZooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MUSIC🇮🇳" ,Mh 1 Music
+https://mhonepunjabi.in/hls/stream.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BANGLA TV,
 http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Bangla TV,
