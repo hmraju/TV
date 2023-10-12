@@ -685,3 +685,1603 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+TEST---------------------------------------------
+#EXTINF:-1 ,Sky Sports Action HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749503
+#EXTINF:-1 ,UK: Sky Sports Action SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749504
+#EXTINF:-1 ,Sky Sports Arena HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749471
+#EXTINF:-1 ,UK: Sky Sports Arena SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749472
+#EXTINF:-1 ,Sky Sports Cricket HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749475
+#EXTINF:-1 ,UK: Sky Sports Cricket SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749476
+#EXTINF:-1 ,Sky Sports F1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749479
+#EXTINF:-1 ,UK: Sky Sports F1 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749480
+#EXTINF:-1 ,Sky Sports Football HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749483
+#EXTINF:-1 ,UK: Sky Sports Football SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749484
+#EXTINF:-1 ,Sky Sports Golf HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749487
+#EXTINF:-1 ,UK: Sky Sports Golf SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749488
+#EXTINF:-1 ,Sky Sports Main Event HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749491
+#EXTINF:-1 ,UK: Sky Sports Main Event SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749492
+#EXTINF:-1 ,Sky Sports Mix HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749495
+#EXTINF:-1 ,UK: Sky Sports Mix SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749496
+#EXTINF:-1 ,Sky Sports News HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749499
+#EXTINF:-1 ,UK: Sky Sports News SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749500
+#EXTINF:-1 ,Sky Sports Premier League HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749507
+#EXTINF:-1 ,UK: Sky Sports Premier League SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749508
+#EXTINF:-1 ,Sky Sports Racing HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749511
+#EXTINF:-1 ,UK: Sky Sports Racing SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/749512
+#EXTINF:-1 ,UK:BBC One HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752856
+#EXTINF:-1 ,UK: BBC One SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752857
+#EXTINF:-1 ,UK:BBC Two HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752860
+#EXTINF:-1 ,UK: BBC Two SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752862
+#EXTINF:-1 ,UK:ITV HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752865
+#EXTINF:-1 ,UK: ITV SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752866
+#EXTINF:-1 ,UK: ITV+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752868
+#EXTINF:-1 ,UK:Channel 4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752871
+#EXTINF:-1 ,UK: Channel 4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752872
+#EXTINF:-1 ,UK:  Channel 4+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752874
+#EXTINF:-1 ,UK:Channel 5 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752877
+#EXTINF:-1 ,UK: Channel 5 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752878
+#EXTINF:-1 ,UK: Channel 5+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752880
+#EXTINF:-1 ,UK:ITV2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752887
+#EXTINF:-1 ,UK: ITV2 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752890
+#EXTINF:-1 ,UK: ITV2+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752891
+#EXTINF:-1 ,UK:ITV 3 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752894
+#EXTINF:-1 ,UK: ITV3 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752896
+#EXTINF:-1 ,UK: ITV3 +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752897
+#EXTINF:-1 ,UK:ITV 4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752900
+#EXTINF:-1 ,UK: ITV4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752902
+#EXTINF:-1 ,UK: ITV4+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752903
+#EXTINF:-1 ,UK: ITVBe SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752905
+#EXTINF:-1 ,UK: Sky Arts SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752911
+#EXTINF:-1 ,UK:Sky Atlantic HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752914
+#EXTINF:-1 ,UK:Sky Comedy HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752919
+#EXTINF:-1 ,UK: Sky Comedy SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752921
+#EXTINF:-1 ,UK:Sky Crime HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752924
+#EXTINF:-1 ,UK: Sky Crime SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752925
+#EXTINF:-1 ,UK: Sky Max SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752928
+#EXTINF:-1 ,UK: Sky Replay
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752930
+#EXTINF:-1 ,UK:Sky Showcase HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752933
+#EXTINF:-1 ,UK: Showcase
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752935
+#EXTINF:-1 ,UK:Sky Witness HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752938
+#EXTINF:-1 ,UK: 4seven
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752941
+#EXTINF:-1 ,UK: 5 Action
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753007
+#EXTINF:-1 ,UK: 5SELECT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752942
+#EXTINF:-1 ,UK: 5STAR
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752944
+#EXTINF:-1 ,UK: 5STAR+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752946
+#EXTINF:-1 ,UK: 5 USA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752947
+#EXTINF:-1 ,UK: 5USA+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752949
+#EXTINF:-1 ,UK: BLAZE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752956
+#EXTINF:-1 ,UK:Comedy Central HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752968
+#EXTINF:-1 ,UK: ComedyCentral SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752970
+#EXTINF:-1 ,UK: ComedyXtra
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752971
+#EXTINF:-1 ,UK:Dave HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752974
+#EXTINF:-1 ,UK: Dave SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752976
+#EXTINF:-1 ,UK: Dave ja vu
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752977
+#EXTINF:-1 ,UK: DMAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752978
+#EXTINF:-1 ,UK: DMAX+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752979
+#EXTINF:-1 ,UK: Drama
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752980
+#EXTINF:-1 ,UK: Drama+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752981
+#EXTINF:-1 ,UK:E! Entertainment HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752983
+#EXTINF:-1 ,UK: E! SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752984
+#EXTINF:-1 ,UK:E4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752986
+#EXTINF:-1 ,UK: E4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752987
+#EXTINF:-1 ,UK: E4+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752988
+#EXTINF:-1 ,UK:Film 4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752990
+#EXTINF:-1 ,UK: Film4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752991
+#EXTINF:-1 ,UK: Film4 +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752992
+#EXTINF:-1 ,UK:Gold HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752995
+#EXTINF:-1 ,UK: GOLD SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752996
+#EXTINF:-1 ,UK: GOLD+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752997
+#EXTINF:-1 ,UK: HGTV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752998
+#EXTINF:-1 ,UK: HGTV+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752999
+#EXTINF:-1 ,UK: Horror ch+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753000
+#EXTINF:-1 ,UK: Horror Xtra (Horror channel)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753001
+#EXTINF:-1 ,UK:More4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753003
+#EXTINF:-1 ,UK: More 4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753004
+#EXTINF:-1 ,UK: More 4+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753005
+#EXTINF:-1 ,UK: Pick
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753008
+#EXTINF:-1 ,UK:Quest HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753011
+#EXTINF:-1 ,UK: QUEST SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753012
+#EXTINF:-1 ,UK: QUEST+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753013
+#EXTINF:-1 ,UK: Quest Red
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753014
+#EXTINF:-1 ,UK: Quest Red+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753015
+#EXTINF:-1 ,UK: Really
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753016
+#EXTINF:-1 ,UK: S4C SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753017
+#EXTINF:-1 ,UK: Sony tv
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753020
+#EXTINF:-1 ,UK:Sony Max HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753022
+#EXTINF:-1 ,UK: SONY MAX 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753023
+#EXTINF:-1 ,UK:Sony TV HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753025
+#EXTINF:-1 ,UK:SyFy HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753028
+#EXTINF:-1 ,UK: SYFY SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753029
+#EXTINF:-1 ,UK:TLC HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753034
+#EXTINF:-1 ,BBC_One_E_Mid
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753044
+#EXTINF:-1 ,BBC One North West
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753046
+#EXTINF:-1 ,BBC One Scotland
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753048
+#EXTINF:-1 ,UK: RTE 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753080
+#EXTINF:-1 ,UK: RTE One SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753081
+#EXTINF:-1 ,UK: RTE One+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753082
+#EXTINF:-1 ,UK: RTE 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753084
+#EXTINF:-1 ,UK: RTE Two SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753085
+#EXTINF:-1 ,UK: RTE 2+ SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753086
+#EXTINF:-1 ,UK: RTE Jr SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753087
+#EXTINF:-1 ,UK: RTE News Now
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753088
+#EXTINF:-1 ,UK: TG4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753089
+#EXTINF:-1 ,UK: UTV HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753816
+#EXTINF:-1 ,UK: Virgin Media One
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753093
+#EXTINF:-1 ,UK: Virgin Media Three SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753097
+#EXTINF:-1 ,UK: Virgin Two
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753098
+#EXTINF:-1 ,UK: Virgin Media One HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753099
+#EXTINF:-1 ,UK: Virgin Media Two HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753100
+#EXTINF:-1 ,UK: Sky Cinema Premier HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753101
+#EXTINF:-1 ,Sky Cinema Premier SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753102
+#EXTINF:-1 ,UK: Sky Cinema Action HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753103
+#EXTINF:-1 ,Sky Cinema Action SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753104
+#EXTINF:-1 ,UK: Sky Cinema Animation HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753105
+#EXTINF:-1 ,UK: Sky Cinema Animation SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753106
+#EXTINF:-1 ,UK: Sky Cinema Comedy HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753107
+#EXTINF:-1 ,Sky Cinema Comedy SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753108
+#EXTINF:-1 ,UK: Sky Cinema Drama / Xmas HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753109
+#EXTINF:-1 ,Sky Cinema Drama / Xmas SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753110
+#EXTINF:-1 ,UK: Sky Cinema Family HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753111
+#EXTINF:-1 ,Sky Cinema Family SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753112
+#EXTINF:-1 ,UK: Sky Cinema Greats HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753113
+#EXTINF:-1 ,Sky Cinema Greats SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753114
+#EXTINF:-1 ,UK: Sky Cinema Hits HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753115
+#EXTINF:-1 ,Sky Cinema Hits SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753116
+#EXTINF:-1 ,UK: Sky Cinema Syfy & Horror HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753117
+#EXTINF:-1 ,Sky Cinema Syfy & Horror SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753118
+#EXTINF:-1 ,UK: Sky Cinema Select HD / 5 star
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753119
+#EXTINF:-1 ,Sky Cinema Select SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753120
+#EXTINF:-1 ,UK: Sky Cinema Thriller HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753121
+#EXTINF:-1 ,Sky Cinema Thriller SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753122
+#EXTINF:-1 ,UK: TNT Sports 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753795
+#EXTINF:-1 ,UK: TNT Sport 1 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753796
+#EXTINF:-1 ,UK: TNT Sport 2 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753797
+#EXTINF:-1 ,UK: TNT Sports 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753798
+#EXTINF:-1 ,UK: TNT Sport 2 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753799
+#EXTINF:-1 ,UK: TNT Sport 3 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753800
+#EXTINF:-1 ,UK: TNT Sports 3 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753801
+#EXTINF:-1 ,UK: TNT Sport 3 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753802
+#EXTINF:-1 ,UK: TNT Sport 4 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753803
+#EXTINF:-1 ,UK: TNT Sport 4 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753804
+#EXTINF:-1 ,UK: TNT Sport 4 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753805
+#EXTINF:-1 ,UK: TNT Sport 6
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753807
+#EXTINF:-1 ,UK: TNT Sport 7
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753808
+#EXTINF:-1 ,UK: TNT Sport 8
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753809
+#EXTINF:-1 ,UK: TNT Sport 9
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753810
+#EXTINF:-1 ,UK: TNT Sport 10
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753811
+#EXTINF:-1 ,UK: Animal Planet
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753818
+#EXTINF:-1 ,UK: Animal Planet +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753819
+#EXTINF:-1 ,UK: Discovery HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753824
+#EXTINF:-1 ,UK: Discovery SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753825
+#EXTINF:-1 ,UK: Discovery+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753826
+#EXTINF:-1 ,UK: Disc.History
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753827
+#EXTINF:-1 ,UK: Disc.History+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753828
+#EXTINF:-1 ,UK: Disc.Science
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753829
+#EXTINF:-1 ,UK: Disc.Sci+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753830
+#EXTINF:-1 ,UK: Disc.Turbo
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753831
+#EXTINF:-1 ,UK: Disc.Turbo+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753832
+#EXTINF:-1 ,UK: Eden
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753833
+#EXTINF:-1 ,UK: Eden+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753834
+#EXTINF:-1 ,UK: Food Network
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753835
+#EXTINF:-1 ,UK: Food Network+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753836
+#EXTINF:-1 ,UK: Investigation Discovery
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753837
+#EXTINF:-1 ,UK: Investigation Discovery +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753838
+#EXTINF:-1 ,UK: Nat Geo HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753840
+#EXTINF:-1 ,UK: Nat Geo
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753841
+#EXTINF:-1 ,UK: History 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753851
+#EXTINF:-1 ,UK: 4 Extra (4Music)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753855
+#EXTINF:-1 ,UK: 4Music
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753856
+#EXTINF:-1 ,UK: Clubland TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753857
+#EXTINF:-1 ,UK: Kerrang!
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753858
+#EXTINF:-1 ,UK: KISS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753859
+#EXTINF:-1 ,UK: Magic
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753860
+#EXTINF:-1 ,UK: MTV Base
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753861
+#EXTINF:-1 ,UK: MTV MUSIC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753864
+#EXTINF:-1 ,UK: NOW 90s
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753865
+#EXTINF:-1 ,UK: NOW 80s
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753866
+#EXTINF:-1 ,UK: Trace Vault
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753868
+#EXTINF:-1 ,UK: BabyTV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753869
+#EXTINF:-1 ,UK: Boomerang HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753871
+#EXTINF:-1 ,UK: Boomerang+1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753873
+#EXTINF:-1 ,UK: Cartoon Network HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753875
+#EXTINF:-1 ,UK: Cartoon Network SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753876
+#EXTINF:-1 ,UK: Cartoon Network +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753877
+#EXTINF:-1 ,UK: Cartoonito
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753878
+#EXTINF:-1 ,UK: Cartoonito
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753879
+#EXTINF:-1 ,UK: CBeebies HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753882
+#EXTINF:-1 ,UK: Nick  Jr. Too
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753884
+#EXTINF:-1 ,UK: Nick Jr HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753886
+#EXTINF:-1 ,UK: Nick Jr SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753887
+#EXTINF:-1 ,UK: Nick Jr. +1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753888
+#EXTINF:-1 ,UK: Nickelodeon SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753891
+#EXTINF:-1 ,UK: Nickelodeon +1 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753892
+#EXTINF:-1 ,UK: BoxNation SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753900
+#EXTINF:-1 ,UK: Eurosports 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753902
+#EXTINF:-1 ,UK: Eurosport 1 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753903
+#EXTINF:-1 ,UK: Eurosports 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753905
+#EXTINF:-1 ,UK: Eurosport 2 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753906
+#EXTINF:-1 ,UK: MUTV HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753911
+#EXTINF:-1 ,UK: MUTV SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753912
+#EXTINF:-1 ,Racing tv HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753923
+#EXTINF:-1 ,UK: Sporty Stuff HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753926
+#EXTINF:-1 ,UK: Viaplay Sports 1 IR HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753917
+#EXTINF:-1 ,UK: Viaplay Sports 1 SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753918
+#EXTINF:-1 ,UK: Viaplay Sports 2 IR HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753919
+#EXTINF:-1 ,UK: Viaplay Sports 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753920
+#EXTINF:-1 ,UK: Viaplay Sports 2 UK SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753921
+#EXTINF:-1 ,UK: Viaplay Xtra HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753908
+#EXTINF:-1 ,UK: BBC News SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753935
+#EXTINF:-1 ,UK: BBC Parliament
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753936
+#EXTINF:-1 ,UK: CNN HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753939
+#EXTINF:-1 ,UK: CNN SD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753940
+#EXTINF:-1 ,UK: Dunya News
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753942
+#EXTINF:-1 ,UK: Euronews
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753943
+#EXTINF:-1 ,UK: GB News
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753944
+#EXTINF:-1 ,UK: GEO News
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753945
+#EXTINF:-1 ,UK: London Live
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753948
+#EXTINF:-1 ,DSTV: SuperSport Blitz HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/872324
+#EXTINF:-1 ,3PM: SuperSport Cricket
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549795
+#EXTINF:-1 ,DSTV: SuperSport ESPN2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/975429
+#EXTINF:-1 ,3PM: SuperSport Football
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549791
+#EXTINF:-1 ,G:AF | SuperSport Golf
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549567
+#EXTINF:-1 ,3PM: SuperSport Grandstand
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549787
+#EXTINF:-1 ,3PM: SuperSport LaLiga
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549785
+#EXTINF:-1 ,DSTV: SuperSport Majximo 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/975430
+#EXTINF:-1 ,3PM: SuperSport Motorsport
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/617546
+#EXTINF:-1 ,3PM: SuperSport PSL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549786
+#EXTINF:-1 ,3PM: SuperSport Premier League
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549796
+#EXTINF:-1 ,3PM: SuperSport Variety 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549789
+#EXTINF:-1 ,3PM: SuperSport Variety 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549788
+#EXTINF:-1 ,3PM: SuperSport Variety 3
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549793
+#EXTINF:-1 ,3PM: SuperSport Variety 4
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/549792
+#EXTINF:-1 ,William Hill TV1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270190
+#EXTINF:-1 ,SIS Two
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270192
+#EXTINF:-1 ,SIS Racing
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270193
+#EXTINF:-1 ,SIS One
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270194
+#EXTINF:-1 ,Paddy Power TV 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270195
+#EXTINF:-1 ,Paddy Power TV 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270196
+#EXTINF:-1 ,Ladbrokes TV 3
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/633558
+#EXTINF:-1 ,Ladbrokes TV 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270197
+#EXTINF:-1 ,Ladbrokes TV 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270198
+#EXTINF:-1 ,Coral TV 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270199
+#EXTINF:-1 ,Coral TV 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270200
+#EXTINF:-1 ,Betfred TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/270201
+#EXTINF:-1 ,SETANTA Sports 0
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1003823
+#EXTINF:-1 ,SETANTA Sports 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1003824
+#EXTINF:-1 ,DSTV: SuperSport ESPN 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/872326
+#EXTINF:-1 ,DSTV: SuperSport M Ximo HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/872327
+#EXTINF:-1 ,US : A&E
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195789
+#EXTINF:-1 ,US : ABC (KABC -LA SO CAL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195791
+#EXTINF:-1 ,US : ABC (KAKE - WICHITA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195792
+#EXTINF:-1 ,US : ABC (KERO - BAKERSFIELD)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195797
+#EXTINF:-1 ,US : ABC (KFSN - FRESNO)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195799
+#EXTINF:-1 ,US : ABC (KGO- SAN FRANCISCO)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195800
+#EXTINF:-1 ,US : ABC (KIII - CORPUS CHRISTI)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195803
+#EXTINF:-1 ,US : ABC (KITV - HONOLULU)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195804
+#EXTINF:-1 ,US : ABC (KMBC - KANSAS CITY)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195805
+#EXTINF:-1 ,US : ABC (KOAT- ALBUQUERQUE NM)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195808
+#EXTINF:-1 ,US : ABC (KRDO - COLORADO SPRINGS)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195811
+#EXTINF:-1 ,US : ABC (KSPR - MISSOURI)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195814
+#EXTINF:-1 ,US : ABC (KSTP - ST. PAUL MN)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195815
+#EXTINF:-1 ,US : ABC (KTRK- HOUSTON SE TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195818
+#EXTINF:-1 ,US : ABC (KVIA - EL PASO)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195820
+#EXTINF:-1 ,US : ABC (KVII - AMARILLO)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195821
+#EXTINF:-1 ,US : ABC (KVUE - AUSTIN)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195822
+#EXTINF:-1 ,US : ABC (WAAY- HUNTSVILLE AL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195824
+#EXTINF:-1 ,US : ABC (WABC-NEW YORK NY)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195825
+#EXTINF:-1 ,US : ABC (WBRZ - BATON ROUGE)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195829
+#EXTINF:-1 ,US : ABC (WCVB- BOSTON MA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195832
+#EXTINF:-1 ,US : ABC (WFAA- DALLAS/FORT WORTH TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195835
+#EXTINF:-1 ,US : ABC (WFTV - ORLANDO)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195837
+#EXTINF:-1 ,US : ABC (WGGB - SPRINGFIELD)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195838
+#EXTINF:-1 ,US : ABC (WHAS - LOUISVILLE)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195840
+#EXTINF:-1 ,US : ABC (WJLA- WASHINGTON DC)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195844
+#EXTINF:-1 ,US : ABC (WKEF - DAYTON)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195847
+#EXTINF:-1 ,US : ABC (WKRN - NASHVILLE)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195848
+#EXTINF:-1 ,US : ABC (WLOS - GREENVILLE)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195849
+#EXTINF:-1 ,US : ABC (WMAR- BALTIMORE MD)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195852
+#EXTINF:-1 ,US : ABC (WPLG-MIAMI FL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195857
+#EXTINF:-1 ,US : ABC (WPVI- PHILADELPHIA PA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195858
+#EXTINF:-1 ,US : ABC (WQAD - SAVANNA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195859
+#EXTINF:-1 ,US : ABC (WRIC - RICHMOND)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195860
+#EXTINF:-1 ,US : ABC (WRTV-INDIANAPOLIS IN)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195861
+#EXTINF:-1 ,US : ABC (WSYR - SYRACUSE)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195864
+#EXTINF:-1 ,US : ABC (WTNH - NEW HAVEN CT)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195868
+#EXTINF:-1 ,US : ABC (WTVD-DURHAM NC)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195870
+#EXTINF:-1 ,US : ABC (WTVM - COLUMBUS)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195871
+#EXTINF:-1 ,US : ABC (WVEC-HAMPTON VA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195874
+#EXTINF:-1 ,US : ABC (WXLV - WINSTON-SALEM)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195876
+#EXTINF:-1 ,US : ACC NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195880
+#EXTINF:-1 ,US : ADULT SWIM
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195882
+#EXTINF:-1 ,US : ALTITUDE SPORTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195884
+#EXTINF:-1 ,US : AMC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195885
+#EXTINF:-1 ,US : AMC + FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195886
+#EXTINF:-1 ,US : AMC FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195888
+#EXTINF:-1 ,US : AMC PRESENTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195889
+#EXTINF:-1 ,US : AMERICAN HEROES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195890
+#EXTINF:-1 ,US : AMERICAN HEROES FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195891
+#EXTINF:-1 ,US : ANIMAL PLANET
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195892
+#EXTINF:-1 ,US : ANIMAL PLANET FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195893
+#EXTINF:-1 ,US : AT&T SPORTSNET PITTSBURGH
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195895
+#EXTINF:-1 ,US : AT&T SPORTSNET SOUTHWEST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195897
+#EXTINF:-1 ,US : AXS TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195901
+#EXTINF:-1 ,US : BABY TV FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195903
+#EXTINF:-1 ,US : BALLY SPORTS ARIZONA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195904
+#EXTINF:-1 ,US : BALLY SPORTS CAROLINAS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195906
+#EXTINF:-1 ,US : BALLY SPORTS DETROIT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195908
+#EXTINF:-1 ,US : BALLY SPORTS KANSAS CITY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195914
+#EXTINF:-1 ,US : BALLY SPORTS MIDWEST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195916
+#EXTINF:-1 ,US : BALLY SPORTS NEW ORLEANS PLUS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195919
+#EXTINF:-1 ,US : BALLY SPORTS NORTH
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195920
+#EXTINF:-1 ,US : BALLY SPORTS OHIO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195922
+#EXTINF:-1 ,US : BALLY SPORTS OKLAHOMA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195923
+#EXTINF:-1 ,US : BALLY SPORTS OKLAHOMA PLUS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195924
+#EXTINF:-1 ,US : BALLY SPORTS SAN DIEGO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195925
+#EXTINF:-1 ,US : BALLY SPORTS SOCAL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195927
+#EXTINF:-1 ,US : BALLY SPORTS SOUTHEAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195930
+#EXTINF:-1 ,US : BALLY SPORTS SOUTHWEST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195931
+#EXTINF:-1 ,US : BALLY SPORTS SUN (NORTH FLORIDA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195932
+#EXTINF:-1 ,US : BALLY SPORTS TENNESSEE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195934
+#EXTINF:-1 ,US : BBC AMERICA FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195938
+#EXTINF:-1 ,US : BBC WORLD NEWS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195939
+#EXTINF:-1 ,US : BEIN SPORTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195945
+#EXTINF:-1 ,US : BET
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195946
+#EXTINF:-1 ,US : BET (WEST)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195947
+#EXTINF:-1 ,US : BET FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195948
+#EXTINF:-1 ,US : BET HER FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195950
+#EXTINF:-1 ,US : BET JAMS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195951
+#EXTINF:-1 ,US : BET SOUL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195952
+#EXTINF:-1 ,US : BIG TEN NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195953
+#EXTINF:-1 ,US : BLOOMBERG TV FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195955
+#EXTINF:-1 ,US : BOUNCE TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195956
+#EXTINF:-1 ,US : BRAVO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195957
+#EXTINF:-1 ,US : CARTOON NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195961
+#EXTINF:-1 ,US : CBS (KBAK- Bakersfield)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195963
+#EXTINF:-1 ,US : CBS (KBOI- Boise)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195964
+#EXTINF:-1 ,US : CBS (KCCI) DES MOINES IOWA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195967
+#EXTINF:-1 ,US : CBS (KDKATV- Pittsburgh PA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195970
+#EXTINF:-1 ,US : CBS (KELO- Sioux Falls SD)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195971
+#EXTINF:-1 ,US : CBS (KEYE) AUSTIN TEXAS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195973
+#EXTINF:-1 ,US : CBS (KFVS) CAPE GIRARDEAU MISSOURI
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195975
+#EXTINF:-1 ,US : CBS (KGMB) HONOLULU HAWAII
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195977
+#EXTINF:-1 ,US : CBS (KHOU- Houston TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195978
+#EXTINF:-1 ,US : CBS (KION) MONTEREY CALIFORNIA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195979
+#EXTINF:-1 ,US : CBS (KIRO- Seattle WA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195980
+#EXTINF:-1 ,US : CBS (KKTV) COLORADO SPRINGS COLORADO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195981
+#EXTINF:-1 ,US : CBS (KLAS- Las Vegas NV)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195982
+#EXTINF:-1 ,US : CBS (KMOV- St. Louis MI)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195984
+#EXTINF:-1 ,US : CBS (KOLD) TUCSON ARIZONA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195986
+#EXTINF:-1 ,US : CBS (KPHO- Phoenix AZ)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195988
+#EXTINF:-1 ,US : CBS (KREM) SPOKANE WASHINGTON
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195990
+#EXTINF:-1 ,US : CBS (KRQE Albuquerque NM)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195991
+#EXTINF:-1 ,US : CBS (KSLA) SHREVEPORT LOUISIANA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195992
+#EXTINF:-1 ,US : CBS (KTVN) RENO NEVADA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195994
+#EXTINF:-1 ,US : CBS (KTVT- Fort Worth TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195995
+#EXTINF:-1 ,US : CBS (KTXA- Fort Worth TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195996
+#EXTINF:-1 ,US : CBS (KUTV- Salt Lake City/St. George UT)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195997
+#EXTINF:-1 ,US : CBS (KWTV- Oklahoma City OK)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1195999
+#EXTINF:-1 ,US : CBS (KWTX) WACO TEXAS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196000
+#EXTINF:-1 ,US : CBS (KXMB) BISMARCK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196001
+#EXTINF:-1 ,US : CBS (KYW- Philadelphia PA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196002
+#EXTINF:-1 ,US : CBS (WBNS) COLUMBUS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196006
+#EXTINF:-1 ,US : CBS (WBTV- Charlotte NC)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196007
+#EXTINF:-1 ,US : CBS (WBZ- Boston MA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196008
+#EXTINF:-1 ,US : CBS (WCTV) THOMASVILLE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196012
+#EXTINF:-1 ,US : CBS (WDEF) CHATTANOOGA TENNESSEE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196014
+#EXTINF:-1 ,US : CBS (WFOR- Miami FL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196017
+#EXTINF:-1 ,US : CBS (WGCL- Atlanta GA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196019
+#EXTINF:-1 ,US : CBS NEWS LOS ANGELES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196067
+#EXTINF:-1 ,US : CBS NEWS NEW YORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196070
+#EXTINF:-1 ,US : CBS SPORTS HQ
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196073
+#EXTINF:-1 ,US : CHEDDAR NEWS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196080
+#EXTINF:-1 ,US : CHEDDAR NEWS FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196081
+#EXTINF:-1 ,US : CINEMAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196083
+#EXTINF:-1 ,US : CINEMAX EAST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196084
+#EXTINF:-1 ,US : CINEMAX MOREMAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196085
+#EXTINF:-1 ,US : CINEMAX MOVIEMAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196086
+#EXTINF:-1 ,US : CINEMAX OUTERMAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196087
+#EXTINF:-1 ,US : CMT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196089
+#EXTINF:-1 ,US : CNBC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196091
+#EXTINF:-1 ,US : CNBC FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196092
+#EXTINF:-1 ,US : CNN FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196096
+#EXTINF:-1 ,US : COMEDY CENTRAL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196098
+#EXTINF:-1 ,US : COMEDY TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196099
+#EXTINF:-1 ,US : COMET FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196100
+#EXTINF:-1 ,US : COOKING CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196103
+#EXTINF:-1 ,US : CRIME & INVESTIGATION
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196106
+#EXTINF:-1 ,US : CW (KTLA 5) LOS ANGELES CALIFORNIA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196118
+#EXTINF:-1 ,US : CW (WLFL) 22 RALEIGH
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196127
+#EXTINF:-1 ,US : CW (WPCW) PITTSBURGH PA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196131
+#EXTINF:-1 ,US : DC COUNCIL CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196141
+#EXTINF:-1 ,US : DESTINATION AMERICA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196142
+#EXTINF:-1 ,US : DESTINATION AMERICA FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196143
+#EXTINF:-1 ,US : DISCOVERY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196144
+#EXTINF:-1 ,US : DISCOVERY CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196145
+#EXTINF:-1 ,US : DISCOVERY FAMILY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196146
+#EXTINF:-1 ,US : DISCOVERY LIFE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196148
+#EXTINF:-1 ,US : DISCOVERY SCIENCE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196149
+#EXTINF:-1 ,US : DISCOVERY SCIENCE FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196150
+#EXTINF:-1 ,US : DISNEY CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196151
+#EXTINF:-1 ,US : DISNEY JUNIOR FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196152
+#EXTINF:-1 ,US : DISNEY XD FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196153
+#EXTINF:-1 ,US : DOG TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196155
+#EXTINF:-1 ,US : E!
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196157
+#EXTINF:-1 ,US : ELEVEN SPORTS NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196159
+#EXTINF:-1 ,US : ESPN 2 FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196162
+#EXTINF:-1 ,US : ESPN FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196163
+#EXTINF:-1 ,US : ESPN U FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196167
+#EXTINF:-1 ,US : FETV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196171
+#EXTINF:-1 ,US : FloRacing HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196172
+#EXTINF:-1 ,US : FM FUSE MUSIC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196173
+#EXTINF:-1 ,US : FOOD NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196174
+#EXTINF:-1 ,US : FOOD NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196175
+#EXTINF:-1 ,US : FOX (KSAZ - Phoenix AZ)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196204
+#EXTINF:-1 ,US : FOX (WFLD - Chicago IL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196227
+#EXTINF:-1 ,US : FOX (WFOX) Jacksonville Florida
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196229
+#EXTINF:-1 ,US : FOX (WFXB) Myrtle Beach South Carolina
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196231
+#EXTINF:-1 ,US : FOX (WHNS Greenville SC)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196239
+#EXTINF:-1 ,US : FOX (WJBK- Detroit MI)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196241
+#EXTINF:-1 ,US : FOX (WLUK) Green Bay
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196245
+#EXTINF:-1 ,US : FOX (WNYW - New York NY)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196247
+#EXTINF:-1 ,US : FOX (WOGX- Gainesville/Ocala FL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196249
+#EXTINF:-1 ,US : FOX (WPMT) York Pennsylvania
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196251
+#EXTINF:-1 ,US : FOX (WRLH) Richmond
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196255
+#EXTINF:-1 ,US : FOX (WVUE - New Orleans LA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196272
+#EXTINF:-1 ,US : FOX (WXIN - Indianapolis IN)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196274
+#EXTINF:-1 ,US : FOX (WXXA) Albany
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196278
+#EXTINF:-1 ,US : FOX BUSINESS NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196284
+#EXTINF:-1 ,US : FOX DEPORTES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196285
+#EXTINF:-1 ,US : FOX NEWS CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196286
+#EXTINF:-1 ,US : FOX NEWS CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196287
+#EXTINF:-1 ,US : FOX SOCCER PLUS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196288
+#EXTINF:-1 ,US : FOX SPORTS 1 FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196290
+#EXTINF:-1 ,US : FOX SPORTS 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196291
+#EXTINF:-1 ,US : FREE SPEECH TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196295
+#EXTINF:-1 ,US : FREEFORM
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196296
+#EXTINF:-1 ,US : FUSE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196297
+#EXTINF:-1 ,US : FX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196299
+#EXTINF:-1 ,US : FXM
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196301
+#EXTINF:-1 ,US : FXX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196302
+#EXTINF:-1 ,US : FXX FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196303
+#EXTINF:-1 ,US : FYI FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196304
+#EXTINF:-1 ,US : GAME SHOW NETWORK (GSN)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196306
+#EXTINF:-1 ,US : GOLF CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196310
+#EXTINF:-1 ,US : GOLF CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196311
+#EXTINF:-1 ,US : GRIT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196313
+#EXTINF:-1 ,US : HALLMARK CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196316
+#EXTINF:-1 ,US : HALLMARK CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196317
+#EXTINF:-1 ,US : HALLMARK DRAMA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196318
+#EXTINF:-1 ,US : HALLMARK DRAMA FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196319
+#EXTINF:-1 ,US : HALLMARK MOVIES & MYSTERIES FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196321
+#EXTINF:-1 ,US : HBO 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196322
+#EXTINF:-1 ,US : HBO COMEDY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196323
+#EXTINF:-1 ,US : HBO EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196324
+#EXTINF:-1 ,US : HBO FAMILY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196326
+#EXTINF:-1 ,US : HBO FAMILY EAST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196327
+#EXTINF:-1 ,US : HBO SIGNATURE EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196329
+#EXTINF:-1 ,US : HBO ZONE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196330
+#EXTINF:-1 ,US : HGTV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196333
+#EXTINF:-1 ,US : HGTV FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196334
+#EXTINF:-1 ,US : HISTORY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196335
+#EXTINF:-1 ,US : HISTORY CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196336
+#EXTINF:-1 ,US : HLN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196337
+#EXTINF:-1 ,US : Hunt Channel
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196342
+#EXTINF:-1 ,US : IFC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196343
+#EXTINF:-1 ,US : IFC FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196344
+#EXTINF:-1 ,US : INFO WARS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196346
+#EXTINF:-1 ,US : INVESTIGATION DISCOVERY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196349
+#EXTINF:-1 ,US : JUSTICE CENTRAL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196352
+#EXTINF:-1 ,US : LAFF TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196353
+#EXTINF:-1 ,US : LIFETIME
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196355
+#EXTINF:-1 ,US : LIFETIME FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196356
+#EXTINF:-1 ,US : MAGNOLIA NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196361
+#EXTINF:-1 ,US : MGM+
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196368
+#EXTINF:-1 ,US : MLB ARIZONA DIAMONDBACKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196377
+#EXTINF:-1 ,US : MLB ATLANTA BRAVES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196378
+#EXTINF:-1 ,US : MLB BALTIMORE ORIOLES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196379
+#EXTINF:-1 ,US : MLB CHICAGO CUBS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196381
+#EXTINF:-1 ,US : MLB CHICAGO WHITE SOX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196382
+#EXTINF:-1 ,US : MLB CINCINNATI REDS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196383
+#EXTINF:-1 ,US : MLB NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196395
+#EXTINF:-1 ,US : MLB PHILADELPHIA PHILLIES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196400
+#EXTINF:-1 ,US : MOTOR TREND FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196411
+#EXTINF:-1 ,US : MSG
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196413
+#EXTINF:-1 ,US : MSG 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196416
+#EXTINF:-1 ,US : MSG PLUS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196417
+#EXTINF:-1 ,US : MSNBC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196418
+#EXTINF:-1 ,US : MTV FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196423
+#EXTINF:-1 ,US : NATIONAL GEO WILD FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196442
+#EXTINF:-1 ,US : NATIONAL GEOGRAPHIC CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196443
+#EXTINF:-1 ,US : NATIONAL GEOGRAPHIC FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196444
+#EXTINF:-1 ,US : NATIONAL GEOGRAPHIC WILD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196445
+#EXTINF:-1 ,US : NBA ATLANTA HAWKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196446
+#EXTINF:-1 ,US : NBA BOSTON CELTICS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196447
+#EXTINF:-1 ,US : NBA CHARLOTTE HORNETS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196449
+#EXTINF:-1 ,US : NBA CHICAGO BULLS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196450
+#EXTINF:-1 ,US : NBA CLEVELAND CAVALIERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196451
+#EXTINF:-1 ,US : NBA DALLAS MAVERICKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196452
+#EXTINF:-1 ,US : NBA GOLDEN STATE WARRIORS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196455
+#EXTINF:-1 ,US : NBA LOS ANGELES CLIPPERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196458
+#EXTINF:-1 ,US : NBA MIAMI HEAT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196461
+#EXTINF:-1 ,US : NBA MINNESOTA TIMBERWOLVES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196463
+#EXTINF:-1 ,US : NBA NEW YORK KNICKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196465
+#EXTINF:-1 ,US : NBA TORONTO RAPTORS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196473
+#EXTINF:-1 ,US : NBA TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196474
+#EXTINF:-1 ,US : NBC SPORTS BAY AREA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196478
+#EXTINF:-1 ,US : NBC SPORTS BOSTON
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196480
+#EXTINF:-1 ,US : NBC SPORTS PHILADELPHIA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196484
+#EXTINF:-1 ,US : NESN BOSTON
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196487
+#EXTINF:-1 ,US : NEWS12 LONG ISLAND
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196493
+#EXTINF:-1 ,US : NEWSMAX TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196497
+#EXTINF:-1 ,US : NFL ARIZONA CARDINALS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196501
+#EXTINF:-1 ,US : NFL BALTIMORE RAVENS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196503
+#EXTINF:-1 ,US : NFL BUFFALO BILLS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196504
+#EXTINF:-1 ,US : NFL CAROLINA PANTHERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196505
+#EXTINF:-1 ,US : NFL CHICAGO BEARS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196506
+#EXTINF:-1 ,US : NFL CINCINNATI BENGALS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196507
+#EXTINF:-1 ,US : NFL CLEVELAND BROWNS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196508
+#EXTINF:-1 ,US : NFL DALLAS COWBOYS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196509
+#EXTINF:-1 ,US : NFL DENVER BRONCOS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196510
+#EXTINF:-1 ,US : NFL DETROIT LIONS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196511
+#EXTINF:-1 ,US : NFL GREEN BAY PACKERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196512
+#EXTINF:-1 ,US : NFL HOUSTON TEXANS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196513
+#EXTINF:-1 ,US : NFL INDIANAPOLIS COLTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196514
+#EXTINF:-1 ,US : NFL JACKSONVILLE JAGUARS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196515
+#EXTINF:-1 ,US : NFL KANSAS CITY CHIEFS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196516
+#EXTINF:-1 ,US : NFL LAS VEGAS RAIDERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196517
+#EXTINF:-1 ,US : NFL LOS ANGELES CHARGERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196518
+#EXTINF:-1 ,US : NFL LOS ANGELES RAMS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196519
+#EXTINF:-1 ,US : NFL MIAMI DOLPHINS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196520
+#EXTINF:-1 ,US : NFL MINNESOTA VIKINGS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196521
+#EXTINF:-1 ,US : NFL NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196522
+#EXTINF:-1 ,US : NFL NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196523
+#EXTINF:-1 ,US : NFL NEW ENGLAND PATRIOTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196524
+#EXTINF:-1 ,US : NFL NEW ORLEANS SAINTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196525
+#EXTINF:-1 ,US : NFL NEW YORK GIANTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196526
+#EXTINF:-1 ,US : NFL NEW YORK JETS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196527
+#EXTINF:-1 ,US : NFL PHILADELPHIA EAGLES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196528
+#EXTINF:-1 ,US : NFL PITTSBURGH STEELERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196529
+#EXTINF:-1 ,US : NFL SEATTLE SEAHAWKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196532
+#EXTINF:-1 ,US : NFL TAMPA BAY BUCCANEERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196533
+#EXTINF:-1 ,US : NFL TENNESSEE TITANS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196534
+#EXTINF:-1 ,US : NHL COLORADO AVALANCHE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196543
+#EXTINF:-1 ,US : NHL COLUMBUS BLUE JACKETS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196544
+#EXTINF:-1 ,US : NHL LOS ANGELES KINGS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196549
+#EXTINF:-1 ,US : NHL NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196553
+#EXTINF:-1 ,US : NHL NEW YORK ISLANDERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196556
+#EXTINF:-1 ,US : NHL NEW YORK RANGERS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196557
+#EXTINF:-1 ,US : NHL SAN JOSE SHARKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196561
+#EXTINF:-1 ,US : NHL SEATTLE KRAKEN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196562
+#EXTINF:-1 ,US : NHL TORONTO MAPLE LEAFS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196565
+#EXTINF:-1 ,US : NHL VANCOUVER CANUCKS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196566
+#EXTINF:-1 ,US : NHL VEGAS GOLDEN KNIGHTS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196567
+#EXTINF:-1 ,US : NHL WASHINGTON CAPITALS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196568
+#EXTINF:-1 ,US : NICK JUNIOR FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196570
+#EXTINF:-1 ,US : NICK TOONS FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196571
+#EXTINF:-1 ,US : NICKELODEON EAST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196572
+#EXTINF:-1 ,US : ONE AMERICA NEWS NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196575
+#EXTINF:-1 ,US : OUTDOOR CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196576
+#EXTINF:-1 ,US : OWN FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196581
+#EXTINF:-1 ,US : OXYGEN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196582
+#EXTINF:-1 ,US : PAC 12 ARIZONA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196584
+#EXTINF:-1 ,US : PARAMOUNT NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196599
+#EXTINF:-1 ,US : PBS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196600
+#EXTINF:-1 ,US : REELZ
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196611
+#EXTINF:-1 ,US : RETRO PLEX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196613
+#EXTINF:-1 ,US : RFD TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196616
+#EXTINF:-1 ,US : ROOT SPORTS NORTHWEST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196617
+#EXTINF:-1 ,US : SCREENPIX ACTION
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196620
+#EXTINF:-1 ,US : SCREENPIX VOICES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196621
+#EXTINF:-1 ,US : SCREENPIX WESTERNS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196622
+#EXTINF:-1 ,US : SEC NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196624
+#EXTINF:-1 ,US : SHO X BET
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196625
+#EXTINF:-1 ,US : SHOWTIME 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196626
+#EXTINF:-1 ,US : SHOWTIME 2 FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196627
+#EXTINF:-1 ,US : SHOWTIME EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196628
+#EXTINF:-1 ,US : SHOWTIME EAST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196629
+#EXTINF:-1 ,US : SHOWTIME EXTREME
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196630
+#EXTINF:-1 ,US : SHOWTIME FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196632
+#EXTINF:-1 ,US : SHOWTIME SHOWCASE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196634
+#EXTINF:-1 ,US : SHOWTIME WEST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196636
+#EXTINF:-1 ,US : SHOWTIME WOMEN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196638
+#EXTINF:-1 ,US : SONY MOVIE CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196641
+#EXTINF:-1 ,US : START TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196647
+#EXTINF:-1 ,US : STARZ CINEMA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196648
+#EXTINF:-1 ,US : STARZ CINEMA FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196649
+#EXTINF:-1 ,US : STARZ COMEDY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196650
+#EXTINF:-1 ,US : STARZ EAST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196653
+#EXTINF:-1 ,US : STARZ ENCORE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196656
+#EXTINF:-1 ,US : STARZ ENCORE ACTION FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196658
+#EXTINF:-1 ,US : STARZ ENCORE BLACK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196660
+#EXTINF:-1 ,US : STARZ ENCORE CLASSIC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196661
+#EXTINF:-1 ,US : STARZ ENCORE ESPANOL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196663
+#EXTINF:-1 ,US : STARZ ENCORE FAMILY FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196665
+#EXTINF:-1 ,US : STARZ ENCORE SUSPENSE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196667
+#EXTINF:-1 ,US : STARZ ENCORE SUSPENSE FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196668
+#EXTINF:-1 ,US : STARZ ENCORE WESTERNS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196670
+#EXTINF:-1 ,US : STARZ ENCORE WESTERNS FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196671
+#EXTINF:-1 ,US : STARZ IN BLACK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196674
+#EXTINF:-1 ,US : STARZ KIDS & FAMILY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196675
+#EXTINF:-1 ,US : STARZ WEST FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196678
+#EXTINF:-1 ,US : SUNDANCE TV FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196680
+#EXTINF:-1 ,US : SYFY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196681
+#EXTINF:-1 ,US : TBS FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196686
+#EXTINF:-1 ,US : TEEN NICK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196687
+#EXTINF:-1 ,US : TENNIS CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196688
+#EXTINF:-1 ,US : TENNIS CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196689
+#EXTINF:-1 ,US : THE COWBOY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196690
+#EXTINF:-1 ,US : THE SMITHSONIAN CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196693
+#EXTINF:-1 ,US : THE WEATHER CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196694
+#EXTINF:-1 ,US : THE WEATHER CHANNEL FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196695
+#EXTINF:-1 ,US : THRILLER MAX EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196698
+#EXTINF:-1 ,US : TLC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196699
+#EXTINF:-1 ,US : TLC FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196700
+#EXTINF:-1 ,US : TNT EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196701
+#EXTINF:-1 ,US : TNT FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196702
+#EXTINF:-1 ,US : TRAVEL CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196703
+#EXTINF:-1 ,US : TURNER CLASSIC MOVIES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196707
+#EXTINF:-1 ,US : TURNER CLASSIC MOVIES FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196708
+#EXTINF:-1 ,US : TV LAND
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196709
+#EXTINF:-1 ,US : TV ONE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196711
+#EXTINF:-1 ,US : UFC FIGHT PASS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196715
+#EXTINF:-1 ,US : UNIVERSAL KIDS FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196716
+#EXTINF:-1 ,US : UP
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196717
+#EXTINF:-1 ,US : USA NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196718
+#EXTINF:-1 ,US : USA NETWORK FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196719
+#EXTINF:-1 ,US : VH1 FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196721
+#EXTINF:-1 ,US : VICE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196722
+#EXTINF:-1 ,US : VICELAND FHD 1080
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196723
+#EXTINF:-1 ,US : VICTORY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196724
+#EXTINF:-1 ,US : WE TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196727
+#EXTINF:-1 ,US : WGN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196730
+#EXTINF:-1 ,US : WGN AMERICA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196731
+#EXTINF:-1 ,US : WGN9 CHICAGO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196732
+#EXTINF:-1 ,US : WILLOW CRICKET
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196733
+#EXTINF:-1 ,US : WILLOWXTRA CRICKET
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196734
+#EXTINF:-1 ,US : WNBA DALLAS WINGS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196738
+#EXTINF:-1 ,US : WORLD FISHING NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196747
+#EXTINF:-1 ,US : WWE NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196749
+#EXTINF:-1 ,US : YES NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196750
+#EXTINF:-1 ,US-720 : A&E
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196751
+#EXTINF:-1 ,US-720 : ACC NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196752
+#EXTINF:-1 ,US-720 : ACTION MAX
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196754
+#EXTINF:-1 ,US-720 : AMC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196755
+#EXTINF:-1 ,US-720 : AMERICAN HEROES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196756
+#EXTINF:-1 ,US-720 : BABY FIRST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196761
+#EXTINF:-1 ,US-720 : BBC WORLD NEWS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196763
+#EXTINF:-1 ,US-720 : BET HER
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196765
+#EXTINF:-1 ,US-720 : BRAVO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196768
+#EXTINF:-1 ,US-720 : C-SPAN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196769
+#EXTINF:-1 ,US-720 : CARTOON NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196771
+#EXTINF:-1 ,US-720 : CBS SPORTS NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196772
+#EXTINF:-1 ,US-720 : CHEDDAR BUSINESS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196773
+#EXTINF:-1 ,US-720 : CMT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196775
+#EXTINF:-1 ,US-720 : CNBC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196776
+#EXTINF:-1 ,US-720 : COMEDY CENTRAL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196779
+#EXTINF:-1 ,US-720 : COMEDY TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196780
+#EXTINF:-1 ,US-720 : COOKING CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196781
+#EXTINF:-1 ,US-720 : DESTINATION AMERICA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196783
+#EXTINF:-1 ,US-720 : DISCOVERY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196784
+#EXTINF:-1 ,US-720 : DISCOVERY FAMILY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196785
+#EXTINF:-1 ,US-720 : DISCOVERY LIFE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196786
+#EXTINF:-1 ,US-720 : DISNEY CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196787
+#EXTINF:-1 ,US-720 : DISNEY JUNIOR
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196788
+#EXTINF:-1 ,US-720 : DISNEY XD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196789
+#EXTINF:-1 ,US-720 : ESPN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196791
+#EXTINF:-1 ,US-720 : ESPN U
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196795
+#EXTINF:-1 ,US-720 : FOX NEWS CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196800
+#EXTINF:-1 ,US-720 : FOX SPORTS 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196802
+#EXTINF:-1 ,US-720 : HBO 2 EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196817
+#EXTINF:-1 ,US-720 : HBO EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196818
+#EXTINF:-1 ,US-720 : HDNET MOVIES
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196821
+#EXTINF:-1 ,US-720 : HGTV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196822
+#EXTINF:-1 ,US-720 : HISTORY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196823
+#EXTINF:-1 ,US-720 : HLN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196825
+#EXTINF:-1 ,US-720 : IFC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196827
+#EXTINF:-1 ,US-720 : INVESTIGATION DISCOVERY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196828
+#EXTINF:-1 ,US-720 : JUSTICE CENTRAL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196829
+#EXTINF:-1 ,US-720 : LIFETIME
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196830
+#EXTINF:-1 ,US-720 : MAGNOLIA NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196833
+#EXTINF:-1 ,US-720 : MGM+ MARQUEE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196836
+#EXTINF:-1 ,US-720 : MSNBC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196839
+#EXTINF:-1 ,US-720 : MTV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196840
+#EXTINF:-1 ,US-720 : MTV 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196841
+#EXTINF:-1 ,US-720 : NAT GEO WILD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196843
+#EXTINF:-1 ,US-720 : NATIONAL GEOGRAPHIC CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196844
+#EXTINF:-1 ,US-720 : NBA TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196845
+#EXTINF:-1 ,US-720 : NBC UNIVERSO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196846
+#EXTINF:-1 ,US-720 : ONE AMERICAN NEWS NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196851
+#EXTINF:-1 ,US-720 : OWN
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196853
+#EXTINF:-1 ,US-720 : PARAMOUNT NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196855
+#EXTINF:-1 ,US-720 : SHOWTIME EXTREME
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196867
+#EXTINF:-1 ,US-720 : STARZ ENCORE EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196874
+#EXTINF:-1 ,US-720 : STARZ ENCORE SUSPENSE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196876
+#EXTINF:-1 ,US-720 : STARZ ENCORE WESTERNS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196878
+#EXTINF:-1 ,US-720 : SUNDANCE TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196880
+#EXTINF:-1 ,US-720 : TASTEMADE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196882
+#EXTINF:-1 ,US-720 : TENNIS CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196885
+#EXTINF:-1 ,US-720 : TLC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196887
+#EXTINF:-1 ,US-720 : TNT
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196888
+#EXTINF:-1 ,US-720 : TRAVEL CHANNEL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196889
+#EXTINF:-1 ,US-720 : TRU TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196890
+#EXTINF:-1 ,US-720 : TV LAND
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196893
+#EXTINF:-1 ,US-720 : UNIVISION EAST
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196897
+#EXTINF:-1 ,US-720 : UP
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196898
+#EXTINF:-1 ,US-720 : USA NETWORK
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196899
+#EXTINF:-1 ,US-720 : VICE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196901
+#EXTINF:-1 ,US-720 : WE TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196902
+#EXTINF:-1 ,US: NBC (KCRA California Sacramento)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196915
+#EXTINF:-1 ,US: NBC (KECI) Missoula Montana
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196918
+#EXTINF:-1 ,US: NBC (KING - Seattle WA)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196929
+#EXTINF:-1 ,US: NBC (KSNV - Las Vegas NV)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1196965
+#EXTINF:-1 ,US: NBC (WGRZ - Buffalo NY)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197028
+#EXTINF:-1 ,US: NBC (WMAQ - Chicago IL)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197049
+#EXTINF:-1 ,US: NBC (WMBF) Myrtle Beach South Carolina
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197050
+#EXTINF:-1 ,US: NBC (WOAI San Antonio TX)
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197061
+#EXTINF:-1 ,US: NBC (WRDE) Lewes DE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197074
+#EXTINF:-1 ,US: NBC (WVTM) Birmingham Alabama
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197095
+#EXTINF:-1 ,US: NBC (WVVA) Bluefield WV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197096
+#EXTINF:-1 ,US: NWSL GAME 02
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197104
+#EXTINF:-1 ,US: NWSL GAME 03
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197105
+#EXTINF:-1 ,US: NWSL GAME 04
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197106
+#EXTINF:-1 ,US: NWSL GAME 05
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197107
+#EXTINF:-1 ,ESPNplus 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197341
+#EXTINF:-1 ,ESPNplus 2 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197342
+#EXTINF:-1 ,ESPNplus 3 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1197343
+#EXTINF:-1 ,Amazon UK Europsort XTRA 1 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198633
+#EXTINF:-1 ,Amazon UK Europsort XTRA 2 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198634
+#EXTINF:-1 ,Amazon UK Europsort XTRA 3 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198635
+#EXTINF:-1 ,Amazon UK Europsort XTRA 5 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198637
+#EXTINF:-1 ,Amazon UK Europsort XTRA 6 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198638
+#EXTINF:-1 ,Amazon UK Europsort XTRA 7 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198639
+#EXTINF:-1 ,Amazon UK Europsort XTRA 8 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198640
+#EXTINF:-1 ,Amazon UK Europsort XTRA 9 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198641
+#EXTINF:-1 ,Via Play sports 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198642
+#EXTINF:-1 ,Viaplay Sports 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198643
+#EXTINF:-1 ,LaLiga TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198644
+#EXTINF:-1 ,BoxNation
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198646
+#EXTINF:-1 ,Amazon UK Eurosport 1 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198647
+#EXTINF:-1 ,Amazon UK Eurosport 2 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198648
+#EXTINF:-1 ,Astro Sooka | Arena 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198649
+#EXTINF:-1 ,Astro Sooka | beIN Sports 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198651
+#EXTINF:-1 ,Astro Sooka | beIN Sports 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198652
+#EXTINF:-1 ,Astro Sooka | beIN Sports 3
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198653
+#EXTINF:-1 ,Astro Sooka | Eurosport
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198654
+#EXTINF:-1 ,Astro Sooka | SuperSport 4
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198660
+#EXTINF:-1 ,beIN Sports Premium 3
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198665
+#EXTINF:-1 ,beIN Sports 2
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198666
+#EXTINF:-1 ,beIN Sports 3
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198670
+#EXTINF:-1 ,beIN Sports 1 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198700
+#EXTINF:-1 ,beIN Sports 2 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198701
+#EXTINF:-1 ,beIN Sports 3 FHD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198702
+#EXTINF:-1 ,Event DAZN CA 1 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198705
+#EXTINF:-1 ,Event DAZN CA 3 HD
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198707
+#EXTINF:-1 ,DAZN 01 |
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198717
+#EXTINF:-1 ,DAZN 02 |
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198718
+#EXTINF:-1 ,DAZN UK | Event 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198747
+#EXTINF:-1 ,UK: DAZN 1
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198842
+#EXTINF:-1 ,UAE : AL ARABIYA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198961
+#EXTINF:-1 ,UAE : AL ARABIYA AL HADATH
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198962
+#EXTINF:-1 ,UAE : AL JAZEERA
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198963
+#EXTINF:-1 ,MLS : ATLANTA UNITED
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198995
+#EXTINF:-1 ,MLS : CF MONTREAL
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198997
+#EXTINF:-1 ,MLS : CHICAGO FIRE FC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198999
+#EXTINF:-1 ,MLS : COLORADO RAPIDS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199000
+#EXTINF:-1 ,MLS : COLUMBUS CREW
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199001
+#EXTINF:-1 ,MLS : D.C. UNITED
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199002
+#EXTINF:-1 ,MLS : HOUSTON DYNAMO
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199005
+#EXTINF:-1 ,MLS : INTER MIAMI CF
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199006
+#EXTINF:-1 ,MLS : LA GALAXY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199007
+#EXTINF:-1 ,MLS : MINNESOTA UNITED
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199009
+#EXTINF:-1 ,MLS : NEW YORK RED BULLS
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199013
+#EXTINF:-1 ,MLS : ORLANDO CITY
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199014
+#EXTINF:-1 ,MLS : PHILADELPHIA UNION
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199015
+#EXTINF:-1 ,MLS : REAL SALT LAKE
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199017
+#EXTINF:-1 ,MLS : SEATTLE SOUNDERS FC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199019
+#EXTINF:-1 ,MLS : ST LOUIS CITY SC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199021
+#EXTINF:-1 ,MLS : TORONTO FC
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199022
+#EXTINF:-1 ,RANGERS TV
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/192000
+#EXTINF:-1 ,Clubber 07:
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199339
+#EXTINF:-1 ,Clubber 10:
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199342
+#EXTINF:-1 ,Clubber 17:
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199349
+#EXTINF:-1 ,Clubber 18:
+http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1199350
