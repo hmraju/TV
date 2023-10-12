@@ -95,6 +95,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,AB TV
 http://208.86.19.13:81/501.stream/index.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,CHANNEL EUROUPE
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,ATN Bangla UK
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,ATN Islamic TV,
