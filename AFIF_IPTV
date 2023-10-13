@@ -329,6 +329,10 @@ https://mytime-vizio-ingest.cinedigm.com/playlist288-p.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Family UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Top Free UK
