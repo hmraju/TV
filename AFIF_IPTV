@@ -693,5 +693,55 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Pink Movies
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/1143.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4747.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23290.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO3
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23291.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,FOX
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/4745.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,FOX LIFE
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23266.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR CRIME
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23267.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR MOVIES
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23268.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Cinestar premiere 1
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23270.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Cinestar premiere 2
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23269.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,National Geographic
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23275.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,National Geographic WILD
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23274.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,Discovery Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23278.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,Discovery TLC
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23260.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,Discovery ID
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23277.ts
+#EXTINF:0 group-title="DOCUMANTERY" ,Animal Planet
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/23279.ts
+#EXTINF:0 group-title="MUSIC" ,MTV00s
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/50.ts
+#EXTINF:0 group-title="MUSIC" ,MTV CLUB
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/16759.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Cinemax
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/70.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR Channel
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/178.ts
+#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR MOVIES
+http://ottshow.net:80/live/Dinastija2301/N6SVhfN6SVhf/25990.ts
+
+
+
+
+
+
+
+
 
 
