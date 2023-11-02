@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="Dugdugi Server" ,8XM
 http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Dugdugi Server" ,GAZI TV_D
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 group-title="Dugdugi Server" ,A SPORTS HD
