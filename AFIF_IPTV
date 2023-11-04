@@ -11,6 +11,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,dhamaka movies
+http://183.89.246.119:8881/play/a08m/index.m3u8
 #EXTINF:0 group-title="Dugdugi Server" ,A SPORTS HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NEWS" ,Aaj Tak HD
@@ -167,8 +169,6 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:0 group-title="KIDS" ,CARTOON NETWORK (EAST),
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
-#EXTINF:-1 group-title="KIDS" ,Cartoon Network English,
-http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,CGTN,
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Channel 24
@@ -267,8 +267,6 @@ https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,EUROSPORT 2 HD,
 http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" ,EUROSPORT 2 🇬🇧,
-http://212.102.60.80/Eurosport2/index.m3u8
 #EXTINF:0 group-title="MUSIC" ,Express
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:0 group-title="PAKISTANI 🇵🇰" ,Express Entertainment
@@ -371,8 +369,6 @@ https://juicex.nz/hls/mystream.m3u8
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,KHOSHBO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Khusboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0 group-title="SPORTS" ,KSA SPORTS 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:0 group-title="SPORTS" ,KSA SPORTS 2
@@ -419,17 +415,11 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,Movie Bangla
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8?
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,Movie Sphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist360p.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE 2
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="OTHERS" ,MOVIES RUSSIAN
-http://myott.top/stream/DEKA6YA5JRN/107.m3u8
 #EXTINF:-1 group-title="OTHERS" ,MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:0 group-title="SPORTS" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,My Time Movies
 https://mytime-vizio-ingest.cinedigm.com/playlist288-p.m3u8
