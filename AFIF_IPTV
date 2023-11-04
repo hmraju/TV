@@ -568,9 +568,9 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
-http://89.187.167.92:80/live.ts?channelId=142&deviceUser=jeff1&devicePass=jeff1&uid=21890
+http://tvstar.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/716494.ts
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Main Event
-http://89.187.167.92:80/live.ts?channelId=134&deviceUser=jeff1&devicePass=jeff1&uid=21890
+http://197.26.19.139:8000/Matrix80/Matrix80/428636
 #EXTINF:0 group-title="DOCUMENTARY" ,Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Somoy TV,
@@ -699,3 +699,41 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 http://t16.teracdn.com/live/meemtv/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,রাজধানী-টিভি,
 https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,beIN SPORTS  F HD
+http://197.26.19.139:8000/Matrix80/Matrix80/435857
+#EXTINF:0 group-title="SPORTS" ,SSC 1 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/458050
+#EXTINF:0 group-title="SPORTS" ,SSC 5 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/458051
+#EXTINF:0 group-title="SPORTS" ,Bein sport 2
+http://197.26.19.139:8000/Matrix80/Matrix80/329328
+#EXTINF:0 group-title="ENGLISH MOVIES" ,SKY SELECT 1
+http://197.26.19.139:8000/Matrix80/Matrix80/438718
+#EXTINF:0 group-title="ENGLISH MOVIES" ,SKY SELECT 6
+http://197.26.19.139:8000/Matrix80/Matrix80/438723
+#EXTINF:0 group-title="ENGLISH MOVIES" ,FOX MOVIES ACTION
+http://197.26.19.139:8000/Matrix80/Matrix80/5502
+#EXTINF:0 group-title="HINDI MOVIES" ,MBC Bollywood HD
+http://197.26.19.139:8000/Matrix80/Matrix80/8075
+#EXTINF:0 group-title="ENGLISH MOVIES" ,OSN movie box office 01
+http://197.26.19.139:8000/Matrix80/Matrix80/410239
+#EXTINF:0 group-title="SPORTS" ,SSC 2 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/393180
+#EXTINF:0 group-title="SPORTS" ,SSC 3 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/393181
+#EXTINF:0 group-title="DOCUMENTARY" ,HISTORY 2D
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/44
+#EXTINF:0 group-title="KIDS" ,Cartoon Network HD
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/30588
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AMC HD
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/30571
+#EXTINF:0 group-title="ENGLISH MOVIES" ,A&E HD
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/30566
+#EXTINF:0 group-title="ENGLISH MOVIES" ,BRAVO
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/30579
+#EXTINF:0 group-title="DOCUMENTARY" ,DISCOVERY Science
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/30639
+#EXTINF:0 group-title="SPORTS" ,SuperSport Cricket
+http://tvstar.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/716489.ts
+#EXTINF:0 group-title="SPORTS" ,Willow Cricket HD
+http://tvstar.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/716493.ts
