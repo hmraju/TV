@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,MASRANGA TV
 http://rayantv.org:80/play/live.php?mac=00:1A:79:38:35:54&stream=165513&extension=ts&play_token=UrP7P9nZet
+#EXTINF:-1 ,STAR SPORTS 1HD
+http://bandookk.xyz:80/Geniptv/4iWADUEpaH/1460
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
 #EXTINF:-1 ,ATN Bangla Ch-2
