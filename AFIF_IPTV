@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
-https://raw.githubusercontent.com/hmraju/TV/main/Afif%20IPTV.m3u8
+
 #EXTINF:-1 group-title="BANGLA" ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:0 group-title="BANGLA" ,CHANNEL 24 HD
