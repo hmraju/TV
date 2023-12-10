@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" ,T-Sports [3]
 http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,CHANNEL S
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 1
 http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:-1 ,Sports 4
