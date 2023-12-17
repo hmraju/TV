@@ -827,3 +827,6 @@ https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIE" ,AMC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=3053e2d1-b24b-4567-8093-8b28d8a46194&userId=&serverSideAds=true
+
