@@ -817,3 +817,5 @@ https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:0 group-title="HINDI SONGS" ,HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
