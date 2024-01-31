@@ -330,7 +330,7 @@ https://ythlsgo.onrender.com/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,Ishara TV
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,SONY HD
-http://45.5.117.182:8000/play/a0i3/index.m3u8
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71326&extension=ts
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,ZEE ANMOL
 http://208.86.19.13:81/720.stream/index.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,ZEE TV
@@ -801,3 +801,75 @@ http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+
+#EXTINF:0 group-title="ENGLISH" ,MTV UHD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71356&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,PICK FHD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71325&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,HorrorXtra SD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71310&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,MTV 80S
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229514&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,MTV MUSIC
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229517&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,MTV HITZ
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=256206&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,MTV LIVE USA
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229524&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Utsav Plus SD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229329&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Utsav GOLD SD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229328&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Utsav GOLD FHD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229327&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,B4U Movies UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71668&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,B4U MUSIC UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71667&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Star Plus UHD UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71666&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Star Gold UHD UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71663&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Star Gold UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71662&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Sony TV UHD UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71661&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY SAB UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71659&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY MAX UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71657&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY MAX2 UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71656&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Colors UHD UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71655&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Colors UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71654&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,Colors Cineplex UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71652&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,ZEE TV HD UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71651&extension=ts
+#EXTINF:0 group-title="HINDI ENTERTENMENT" ,ZEE CINEMA UK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71649&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,Paramount HD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=327331&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- A & E FHD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72027&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- TLC CHANNEL
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71971&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- UNIVERSAL HD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71970&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- HBO
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72061&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- HBO SIGNATURE
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72060&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- HBO HD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72057&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- HALLMARK MOVIES & MYSTERIES HD
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72051&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,USA- HALLMARK
+http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72050&extension=ts
+
+
+
+
