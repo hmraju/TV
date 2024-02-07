@@ -223,6 +223,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61344
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62824
 #EXTINF:0 group-title="DOCUMENTARY" ,Discovery Theater
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62823
+#EXTINF:0 group-title="DOCUMENTARY" ,Travel XP IN
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Love Nature 4k
@@ -233,6 +235,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,4 Adventure
+https://lnc-4adventure.tubi.video/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,BBC Earth 
+https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Outside TV Plus
@@ -243,6 +249,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Tastemade Australia
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,TLC
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62698
 #EXTINF:0 group-title="DOCUMENTARY" ,TLC-1
@@ -401,6 +409,8 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:0 group-title="INDIAN OTHERS" ,MNTV Music
 https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:0 group-title="INDIAN OTHERS" ,Shubh TV
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 #EXTINF:0 group-title="INDIAN OTHERS" ,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="INDIAN OTHERS" ,PTC Chakde
@@ -493,6 +503,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62726
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62670
 #EXTINF:0 group-title="MOVIES" ,WB TV
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61355
+#EXTINF:0 group-title="MUSIC" ,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 group-title="MUSIC" ,BALKANIKA MLADJAN
 http://xtream.supermagicx.com:25461/skyspeed5/tE877KrS1y/27
 #EXTINF:0 group-title="MUSIC" ,Euro Indie Music Chart TV
@@ -535,10 +547,14 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 group-title="NEWS" ,DD INDIA
 https://ythlsgo.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF:0 group-title="NEWS" ,WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:0 group-title="NEWS" ,DD NEWS
 https://ythlsgo.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:0 group-title="NEWS" ,ERT World
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0 group-title="NEWS" ,Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" ,ETNow
 https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
 #EXTINF:-1 group-title="NEWS" ,HIGH NEWS
@@ -633,6 +649,8 @@ https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
 #EXTINF:-1 group-title="PAKISTAN" ,Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN" ,Geo Kahani
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:0 group-title="PAKISTAN" ,GNN HD
 https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
 #EXTINF:-1 group-title="PAKISTAN" ,Hope Channel India
@@ -717,6 +735,8 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:0 group-title="SPORTS" ,KSA SPORTS 4
 https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:0 group-title="SPORTS" ,BeIN SPORTS XTRA
+https://lnc-bein.tubi.video/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,MAQ TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 group-title="SPORTS" ,MATH CTPAHA 🇷🇺,
@@ -801,8 +821,12 @@ http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-
-
+#EXTINF:0 group-title="SPORTS" ,MAV TV
+https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,FUEL TV 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:0 group-title="ENGLISH" ,MTV Europe 
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
 #EXTINF:0 group-title="ENGLISH" ,MTV UHD
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71356&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,PICK FHD
@@ -871,5 +895,50 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72051&extension=ts
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72050&extension=ts
 #EXTINF:0 group-title="BANGLA_JAGO" ,AL JAZEERA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
+#EXTINF:0 group-title="MOVIE" ,Hala London TV 
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8
+#EXTINF:0 group-title="MOVIE" ,Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0 group-title="OTHERS" ,Novela Channel
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:0 group-title="MOVIE" ,Electric Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:0 group-title="MOVIE" ,Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Game Show Network East
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,iHeart 80s 
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,iHeart 90s 
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:0 group-title="ENGLISH" ,ION PLUS
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:0 group-title="KIDS" ,Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,Pluto TV MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 group-title="MUSIC" ,Pluto TV MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 group-title="MOVIE" ,Sony Movies 
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 1 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+#EXTINF:0 group-title="MOVIE" ,My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:0 group-title="MOVIE" ,My Cinema ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+
+
+
+
 
 
