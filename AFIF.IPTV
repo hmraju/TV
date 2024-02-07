@@ -869,7 +869,7 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72057&extension=ts
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72051&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,USA- HALLMARK
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72050&extension=ts
-
-
+#EXTINF:0 group-title="BANGLA_JAGO" ,AL JAZEERA
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
 
 
