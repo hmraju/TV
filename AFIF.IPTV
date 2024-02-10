@@ -937,8 +937,7 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 SPAIN
-#EXTINF:-1 group-title="News" tvg-id="324.es" tvg-logo="https://i.imgur.com/l6NzX2t.png" ,3/24 (1080p)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
 #EXTINF:-1 group-title="Undefined" tvg-id="La7.es" tvg-logo="https://i.imgur.com/cKHpsfI.png" ,7 Televisión Región de Murcia (1080p)
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-id="101tvAntequera.es" tvg-logo="https://i.imgur.com/GzI3RC4.png" ,101tv Antequera (1080p)
