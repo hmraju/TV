@@ -1,18 +1,52 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
-#EXTINF:-1 group-title="BANGLA" ,NAGORIK TV HD
-http://pgplex.net:8080/NagorikTV/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DURANTA TV
+http://103.151.60.214:7444/1103/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DBC NEWS HD
+http://103.151.60.214:7444/1104/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DIPTO TV HD
+http://103.151.60.214:7444/1105/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,JAMUNA TV
+http://103.151.60.214:7444/1106/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,INDEPENDENT TV
+http://103.151.60.214:7444/1107/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,GAAN BANGLA
+http://103.151.60.214:7444/1110/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,SOMOY TV BD
+http://103.151.60.214:7444/1111/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,BTV
+http://103.151.60.214:7444/1114/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,BANGLA TV HD
+http://103.151.60.214:7444/1116/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,CHANNEL 24 HD
+http://103.151.60.214:7444/1119/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MASRANGA TV HD
+http://103.151.60.214:7444/1122/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,BANGLAVISION TV
+http://103.151.60.214:7444/1125/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,RTV HD
+http://103.151.60.214:7444/1128/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MY TV HD
+http://103.151.60.214:7444/1132/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,SA TV HD
+http://103.151.60.214:7444/1133/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ATN NEWS HD
+http://103.151.60.214:7444/1134/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,71 NEWS HD
+http://103.151.60.214:7444/1136/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ATN BANGLA HD
+http://103.151.60.214:7444/1126/video.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ATN News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="BANGLA" ,BANGLA TV
 https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BOISHAKHI TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="BANGLA" ,Gazi TV
-http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/98.m3u8
-#EXTINF:-1 group-title="BANGLA" ,GAZI TV_HD
-http://38.96.178.201/live/GaziTV/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MOHONA TV HD
+http://103.151.60.214:7444/1123/video.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DESH TV
+http://103.151.60.214:7444/1121/video.m3u8
 #EXTINF:-1 group-title="BANGLA" ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 group-title="BANGLA" ,Deepto TV
@@ -30,7 +64,7 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:0 group-title="BANGLA" ,SOMOY TV
 https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" ,T Sports(BD)
-http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
+http://103.151.60.214:7444/1101/video.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,AB TV
 http://208.86.19.13:81/501.stream/index.m3u8
@@ -60,8 +94,8 @@ http://208.86.19.13:81/509.stream/index.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,MEEM TV
 http://208.86.19.13:81/502.stream/index.m3u8
-#EXTINF:0 group-title="BANGLA IPTV" ,Millennium TV USA
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA" ,CHANNEL 9 HD
+http://103.151.60.214:7444/1124/video.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" ,NANDAN Official
@@ -91,6 +125,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 group-title="BANGLA_JAGO" ,AMAR BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA_JAGO" ,Ananda TV
+http://103.151.60.214:7444/1117/video.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA_JAGO" ,ATN Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
@@ -106,9 +141,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA_JAGO" ,BANGLAVISION
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:0 group-title="BANGLA_JAGO" ,BANGLAVISION
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA_JAGO" ,BIJOY TV
+#EXTINF:0 group-title="BANGLA_JAGO" ,BOISHAKHI TV HD
+http://103.151.60.214:7444/1118/video.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA_JAGO" ,BIJOY TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
