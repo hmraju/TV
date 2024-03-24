@@ -1,14 +1,50 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
+#EXTINF:-1 group-title="BANGLA" ,T SPORTS HD
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,GAZI TV HD
+http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,TEST 
+http://114.130.96.165:8080/1103/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,INDEPENDENT TV
+http://114.130.96.165:8080/1107/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,GAAN BANGLA
+http://114.130.96.165:8080/1110/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,NAGORIK TV
+http://114.130.96.165:8080/1113/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,B TV
+http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ANANDA TV
+http://114.130.96.165:8080/1117/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DESH TV SD
+http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MASRANGA TV HD
+http://114.130.96.165:8080/1122/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,CHANNEL 9
+http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,BTV WORLD
+http://114.130.96.165:8080/1127/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MY TV
+http://114.130.96.165:8080/1132/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ATN NEWS HD
+http://114.130.96.165:8080/1134/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,NTV
+http://114.130.96.165:8080/1135/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,71 TV
+http://114.130.96.165:8080/1136/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,ASIAN TV
+http://114.130.96.165:8080/1139/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ATN News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="BANGLA" ,BOISHAKHI TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="BANGLA" ,CHANNEL I
-http://208.86.19.13:81/510.stream/index.m3u8?
+http://208.86.19.13:81/510.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DESH TV
+http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Deepto TV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+http://114.130.96.165:8080/1105/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="BANGLA" ,Ekattor TV
 https://ythlsgo.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Ekushay TV
@@ -900,7 +936,7 @@ https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publis
 #EXTINF:0 group-title="SPORTS" ,Sharjah Sports HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Sky Sports Cricket
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/68561
+https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SKY SPORTS GOLF
 http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 group-title="SPORTS" ,SKY SPORTS NEWS
