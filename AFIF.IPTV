@@ -299,8 +299,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:0 group-title="ENGISH" ,Bounty
-https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGISH" ,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGISH" ,EWTN
@@ -333,8 +331,6 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x7
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 #EXTINF:0 group-title="ENGLISH" ,MTV 80S
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229514&extension=ts
-#EXTINF:0 group-title="ENGLISH" ,MTV Europe
-http://37.18.239.36:8888/MTV_Adria/index.m3u8
 #EXTINF:0 group-title="ENGLISH" ,MTV HITZ
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=256206&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,MTV LIVE USA
@@ -345,8 +341,6 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=229517&extension=ts
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71356&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,Paramount HD
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=327331&extension=ts
-#EXTINF:0 group-title="ENGLISH" ,PICK FHD
-http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71325&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,USA- A & E FHD
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72027&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,USA- HALLMARK
@@ -367,10 +361,6 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71970&extension=ts
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/57173
 #EXTINF:0 group-title="ENGLISH MOVIE" ,Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIE" ,Star Family HD
-http://89.254.128.5:22280/star_family_hd/video.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIE" ,Starz Encore East
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58556
 #EXTINF:0 group-title="ENGLISH MOVIE" ,TNT HD
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58560
 #EXTINF:0 group-title="ENGLISH MOVIES" ,AVA FAMILY
@@ -385,8 +375,6 @@ https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE 2
@@ -401,10 +389,6 @@ https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten TV
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/1200.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,STAR MOVIES HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:0 group-title="HINDI ENTERTENMENT" ,AND TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,B4U Movies UK
@@ -467,16 +451,10 @@ https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY.MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,STAR-GOLD-HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,STAR-GOLD-SELECT-HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:0 group-title="HINDI MOVIES" ,ZEE CINEMA HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9x Jalwa
 http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9x Tashan
@@ -497,30 +475,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,COLORS BANGLA HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,DD Bangla
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff,,
 #EXTINF:0 group-title="INDIAN BANGLA" ,KHOSHBO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,R BANGLA
 https://ottrbng2.republicworld.com/live/rbanglatv/chunklist_2.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Star Jalsha(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,SUN BANGLA
-http://148.113.5.31:8106/play/a00z/index.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,TARA BANGLA CINEMA
-http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,Zee Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,ZEE BANGLA CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" ,ZEE BANGLA SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,Canada One
@@ -607,20 +567,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:0 group-title="MOVIE" ,Electric Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
-#EXTINF:0 group-title="MOVIE" ,Film Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:0 group-title="MOVIE" ,Hala London TV
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8
-#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 1
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 2
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,MOVIES WORLD 3
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,My Cinema ASIA
-http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:0 group-title="MOVIE" ,Sony Movies
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:0 group-title="MOVIES" ,Action Hollywood Movies
@@ -849,8 +795,6 @@ http://xtream.supermagicx.com:25461/skyspeed5/tE877KrS1y/144
 http://xtream.supermagicx.com:25461/skyspeed5/tE877KrS1y/140
 #EXTINF:-1 group-title="SPORTS" ,ASTRAK RUS HD 🇷🇺,
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 group-title="SPORTS" ,ATG1,
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Aysh Sport
@@ -859,8 +803,6 @@ https://stream.live12.ir/hls2/persiana.m3u8
 https://lnc-bein.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CNBC SPORTS
 http://208.86.19.13:81/102.stream/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Dubai Sports 2
@@ -941,8 +883,6 @@ https://catowrap.live/mrgamingcric.m3u8
 http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 group-title="SPORTS" ,SKY SPORTS NEWS
 http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:0 group-title="SPORTS" ,Sony Sports 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sports e1
@@ -951,12 +891,6 @@ https://sportsleading.online/live/stream_e1.m3u8
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="SPORTS" ,SPORTS TV 1
 http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Star sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:0 group-title="SPORTS" ,Star Sports 2
-http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TELEDEPORTE 🇪🇸
@@ -989,8 +923,6 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8,
 #EXTINF:0 group-title="SPORTS" ,Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:0 group-title="SPORTS" ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
