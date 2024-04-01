@@ -12,7 +12,7 @@ http://114.130.96.165:8080/1107/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,GAAN BANGLA
 http://114.130.96.165:8080/1110/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,NAGORIK TV
-http://114.130.96.165:8080/1113/tracks-v1a1/index.m3u8
+http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,B TV
 http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ANANDA TV
@@ -42,7 +42,7 @@ http://114.130.96.165:8080/1135/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,71 TV
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ASIAN TV
-http://114.130.96.165:8080/1139/tracks-v1a1/index.m3u8
+http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,ATN News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
@@ -52,7 +52,7 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="BANGLA" ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,DESH TV
-http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
+http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Deepto TV
 http://114.130.96.165:8080/1105/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="BANGLA" ,Ekattor TV
