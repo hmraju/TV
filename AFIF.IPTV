@@ -155,6 +155,8 @@ http://45.65.112.206:8000/play/a07d
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Animal Planet HD
 http://204.199.119.6:1012/play/a01c
+#EXTINF:0 group-title="DOCUMENTARY" ,ANIMAL PLANET HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220232
 #EXTINF:-1 group-title="DOCUMENTARY" ,ANIMAL PLANET,
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,BBC Earth
@@ -165,18 +167,32 @@ http://live.cgtn.com/500/prog_index.m3u8
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,DISCOVERY CHANNEL HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220226
 #EXTINF:0 group-title="DOCUMENTARY" ,Discovery H&H HD
 http://204.199.119.6:1012/play/a04p
+#EXTINF:0 group-title="DOCUMENTARY" ,DISCOVERY SCIENCE HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220227
 #EXTINF:0 group-title="DOCUMENTARY" ,Discovery Turbo
 http://204.199.119.6:1012/play/a01y
 #EXTINF:0 group-title="DOCUMENTARY" ,EXPLORE
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,FOOD NETWORK HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220122
 #EXTINF:0 group-title="DOCUMENTARY" ,Game Show Network East
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,HISTORY
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/44
+#EXTINF:0 group-title="DOCUMENTARY" ,HISTORY CHANNEL 2 HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220223
+#EXTINF:0 group-title="DOCUMENTARY" ,HISTORY CHANNEL HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220222
 #EXTINF:-1 group-title="DOCUMENTARY" ,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,INVESTIGATION DISCOVERY HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220221
 #EXTINF:0 group-title="DOCUMENTARY" ,Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Love Nature HD
@@ -187,6 +203,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,NAT GEO HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220230
 #EXTINF:0 group-title="DOCUMENTARY" ,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Outside TV Plus
@@ -197,6 +215,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,TLC
 http://204.199.119.6:1012/play/a02b
+#EXTINF:0 group-title="DOCUMENTARY" ,TLC
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220116
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP IN
@@ -211,6 +231,12 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,BBC AMERICA HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220438
+#EXTINF:0 group-title="ENGLISH" ,BET EAST HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220119
+#EXTINF:0 group-title="ENGLISH" ,BRAVO FHD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220084
 #EXTINF:0 group-title="ENGLISH" ,C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Dubai One (English)
@@ -221,12 +247,16 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 #EXTINF:0 group-title="ENGLISH" ,GustoTV
 https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,HALLMARK CHANNEL
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220117
 #EXTINF:0 group-title="ENGLISH" ,HorrorXtra SD
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71310&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,ION
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:0 group-title="ENGLISH" ,ION PLUS
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:0 group-title="ENGLISH" ,LIFETIME HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220124
 #EXTINF:0 group-title="ENGLISH" ,Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Local Now Family Flix
@@ -259,6 +289,8 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72057&extension=ts
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=72060&extension=ts
 #EXTINF:0 group-title="ENGLISH" ,USA- TLC CHANNEL
 http://dns20.xyz/play/live.php?mac=00:1A:79:6E:7B:F8&stream=71971&extension=ts
+#EXTINF:0 group-title="ENGLISH" ,VH1 HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220129
 #EXTINF:0 group-title="ENGLISH MOVIE" ,Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIE" ,MBC 2
@@ -275,16 +307,28 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,CINEMAX ACTION HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220467
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,GROVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/345
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO 2 FHD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220497
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO FHD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220494
+#EXTINF:0 group-title="ENGLISH MOVIES" ,HBO SIGNATURE EAST HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220501
 #EXTINF:0 group-title="ENGLISH MOVIES" ,ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE 2
 https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,PARAMOUNT HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220225
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Family UK
@@ -295,6 +339,10 @@ https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten TV
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,SONY CHANNEL
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/101
+#EXTINF:0 group-title="ENGLISH MOVIES" ,TNT
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220130
 #EXTINF:-1 group-title="HINDI ENTERTENMENT" ,Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,B4U Movies UK
@@ -439,12 +487,22 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 group-title="ISLAMIC" ,Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="KIDS" ,BABY FIRST
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/167
 #EXTINF:0 group-title="KIDS" ,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0 group-title="KIDS" ,CARTOON NETWORK
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/169
 #EXTINF:-1 group-title="KIDS" ,Cartoon Network English,
 http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:0 group-title="KIDS" ,CARTOONITO
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/168
 #EXTINF:0 group-title="KIDS" ,Discovery Kids HD
 http://204.199.119.6:1012/play/a00t
+#EXTINF:0 group-title="KIDS" ,DISCOVERY KIDS HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/170
+#EXTINF:0 group-title="KIDS" ,DISNEY CHANNEL
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/171
 #EXTINF:0 group-title="KIDS" ,Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:0 group-title="KIDS" ,Kartoon Channel
@@ -465,6 +523,8 @@ http://204.199.119.6:1012/play/a00w
 http://204.199.119.6:1012/play/a03e
 #EXTINF:0 group-title="MOVIES" ,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,AMC
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/103
 #EXTINF:0 group-title="MOVIES" ,CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
 #EXTINF:0 group-title="MOVIES" ,Cine Sureño
@@ -477,6 +537,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/1200.m3u8
 #EXTINF:-1 group-title="MOVIES" ,SONY
 http://45.5.117.182:8000/play/a0ho/index.m3u8
+#EXTINF:0 group-title="MOVIES" ,UNIVERSAL CHANNEL
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/359
 #EXTINF:0 group-title="MUSIC" ,2TV
 http://78.62.37.218:9981/stream/channelid/2144010457?profile=pass
 #EXTINF:0 group-title="MUSIC" ,Afrobeats
@@ -505,12 +567,18 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
 #EXTINF:0 group-title="NEWS" ,Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:0 group-title="NEWS" ,BBC WORLD NEWS HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220436
 #EXTINF:0 group-title="NEWS" ,BBC World News South Asia
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="NEWS" ,BBC World News,
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 group-title="NEWS" ,CBS NEWS HD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220439
 #EXTINF:0 group-title="NEWS" ,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 group-title="NEWS" ,CNN INTERNATIONAL FHD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220428
 #EXTINF:0 group-title="NEWS" ,DD INDIA
 https://ythlsgo.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:0 group-title="NEWS" ,DD NEWS
@@ -645,6 +713,8 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://stream.live12.ir/hls2/persiana.m3u8
 #EXTINF:0 group-title="SPORTS" ,BeIN SPORTS XTRA
 https://lnc-bein.tubi.video/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,CNBC
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/220430
 #EXTINF:-1 group-title="SPORTS" ,CNBC SPORTS
 http://208.86.19.13:81/102.stream/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Dubai Sports 1
@@ -659,6 +729,8 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,Euro Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Eurosport 1 SD
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/233286
 #EXTINF:0 group-title="SPORTS" ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="SPORTS" ,FOX SPORTS
@@ -697,6 +769,8 @@ http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=ale
 http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 group-title="SPORTS" ,SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sports Premier League 01
+http://restreamus.com:8080/Cambiotodoplus/w84fLZEtDQud/27874
 #EXTINF:-1 group-title="SPORTS" ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="SPORTS" ,TELEDEPORTE 🇪🇸
