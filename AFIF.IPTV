@@ -639,6 +639,8 @@ https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Supper Sports Cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,TIGO SPORTS
