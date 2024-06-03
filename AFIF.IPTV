@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:16,Germany vs Ukraine
+https://a2uy.short.gy/GER-V-UKR/Join-@HimelOP_Official/Zubayer-Op.m3u8
+#EXTINF:0,England vs Bosnia
+https://a2uy.short.gy/ENG-V-BOS/Join-@HimelOP_Official/Zubayer-Op.m3u8
+#EXTINF:0,Albania vs Liechtenstein
+https://a2uy.short.gy/ALB-V-LIE/Join-@HimelOP_Official/Zubayer-Op.m3u8
+#EXTINF:0,Croatia vs North Macedonia 
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+#EXTINF:0,GIB V SCO
+https://a2uy.short.gy/GIB-V-SCO/Join-@HimelOP_Official/Zubayer-Op.m3u8
+#EXTINF:40,Toffee EN Only Ns Player 
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
+#EXTINF:0,Toffee BN Only Ns Player
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+#EXTINF:15,Super Sport Cricket 
+http://public.iptv18.tech/smart.php?id=12167
+#EXTINF:0,Star Sports 1 HD
+http://public.iptv18.tech/smart.php?id=12148
+#EXTINF:0,Star Sports 1 Hindi HD
+http://public.iptv18.tech/smart.php?id=12149
+#EXTINF:0,Willow Cricket HD
+http://public.iptv18.tech/smart.php?id=10516
+#EXTINF:0,Willow Cricket FHD
+http://public.iptv18.tech/smart.php?id=2084
+#EXTINF:0,Sky Cricket HD
+http://public.iptv18.tech/push.php?id=5770
+#EXTINF:0,Sky Cricket FHD
+http://public.iptv18.tech/push.php?id=23946
+#EXTINF:0,Astro Cricket 
+http://public.iptv18.tech/smart.php?id=12141
+#EXTINF:0,Fox Cricket HD
+http://public.iptv18.tech/push.php?id=24016
+#EXTINF:0,Star Sports 1 HD 2
+http://public.iptv18.tech/push.php?id=22149
+
+#EXTINF:0 group-title="SPORTS" ,AstroCricket
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:0 group-title="PAKISTAN" ,24 NEWS PK
 https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
 #EXTINF:0 group-title="MUSIC" ,2TV
