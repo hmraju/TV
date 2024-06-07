@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 group-title="BANGLA IPTV" ,ATN MUSIC
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,STAR JALSHA
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,COLORS BANGLA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,ANIMAL PLANET HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:0 ,Fox Cricket HD
 http://public.iptv18.tech/push.php?id=24016
 #EXTINF:0 ,Sky Cricket FHD
