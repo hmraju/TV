@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="HINDI MUSIC" ,E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,MASTIIII
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,RTV MUSIC
