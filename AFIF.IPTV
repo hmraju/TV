@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 group-title="HINDI MUSIC" ,E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,MASTIIII
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" ,RTV MUSIC
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:0 group-title="BANGLA" ,EKHON HD
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:0 group-title="BANGLA" ,EKATTOR TV HD
