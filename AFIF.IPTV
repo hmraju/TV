@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="BANGLA" ,EKATTOR TV HD
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" ,ATN MUSIC
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,STAR JALSHA
