@@ -19,18 +19,18 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,ANIMAL PLANET HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:0 ,Fox Cricket HD
-http://public.iptv18.tech/push.php?id=24016
-#EXTINF:0 ,Sky Cricket FHD
-http://public.iptv18.tech/push.php?id=23946
-#EXTINF:0 ,Sky Cricket HD
-http://public.iptv18.tech/push.php?id=5770
-#EXTINF:0 ,Star Sports 1 HD
-http://public.iptv18.tech/smart.php?id=12148
-#EXTINF:0 ,Star Sports 1 HD 2
-http://public.iptv18.tech/push.php?id=22149
-#EXTINF:0 ,Star Sports 1 Hindi HD
-http://public.iptv18.tech/smart.php?id=12149
+#EXTINF:0 ,WILLOW EXTRA
+https://mm5-97.tinyuri.org/live/m4-index.m3u8 
+#EXTINF:0 ,Super Sports Grandstand
+http://145.239.5.177:8080/567/index.m3u8
+#EXTINF:0 ,Sky Sports HD
+http://9veyn1bt.otttv.pw/iptv/M9SZURBGLS597E/7343/index.m3u8
+#EXTINF:0 ,Sport TV
+http://179.124.14.153:8080/19/index.m3u8
+#EXTINF:0 ,TVMAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:0 ,NAGORIK TV HD
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=G6wwq6mQVigb2OdjOr1p7g&expires=1719489901&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:15 ,Super Sport Cricket
 http://public.iptv18.tech/smart.php?id=12167
 #EXTINF:0 ,Willow Cricket FHD
