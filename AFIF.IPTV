@@ -297,6 +297,8 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:0 group-title="MUSIC" ,Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,BBC NEWS
+https://list.iptvcat.com/my_list/s/e42ce3479c971b25bcaf441d8a81b3a3.m3u8
 #EXTINF:0 group-title="MUSIC" ,Vevo Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" ,Aaj Tak HD
