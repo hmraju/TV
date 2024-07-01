@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="INDIAN BANGLA" ,Zee Bangla Cinema
+https://dai.google.com/ssai/event/MQ737atmSaWzYp63efXNTQ/master.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,JOO MUSIC
