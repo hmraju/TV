@@ -3,6 +3,8 @@
 https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
 #EXTINF:-1 group-title="SPORTS" ,VTC COPA AMERICA
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:-1 group-title="SPORTS" ,SONY LIV
+https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 group-title="BANGLA" ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:0 group-title="BANGLA" ,EKATTOR TV HD
