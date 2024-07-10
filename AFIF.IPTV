@@ -766,5 +766,26 @@ http://iptv.prosto.tv:7000/ch117/video.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 group-title="OTHERS" ,Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:0 group-title="OTHERS" ,Italia 2 TV
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,MAV Select CANADA
+https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,SUPPER SIX
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,Family – Rakuten TV
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0 group-title="OTHERS" ,Afriwood Series
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,MovieBox 
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:0 group-title="MOVIES" ,Sky open 
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+
+
+
+
+
 
 
