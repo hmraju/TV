@@ -782,10 +782,10 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:0 group-title="MOVIES" ,Sky open 
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-
-
-
-
-
-
+#EXTINF:0 group-title="MUSIC" ,MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,KIDS – Rakuten TV
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
