@@ -762,3 +762,9 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 group-title="SPORTS" ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:0 group-title="OTHERS" ,STAR TVE
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0 group-title="OTHERS" ,Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+
+
