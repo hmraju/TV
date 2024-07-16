@@ -1,6 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFIF IPTV" ,AFIF IPTV
 https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 2 HD
+https://test-tan-iota-90.vercel.app/playlist.m3u
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR PLUS HD
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY SUB HD
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 2 SELECT HD
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="SPORTS" ,SONY SPORTS 2 HD
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY SET HD
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR BHARAT HD
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="SPORTS" ,SONY SPORTS 5 HD
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="SPORTS" ,SPORTS 18 HD
+http://103.120.172.74:5500
+#EXTINF:-1 group-title="BANGLA IPTV" ,AAMAR DIGITAL
+#EXTINF:-1 group-title="BANGLA" ,CHANNEL 24 HD
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DBC NEWS HD
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 group-title="BANGLA" ,EKATTOR TV HD
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain" ,ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_24.jpg" ,Channel 24
