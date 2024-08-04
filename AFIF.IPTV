@@ -6,7 +6,12 @@ https://test-tan-iota-90.vercel.app/playlist.m3u
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR PLUS HD
 http://103.120.172.74:4300
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY SUB HD
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab-hd/index.ts
 http://103.120.172.74:4400
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY PAL
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pal/index.ts
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY WAH
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
 #EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 group-title="SPORTS" ,STAR SPORTS 2 SELECT HD
