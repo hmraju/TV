@@ -163,8 +163,6 @@ http://208.86.19.13:81/510.stream/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/ekushey-tv.jpg" ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/gazitv.jpg" ,Gazi Tv 1
-http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:0 group-title="BANGLA" ,JAMUNA TV
 http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg" ,Maasranga HD
