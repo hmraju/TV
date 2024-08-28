@@ -4,9 +4,15 @@ https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,AKHON
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,ANANDA TV
+https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,ANANDA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c1/Asian_TV_logo.png/revision/latest?cb=20210904044845" ,ASIAN TV HD
+https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c1/Asian_TV_logo.png/revision/latest?cb=20210904044845" ,ASIAN TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" ,ATN BANGLA HD
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" ,ATN BANGLA HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://image.ghuddi.tv/uploads/images/2023/12/21/tv_covers_4062f694e7d8174bf13464efbc16f135_goplay_atn_news_1920_x_1080.png" ,ATN NEWS HD
@@ -18,13 +24,19 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=3613423
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" ,BANGLADESH TELEVISION
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png" ,BANGLAVISION
+https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png" ,BANGLAVISION
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" ,BIJOY TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/300px-Boishakhi_TV_logo.svg.png" ,BOISHAKHI TV HD
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/300px-Boishakhi_TV_logo.svg.png" ,BOISHAKHI TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,BTV WORLD
 http://172.105.123.238:18002/play/a038
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" ,CHANNEL 24 HD
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" ,CHANNEL 24 HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ch5.jpg" ,CHANNEL 5
@@ -36,13 +48,21 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/chunklist_w2008551549
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O5LC9Y6RGzEvy5Jyawf2uqRNfbV_H4K79w&s" ,CHANNEL S HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" ,DBC NEWS HD
+https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" ,DBC NEWS HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DEEPTO TV HD
+https://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,DESH TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" ,Ekattor TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png" ,Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png" ,EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png" ,Ekushey TV JagoBD
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI0IDY6NDE6MzQgQU0maGFzaF92YWx1ZT0walRJaml1RnJ3MDZqUmY3MnZveGVnPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/ekushey-tv.jpg" ,Ekushey TV_BDIX
@@ -60,25 +80,37 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg" ,Jago News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" ,JAMUNA TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" ,JAMUNA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg" ,Maasranga HD
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/300px-Mohona_tv_Logo.svg.png" ,MOHONA TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/live-orgin/Mohona-g.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MY TV HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MY TV HD
+https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MY TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,NEXUS TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV HD
+https://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png" ,SA TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/300px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,SOMOY NEWS
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/300px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,SOMOY NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x13834" ,AB TV USA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/12/atnbanglalogo.jpg" ,ATN BANGLA UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" ,ATN BANGLA UK
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x13834" ,ATN ISLAMIC
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.atnmusictv.com/images/logo.png" ,ATN MUSIC
@@ -121,6 +153,8 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://nantvbd.com/wp-content/uploads/2023/09/NAN-TV-41.png" ,NAN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://i0.wp.com/nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy-1024x402-1.png?resize=1024%2C402&ssl=1" ,NOBANNO TV
+https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png" ,NRB TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png" ,NRB TV CANADA
@@ -147,6 +181,304 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png" ,TV ONE UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8
+#EXTINF:-1 group-title="DD FREE DISH" ,9XM
+http://172.105.123.238:18002/play/a005
+#EXTINF:-1 group-title="DD FREE DISH" ,Aaj Tak
+http://172.105.123.238:18002/play/a01z
+#EXTINF:-1 group-title="DD FREE DISH" ,AASTHA
+http://172.105.123.238:18002/play/a01c
+#EXTINF:-1 group-title="DD FREE DISH" ,Aastha Bhajan
+http://172.105.123.238:18002/play/a02s
+#EXTINF:-1 group-title="DD FREE DISH" ,ABC Australia HD
+http://172.105.123.238:18002/play/a05c
+#EXTINF:-1 group-title="DD FREE DISH" ,ABP News
+http://172.105.123.238:18002/play/a020
+#EXTINF:-1 group-title="DD FREE DISH" ,ABZY Cool
+http://172.105.123.238:18002/play/a036
+#EXTINF:-1 group-title="DD FREE DISH" ,ABZY Movies
+http://172.105.123.238:18002/play/a03c
+#EXTINF:-1 group-title="DD FREE DISH" ,ACTION CINEMA
+http://172.105.123.238:18002/play/a021
+#EXTINF:-1 group-title="DD FREE DISH" ,Ada Derana 24
+http://172.105.123.238:18002/play/a053
+#EXTINF:-1 group-title="DD FREE DISH" ,Al Jazeera HD
+http://172.105.123.238:18002/play/a05a
+#EXTINF:-1 group-title="DD FREE DISH" ,Athavan TV
+http://172.105.123.238:18002/play/a03p
+#EXTINF:-1 group-title="DD FREE DISH" ,B4U BHOJPURI
+http://172.105.123.238:18002/play/a00c
+#EXTINF:-1 group-title="DD FREE DISH" ,B4U KADAK
+http://172.105.123.238:18002/play/a019
+#EXTINF:-1 group-title="DD FREE DISH" ,B4U Movies
+http://172.105.123.238:18002/play/a00d
+#EXTINF:-1 group-title="DD FREE DISH" ,B4U MUSIC
+http://172.105.123.238:18002/play/a00a
+#EXTINF:-1 group-title="DD FREE DISH" ,BANSAL NEWS
+http://172.105.123.238:18002/play/a02y
+#EXTINF:-1 group-title="DD FREE DISH" ,BHARAT 24 VISION OF NEW INDIA
+http://172.105.123.238:18002/play/a04s
+#EXTINF:-1 group-title="DD FREE DISH" ,Bhojpuri Cinema
+http://172.105.123.238:18002/play/a00w
+#EXTINF:-1 group-title="DD FREE DISH" ,Big Magic
+http://172.105.123.238:18002/play/a018
+#EXTINF:-1 group-title="DD FREE DISH" ,BTV WORLD
+http://172.105.123.238:18002/play/a038
+#EXTINF:-1 group-title="DD FREE DISH" ,Chardikla Time TV
+http://172.105.123.238:18002/play/a02t
+#EXTINF:-1 group-title="DD FREE DISH" ,Chithiram
+http://172.105.123.238:18002/play/a04b
+#EXTINF:-1 group-title="DD FREE DISH" ,CHUMBAK TV
+http://172.105.123.238:18002/play/a01k
+#EXTINF:-1 group-title="DD FREE DISH" ,Cineplex Bollywood
+http://172.105.123.238:18002/play/a011
+#EXTINF:-1 group-title="DD FREE DISH" ,Dangal
+http://172.105.123.238:18002/play/a00v
+#EXTINF:-1 group-title="DD FREE DISH" ,Dangal 2
+http://172.105.123.238:18002/play/a014
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Arunprabha
+http://172.105.123.238:18002/play/a02o
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Assam
+http://172.105.123.238:18002/play/a02m
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Bangla
+http://172.105.123.238:18002/play/a02p
+#EXTINF:-1 group-title="DD FREE DISH" ,DD BHARATI
+http://172.105.123.238:18002/play/a025
+#EXTINF:-1 group-title="DD FREE DISH" ,DD BIHAR
+http://172.105.123.238:18002/play/a02c
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Chandana
+http://172.105.123.238:18002/play/a02i
+#EXTINF:-1 group-title="DD FREE DISH" ,DD CHHATTISGARH
+http://172.105.123.238:18002/play/a02g
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Girnar
+http://172.105.123.238:18002/play/a009
+#EXTINF:-1 group-title="DD FREE DISH" ,DD GOA
+http://172.105.123.238:18002/play/a02u
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Haryana
+http://172.105.123.238:18002/play/a02v
+#EXTINF:-1 group-title="DD FREE DISH" ,DD HIMACHAL PRADESH
+http://172.105.123.238:18002/play/a029
+#EXTINF:-1 group-title="DD FREE DISH" ,DD INDIA
+http://172.105.123.238:18002/play/a01s
+#EXTINF:-1 group-title="DD FREE DISH" ,DD INDIA HD
+http://172.105.123.238:18002/play/a035
+#EXTINF:-1 group-title="DD FREE DISH" ,DD JHARKHAND
+http://172.105.123.238:18002/play/a02d
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Kashir
+http://172.105.123.238:18002/play/a02h
+#EXTINF:-1 group-title="DD FREE DISH" ,DD KISAN
+http://172.105.123.238:18002/play/a004
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Malayalam
+http://172.105.123.238:18002/play/a02l
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Manipur
+http://172.105.123.238:18002/play/a032
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Meghalaya
+http://172.105.123.238:18002/play/a031
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Mizoram
+http://172.105.123.238:18002/play/a034
+#EXTINF:-1 group-title="DD FREE DISH" ,DD MP
+http://172.105.123.238:18002/play/a02e
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Nagaland
+http://172.105.123.238:18002/play/a033
+#EXTINF:-1 group-title="DD FREE DISH" ,DD National
+http://172.105.123.238:18002/play/a003
+#EXTINF:-1 group-title="DD FREE DISH" ,DD NATIONAL HD
+http://172.105.123.238:18002/play/a03a
+#EXTINF:-1 group-title="DD FREE DISH" ,DD NEWS
+http://172.105.123.238:18002/play/a002
+#EXTINF:-1 group-title="DD FREE DISH" ,DD NEWS HD
+http://172.105.123.238:18002/play/a02x
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Oriya
+http://172.105.123.238:18002/play/a02n
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Punjabi
+http://172.105.123.238:18002/play/a00o
+#EXTINF:-1 group-title="DD FREE DISH" ,DD RAJASTHAN
+http://172.105.123.238:18002/play/a02a
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Sahyadri
+http://172.105.123.238:18002/play/a00p
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Saptagiri
+http://172.105.123.238:18002/play/a02k
+#EXTINF:-1 group-title="DD FREE DISH" ,DD SPORTS
+http://172.105.123.238:18002/play/a02b
+#EXTINF:-1 group-title="DD FREE DISH" ,DD SPORTS HD
+http://172.105.123.238:18002/play/a03d
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Tamil
+http://172.105.123.238:18002/play/a00n
+#EXTINF:-1 group-title="DD FREE DISH" ,DD TRIPURA
+http://172.105.123.238:18002/play/a02f
+#EXTINF:-1 group-title="DD FREE DISH" ,DD UP
+http://172.105.123.238:18002/play/a028
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Urdu
+http://172.105.123.238:18002/play/a03b
+#EXTINF:-1 group-title="DD FREE DISH" ,DD UTTARAKHAND
+http://172.105.123.238:18002/play/a02j
+#EXTINF:-1 group-title="DD FREE DISH" ,DD Yadagiri
+http://172.105.123.238:18002/play/a027
+#EXTINF:-1 group-title="DD FREE DISH" ,Derana HD
+http://172.105.123.238:18002/play/a052
+#EXTINF:-1 group-title="DD FREE DISH" ,Dhamaal
+http://172.105.123.238:18002/play/a00h
+#EXTINF:-1 group-title="DD FREE DISH" ,Dharmavahini
+http://172.105.123.238:18002/play/a03o
+#EXTINF:-1 group-title="DD FREE DISH" ,DHINCHAAK
+http://172.105.123.238:18002/play/a00i
+#EXTINF:-1 group-title="DD FREE DISH" ,DW
+http://172.105.123.238:18002/play/a05b
+#EXTINF:-1 group-title="DD FREE DISH" ,Fakt Marathi
+http://172.105.123.238:18002/play/a00q
+#EXTINF:-1 group-title="DD FREE DISH" ,FILAMCHI BHOJPURI
+http://172.105.123.238:18002/play/a01d
+#EXTINF:-1 group-title="DD FREE DISH" ,Goldmines
+http://172.105.123.238:18002/play/a00z
+#EXTINF:-1 group-title="DD FREE DISH" ,Goldmines Bollywood
+http://172.105.123.238:18002/play/a012
+#EXTINF:-1 group-title="DD FREE DISH" ,GOLDMINES MOVIES
+http://172.105.123.238:18002/play/a01j
+#EXTINF:-1 group-title="DD FREE DISH" ,GOOD NEWS TODAY
+http://172.105.123.238:18002/play/a00e
+#EXTINF:-1 group-title="DD FREE DISH" ,Hiru TV
+http://172.105.123.238:18002/play/a056
+#EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
+http://172.105.123.238:18002/play/a05d
+#EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
+http://172.105.123.238:18002/play/a04j
+#EXTINF:-1 group-title="DD FREE DISH" ,INDIA DAILY LIVE
+http://172.105.123.238:18002/play/a01r
+#EXTINF:-1 group-title="DD FREE DISH" ,India News
+http://172.105.123.238:18002/play/a02w
+#EXTINF:-1 group-title="DD FREE DISH" ,India TV
+http://172.105.123.238:18002/play/a01w
+#EXTINF:-1 group-title="DD FREE DISH" ,ISHARA TV
+http://172.105.123.238:18002/play/a01p
+#EXTINF:-1 group-title="DD FREE DISH" ,ITN
+http://172.105.123.238:18002/play/a04v
+#EXTINF:-1 group-title="DD FREE DISH" ,KBS WORLD
+http://172.105.123.238:18002/play/a039
+#EXTINF:-1 group-title="DD FREE DISH" ,MANORANJAN GRAND
+http://172.105.123.238:18002/play/a00l
+#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan Movies
+http://172.105.123.238:18002/play/a017
+#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan Prime
+http://172.105.123.238:18002/play/a00j
+#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan TV
+http://172.105.123.238:18002/play/a01a
+#EXTINF:-1 group-title="DD FREE DISH" ,Masti
+http://172.105.123.238:18002/play/a01u
+#EXTINF:-1 group-title="DD FREE DISH" ,Meth TV
+http://172.105.123.238:18002/play/a03n
+#EXTINF:-1 group-title="DD FREE DISH" ,Monara TV
+http://172.105.123.238:18002/play/a03q
+#EXTINF:-1 group-title="DD FREE DISH" ,Movie Plus
+http://172.105.123.238:18002/play/a016
+#EXTINF:-1 group-title="DD FREE DISH" ,NAZARA
+http://172.105.123.238:18002/play/a006
+#EXTINF:-1 group-title="DD FREE DISH" ,NDTV India
+http://172.105.123.238:18002/play/a01g
+#EXTINF:-1 group-title="DD FREE DISH" ,Nethra
+http://172.105.123.238:18002/play/a04u
+#EXTINF:-1 group-title="DD FREE DISH" ,News 18 India
+http://172.105.123.238:18002/play/a01o
+#EXTINF:-1 group-title="DD FREE DISH" ,News 18 UP/UK
+http://172.105.123.238:18002/play/a030
+#EXTINF:-1 group-title="DD FREE DISH" ,News 24 Think First
+http://172.105.123.238:18002/play/a00f
+#EXTINF:-1 group-title="DD FREE DISH" ,News Nation
+http://172.105.123.238:18002/play/a01x
+#EXTINF:-1 group-title="DD FREE DISH" ,NHK HD
+http://172.105.123.238:18002/play/a059
+#EXTINF:-1 group-title="DD FREE DISH" ,PEAR TV
+http://172.105.123.238:18002/play/a01t
+#EXTINF:-1 group-title="DD FREE DISH" ,Polimer
+http://172.105.123.238:18002/play/a04c
+#EXTINF:-1 group-title="DD FREE DISH" ,POPULAR TV
+http://172.105.123.238:18002/play/a00m
+#EXTINF:-1 group-title="DD FREE DISH" ,Raapchik
+http://172.105.123.238:18002/play/a00b
+#EXTINF:-1 group-title="DD FREE DISH" ,Rangiri Sri Lanka
+http://172.105.123.238:18002/play/a03i
+#EXTINF:-1 group-title="DD FREE DISH" ,Republic Bharat
+http://172.105.123.238:18002/play/a01y
+#EXTINF:-1 group-title="DD FREE DISH" ,RISHTEY CINEPLEX
+http://172.105.123.238:18002/play/a015
+#EXTINF:-1 group-title="DD FREE DISH" ,RT
+http://172.105.123.238:18002/play/a02q
+#EXTINF:-1 group-title="DD FREE DISH" ,Rupavahini
+http://172.105.123.238:18002/play/a04t
+#EXTINF:-1 group-title="DD FREE DISH" ,SADHNA TV
+http://172.105.123.238:18002/play/a01v
+#EXTINF:-1 group-title="DD FREE DISH" ,SANSAD  TV (RAJYA SABHA)
+http://172.105.123.238:18002/play/a00t
+#EXTINF:-1 group-title="DD FREE DISH" ,SANSAD TV
+http://172.105.123.238:18002/play/a00s
+#EXTINF:-1 group-title="DD FREE DISH" ,Sanskar TV
+http://172.105.123.238:18002/play/a01l
+#EXTINF:-1 group-title="DD FREE DISH" ,Shakthi TV
+http://172.105.123.238:18002/play/a04z
+#EXTINF:-1 group-title="DD FREE DISH" ,Sharddha TV
+http://172.105.123.238:18002/play/a03k
+#EXTINF:-1 group-title="DD FREE DISH" ,SHEMAROO TV
+http://172.105.123.238:18002/play/a00u
+#EXTINF:-1 group-title="DD FREE DISH" ,Shemaroo Umang
+http://172.105.123.238:18002/play/a00g
+#EXTINF:-1 group-title="DD FREE DISH" ,Showbox
+http://172.105.123.238:18002/play/a008
+#EXTINF:-1 group-title="DD FREE DISH" ,Sirasa TV
+http://172.105.123.238:18002/play/a04y
+#EXTINF:-1 group-title="DD FREE DISH" ,Siyane Roo TV
+http://172.105.123.238:18002/play/a058
+#EXTINF:-1 group-title="DD FREE DISH" ,Siyatha TV
+http://172.105.123.238:18002/play/a054
+#EXTINF:-1 group-title="DD FREE DISH" ,Sony Wah
+http://172.105.123.238:18002/play/a01q
+#EXTINF:-1 group-title="DD FREE DISH" ,Sports18 Khel
+http://172.105.123.238:18002/play/a00r
+#EXTINF:-1 group-title="DD FREE DISH" ,Sri Dalada Maligawa
+http://172.105.123.238:18002/play/a03f
+#EXTINF:-1 group-title="DD FREE DISH" ,STAR GOLD THRILLS
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1 group-title="DD FREE DISH" ,Star Tamil
+http://172.105.123.238:18002/play/a055
+#EXTINF:-1 group-title="DD FREE DISH" ,Star Utsav Movies
+http://172.105.123.238:18002/play/a01n
+#EXTINF:-1 group-title="DD FREE DISH" ,Sudarshan News
+http://172.105.123.238:18002/play/a02z
+#EXTINF:-1 group-title="DD FREE DISH" ,Sun Marathi
+http://172.105.123.238:18002/play/a007
+#EXTINF:-1 group-title="DD FREE DISH" ,SUN Neo
+http://172.105.123.238:18002/play/a00y
+#EXTINF:-1 group-title="DD FREE DISH" ,Supreme HD
+http://172.105.123.238:18002/play/a057
+#EXTINF:-1 group-title="DD FREE DISH" ,Swarnavahini
+http://172.105.123.238:18002/play/a051
+#EXTINF:-1 group-title="DD FREE DISH" ,The Buddhist
+http://172.105.123.238:18002/play/a03g
+#EXTINF:-1 group-title="DD FREE DISH" ,THE Q
+http://172.105.123.238:18002/play/a010
+#EXTINF:-1 group-title="DD FREE DISH" ,TNL
+http://172.105.123.238:18002/play/a04x
+#EXTINF:-1 group-title="DD FREE DISH" ,TV1
+http://172.105.123.238:18002/play/a050
+#EXTINF:-1 group-title="DD FREE DISH" ,TV9 Bharatvarsh
+http://172.105.123.238:18002/play/a01b
+#EXTINF:-1 group-title="DD FREE DISH" ,UNIQUE TV
+http://172.105.123.238:18002/play/a01e
+#EXTINF:-1 group-title="DD FREE DISH" ,Vasantham
+http://172.105.123.238:18002/play/a04w
+#EXTINF:-1 group-title="DD FREE DISH" ,Verbum TV
+http://172.105.123.238:18002/play/a03j
+#EXTINF:-1 group-title="DD FREE DISH" ,VTV News
+http://172.105.123.238:18002/play/a037
+#EXTINF:-1 group-title="DD FREE DISH" ,ZEE ANMOL CINEMA
+http://172.105.123.238:18002/play/a01f
+#EXTINF:-1 group-title="DD FREE DISH" ,ZEE ANMOL CINEMA 2
+http://172.105.123.238:18002/play/a024
+#EXTINF:-1 group-title="DD FREE DISH" ,Zee Biskope
+http://172.105.123.238:18002/play/a00x
+#EXTINF:-1 group-title="DD FREE DISH" ,ZEE Chitra Mandir
+http://172.105.123.238:18002/play/a022
+#EXTINF:-1 group-title="DD FREE DISH" ,ZEE NEWS
+http://172.105.123.238:18002/play/a01i
+#EXTINF:-1 group-title="DD FREE DISH" ,ZEE Punjabi
+http://172.105.123.238:18002/play/a023
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/600x337.webp?type=channelTile" ,AccuWeather NOW
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/cb54381b6573678e84cb3e63cef343a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7450db80148b61299bce8c37683f03409a5e5afba358b1ebe858118b39a5b71e55932c17e79f43c8814aa6d2d60a965ed723f911cf91a38bd3128ad4f3db986d965c9ccc0b07fba25dd1a37fb7d49d653898743b4e6c3a8cc1b2cd3ef702da21269cded8b6648578a630eea912529f0899448572fd0311a796932f83d7d5fb4a4032a5847f6831a9f6a985f5775cd5dc55939bbf222fe393307046c26c9244415cc1ad9b44d6837d92c7f643adce54e297b13cd56d721bbe4abb6ad64febd4fd99726646620f03bc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b50fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db49f1cad1e33ae1ed2fded3f6cfe6cecc51707b258a622a580b71aba/58/1920x1080_5701132/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn6.aptoide.com/imgs/5/3/1/5318605c11b27f0480dbbc7e636c8483_icon.jpg" ,Amazing Discoveries TV
@@ -309,6 +641,12 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,MAX HD
 http://pubgamers.net:80/ArdijanMaliZi/71k3vnP0re/266
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc 2
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2082
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc Action
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2079
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc MAX
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2073
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,MBC2
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2082
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,MN+ HD
@@ -355,13 +693,21 @@ http://103.84.57.155:8000/play/a00w/index.m3u8
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29494
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,SYFY
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/28844
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" tvg-logo="https://pimwp.s3-accelerate.amazonaws.com/2021/12/1170x658withlogo_378606665.jpg" ,AND TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://test-tan-iota-90.vercel.app/images/dd_national.jpg" ,DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY SUB HD
 http://103.120.172.74:4400
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR BHARAT HD
 http://103.120.172.74:5200
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,ZEE TV HD
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,ZEE ANMOL
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" ,ZEE TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" ,ZEE TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" ,ZEE TV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58189
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,ZING
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58196
@@ -371,18 +717,24 @@ https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" ,& Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,AND PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,AND PICTURES HD
 http://103.84.57.155:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,mbc Bollywood
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2078
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc Action
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2079
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc MAX
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2073
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,mbc 2
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2082
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" ,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" ,Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,FILAMCHI
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,mbc Bollywood
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2078
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" ,Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX HD
@@ -399,8 +751,18 @@ http://103.84.57.155:8000/play/a09p/index.m3u8
 http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://www.carriageworkstheatre.co.uk/uploads/2023/03/sticker-logo_-1.png" ,The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyH56BIk1E8poavsbZz5QTCLsF4EFLoWQZQ&s" ,ZEE ANMOL CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" ,ZEE BOLLYWOOD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfZ4G2BNukWrerCJwyzLLkrDk_QvrpXyRJw1cIeEdLA&s" ,Zee Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood.png" ,Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood.png" ,Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,9XM
@@ -411,6 +773,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,HINDI HITS HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tehelkatv.stream/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" ,Joo Music
@@ -425,6 +789,10 @@ http://pubgamers.net:80/ArdijanMaliZi/71k3vnP0re/739
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://test-tan-iota-90.vercel.app/images/showbox.jpg" ,Show Box
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:0 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zoom-Logo.png" ,ZOOM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" ,ZooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,AAMAR BANGLA
@@ -445,12 +813,20 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/live-orgin/samaykolkata.stream/chunks.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU" ,Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:0 group-title="INDIAN BANGLA" ,STAR JALSHA
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,STAR JALSHA
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,STAR JALSHA HD
+http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" ,TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" ,ZEE BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee Bangla SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,ABP Ganga
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
 #EXTINF:-1 group-title="INDIAN OTHERS" ,ABP Majha
@@ -517,12 +893,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 group-title="ISLAMIC" ,Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="ISLAMIC" ,Peace Tv Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 group-title="ISLAMIC" ,Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:0 group-title="KIDS" ,BABY TV
 http://168.181.122.234:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="KIDS" ,Cartoon Network English,
 http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:0 group-title="KIDS" tvg-logo="https://en-academic.com/pictures/enwiki/67/Cartoon_Network_logo_1992.svg" ,Cartoon Network IN
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg" ,Discovery Kids
 https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg" ,Discovery Kids Hindi
@@ -541,6 +921,8 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 http://103.84.57.155:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="KIDS" ,hungama tv
 http://103.84.57.155:8000/play/a03t/index.m3u8
+#EXTINF:0 group-title="KIDS" tvg-logo="https://appnapglobal.blob.core.windows.net/servicenin/uploads/custom-images/fvQOKfj9t6jRZnNCLFMlLOhDi8REqK8ZG8tHkBqZ.jpg" ,Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="KIDS" ,KIDS – Rakuten TV
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" ,nick HD+
@@ -553,10 +935,14 @@ http://168.181.122.234:8000/play/a028/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="KIDS" ,Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:0 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/4/49/POGO-logo.svg/revision/latest?cb=20230505123710" ,POGO IN
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" ,POGO-IN
 http://103.84.57.155:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="KIDS" ,SONIC
 http://103.84.57.155:8000/play/a03y/index.m3u8
+#EXTINF:0 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" ,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 group-title="KIDS" ,SUPPER SIX
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:0 group-title="KIDS" ,Zoo Moo
@@ -737,6 +1123,8 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index_28.m3u8
 #EXTINF:0 group-title="OTHERS" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/smc1publish/smc1tvhd_720p/chunks.m3u8
+#EXTINF:0 group-title="OTHERS" ,South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:0 group-title="OTHERS" ,STAR TVE
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 group-title="OTHERS" ,SUPER TV Media
@@ -861,6 +1249,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58219
 http://103.84.57.155:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="VIP SPORTS" ,SPORTS 18 HD
 http://103.120.172.74:5500
+#EXTINF:0 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png" ,SPORTS 18-1 HD
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/starsports1.jpg" ,Star Sports 1 HD
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1 group-title="VIP SPORTS" ,STAR SPORTS 1 HDa
@@ -873,302 +1263,3 @@ http://103.120.172.74:4700
 http://103.84.57.155:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="VIP SPORTS" ,Star Sports Select 2HD
 http://103.84.57.155:8000/play/a09z/index.m3u8
-
-#EXTINF:-1 group-title="DD FREE DISH" ,9XM
-http://172.105.123.238:18002/play/a005
-#EXTINF:-1 group-title="DD FREE DISH" ,AASTHA
-http://172.105.123.238:18002/play/a01c
-#EXTINF:-1 group-title="DD FREE DISH" ,ABC Australia HD
-http://172.105.123.238:18002/play/a05c
-#EXTINF:-1 group-title="DD FREE DISH" ,ABP News
-http://172.105.123.238:18002/play/a020
-#EXTINF:-1 group-title="DD FREE DISH" ,ABZY Cool
-http://172.105.123.238:18002/play/a036
-#EXTINF:-1 group-title="DD FREE DISH" ,ABZY Movies
-http://172.105.123.238:18002/play/a03c
-#EXTINF:-1 group-title="DD FREE DISH" ,ACTION CINEMA
-http://172.105.123.238:18002/play/a021
-#EXTINF:-1 group-title="DD FREE DISH" ,Aaj Tak
-http://172.105.123.238:18002/play/a01z
-#EXTINF:-1 group-title="DD FREE DISH" ,Aastha Bhajan
-http://172.105.123.238:18002/play/a02s
-#EXTINF:-1 group-title="DD FREE DISH" ,Ada Derana 24
-http://172.105.123.238:18002/play/a053
-#EXTINF:-1 group-title="DD FREE DISH" ,Al Jazeera HD
-http://172.105.123.238:18002/play/a05a
-#EXTINF:-1 group-title="DD FREE DISH" ,Athavan TV
-http://172.105.123.238:18002/play/a03p
-#EXTINF:-1 group-title="DD FREE DISH" ,B4U BHOJPURI
-http://172.105.123.238:18002/play/a00c
-#EXTINF:-1 group-title="DD FREE DISH" ,B4U KADAK
-http://172.105.123.238:18002/play/a019
-#EXTINF:-1 group-title="DD FREE DISH" ,B4U MUSIC
-http://172.105.123.238:18002/play/a00a
-#EXTINF:-1 group-title="DD FREE DISH" ,B4U Movies
-http://172.105.123.238:18002/play/a00d
-#EXTINF:-1 group-title="DD FREE DISH" ,BANSAL NEWS
-http://172.105.123.238:18002/play/a02y
-#EXTINF:-1 group-title="DD FREE DISH" ,BHARAT 24 VISION OF NEW INDIA
-http://172.105.123.238:18002/play/a04s
-#EXTINF:-1 group-title="DD FREE DISH" ,BTV WORLD
-http://172.105.123.238:18002/play/a038
-#EXTINF:-1 group-title="DD FREE DISH" ,Bhojpuri Cinema
-http://172.105.123.238:18002/play/a00w
-#EXTINF:-1 group-title="DD FREE DISH" ,Big Magic
-http://172.105.123.238:18002/play/a018
-#EXTINF:-1 group-title="DD FREE DISH" ,CHUMBAK TV
-http://172.105.123.238:18002/play/a01k
-#EXTINF:-1 group-title="DD FREE DISH" ,Chardikla Time TV
-http://172.105.123.238:18002/play/a02t
-#EXTINF:-1 group-title="DD FREE DISH" ,Chithiram
-http://172.105.123.238:18002/play/a04b
-#EXTINF:-1 group-title="DD FREE DISH" ,Cineplex Bollywood
-http://172.105.123.238:18002/play/a011
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Arunprabha
-http://172.105.123.238:18002/play/a02o
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Assam
-http://172.105.123.238:18002/play/a02m
-#EXTINF:-1 group-title="DD FREE DISH" ,DD BHARATI
-http://172.105.123.238:18002/play/a025
-#EXTINF:-1 group-title="DD FREE DISH" ,DD BIHAR
-http://172.105.123.238:18002/play/a02c
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Bangla
-http://172.105.123.238:18002/play/a02p
-#EXTINF:-1 group-title="DD FREE DISH" ,DD CHHATTISGARH
-http://172.105.123.238:18002/play/a02g
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Chandana
-http://172.105.123.238:18002/play/a02i
-#EXTINF:-1 group-title="DD FREE DISH" ,DD GOA
-http://172.105.123.238:18002/play/a02u
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Girnar
-http://172.105.123.238:18002/play/a009
-#EXTINF:-1 group-title="DD FREE DISH" ,DD HIMACHAL PRADESH
-http://172.105.123.238:18002/play/a029
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Haryana
-http://172.105.123.238:18002/play/a02v
-#EXTINF:-1 group-title="DD FREE DISH" ,DD INDIA
-http://172.105.123.238:18002/play/a01s
-#EXTINF:-1 group-title="DD FREE DISH" ,DD INDIA HD
-http://172.105.123.238:18002/play/a035
-#EXTINF:-1 group-title="DD FREE DISH" ,DD JHARKHAND
-http://172.105.123.238:18002/play/a02d
-#EXTINF:-1 group-title="DD FREE DISH" ,DD KISAN
-http://172.105.123.238:18002/play/a004
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Kashir
-http://172.105.123.238:18002/play/a02h
-#EXTINF:-1 group-title="DD FREE DISH" ,DD MP
-http://172.105.123.238:18002/play/a02e
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Malayalam
-http://172.105.123.238:18002/play/a02l
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Manipur
-http://172.105.123.238:18002/play/a032
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Meghalaya
-http://172.105.123.238:18002/play/a031
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Mizoram
-http://172.105.123.238:18002/play/a034
-#EXTINF:-1 group-title="DD FREE DISH" ,DD NATIONAL HD
-http://172.105.123.238:18002/play/a03a
-#EXTINF:-1 group-title="DD FREE DISH" ,DD NEWS
-http://172.105.123.238:18002/play/a002
-#EXTINF:-1 group-title="DD FREE DISH" ,DD NEWS HD
-http://172.105.123.238:18002/play/a02x
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Nagaland
-http://172.105.123.238:18002/play/a033
-#EXTINF:-1 group-title="DD FREE DISH" ,DD National
-http://172.105.123.238:18002/play/a003
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Oriya
-http://172.105.123.238:18002/play/a02n
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Punjabi
-http://172.105.123.238:18002/play/a00o
-#EXTINF:-1 group-title="DD FREE DISH" ,DD RAJASTHAN
-http://172.105.123.238:18002/play/a02a
-#EXTINF:-1 group-title="DD FREE DISH" ,DD SPORTS
-http://172.105.123.238:18002/play/a02b
-#EXTINF:-1 group-title="DD FREE DISH" ,DD SPORTS HD
-http://172.105.123.238:18002/play/a03d
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Sahyadri
-http://172.105.123.238:18002/play/a00p
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Saptagiri
-http://172.105.123.238:18002/play/a02k
-#EXTINF:-1 group-title="DD FREE DISH" ,DD TRIPURA
-http://172.105.123.238:18002/play/a02f
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Tamil
-http://172.105.123.238:18002/play/a00n
-#EXTINF:-1 group-title="DD FREE DISH" ,DD UP
-http://172.105.123.238:18002/play/a028
-#EXTINF:-1 group-title="DD FREE DISH" ,DD UTTARAKHAND
-http://172.105.123.238:18002/play/a02j
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Urdu
-http://172.105.123.238:18002/play/a03b
-#EXTINF:-1 group-title="DD FREE DISH" ,DD Yadagiri
-http://172.105.123.238:18002/play/a027
-#EXTINF:-1 group-title="DD FREE DISH" ,DHINCHAAK
-http://172.105.123.238:18002/play/a00i
-#EXTINF:-1 group-title="DD FREE DISH" ,DW
-http://172.105.123.238:18002/play/a05b
-#EXTINF:-1 group-title="DD FREE DISH" ,Dangal
-http://172.105.123.238:18002/play/a00v
-#EXTINF:-1 group-title="DD FREE DISH" ,Dangal 2
-http://172.105.123.238:18002/play/a014
-#EXTINF:-1 group-title="DD FREE DISH" ,Derana HD
-http://172.105.123.238:18002/play/a052
-#EXTINF:-1 group-title="DD FREE DISH" ,Dhamaal
-http://172.105.123.238:18002/play/a00h
-#EXTINF:-1 group-title="DD FREE DISH" ,Dharmavahini
-http://172.105.123.238:18002/play/a03o
-#EXTINF:-1 group-title="DD FREE DISH" ,FILAMCHI BHOJPURI
-http://172.105.123.238:18002/play/a01d
-#EXTINF:-1 group-title="DD FREE DISH" ,Fakt Marathi
-http://172.105.123.238:18002/play/a00q
-#EXTINF:-1 group-title="DD FREE DISH" ,GOLDMINES MOVIES
-http://172.105.123.238:18002/play/a01j
-#EXTINF:-1 group-title="DD FREE DISH" ,GOOD NEWS TODAY
-http://172.105.123.238:18002/play/a00e
-#EXTINF:-1 group-title="DD FREE DISH" ,Goldmines
-http://172.105.123.238:18002/play/a00z
-#EXTINF:-1 group-title="DD FREE DISH" ,Goldmines Bollywood
-http://172.105.123.238:18002/play/a012
-#EXTINF:-1 group-title="DD FREE DISH" ,Hiru TV
-http://172.105.123.238:18002/play/a056
-#EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
-http://172.105.123.238:18002/play/a05d
-#EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
-http://172.105.123.238:18002/play/a04j
-#EXTINF:-1 group-title="DD FREE DISH" ,INDIA DAILY LIVE
-http://172.105.123.238:18002/play/a01r
-#EXTINF:-1 group-title="DD FREE DISH" ,ISHARA TV
-http://172.105.123.238:18002/play/a01p
-#EXTINF:-1 group-title="DD FREE DISH" ,ITN
-http://172.105.123.238:18002/play/a04v
-#EXTINF:-1 group-title="DD FREE DISH" ,India News
-http://172.105.123.238:18002/play/a02w
-#EXTINF:-1 group-title="DD FREE DISH" ,India TV
-http://172.105.123.238:18002/play/a01w
-#EXTINF:-1 group-title="DD FREE DISH" ,KBS WORLD
-http://172.105.123.238:18002/play/a039
-#EXTINF:-1 group-title="DD FREE DISH" ,MANORANJAN GRAND
-http://172.105.123.238:18002/play/a00l
-#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan Movies
-http://172.105.123.238:18002/play/a017
-#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan Prime
-http://172.105.123.238:18002/play/a00j
-#EXTINF:-1 group-title="DD FREE DISH" ,Manoranjan TV
-http://172.105.123.238:18002/play/a01a
-#EXTINF:-1 group-title="DD FREE DISH" ,Masti
-http://172.105.123.238:18002/play/a01u
-#EXTINF:-1 group-title="DD FREE DISH" ,Meth TV
-http://172.105.123.238:18002/play/a03n
-#EXTINF:-1 group-title="DD FREE DISH" ,Monara TV
-http://172.105.123.238:18002/play/a03q
-#EXTINF:-1 group-title="DD FREE DISH" ,Movie Plus
-http://172.105.123.238:18002/play/a016
-#EXTINF:-1 group-title="DD FREE DISH" ,NAZARA
-http://172.105.123.238:18002/play/a006
-#EXTINF:-1 group-title="DD FREE DISH" ,NDTV India
-http://172.105.123.238:18002/play/a01g
-#EXTINF:-1 group-title="DD FREE DISH" ,NHK HD
-http://172.105.123.238:18002/play/a059
-#EXTINF:-1 group-title="DD FREE DISH" ,Nethra
-http://172.105.123.238:18002/play/a04u
-#EXTINF:-1 group-title="DD FREE DISH" ,News 18 India
-http://172.105.123.238:18002/play/a01o
-#EXTINF:-1 group-title="DD FREE DISH" ,News 18 UP/UK
-http://172.105.123.238:18002/play/a030
-#EXTINF:-1 group-title="DD FREE DISH" ,News 24 Think First
-http://172.105.123.238:18002/play/a00f
-#EXTINF:-1 group-title="DD FREE DISH" ,News Nation
-http://172.105.123.238:18002/play/a01x
-#EXTINF:-1 group-title="DD FREE DISH" ,PEAR TV
-http://172.105.123.238:18002/play/a01t
-#EXTINF:-1 group-title="DD FREE DISH" ,POPULAR TV
-http://172.105.123.238:18002/play/a00m
-#EXTINF:-1 group-title="DD FREE DISH" ,Polimer
-http://172.105.123.238:18002/play/a04c
-#EXTINF:-1 group-title="DD FREE DISH" ,RISHTEY CINEPLEX
-http://172.105.123.238:18002/play/a015
-#EXTINF:-1 group-title="DD FREE DISH" ,RT
-http://172.105.123.238:18002/play/a02q
-#EXTINF:-1 group-title="DD FREE DISH" ,Raapchik
-http://172.105.123.238:18002/play/a00b
-#EXTINF:-1 group-title="DD FREE DISH" ,Rangiri Sri Lanka
-http://172.105.123.238:18002/play/a03i
-#EXTINF:-1 group-title="DD FREE DISH" ,Republic Bharat
-http://172.105.123.238:18002/play/a01y
-#EXTINF:-1 group-title="DD FREE DISH" ,Rupavahini
-http://172.105.123.238:18002/play/a04t
-#EXTINF:-1 group-title="DD FREE DISH" ,SADHNA TV
-http://172.105.123.238:18002/play/a01v
-#EXTINF:-1 group-title="DD FREE DISH" ,SANSAD  TV (RAJYA SABHA)
-http://172.105.123.238:18002/play/a00t
-#EXTINF:-1 group-title="DD FREE DISH" ,SANSAD TV
-http://172.105.123.238:18002/play/a00s
-#EXTINF:-1 group-title="DD FREE DISH" ,SHEMAROO TV
-http://172.105.123.238:18002/play/a00u
-#EXTINF:-1 group-title="DD FREE DISH" ,STAR GOLD THRILLS
-http://172.105.123.238:18002/play/a01h
-#EXTINF:-1 group-title="DD FREE DISH" ,SUN Neo
-http://172.105.123.238:18002/play/a00y
-#EXTINF:-1 group-title="DD FREE DISH" ,Sanskar TV
-http://172.105.123.238:18002/play/a01l
-#EXTINF:-1 group-title="DD FREE DISH" ,Shakthi TV
-http://172.105.123.238:18002/play/a04z
-#EXTINF:-1 group-title="DD FREE DISH" ,Sharddha TV
-http://172.105.123.238:18002/play/a03k
-#EXTINF:-1 group-title="DD FREE DISH" ,Shemaroo Umang
-http://172.105.123.238:18002/play/a00g
-#EXTINF:-1 group-title="DD FREE DISH" ,Showbox
-http://172.105.123.238:18002/play/a008
-#EXTINF:-1 group-title="DD FREE DISH" ,Sirasa TV
-http://172.105.123.238:18002/play/a04y
-#EXTINF:-1 group-title="DD FREE DISH" ,Siyane Roo TV
-http://172.105.123.238:18002/play/a058
-#EXTINF:-1 group-title="DD FREE DISH" ,Siyatha TV
-http://172.105.123.238:18002/play/a054
-#EXTINF:-1 group-title="DD FREE DISH" ,Sony Wah
-http://172.105.123.238:18002/play/a01q
-#EXTINF:-1 group-title="DD FREE DISH" ,Sports18 Khel
-http://172.105.123.238:18002/play/a00r
-#EXTINF:-1 group-title="DD FREE DISH" ,Sri Dalada Maligawa
-http://172.105.123.238:18002/play/a03f
-#EXTINF:-1 group-title="DD FREE DISH" ,Star Tamil
-http://172.105.123.238:18002/play/a055
-#EXTINF:-1 group-title="DD FREE DISH" ,Star Utsav Movies
-http://172.105.123.238:18002/play/a01n
-#EXTINF:-1 group-title="DD FREE DISH" ,Sudarshan News
-http://172.105.123.238:18002/play/a02z
-#EXTINF:-1 group-title="DD FREE DISH" ,Sun Marathi
-http://172.105.123.238:18002/play/a007
-#EXTINF:-1 group-title="DD FREE DISH" ,Supreme HD
-http://172.105.123.238:18002/play/a057
-#EXTINF:-1 group-title="DD FREE DISH" ,Swarnavahini
-http://172.105.123.238:18002/play/a051
-#EXTINF:-1 group-title="DD FREE DISH" ,THE Q
-http://172.105.123.238:18002/play/a010
-#EXTINF:-1 group-title="DD FREE DISH" ,TNL
-http://172.105.123.238:18002/play/a04x
-#EXTINF:-1 group-title="DD FREE DISH" ,TV1
-http://172.105.123.238:18002/play/a050
-#EXTINF:-1 group-title="DD FREE DISH" ,TV9 Bharatvarsh
-http://172.105.123.238:18002/play/a01b
-#EXTINF:-1 group-title="DD FREE DISH" ,The Buddhist
-http://172.105.123.238:18002/play/a03g
-#EXTINF:-1 group-title="DD FREE DISH" ,UNIQUE TV
-http://172.105.123.238:18002/play/a01e
-#EXTINF:-1 group-title="DD FREE DISH" ,VTV News
-http://172.105.123.238:18002/play/a037
-#EXTINF:-1 group-title="DD FREE DISH" ,Vasantham
-http://172.105.123.238:18002/play/a04w
-#EXTINF:-1 group-title="DD FREE DISH" ,Verbum TV
-http://172.105.123.238:18002/play/a03j
-#EXTINF:-1 group-title="DD FREE DISH" ,ZEE ANMOL CINEMA
-http://172.105.123.238:18002/play/a01f
-#EXTINF:-1 group-title="DD FREE DISH" ,ZEE ANMOL CINEMA 2
-http://172.105.123.238:18002/play/a024
-#EXTINF:-1 group-title="DD FREE DISH" ,ZEE Chitra Mandir
-http://172.105.123.238:18002/play/a022
-#EXTINF:-1 group-title="DD FREE DISH" ,ZEE NEWS
-http://172.105.123.238:18002/play/a01i
-#EXTINF:-1 group-title="DD FREE DISH" ,ZEE Punjabi
-http://172.105.123.238:18002/play/a023
-#EXTINF:-1 group-title="DD FREE DISH" ,Zee Biskope
-http://172.105.123.238:18002/play/a00x
