@@ -149,6 +149,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MY TV HD
 https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x13834" ,NEWS 24 TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,NEXUS TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,NEXUS TV HD
@@ -207,6 +209,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/batv.stream/live-orgin/batv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/banglatv-uk.jpg?x13834" ,BANGLA TV EUROPE
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8?sessId=3614795
+#EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x13834" ,Bangla21TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png?x13834" ,Biswa-Bangla HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png?x13834" ,Biswa-Bangla HD
@@ -567,6 +571,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/66c9ef6b39c16_1
 https://stream.ads.ottera.tv/cl/240826cr67mpp6mljbq1s34ce0/1920x1080_5359200_5_f.m3u8?i=475_2489
 #EXTINF:0 group-title="ENGLISH" tvg-logo="https://www.wikidata.org/wiki/Q29918977#/media/File:Diva_logo.svg" ,DIVA
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/abr_satellitechannel/satch_diva_720p/chunks.m3u8
+#EXTINF:0 group-title="ENGLISH" tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/dubaione.png" ,Dubai One TV
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:0 group-title="ENGLISH" ,EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Firstlight
@@ -599,10 +605,14 @@ http://pubgamers.net:80/ArdijanMaliZi/71k3vnP0re/2171
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png" ,FilmRise Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/640x360_440000/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,GOLD
 http://pubgamers.net:80/ArdijanMaliZi/71k3vnP0re/267
 #EXTINF:0 group-title="ENGLISH MOVIES" ,GROVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" ,HBO
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,HBO 1
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/3032
 #EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://en.ifilmtv.ir/img/final-logo01.png" ,iFilm English
@@ -709,6 +719,8 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,mbc Bollywood
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2078
+#EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" ,MBC Bollywood HD
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9_webp.webp" ,Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX HD
@@ -1147,6 +1159,8 @@ http://45.5.117.182:8000/play/a0ho/index.m3u8
 http://168.181.122.234:8000/play/a034/index.m3u8
 #EXTINF:0 group-title="MUSIC" ,1HD MUSIC
 https://msk3.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MDIyMDIsImlhdCI6MTcyNTYxNTgwMiwiY2lkIjo4MSwidWlkIjo4MjEyNTIxNzEsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.4uB_fRX10wXWQQEC7MO2kyiJXENJ6yfGP9tHvUQVUlc
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://1hd.ru/img/logo.svg" ,1HD Music Television
+https://msk3.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3ODU2MzUsImlhdCI6MTcyNTY5OTIzNSwiY2lkIjo4MSwidWlkIjo4MjE5NDM0NDMsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.mOpNZY-19kLrwe82sF9NKnxLAHy1ZpEqpazCCyRbf6s
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" ,4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/4u.tv.jpg/480px-4u.tv.jpg" ,4U TV
@@ -1215,6 +1229,8 @@ http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/3056
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/chunklist_w1972953215.m3u8
 #EXTINF:0 group-title="NEWS" ,CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" ,CNN USA
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_960x540_2000k.m3u8
 #EXTINF:-1 group-title="NEWS" ,DW
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
 #EXTINF:0 group-title="NEWS" ,DW
