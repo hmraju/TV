@@ -455,6 +455,16 @@ http://172.105.123.238:18002/play/a022
 http://172.105.123.238:18002/play/a01i
 #EXTINF:-1 group-title="DD FREE DISH" ,ZEE Punjabi
 http://172.105.123.238:18002/play/a023
+#EXTINF:-1 group-title="HINDI MUSIC" ,MTV+
+https://hdipl.live/oz/linear-live.php?id=149&vtoken=&e=.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,TV ASIA HD
+https://hdipl.live/oz/linear-live.php?id=156&vtoken=&e=.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR PLUS HD
+https://hdipl.live/oz/linear-live.php?id=161&vtoken=&e=.m3u8
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,UTSAV PLUS UK HD
+https://hdipl.live/oz/linear-live.php?id=163&vtoken=&e=.m3u8
+#EXTINF:-1 group-title="HINDI MUSIC" ,BINDAS
+https://hdipl.live/oz/linear-live.php?id=250&vtoken=&e=.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/600x337.webp?type=channelTile" ,AccuWeather NOW
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/cb54381b6573678e84cb3e63cef343a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7450db80148b61299bce8c37683f03409a5e5afba358b1ebe858118b39a5b71e55932c17e79f43c8814aa6d2d60a965ed723f911cf91a38bd3128ad4f3db986d965c9ccc0b07fba25dd1a37fb7d49d653898743b4e6c3a8cc1b2cd3ef702da21269cded8b6648578a630eea912529f0899448572fd0311a796932f83d7d5fb4a4032a5847f6831a9f6a985f5775cd5dc55939bbf222fe393307046c26c9244415cc1ad9b44d6837d92c7f643adce54e297b13cd56d721bbe4abb6ad64febd4fd99726646620f03bc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b50fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db49f1cad1e33ae1ed2fded3f6cfe6cecc51707b258a622a580b71aba/58/1920x1080_5701132/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn6.aptoide.com/imgs/5/3/1/5318605c11b27f0480dbbc7e636c8483_icon.jpg" ,Amazing Discoveries TV
