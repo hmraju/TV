@@ -1487,3 +1487,5 @@ http://103.84.57.155:8000/play/a09y/index.m3u8
 http://103.84.57.155:8000/play/a09z/index.m3u8
 #EXTINF:0 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" ,TEN SPORTS HD
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIE SERVER" ,MOVIES
+https://gist.githubusercontent.com/cirrusUK/f2ec33786c4820e4b4ac4670b2a8afea/raw/320031be25bb03b3b1d5fac9f93b19c82a7e9cef/imdb250.m3u
