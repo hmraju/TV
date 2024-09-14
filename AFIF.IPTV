@@ -5,6 +5,8 @@ https://github.com/hmraju/TV/raw/main/AFIF_IPTV%20ADD/afif-iptv-ott.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,AKHON
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,AKHON TV
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,ANANDA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,ANANDA TV
@@ -53,6 +55,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,BTV WORLD
 http://172.105.123.238:18002/play/a038
+#EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" ,channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" ,CHANNEL 24 HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" ,CHANNEL 24 HD
@@ -253,6 +257,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://modhumoti.tv/wp-content/uploads/2020/09/Modhumoti-TV-Logo.png" ,Modhumoti.tv
 https://cnbtv.raytahost.com/live/1080/index.m3u8
+#EXTINF:0 group-title="BANGLA IPTV" tvg-logo="https://vipotv.com/wp-content/uploads/2023/09/MON-TV-Bangla-live-vipotv.png" ,MON TV Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,Movie Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,Movie Bangla
@@ -457,6 +463,8 @@ https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-a
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/animal_planethd.jpg" ,Animal Planet
 https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" ,BBC Earth
+https://lnc-bbc-earth2.tubi.video/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" ,Chile Channel
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" ,Clarity 4K
@@ -551,12 +559,18 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:0 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/ABC_ME_logo.svg" ,ABC Me
+https://c.mjh.nz/abc-me.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Alkarma TV Youth & English
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" ,AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:0 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/AXS_TV_logo.svg" ,AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" ,BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" ,C31 Melbourne
@@ -585,8 +599,6 @@ https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Love Stories TV
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,AMC
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/28866
 #EXTINF:0 group-title="ENGLISH MOVIES" ,AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,AVA SERIES
@@ -1059,6 +1071,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voadoc.stream/live-orgin/voadoc.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" ,VOICE OF AMERICA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8
+#EXTINF:0 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" ,Baby Shark TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 #EXTINF:0 group-title="KIDS" ,BABY TV
 http://168.181.122.234:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="KIDS" ,Cartoon Network English,
@@ -1173,6 +1187,10 @@ https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:0 group-title="MUSIC" ,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://amusic.tv/wp-content/uploads/2018/11/cropped-AMusic-favicon.fw_.png" ,AMusic Channel
+http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://m.media-amazon.com/images/I/61uGS3LtE0L.png" ,Asia Music
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC" ,COLOSAL TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" ,COLOSAL TV
@@ -1325,8 +1343,6 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:0 group-title="OTHERS" ,MBC Persia HD
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
-#EXTINF:-1 group-title="OTHERS" ,MOVIES RUSSIAN
-http://myott.top/stream/DEKA6YA5JRN/107.m3u8
 #EXTINF:0 group-title="OTHERS" ,Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:0 group-title="OTHERS" tvg-logo="https://www.digitaltveurope.com/files/2023/10/Unknown-300x300.png" ,NHK World Premium
@@ -1353,6 +1369,8 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5957456.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="PAKISTAN" ,ARY DIGITAL
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58005
+#EXTINF:0 group-title="PAKISTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Arynews.jpg/180px-Arynews.jpg" ,ARY News Pakistan
+https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
 #EXTINF:0 group-title="PAKISTAN" ,aurLife HD
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="PAKISTAN" ,Geo Kahani
@@ -1381,6 +1399,10 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,ATG1
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png" ,Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://online-television.net/uploads/posts/2023-01/bahrain-sport-2.webp" ,Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,BeIN SPORTS XTRA
 https://lnc-bein.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CNBC SPORTS
@@ -1425,6 +1447,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" ,SPORT
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" ,Sports TV
