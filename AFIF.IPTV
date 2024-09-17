@@ -17,6 +17,8 @@ https://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8
 #EXTINF:0 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" ,BANGLA TV HD BDIX
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=3613423
+#EXTINF:0 group-title="1. BANGLA" ,BANGLA+ HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" ,BANGLADESH TELEVISION
 https://livess.ncare.live/live-orgin/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png" ,BANGLAVISION
@@ -95,6 +97,8 @@ http://172.22.22.76/live/feed1002/index.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/300px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,SOMOY NEWS
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:0 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD_Hot
+https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=58ba91c85d3ebbd597721149634d4fcf9c5a02b1-c0835931b44a10c01d142b7d045484d8-1725656790-1725645990
 #EXTINF:-1 group-title="2. jagobd" ,AAMAR BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="2. jagobd" ,AAMAR BANGLA
@@ -803,6 +807,12 @@ https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Love Stories TV
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:0 group-title="ENGLISH" tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-cafe-hd.png" ,ZEE Cafe HD
+http://103.84.57.155:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg" ,&flix HD
+http://103.84.57.155:8000/play/a083/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/800px-%26priv%C3%A9_HD.svg.png" ,&PRIVE HD
+http://103.84.57.155:8000/play/a0a6/index.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,AVA SERIES
@@ -893,8 +903,12 @@ http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29494
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/28844
 #EXTINF:0 group-title="HINDI ENTERTAINMENT" tvg-logo="https://pimwp.s3-accelerate.amazonaws.com/2021/12/1170x658withlogo_378606665.jpg" ,AND TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/200px-Colors_tv2017.png" ,Colors HD
+http://103.84.57.155:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://test-tan-iota-90.vercel.app/images/dd_national.jpg" ,DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" ,SONY SAB HD
+http://103.84.57.155:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,SONY SUB HD
 https://hdipl.live/oz/linear-live.php?id=184&vtoken=&e=.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" ,STAR BHARAT HD
@@ -950,8 +964,6 @@ http://103.84.57.155:8000/play/a09m/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold Romance
 http://103.84.57.155:8000/play/a0c8/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,STAR GOLD SELECT HD
-http://103.84.57.155:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold Sellect HD
 http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
@@ -1503,6 +1515,8 @@ https://hdipl.live/oz/linear-live.php?id=5920&vtoken=&e=.m3u8
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1 group-title="VIP SPORTS" ,STAR SPORTS 2 SELECT HD
 http://103.120.172.74:4700
+#EXTINF:0 group-title="VIP SPORTS" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" ,Star Sports 2HD
+http://103.84.57.155:8000/play/a026/index.m3u8
 #EXTINF:0 group-title="VIP SPORTS" ,STAR SPORTS SELECT 1HD
 http://103.84.57.155:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="VIP SPORTS" ,Star Sports Select 2HD
