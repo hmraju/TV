@@ -30,7 +30,7 @@ https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:0 group-title="1. BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ch5.jpg" ,CHANNEL 5
 https://livess.ncare.live/live-orgin/batv.stream/playlist.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,CHANNEL I
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O5LC9Y6RGzEvy5Jyawf2uqRNfbV_H4K79w&s" ,CHANNEL S HD
 https://livess.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="1. BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" ,DBC NEWS HD
@@ -1495,6 +1495,8 @@ http://103.84.57.155:8000/play/a026/index.m3u8
 http://103.84.57.155:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="VIP SPORTS" ,Star Sports Select 2HD
 http://103.84.57.155:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="VIP SPORTS" ,GEO SUPPER 
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:0 group-title="BDIX TV24" ,T SPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?expires=1727322566&md5=eoy07kaLGcedmEZt8IpBHg&user=ef71b837ceef4cd18a6cf7069722d83d
