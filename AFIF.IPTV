@@ -1495,3 +1495,32 @@ http://103.84.57.155:8000/play/a026/index.m3u8
 http://103.84.57.155:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="VIP SPORTS" ,Star Sports Select 2HD
 http://103.84.57.155:8000/play/a09z/index.m3u8
+
+#EXTINF:0 group-title="BDIX TV24" ,T SPORTS
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?expires=1727322566&md5=eoy07kaLGcedmEZt8IpBHg&user=ef71b837ceef4cd18a6cf7069722d83d
+#EXTINF:0 group-title="BDIX TV24" ,WILLOW CRICKET
+https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,A SPORTS HD
+https://bdiptv24.com/sports/m3u8.php/asportshd.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,BEIN SPORTS EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,PTV SPORTS
+https://bdiptv24.com/sports/m3u8.php/ptvpk.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,LIVE CRICKET
+https://m1-117b.protect-cdn.net/live/m1-index.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,RTA SPORTS HD
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,4TV
+https://bdiptv24.com/sports/m3u8.php/laligauk.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,English Premier League
+https://bdiptv24.com/sports/m3u8.php/superpremier.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,GAZI TV HD
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=wA0TMFnRw5GV3KU_ehFJkw&expires=1727327574&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:0 group-title="BDIX TV24" ,BANGLA TV HD
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,Super Sports LaLiga
+https://bdiptv24.com/sports/m3u8.php/superlaliga.m3u8
+#EXTINF:0 group-title="BDIX TV24" ,Super Sports Premier League
+https://bdiptv24.com/sports/m3u8.php/superpremier.m3u8
