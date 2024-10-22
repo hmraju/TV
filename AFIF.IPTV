@@ -133,6 +133,12 @@ http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKcBpyvbSgpH81q14vxwSCozfmQpZMUlAwQ&s" ,Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" ,Time Televison
+https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" ,Millennium TV USA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" ,Millennium TV 24 News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/live-orgin/mnews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" ,Discovery HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5150x44c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" ,EKATTOR TV HD
@@ -253,8 +259,8 @@ http://172.105.123.238:18002/play/a03c
 http://172.105.123.238:18002/play/a021
 #EXTINF:-1 group-title="DD FREE DISH" ,Ada Derana 24
 http://172.105.123.238:18002/play/a053
-#EXTINF:-1 group-title="DD FREE DISH" ,Al Jazeera HD
-http://172.105.123.238:18002/play/a05a
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" ,Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,Athavan TV
 http://172.105.123.238:18002/play/a03p
 #EXTINF:-1 group-title="DD FREE DISH" ,B4U BHOJPURI
@@ -373,8 +379,8 @@ http://172.105.123.238:18002/play/a00h
 http://172.105.123.238:18002/play/a03o
 #EXTINF:-1 group-title="DD FREE DISH" ,DHINCHAAK
 http://172.105.123.238:18002/play/a00i
-#EXTINF:-1 group-title="DD FREE DISH" ,DW
-http://172.105.123.238:18002/play/a05b
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" ,DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,Fakt Marathi
 http://172.105.123.238:18002/play/a00q
 #EXTINF:-1 group-title="DD FREE DISH" ,FILAMCHI BHOJPURI
@@ -953,6 +959,8 @@ http://103.84.57.155:8000/play/a02y/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:0 group-title="NEWS" ,CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:0 group-title="NEWS" ,CNN News
+https://livetvde.net/cusa/tracks-v1a1/mono.m3u8?token=459898180fafeee11723e5872fa2c6cddc9d29a2-ae78e4926577bd2a980bb1b524883278-1729620377-1729609577
 #EXTINF:0 group-title="NEWS" ,Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" ,FOX NEWS
@@ -965,6 +973,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/1200px-RT-France-logo.svg.png" ,RT France
 https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="https://news.sky.com/resources/sky-news-logo.svg?v=1" ,Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.mos.cms.futurecdn.net/ii9QoPKR5pvK4KLjenqGFk.jpg" ,RT {Russia Today}
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1200px-TRT_World.svg.png" ,TRT WORLD
