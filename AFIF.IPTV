@@ -78,9 +78,9 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" ,ATN NEWS HD
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" ,BANGLA TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" ,BANGLA TV EUROPE
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+https://cdn.ghuddi.live/tvpage/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" ,BANGLA VISION HD
 http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" ,Bangla Vision HD
