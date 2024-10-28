@@ -825,6 +825,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg" ,SANANDA TV HD
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg" ,SANANDA TV
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/01/Republic-Bangla.jpg" ,Republic Bangla
 https://vg-republictvlive.akamaized.net/ptnr-khabriya/title-Republic_Bangla/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9432959c-1c21-4ed2-95ab-66453c2c658e/ae4a9661-d12b-4063-94a6-1629f161a143/1.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/5a/Colors_Bangla_HD_with_tagline_%282016%29.png/revision/latest/scale-to-width-down/250?cb=20210507225144" ,COLORS BANGLA HD
@@ -841,6 +843,8 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" ,SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https" ,DHOOM
+https://cdn3.pishow.tv/live/279/279_0.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" ,SONY AATH
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" ,SONY AATH HD
