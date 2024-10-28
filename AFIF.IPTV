@@ -145,8 +145,10 @@ https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" ,Millennium TV 24 News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/live-orgin/mnews24.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" ,Discovery HD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" ,Discovery HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5150x44c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" ,DMAX
+https://food-dlvr-ott.akamaized.net/primary/2/07543219680b429fa16f1f5796eda058/index_20.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" ,EKATTOR TV HD
 https://app.ncare.live/live-orgin/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" ,EKATTOR TV HD
@@ -561,6 +563,8 @@ http://172.105.123.238:18002/play/a023
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" ,ANIMAL PLANET
 https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" ,ANIMAL PLANET INDIA
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" ,ANIMAL PLANET HD
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" ,Chile Channel
@@ -575,8 +579,14 @@ https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" ,DISCOVERY HINDI
 https://cdn1-freeiptv25.vercel.app/m3u/discoveryhindi.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" ,DISCOVERY India
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_11_0.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" ,DISCOVERY ID
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_11_0.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://banner2.cleanpng.com/20180330/lse/kisspng-science-logo-discovery-channel-television-channel-performance-5abdc9a97988c3.4181114415223873694978.jpg" ,Discovery Science
 https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Science.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://banner2.cleanpng.com/20180330/lse/kisspng-science-logo-discovery-channel-television-channel-performance-5abdc9a97988c3.4181114415223873694978.jpg" ,Discovery Science India
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_8_0.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Discovery Turbo
 http://168.181.122.234:8000/play/a029/index.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo
@@ -618,11 +628,13 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/manifes
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC HD
 https://cdn1-freeiptv25.vercel.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC HD- IN
-http://103.84.57.155:8000/play/a00s/index.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Travel XP IN
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Trvl Channel
+https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_13.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:0 group-title="ENGLISH" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png" ,Bang Bang TV
@@ -899,6 +911,8 @@ http://tv.cloudcdn.me/live.ts?channelId=244&uid=13603&deviceMac=00:1A:79:64:B4:A
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" ,DISCOVERY KIDS
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" ,DISCOVERY KIDS Hindi
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
 #EXTINF:-1 group-title="KIDS" ,Disney Channel
 http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="KIDS" ,Disney Jr
