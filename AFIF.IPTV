@@ -597,15 +597,15 @@ http://168.181.122.234:8000/play/a029/index.m3u8
 https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://www.fashionfinds.co.za/cdn/shop/files/FASION_FINDS_LOGO_COLOR_WITH_SHADOW.png?v=1704450284&width=600" ,Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/medhigh.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" ,GOOD TIMES
-https://yuppirecloriginvt.akamaized.net/120723/smil:ndtvgoodtimes.smil/chunklist_b1928000.m3u8?hdntl=exp=1729345879~acl=!*/120723/smil:ndtvgoodtimes.smil/*!/payload/yupptvott_5_-1_dccfe2400a894c72_BD_45.120.115.225_yuppfast_2_channel_4_-1/*~data=hdntl~hmac=bd33ef4d96ee7f970b9ef37774bec40f352b5ebea1d20fac635ee13daf0f823c
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/270px-BandSports2024.png" ,Band Sports BRA
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48534
 #EXTINF:-1 group-title="DOCUMENTARY" ,HISTORY TV18 HD
 http://103.84.57.155:8000/play/a09n/index.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d4460d725e25f7c643e3b3/e60edc64-fff2-4cd1-91d2-75691681cc2d/TheKitchen_Logo.png" ,In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png" ,LOVE NATURE 4K
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png" ,LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/739864/unnamed.jpg" ,LOVE STORIES TV
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
@@ -619,12 +619,12 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 https://streaming.televizor-24-tochka.ru/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://www.news.keralatv.in/media/2018/11/Safari-Television-Added-on-Sun-Direct-692x376.jpg" ,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_bbchd_23oct_landscape_thumb.jpg" ,SONY BBC EARTH HD
-http://103.84.57.155:8000/play/a09q/index.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg" ,SONY Competencias
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/218342
 #EXTINF:-1 group-title="DOCUMENTARY" ,Star Life HD
 http://103.84.57.155:8000/play/a0ce/index.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png" ,The Explorers
-https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/1616ae04-abbb-4990-8b61-c1e4b295364f/1.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://iconape.com/wp-content/files/ce/285862/svg/285862.svg" ,Bein Sports Ñ
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/36401
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC HD
 https://cdn1-freeiptv25.vercel.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC HD- IN
@@ -637,8 +637,8 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_13.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:0 group-title="ENGLISH" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png" ,Bang Bang TV
-https://streams2.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/d0ea6fe2-dfd7-492a-a56f-1b265ed8a8b7/1.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" ,ESPN 1 HD
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/219171
 #EXTINF:0 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png" ,Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" tvg-logo="https://www.wikidata.org/wiki/Q29918977#/media/File:Diva_logo.svg" ,DIVA
@@ -687,28 +687,28 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/460px-Lotus_TV_Macau_logo.jpg" ,Lotus Macau HD
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,MN+ HD
-http://103.84.57.155:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,MNX
-http://103.84.57.155:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Universal Cinema
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/185152
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,ActionMax
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48613
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,MOVIE SPHERE 2
 https://moviesphere-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,MOVIES NOW
-http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Action Movies UK
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,SyFy SD
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/19561
+#EXTINF:0 group-title="ENGLISH MOVIES" ,CINE US | FX 
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/51474
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Family UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten TV
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/1200.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" ,Romedy NOW
-http://103.84.57.155:8000/play/a035/index.m3u8
-#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png" ,SCIFI WORLD
-https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/6afae40d-4257-4310-b3d3-ff457724f76c/1.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" ,Warner TV
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/53044
+#EXTINF:0 group-title="ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" ,HBO SD NORTE
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/198760
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,SONY PIX HD
 http://103.84.57.155:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" ,STAR MOVIES SELECT HD
