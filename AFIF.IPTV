@@ -111,6 +111,10 @@ https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" ,Channel I HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https" ,Ruposhi Bangla
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https" ,SRK TV
+https://cdn.ncare.live/flixhls/flixsrktv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" ,CHANNEL S HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png" ,CHANNEL S UK
@@ -781,6 +785,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,WOW Cinema One
+https://cdn2.pishow.tv/live/140/140_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" ,SONY WAH
 http://tv.cloudcdn.me/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="HINDI MOVIES" ,Star Gold 2
