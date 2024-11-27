@@ -75,10 +75,18 @@ https://app.ncare.live/live-orgin/atnmusic.stream/live-orgin/atnmusic.stream/chu
 http://on.deflix.xyz:8880/kamrul19/kamrul1715/1341
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" ,ATN NEWS
 https://app.ncare.live/live-orgin/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://doyeltv.com/wp-content/uploads/2023/08/Doyel-TV-Logo.png" ,DOYEL TV CANADA
+https://doyel-admin.fillup.tech/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8_output_0.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-1536x865.jpg" ,VOKTA TV
+https://vokta.raytahost.com/live/voktatv/chunklist_w569362958.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" ,Atn News
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" ,ATN NEWS HD
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=3788&deviceMac=00:1A:79:6D:8A:C6
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://magicbanglatv.com/images/logo-170679715465bba8620786e.png" ,Magic Bangla TV
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg" ,EMAN TV
+https://0gradgmttgwzdecjq8y514hdiptsn4a5rp351hamqxf3zehufcfs1h7mm.wslivehls.com/pull-cdnw.anystream.uk/live/251888cb018c1000a1a47e5500000000/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b502a930268059.561ba46485761.jpg" ,Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg" ,B24C
