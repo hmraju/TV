@@ -333,8 +333,8 @@ http://172.105.123.238:18002/play/a00z
 http://172.105.123.238:18002/play/a012
 #EXTINF:-1 group-title="DD FREE DISH" ,GOLDMINES MOVIES
 http://172.105.123.238:18002/play/a01j
-#EXTINF:-1 group-title="DD FREE DISH" ,GOOD NEWS TODAY
-http://172.105.123.238:18002/play/a00e
+#EXTINF:-1 group-title="MUSIC" ,SUN MUSIC
+https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
 http://172.105.123.238:18002/play/a04j
 #EXTINF:-1 group-title="DD FREE DISH" ,Hitz HD
@@ -389,14 +389,14 @@ http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a055
 #EXTINF:-1 group-title="DD FREE DISH" ,Star Utsav Movies
 http://172.105.123.238:18002/play/a01n
-#EXTINF:-1 group-title="DD FREE DISH" ,Sun Marathi
-http://172.105.123.238:18002/play/a007
+#EXTINF:-1 group-title="MOVIES" ,ICC+
+https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,SUN Neo
 http://172.105.123.238:18002/play/a00y
 #EXTINF:-1 group-title="DD FREE DISH" ,Supreme HD
 http://172.105.123.238:18002/play/a057
-#EXTINF:-1 group-title="DD FREE DISH" ,Swarnavahini
-http://172.105.123.238:18002/play/a051
+#EXTINF:-1 group-title="MOVIES" ,Home+
+https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,THE Q
 http://172.105.123.238:18002/play/a010
 #EXTINF:-1 group-title="DD FREE DISH" ,UNIQUE TV
@@ -723,8 +723,8 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.mos.cms.futurecdn.net/ii9QoPKR5pvK4KLjenqGFk.jpg" ,RT {Russia Today}
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:0 group-title="NEWS" tvg-logo="https://news.sky.com/resources/sky-news-logo.svg?v=1" ,Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/330px-ABC_News_logo_2021.svg.png" ,abc News
+https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?pbs=b8d8baf9e7884d998ec470c6a17fee92
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1200px-TRT_World.svg.png" ,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="NEWS" ,TV5 Monde Asia
@@ -733,10 +733,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
 #EXTINF:0 group-title="OTHERS" ,Afriwood Series
 https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
-#EXTINF:0 group-title="OTHERS" ,Free TV TERROR
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_6.m3u8
-#EXTINF:0 group-title="OTHERS" ,Hamdard TV
-https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MUSIC" ,M20 Music
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:0 group-title="MUSIC" ,Q MUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:0 group-title="OTHERS" ,MBC 5 HD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
 #EXTINF:0 group-title="OTHERS" ,MBC Persia HD
@@ -745,8 +745,8 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w1935854211_b1896000.m3u8
 #EXTINF:0 group-title="OTHERS" ,Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:0 group-title="OTHERS" ,Novela Channel
-https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" ,Feva Music
+https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/dd966f2a-7f99-41f5-a39f-2bc79ff7a91b/2.m3u8
 #EXTINF:0 group-title="OTHERS" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/smc1publish/smc1tvhd_720p/chunks.m3u8
 #EXTINF:0 group-title="OTHERS" ,SUPER TV Media
@@ -761,8 +761,8 @@ https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="PAKISTAN" ,Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 group-title="PAKISTAN" ,Hope Channel India
-https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8
+#EXTINF:-1 group-title="MUSIC" ,California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/640x360_1205600/index.m3u8
 #EXTINF:0 group-title="PAKISTAN" ,Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS" ,A SPORTS HD
@@ -785,8 +785,10 @@ https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/v0-481.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 #EXTINF:0 group-title="SPORTS" ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SKY SPORTS CRICKET
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8?googlekey=84a21ad3558d85fba4c5a1a921a390a1de2fa21636c84203e4d4670fdd5c0e8f&keyhash=84a21ad3558d85fba4c5a1a921a390a1de2fa21636c84203e4d4670fdd5c0e8f
+#EXTINF:-1 group-title="DOCUMENTARY" ,FTV International
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist_960x540_2000k.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,GO2Travel TV
+https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png" ,SONY SPORTS 1HD
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png" ,SONY SPORTS 1HD
