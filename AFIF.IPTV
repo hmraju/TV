@@ -102,6 +102,8 @@ https://app.ncare.live/live-orgin/btvnational1.stream/live-orgin/btvnational1.st
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x67896" ,BTV WORLD HD
 https://app.ncare.live/live-orgin/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" ,CHANNEL 24 HD
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" ,CHANNEL 24 HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" ,CHANNEL 9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
@@ -115,6 +117,8 @@ https://app.ncare.live/live-orgin/channeleurope.stream/live-orgin/channeleurope.
 https://app.ncare.live/live-orgin/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" ,Channel I
 https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" ,Channel I FHD
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,CHANNEL I HD
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" ,CHANNEL S HD
@@ -169,12 +173,16 @@ https://app.ncare.live/live-orgin/gazibd.stream/live-orgin/gazibd.stream/chunks.
 https://app.ncare.live/live-orgin/Global-tv.stream/live-orgin/Global-tv.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" ,IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" ,INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" ,Independent TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg" ,iON TV Bangla
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" ,ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" ,MADANI TV BANGLA
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://itvusa.tv/wp-content/uploads/2024/03/logo-1.png" ,iTV USA
 https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" ,Jago News 24
@@ -369,8 +377,8 @@ http://172.105.123.238:18002/play/a01t
 http://172.105.123.238:18002/play/a00m
 #EXTINF:-1 group-title="DD FREE DISH" ,RISHTEY CINEPLEX
 http://172.105.123.238:18002/play/a015
-#EXTINF:-1 group-title="DD FREE DISH" ,RT
-http://172.105.123.238:18002/play/a02q
+#EXTINF:-1 group-title="HINDI MUSIC" ,E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,Sharddha TV
 http://172.105.123.238:18002/play/a03k
 #EXTINF:-1 group-title="DD FREE DISH" ,SHEMAROO TV
@@ -745,6 +753,14 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w1935854211_b1896000.m3u8
 #EXTINF:0 group-title="OTHERS" ,Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:0 group-title="OTHERS" ,ART TV_🇵🇹 
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:0 group-title="OTHERS" ,Canal de Oracao Mana_🇵🇹 
+https://ythls.armelin.one/channel/UCI7xBRUwWJ6LKipBkjWzfVg.m3u8
+#EXTINF:0 group-title="OTHERS" ,Famatv_🇵🇹 
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/rewind-3600.m3u8
+#EXTINF:0 group-title="OTHERS" ,K Cine 🇵🇹 
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" ,Feva Music
 https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/dd966f2a-7f99-41f5-a39f-2bc79ff7a91b/2.m3u8
 #EXTINF:0 group-title="OTHERS" ,Sharjah TV
