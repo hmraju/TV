@@ -523,8 +523,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:0 group-title="HINDI ENTERTAINMENT" ,SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,DANGAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,DANGAL2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,NAZARA
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" ,BHEJPURI CINEMA
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" ,ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" ,BOLLWDOOD PRIMR
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" tvg-logo="https://i.postimg.cc/W4RgSXxb/20240825_080440.png" ,BOLLYWOOD CLASSIC
@@ -785,6 +793,10 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/640x360_120560
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS" ,A SPORTS HD
 https://criclive.moviesflixter.com/sports/m3u8.php/asportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" ,SONY LIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,SONY LIV2
+https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png" ,Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/270px-BandSports2024.png" ,Band Sports BRA
