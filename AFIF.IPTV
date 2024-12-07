@@ -1029,3 +1029,63 @@ http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/483.ts
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/484.ts
 #EXTINF:-1 group-title="VIP SPORTS" ,||FR|| RMC SPORT NEWS HD
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/91.ts
+#EXTINF:58 group-title="SPORTS" ,Sports 18
+http://cflare.mooo.com/test/sports18.m3u8
+#EXTINF:59 group-title="SPORTS" ,Star Sports 1
+http://cflare.mooo.com/test/starsp1.m3u8
+#EXTINF:0 group-title="SPORTS" ,Star Sports 2
+http://cflare.mooo.com/test/starsp2.m3u8
+#EXTINF:0 group-title="SPORTS" ,Star Sports Select 1
+http://cflare.mooo.com/test/starspsl1.m3u8
+#EXTINF:0 group-title="SPORTS" ,Star Sports Select 2
+http://cflare.mooo.com/test/starspsl2.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 1
+http://cflare.mooo.com/test/sonysp1.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 2
+http://cflare.mooo.com/test/sonysp2.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 3
+http://cflare.mooo.com/test/sonysp3.m3u8
+#EXTINF:0 group-title="SPORTS" ,Sony Sports 5
+http://cflare.mooo.com/test/sonysp5.m3u8
+#EXTINF:0 group-title="SPORTS" ,Eurosports
+http://cflare.mooo.com/test/eurosports.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,Star Jalsha
+http://cflare.mooo.com/test/starjalsha.m3u8
+#EXTINF:0 group-title="INDIAN BANGLA" ,Colors Bangla
+http://cflare.mooo.com/test/colorsbangla.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,Colors
+http://cflare.mooo.com/test/colors.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,Zee TV
+http://cflare.mooo.com/test/zeetv.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,Zee Cinema
+http://cflare.mooo.com/test/zeecinema.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,And TV
+http://cflare.mooo.com/test/andtv.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,And Pictures
+http://cflare.mooo.com/test/andpictures.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,Set HD
+http://cflare.mooo.com/test/sethd.m3u8
+#EXTINF:0 group-title="HINDI ENTERTAINMENT" ,Star Plus
+http://cflare.mooo.com/test/starplus.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,Star Gold
+http://cflare.mooo.com/test/stargold.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,Sony Max
+http://cflare.mooo.com/test/sonymax.m3u8
+#EXTINF:0 group-title="KIDS" ,Nick HD+
+http://cflare.mooo.com/test/nickhd.m3u8
+#EXTINF:0 group-title="KIDS" ,Nick
+http://cflare.mooo.com/test/nick.m3u8
+#EXTINF:0 group-title="KIDS" ,Nick jr
+http://cflare.mooo.com/test/nickjr.m3u8
+#EXTINF:0 group-title="KIDS" ,Hungama
+http://cflare.mooo.com/test/hungama.m3u8
+#EXTINF:0 group-title="KIDS" ,Discovery Kids
+http://cflare.mooo.com/test/dk.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Discovery
+http://cflare.mooo.com/test/discovery.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Discovery Science
+http://cflare.mooo.com/test/science.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,National Geographic
+http://cflare.mooo.com/test/natgeo.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,National Geographic Wild
+http://cflare.mooo.com/test/natgeowild.m3u8
