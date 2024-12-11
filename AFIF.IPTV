@@ -293,6 +293,13 @@ https://app.ncare.live/live-orgin/musicbangla.stream/live-orgin/musicbangla.stre
 https://app.ncare.live/live-orgin/cumilla24bd.stream/live-orgin/cumilla24bd.stream/chunks.m3u8
 #EXTINF:-1 group-title="OTHERS" ,DIM
 https://app.ncare.live/live-orgin/dimtv.stream/live-orgin/dimtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES" tvg-logo="", South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png",And Pictures HD
+https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1 group-title="DD FREE DISH" ,B4U BHOJPURI
 http://172.105.123.238:18002/play/a00c
 #EXTINF:-1 group-title="DD FREE DISH" ,B4U KADAK
