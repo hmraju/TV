@@ -291,6 +291,8 @@ https://vokta.raytahost.com/live/voktatv/chunklist_w569362958.m3u8
 https://app.ncare.live/live-orgin/musicbangla.stream/live-orgin/musicbangla.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" ,Cumilla 24
 https://app.ncare.live/live-orgin/cumilla24bd.stream/live-orgin/cumilla24bd.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/ch52.jpg" ,Channel 52 USA
+https://app.ncare.live/live-orgin/channel25usa.stream/live-orgin/channel25usa.stream/chunks.m3u8
 #EXTINF:-1 group-title="OTHERS" ,DIM
 https://app.ncare.live/live-orgin/dimtv.stream/live-orgin/dimtv.stream/chunks.m3u8
 
