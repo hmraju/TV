@@ -867,10 +867,6 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" ,SKY SPORTS CRICKET
 https://criclive.moviesflixter.com/sports/m3u8.php/skyscric.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SONY LIV
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 group-title="SPORTS" ,SONY LIV2
-https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png" ,SONY SPORTS 1HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png" ,SONY SPORTS 1HD
