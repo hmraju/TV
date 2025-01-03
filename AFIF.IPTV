@@ -1083,3 +1083,83 @@ http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/484.ts
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/91.ts
 #EXTINF:-1 group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡" tvg-id="<built-in function id>" tvg-name="Maasranga" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES" ,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="OTHERS" ,MBC
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:0 group-title="KIDS" ,MBC 3 KSA
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 group-title="HINDI MOVIES" ,MBC Bollywood HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 group-title="OTHERS" ,MBC Plus Drama HD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 group-title="MOVIES" ,Afghan Nobel Movies
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,FilmRise Free Movies (Redbox)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,MovieBox
+https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Rakuten Top Movies UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:0 group-title="OTHERS" ,Abu Dhabi Aloula
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:0 group-title="OTHERS" ,Abu Dhabi Emirates
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:0 group-title="OTHERS" ,AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:0 group-title="ISLAMIC" ,Al-quran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:0 group-title="ENGLISH" ,MTV AVA
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENGLISH" ,BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:0 group-title="ENGLISH" ,BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:0 group-title="MOVIES" ,Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0 group-title="OTHERS" ,CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0 group-title="MOVIES" ,COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:0 group-title="KIDS" ,Codigo TV
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Crave 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Crave 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,Crave 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
