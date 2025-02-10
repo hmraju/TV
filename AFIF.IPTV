@@ -627,6 +627,10 @@ https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:0 group-title="ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" ,PeaceTvBangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" ,PeaceTv Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" ,PeaceTv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="ISLAMIC" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2023/12/Salaam-TV-.jpg" ,Salaam TV
 https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" ,Zainabia Channel
