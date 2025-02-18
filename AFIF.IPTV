@@ -351,6 +351,10 @@ https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
 #EXTINF:-1 group-title="4. BANGLA IPTV" tvg-logo="https" ,SRK TV
 https://cdn.ncare.live/flixhls/flixsrktv.stream/chunks.m3u8
+#EXTINF:-1 group-title="4. BANGLA IPTV" tvg-logo="https" ,US-BD Journal 24TV
+http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="4. BANGLA IPTV" tvg-logo="https" ,K TV
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="4. BANGLA IPTV" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" ,Time Televison
 https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="4. BANGLA IPTV" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-1536x865.jpg" ,VOKTA TV
