@@ -1912,4 +1912,47 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:0 group-title="SPORTS" ,TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+#EXTINF:20,La 1
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:0,La 2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
+#EXTINF:20,24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:0,tdp
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
+#EXTINF:20,clan
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:0,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:0,La Otra
+https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
+#EXTINF:0,Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+#EXTINF:0,La 7 CYLTV
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
+#EXTINF:0,La 8 León
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
+#EXTINF:30,TelevisionCanaria - TELEVISIÓN CANARIA  https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744747993/ei/eWn-Z7LAG8qJvdIPp-nBmQQ/ip/2a0c%3A5a81%3A5206%3A7100%3Ac101%3A1de7%3Af5%3A51f/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442275/txs/51442271%2C51442272%2C51442273%2C51442274%2C51442275/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMxbeZohhrfmogdtBXj78ybN4cPXWScWggJSr3gWo8XzP7GiWkUiAWHP_ahrsrlNWel7VV-TZwB/spc/_S3wKra9MnBTKv7K0JEfvM_9j_jP91YfL-NoRwZAjHBues-PfqOSNr4Lq33QwhYzcRUTa1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKfq8t7PYegods7ztcxQnkH0iobKor9E_HEVkwavXpkwAiBafez_wtTzqLWdI1sLNufVnqAjBL0OWW43PwFUh2O_Pw%3D%3D/file/index.m3u8
+#EXTINF:30,IB3 - Emissió en directe d'IB3 TELEVISIÓ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744748006/ei/hmn-Z4jsNvn7xN8P8rf9mAo/ip/2a0c%3A5a81%3A5206%3A7100%3Ac101%3A1de7%3Af5%3A51f/id/pc-Y4CUrDGQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOqLqnpjSuEH8lwhf3g1sRvwaEneunuln3n_QNuNiSceRl-uFRTcch3FaebyIdLsjpOGAlsa7GQ/spc/_S3wKjbCb14PJjqy5HxJJ20CYM96yJLCoY2XpGfWioCOAK8z-K60fmnGmYYUq4ot9YcvHz4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGKIH_q1HckYSfKtzJCYqYOKhcciBcfB_nUb41XjFliICIG3w2471Vz4UQQKv6I7ZANiduCB3g2tFWsDqb0p6nN3D/file/index.m3u8
+#EXTINF:0,Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+#EXTINF:8234,Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:60,ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+#EXTINF:60,ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+#EXTINF:0,TV3 Cat
+https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
+#EXTINF:0,3/24
+https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:0,Bon Dia
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
+#EXTINF:0,Super3
+https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/bitrate_3.m3u8
+#EXTINF:0,À Punt TV
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+#EXTINF:0,7 Región de Murcia
+https://rtv-murcia-live.globalmest.com/stream/abr/first_1080.m3u8
 
