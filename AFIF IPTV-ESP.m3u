@@ -1955,4 +1955,416 @@ https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/bitrate_3.m3u8
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 #EXTINF:0,7 Región de Murcia
 https://rtv-murcia-live.globalmest.com/stream/abr/first_1080.m3u8
+#EXTINF:20 group-title="SPANISH" ,La 1
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:20 group-title="SPANISH" ,24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:20 group-title="SPANISH" ,clan
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:8234 group-title="SPANISH" ,Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:60 group-title="SPANISH" ,ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+#EXTINF:60 group-title="SPANISH" ,ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+#EXTINF:7200 group-title="SPANISH" ,3/24 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:31 group-title="SPANISH" ,7 Televisión Región de Murcia (1080p)
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:60 group-title="SPANISH" ,8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:24 group-title="SPANISH" ,8madrid TV (720p)
+http://185.189.225.150:85/8madrid/index.m3u8
+#EXTINF:7200 group-title="SPANISH" ,24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:1200 group-title="SPANISH" ,101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+#EXTINF:45 group-title="SPANISH" ,Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:24 group-title="SPANISH" ,Afortunadas TV (720p)
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:30 group-title="SPANISH" ,Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Alcarria TV (576p) [Not 24/7]
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:24 group-title="SPANISH" ,AMC (Spain) (720p)
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:24 group-title="SPANISH" ,Antena 3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:70 group-title="SPANISH" ,Aqui No Hay Quien Viva (720p)
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:8231 group-title="SPANISH" ,Aragón TV (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:70 group-title="SPANISH" ,Atresplayer Clasicos (1080p)
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:70 group-title="SPANISH" ,Atresplayer Comedia (1080p)
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:74 group-title="SPANISH" ,Atresplayer Inquietos (1080p)
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:70 group-title="SPANISH" ,Atresplayer Multicine (1080p)
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:24 group-title="SPANISH" ,GPU1-SD
+http://185.189.225.150:85/BabyTV/index.m3u8
+#EXTINF:7194 group-title="SPANISH" ,Betevé (1080p)
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:7194 group-title="SPANISH" ,Betevé (1080p)
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:24 group-title="SPANISH" ,Boing
+http://185.189.225.150:85/boing/index.m3u8
+#EXTINF:24 group-title="SPANISH" ,BOM CINE
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:7200 group-title="SPANISH" ,Bon Dia TV (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:36 group-title="SPANISH" ,Burriana TV (720p)
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:23 group-title="SPANISH" ,Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 1 Mar Menor-Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 3 Biar (480p) [Not 24/7]
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 4 Mallorca (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas (720p)
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas Canarias (720p)
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas Canarias (720p)
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas Catalunya (720p)
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 24 Horas Catalunya (720p)
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 56 (576p) [Not 24/7]
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal 2000 La Solana (720p) [Not 24/7]
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Coín (1080p)
+https://canalcoin.garjim.es/hls/directo.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Diocesano (576p)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Doñana (720p) [Not 24/7]
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Extremadura (576p) [Not 24/7]
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+#EXTINF:0 group-title="SPANISH" ,Canal Málaga RTV (720p) [Not 24/7]
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal San Roque (1080p) [Not 24/7]
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Sierra de Cádiz (1080p) [Not 24/7]
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Canal Sur Andalucía 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 1 (1080p) [Not 24/7]
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 1 (1080p) [Not 24/7]
+https://directes-tv-es.3catdirectes.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 2 (1080p) [Not 24/7]
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 2 (1080p) [Not 24/7]
+https://directes-tv-es.3catdirectes.cat/live-origin/oca2-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 3 (1080p) [Not 24/7]
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,CCMA Exclusiu 3 (1080p) [Not 24/7]
+https://directes-tv-es.3catdirectes.cat/live-origin/oca3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:0 group-title="SPANISH" ,Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,Clan TVE (1080p) [Geo-blocked]
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:0 group-title="SPANISH" ,Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Córdoba TV [Not 24/7]
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Cristiana TV (576p)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Cuatro (1080p)
+http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Diez TV Las Villas (1080p)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Diez TV Úbeda (1080p)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,El 33 SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,El 33 SX3 (1080p) [Geo-blocked]
+https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,El Club de la Comedia (1080p)
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:0 group-title="SPANISH" ,El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 group-title="SPANISH" ,El Hormiguero (1080p)
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:0 group-title="SPANISH" ,EL PAÍS TV (1080p)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0 group-title="SPANISH" ,El Toro TV (720p)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Elche 7 TV (576p)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:0 group-title="SPANISH" ,Empordà TV (1080p)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:0 group-title="SPANISH" ,Equipo de Investigacion (1080p)
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:0 group-title="SPANISH" ,Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Esport3 (1080p) [Geo-blocked]
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Este Canal TV (576p)
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Estepona Televisión (720p)
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,ETB 1 (720p)
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,ETB 2 (720p)
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,ETB Basque (480p)
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Factoria de Ficcion (1080p)
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Fibwi (1080p) [Not 24/7]
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+#EXTINF:0 group-title="SPANISH" ,Fisica o Quimica (1080p)
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:0 group-title="SPANISH" ,Fitel TV (1080p)
+https://tv.mywifisocial.es/live.m3u8
+#EXTINF:0 group-title="SPANISH" ,Flooxer (1080p)
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:0 group-title="SPANISH" ,Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:0 group-title="SPANISH" ,Goiena Eus (720p)
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:0 group-title="SPANISH" ,Guada TV (720p) [Not 24/7]
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:0 group-title="SPANISH" ,Hamaika Telebista (1080p)
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Hit Tv
+http://185.189.225.149/HitTV/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Intercomarcal TV (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:0 group-title="SPANISH" ,Kidz Atresmedia (720p) [Geo-blocked]
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 (720p) [Not 24/7]
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 Canarias (720p) [Not 24/7]
+https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 1 Catalunya (720p) [Not 24/7]
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 (1080p)
+http://185.189.225.150:85/TV2/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 (1080p) [Not 24/7]
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 Canarias (720p) [Not 24/7]
+https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 2 Catalunya (720p) [Not 24/7]
+https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
+#EXTINF:0 group-title="SPANISH" ,La 8 Mediterráneo (1080p) [Not 24/7]
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:0 group-title="SPANISH" ,La Sexta (720p)
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Lancelot TV (404p)
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,LaOtra (720p)
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Logos TV (1080p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Logos TV Estudio (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Logos TV Kids (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Logos TV Salud (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,M95 Televisión Marbella (1080p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Maestrat TV (1080p)
+https://stream.maestrat.tv/hls/stream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Mega (Spain) (576p)
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:0 group-title="SPANISH" ,Mírame TV (360p) [Not 24/7]
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:0 group-title="SPANISH" ,NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0 group-title="SPANISH" ,Neox (576p)
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Nickelodeon (Spain) (576p)
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Noroeste TV (1080p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,NORTEvisión (1080p)
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:0 group-title="SPANISH" ,Nova (Spain) (576p)
+http://185.189.225.150:85/nova/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Onda Algeciras TV (576p)
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Onda Cádiz 24h (720p)
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Onda Madrid (720p)
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Paramount Network (Spain) (720p)
+http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Pequeradio (720p) [Not 24/7]
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0 group-title="SPANISH" ,Piera TV (720p) [Not 24/7]
+http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:0 group-title="SPANISH" ,POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:0 group-title="SPANISH" ,Popular TV Cantabria (576p) [Not 24/7]
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:0 group-title="SPANISH" ,Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Radio Televisión Melilla (720p) [Not 24/7]
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Radio Televisión Mogán (1080p)
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Rakuten Viki (1080p)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Rakuten Viki (720p)
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
+#EXTINF:0 group-title="SPANISH" ,Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Ribera TV (576p)
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:0 group-title="SPANISH" ,Rioja Televisión (360p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,RTVCE (1080p)
+https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Sevilla FC TV (360p) [Not 24/7]
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:0 group-title="SPANISH" ,Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:0 group-title="SPANISH" ,Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 group-title="SPANISH" ,STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,SX3 (1080p) [Geo-blocked]
+https://directes-tv-es.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Tarotéame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,TarotVisión (576p)
+https://stream.andalhost.com/hls/tarotvision.m3u8
+#EXTINF:0 group-title="SPANISH" ,TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:0 group-title="SPANISH" ,Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:0 group-title="SPANISH" ,Tele Safor (720p) [Not 24/7]
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:0 group-title="SPANISH" ,Telecinco (720p)
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Teledeporte (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Telemadrid (720p)
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Telemotril (720p) [Not 24/7]
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:0 group-title="SPANISH" ,Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Tuya La Janda Televisión (1080p)
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV3 (1080p)
+http://185.189.225.150:85/tv3/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV3CAT (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV Almassora (720p)
+https://live.fullsport.es/hls/tvalmassora.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV Artequatre (576p)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:0 group-title="SPANISH" ,Tv Famypanc HD (1080p)
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:0 group-title="SPANISH" ,TV Ferrol (576p)
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVE Internacional America (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVE Internacional Asia-Oceania [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVM Córdoba (1080p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,TVReus (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Une Vinalopó (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:0 group-title="SPANISH" ,Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:0 group-title="SPANISH" ,Verbena TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:0 group-title="SPANISH" ,XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:0 group-title="SPANISH" ,XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:0 group-title="SPANISH" ,XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:0 group-title="SPANISH" ,Atreseries (480p)
+http://181.78.109.48:8000/play/a00l/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Antena 3 (480p)
+http://181.78.109.48:8000/play/a00f/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,AXN (1080p)
+http://181.78.109.48:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,AXN (480p)
+http://181.78.109.48:8000/play/a023/index.m3u8
+#EXTINF:0 group-title="SPANISH" ,Nickelodeon (480p)
+http://181.78.109.48:8000/play/a05a/index.m3u8
 
