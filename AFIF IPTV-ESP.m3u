@@ -735,6 +735,12 @@ https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:0 group-title="MOVIES" ,Hallmark Drama
 http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,mbc 2
+https://m3u.iranvids.com/mbc02/output.m3u8
+#EXTINF:0 group-title="ENGLISH MOVIES" ,mbc Action
+https://m3u.iranvids.com/mbc-action/output.m3u8
+#EXTINF:0 group-title="MOVIES" ,Rai Movies
+https://m3u.iranvids.com/rai-movie/output.m3u8
 #EXTINF:0 group-title="MOVIES" ,Hallmark Movies & More
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:0 group-title="MOVIES" ,Hallmark Movies Mysteries East
@@ -2120,3 +2126,4 @@ http://smartbp.xyz:8080/Khushi10606/nhj8DNa/8909
 http://smartbp.xyz:8080/Khushi10606/nhj8DNa/1558
 
 #EXTINF:0 tvg-id="ext" group-title="| English| Hindi Li
+
