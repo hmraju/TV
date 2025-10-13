@@ -377,12 +377,16 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 group-title="5. INDIAN BANGLA" tvg-logo="https://i.postimg.cc/SxQbpTd2/images-8.png" ,TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="5. INDIAN BANGLA" ,ZB MUSIC
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="5. INDIAN BANGLA" ,Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,Tribe TV
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:0 group-title="5. INDIAN BANGLA" ,ZB CINEMA
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="5. INDIAN BANGLA" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" ,TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,TV9 BANGLA
@@ -509,6 +513,18 @@ https://sablive-ddpb.akamaized.net/mastii/mastii_poc_800k.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:0 group-title="8. HINDI MUSIC" ,ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:0 group-title="8. HINDI OTHERS" ,Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:0 group-title="8. HINDI OTHERS" ,SUN TV
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index_audio-1-und-128000.m3u8
+#EXTINF:0 group-title="8. HINDI MUSIC" ,PTC MUSIC
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:0 group-title="8. HINDI MUSIC" ,PUNJABI HITS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/eee32d24-0811-46e5-89fa-7c41f3623f5c/0.m3u8
+#EXTINF:0 group-title="8. HINDI MUSIC" ,PTC PUNJABI GOLD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:0 group-title="8. HINDI MUSIC" ,PTC PUNJABI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 group-title="8. HINDI MUSIC" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" ,YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 group-title="8. HINDI MUSIC" ,YRF Music HD
@@ -557,6 +573,16 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,National Geography HD
+https://fl7.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,National Geography Wield HD
+https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Love Nature HD
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Love Nature HD Espanol
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/480p-spa/index.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,Nature Time France
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png" ,LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png" ,LOVE NATURE 4K
@@ -601,6 +627,8 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="ENGLISH" ,Hi Dost
+https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:0 group-title="ENGLISH" ,ENGLISH TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Firstlight
@@ -687,6 +715,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="KIDS" ,Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,ZB CARTOON
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="KIDS" tvg-logo="https://i.ibb.co/0D563M3/IMG-20240129-070827.png" ,𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:0 group-title="MOVIES" ,Afghan Nobel Movies
@@ -841,6 +871,8 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
 #EXTINF:0 group-title="PAKISTAN" ,Geo Kahani
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:0 group-title="PAKISTAN" ,HUM
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV2/chunks_dvr.m3u8
 #EXTINF:-1 group-title="PAKISTAN" ,Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 group-title="PAKISTAN" tvg-id="GraceNetwork.pk" tvg-logo="https://i.imgur.com/QSaZPJ4.png" ,Grace Network (720p)
@@ -1295,3 +1327,4 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
