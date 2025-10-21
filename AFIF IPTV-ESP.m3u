@@ -636,7 +636,7 @@ https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH" ,Masala  Entertainment
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,& FLIX
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/master.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" ,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,Activa TV
@@ -1327,4 +1327,5 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 
