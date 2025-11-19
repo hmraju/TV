@@ -1328,4 +1328,76 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS" ,ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
+#EXTINF:0 group-title="MOVIES" ,ONE HD
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:0 group-title="SPORTS" ,PSN 1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:0 group-title="SPORTS" ,PSN2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:0 group-title="SPORTS" ,PSN4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:0 group-title="SPORTS" ,PSN5
+http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+#EXTINF:0 group-title="SPORTS" ,PRO SPORT
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="SPORTS" ,QAZ SPORT
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:0 group-title="MOVIES" ,Radio Turrialba TV Sports
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+#EXTINF:0 group-title="SPORTS" ,Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,RTSH SPORT
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,SONY YAY
+http://87.255.35.150:18285
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 3
+http://87.255.35.150:18848
+#EXTINF:0 group-title="HINDI" ,Z TV HD
+http://87.255.35.150:18849
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 1 HD
+http://87.255.35.150:18844
+#EXTINF:0 group-title="HINDI" ,ZEE TV HD
+http://87.255.35.150:18843
+#EXTINF:0 group-title="HINDI" ,ZOOM
+http://87.255.35.150:18842
+#EXTINF:0 group-title="HINDI" ,SONY MAX 2
+http://87.255.35.150:18841
+#EXTINF:0 group-title="HINDI" ,COLORS INFINITY HD
+http://87.255.35.150:18838
+#EXTINF:0 group-title="HINDI" ,STAR PLUS HD
+http://87.255.35.150:18850
+#EXTINF:0 group-title="HINDI" ,SONY MAX HD
+http://87.255.35.150:18851
+#EXTINF:0 group-title="HINDI" ,STAR PRAVA
+http://87.255.35.150:18853
+#EXTINF:0 group-title="HINDI" ,STAR GOLD HD
+http://87.255.35.150:18859
+#EXTINF:0 group-title="HINDI" ,ZEE BOLLYWOOD
+http://87.255.35.150:18861
+#EXTINF:0 group-title="KIDS" ,POGO
+http://87.255.35.150:18862
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 1 HD
+http://87.255.35.150:18863
+#EXTINF:0 group-title="HINDI" ,PTC GOLD
+http://87.255.35.150:18865
+#EXTINF:0 group-title="SPORTS" ,SONY SPORTS 5
+http://87.255.35.150:18879
+#EXTINF:0 group-title="HINDI" ,STAR PLUS HD
+http://87.255.35.150:18880
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 1HD
+http://87.255.35.150:18881
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 2HD HINDI
+http://87.255.35.150:18882
+#EXTINF:0 group-title="HINDI" ,COLORS HINDI
+http://87.255.35.150:18886
+#EXTINF:0 group-title="HINDI" ,SONY PAL
+http://87.255.35.150:18887
+#EXTINF:0 group-title="HINDI" ,COLORS HD
+http://87.255.35.150:18890
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 2 HD
+http://87.255.35.150:18892
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS SELECT HD 1
+http://87.255.35.150:18893
+
+
 
